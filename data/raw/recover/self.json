@@ -1,0 +1,3068 @@
+[
+  {
+    "handle": "@aevr",
+    "homepage": "https://ui.aevr.space",
+    "terminology": null,
+    "status": "not_found",
+    "method": null,
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": ""
+  },
+  {
+    "handle": "@ai-blocks",
+    "homepage": "https://webllm.org/blocks",
+    "terminology": "Blocks",
+    "status": "found",
+    "method": "sitemap-slugs",
+    "indexUrl": null,
+    "itemCount": 108,
+    "items": [
+      {
+        "name": "alt-text-generator",
+        "type": "registry:block",
+        "title": "Alt Text Generator",
+        "description": "Auto-generate image descriptions for accessibility"
+      },
+      {
+        "name": "api-response-designer",
+        "type": "registry:block",
+        "title": "API Response Designer",
+        "description": "Generate realistic API responses for testing and docs"
+      },
+      {
+        "name": "audio-summary",
+        "type": "registry:block",
+        "title": "Audio Summary",
+        "description": "Get a quick audio TLDR of any article - perfect for busy readers"
+      },
+      {
+        "name": "audio-version",
+        "type": "registry:block",
+        "title": "Audio Version",
+        "description": "Listen to any article with browser text-to-speech - no API costs"
+      },
+      {
+        "name": "autocomplete",
+        "type": "registry:block",
+        "title": "Smart Autocomplete",
+        "description": "AI-powered search autocomplete with context-aware suggestions"
+      },
+      {
+        "name": "autocomplete-context",
+        "type": "registry:block",
+        "title": "Context-Aware Autocomplete",
+        "description": "Autocomplete that understands user context and history"
+      },
+      {
+        "name": "availability-badge",
+        "type": "registry:block",
+        "title": "Availability Badge",
+        "description": "Simple status pills and badges showing WebLLM availability state"
+      },
+      {
+        "name": "availability-banner",
+        "type": "registry:block",
+        "title": "Availability Banner",
+        "description": "Contextual banners with setup guidance and action CTAs based on WebLLM status"
+      },
+      {
+        "name": "availability-behavior",
+        "type": "registry:block",
+        "title": "Availability Behavior",
+        "description": "Interactive demo showing show/hide/fallback patterns for unavailable AI features"
+      },
+      {
+        "name": "bedtime-story",
+        "type": "registry:block",
+        "title": "Bedtime Story Generator",
+        "description": "Generate and narrate soothing bedtime stories for children"
+      },
+      {
+        "name": "bio-writer",
+        "type": "registry:block",
+        "title": "Bio Writer",
+        "description": "Generate professional bios in multiple tones and lengths"
+      },
+      {
+        "name": "brainstorm-partner",
+        "type": "registry:block",
+        "title": "Brainstorm Partner",
+        "description": "Collaborative idea generation with AI building on your thoughts"
+      },
+      {
+        "name": "capability-gate",
+        "type": "registry:block",
+        "title": "Capability Gate",
+        "description": "Feature cards showing available AI capabilities based on configured providers"
+      },
+      {
+        "name": "character-voice",
+        "type": "registry:block",
+        "title": "Character Voice Writer",
+        "description": "Write in the voice of famous characters or personas"
+      },
+      {
+        "name": "character-voices",
+        "type": "registry:block",
+        "title": "Character Voices",
+        "description": "Hear content in different character voices - news anchor, storyteller, professor"
+      },
+      {
+        "name": "chat-personas",
+        "type": "registry:block",
+        "title": "Chat Personas",
+        "description": "Switch between AI personalities: pirate, Shakespeare, chef, detective"
+      },
+      {
+        "name": "chat-with-context",
+        "type": "registry:block",
+        "title": "Contextual Chat",
+        "description": "Chat that references page content - ask questions about any article"
+      },
+      {
+        "name": "chat-with-tools",
+        "type": "registry:block",
+        "title": "Chat with Tools",
+        "description": "AI assistant that can call functions - calculator, time, weather"
+      },
+      {
+        "name": "churn-detector",
+        "type": "registry:block",
+        "title": "Churn Signal Detector",
+        "description": "Identify customers at risk of churning"
+      },
+      {
+        "name": "cloud-login-button",
+        "type": "registry:block",
+        "title": "Cloud Login Button",
+        "description": "Simple login button with green glowing status dot and disconnect dropdown"
+      },
+      {
+        "name": "code-converter",
+        "type": "registry:block",
+        "title": "Code Converter",
+        "description": "Convert code between programming languages"
+      },
+      {
+        "name": "code-roaster",
+        "type": "registry:block",
+        "title": "Code Roaster",
+        "description": "Get your code humorously critiqued with constructive feedback"
+      },
+      {
+        "name": "commit-message-writer",
+        "type": "registry:block",
+        "title": "Commit Message Writer",
+        "description": "Generate meaningful commit messages from your changes"
+      },
+      {
+        "name": "concept-checker",
+        "type": "registry:block",
+        "title": "Concept Checker",
+        "description": "Explain it back - AI evaluates your understanding"
+      },
+      {
+        "name": "contact-form",
+        "type": "registry:block",
+        "title": "Smart Contact Form",
+        "description": "AI auto-categorizes and prioritizes support inquiries"
+      },
+      {
+        "name": "content-classifier",
+        "type": "registry:block",
+        "title": "Content Classifier",
+        "description": "Categorize content by type, tone, and extract metadata"
+      },
+      {
+        "name": "content-warning",
+        "type": "registry:block",
+        "title": "Content Warning Generator",
+        "description": "Automatically detect and suggest content warnings"
+      },
+      {
+        "name": "cron-builder",
+        "type": "registry:block",
+        "title": "Cron Builder",
+        "description": "Generate and explain cron expressions in plain English"
+      },
+      {
+        "name": "debate-partner",
+        "type": "registry:block",
+        "title": "Debate Partner",
+        "description": "Engage in structured debates on any topic"
+      },
+      {
+        "name": "decision-helper",
+        "type": "registry:block",
+        "title": "Decision Helper",
+        "description": "Structured decision-making with pros, cons, and recommendations"
+      },
+      {
+        "name": "dyslexia-mode",
+        "type": "registry:block",
+        "title": "Dyslexia-Friendly",
+        "description": "Adjustable text formatting for easier reading"
+      },
+      {
+        "name": "email-composer",
+        "type": "registry:block",
+        "title": "Email Composer",
+        "description": "Draft professional emails from bullet points"
+      },
+      {
+        "name": "error-explainer",
+        "type": "registry:block",
+        "title": "Error Explainer",
+        "description": "Get friendly explanations for cryptic error messages"
+      },
+      {
+        "name": "excuse-generator",
+        "type": "registry:block",
+        "title": "Excuse Generator",
+        "description": "Generate creative excuses for various situations"
+      },
+      {
+        "name": "explain-this",
+        "type": "registry:block",
+        "title": "Explain This",
+        "description": "Select any text to get an inline explanation"
+      },
+      {
+        "name": "explanation-level",
+        "type": "registry:block",
+        "title": "Explanation Level Slider",
+        "description": "Get explanations at any complexity level from ELI5 to PhD"
+      },
+      {
+        "name": "flashcard-generator",
+        "type": "registry:block",
+        "title": "Flashcard Generator",
+        "description": "Generate study flashcards from any educational content"
+      },
+      {
+        "name": "form-autofill",
+        "type": "registry:block",
+        "title": "Form Autofill",
+        "description": "Natural language to form fields - describe yourself, form fills itself"
+      },
+      {
+        "name": "form-parser",
+        "type": "registry:block",
+        "title": "Form Parser",
+        "description": "Parse unstructured text into structured form fields"
+      },
+      {
+        "name": "fortune-cookie",
+        "type": "registry:block",
+        "title": "Fortune Cookie",
+        "description": "Generate wisdom and fortunes in fortune cookie style"
+      },
+      {
+        "name": "gift-recommender",
+        "type": "registry:block",
+        "title": "Gift Recommender",
+        "description": "Personalized gift ideas based on recipient description"
+      },
+      {
+        "name": "git-helper",
+        "type": "registry:block",
+        "title": "Git Helper",
+        "description": "Get git commands from natural language descriptions"
+      },
+      {
+        "name": "glossary-hover",
+        "type": "registry:block",
+        "title": "Glossary on Hover",
+        "description": "Hover over technical terms for instant definitions"
+      },
+      {
+        "name": "headline-generator",
+        "type": "registry:block",
+        "title": "Headline Generator",
+        "description": "Generate multiple headline options in different styles"
+      },
+      {
+        "name": "horoscope-generator",
+        "type": "registry:block",
+        "title": "Horoscope Generator",
+        "description": "Generate personalized daily horoscopes"
+      },
+      {
+        "name": "image-editor",
+        "type": "registry:block",
+        "title": "AI Image Editor",
+        "description": "Edit images with natural language instructions"
+      },
+      {
+        "name": "image-variations",
+        "type": "registry:block",
+        "title": "Image Variations",
+        "description": "Generate style variations of any image - oil painting, minimalist, vintage"
+      },
+      {
+        "name": "input-validation",
+        "type": "registry:block",
+        "title": "Smart Validation",
+        "description": "AI-powered input validation with helpful suggestions"
+      },
+      {
+        "name": "intent-classifier",
+        "type": "registry:block",
+        "title": "Intent Classifier Input",
+        "description": "Detect user intent from natural language input"
+      },
+      {
+        "name": "interview-simulator",
+        "type": "registry:block",
+        "title": "Interview Simulator",
+        "description": "Practice job interviews with AI interviewers"
+      },
+      {
+        "name": "inventory-narrator",
+        "type": "registry:block",
+        "title": "Inventory Status Narrator",
+        "description": "Generate friendly inventory status messages"
+      },
+      {
+        "name": "json-generator",
+        "type": "registry:block",
+        "title": "JSON Generator",
+        "description": "Generate structured JSON from natural language descriptions"
+      },
+      {
+        "name": "json-type-converter",
+        "type": "registry:block",
+        "title": "JSON Type Converter",
+        "description": "Convert JSON to TypeScript, Zod, or other type definitions"
+      },
+      {
+        "name": "language-partner",
+        "type": "registry:block",
+        "title": "Language Partner",
+        "description": "Practice conversations in any language with corrections"
+      },
+      {
+        "name": "magic-fill-form",
+        "type": "registry:block",
+        "title": "Magic Fill Form",
+        "description": "Auto-fill forms from pasted text or documents"
+      },
+      {
+        "name": "name-generator",
+        "type": "registry:block",
+        "title": "Name Generator",
+        "description": "Generate creative names for products, companies, or characters"
+      },
+      {
+        "name": "negotiation-simulator",
+        "type": "registry:block",
+        "title": "Negotiation Simulator",
+        "description": "Practice negotiation skills with AI opponents"
+      },
+      {
+        "name": "oauth-domain-auth",
+        "type": "registry:block",
+        "title": "OAuth Domain Authorization",
+        "description": "Complete OAuth flow for connecting user cloud accounts with domain-based authorization"
+      },
+      {
+        "name": "pet-portrait",
+        "type": "registry:block",
+        "title": "Pet Portrait Generator",
+        "description": "Transform pet photos into artistic portraits - Renaissance, Pop Art, Watercolor, Cyberpunk"
+      },
+      {
+        "name": "pirate-article-reader",
+        "type": "registry:block",
+        "title": "Pirate Article Reader",
+        "description": "Listen to any article narrated by a salty sea captain - Arr!"
+      },
+      {
+        "name": "podcast-generator",
+        "type": "registry:block",
+        "title": "Podcast Generator",
+        "description": "Transform any topic into a podcast segment with AI host"
+      },
+      {
+        "name": "practice-problems",
+        "type": "registry:block",
+        "title": "Practice Problems",
+        "description": "Infinite multiple choice questions from any content"
+      },
+      {
+        "name": "pricing-explainer",
+        "type": "registry:block",
+        "title": "Pricing Explainer",
+        "description": "Explain if a price is fair with market context"
+      },
+      {
+        "name": "product-compare",
+        "type": "registry:block",
+        "title": "Product Comparison",
+        "description": "Side-by-side comparison with criteria analysis and winner"
+      },
+      {
+        "name": "product-feedback-panel",
+        "type": "registry:block",
+        "title": "Product Feedback Panel",
+        "description": "Simulate diverse user personas reviewing your product"
+      },
+      {
+        "name": "product-search-nl",
+        "type": "registry:block",
+        "title": "Natural Language Search",
+        "description": "Search products by describing what you want in plain English"
+      },
+      {
+        "name": "quick-actions",
+        "type": "registry:block",
+        "title": "Quick Actions",
+        "description": "Pre-defined prompt buttons for common AI tasks"
+      },
+      {
+        "name": "reading-level",
+        "type": "registry:block",
+        "title": "Reading Level Adjuster",
+        "description": "Toggle reading complexity: kid, teen, adult, expert"
+      },
+      {
+        "name": "receipt-parser",
+        "type": "registry:block",
+        "title": "Receipt Parser",
+        "description": "Extract structured data from receipt text or images"
+      },
+      {
+        "name": "recipe-from-ingredients",
+        "type": "registry:block",
+        "title": "Recipe from Ingredients",
+        "description": "Generate recipes based on available ingredients"
+      },
+      {
+        "name": "reflection-journal",
+        "type": "registry:block",
+        "title": "Reflection Journal",
+        "description": "Guided journaling with thoughtful AI prompts"
+      },
+      {
+        "name": "regex-generator",
+        "type": "registry:block",
+        "title": "Regex Generator",
+        "description": "Generate regex patterns from natural language descriptions"
+      },
+      {
+        "name": "related-questions",
+        "type": "registry:block",
+        "title": "Related Questions",
+        "description": "AI generates questions readers might wonder about"
+      },
+      {
+        "name": "review-summarizer",
+        "type": "registry:block",
+        "title": "Review Summarizer",
+        "description": "Synthesize product reviews into pros, cons, and rating summary"
+      },
+      {
+        "name": "rhyme-helper",
+        "type": "registry:block",
+        "title": "Rhyme Helper",
+        "description": "Find rhymes and help write poetry or lyrics"
+      },
+      {
+        "name": "roast-my-idea",
+        "type": "registry:block",
+        "title": "Roast My Idea",
+        "description": "Get a brutally honest critique of your startup or project idea"
+      },
+      {
+        "name": "rubber-duck",
+        "type": "registry:block",
+        "title": "Rubber Duck Debugger",
+        "description": "Talk through your code problems with an AI duck"
+      },
+      {
+        "name": "sales-objection",
+        "type": "registry:block",
+        "title": "Sales Objection Handler",
+        "description": "Practice handling common sales objections"
+      },
+      {
+        "name": "screen-reader-prep",
+        "type": "registry:block",
+        "title": "Screen Reader Prep",
+        "description": "Optimize content for screen readers - replace emojis, fix links"
+      },
+      {
+        "name": "search-filters",
+        "type": "registry:block",
+        "title": "Smart Filters",
+        "description": "Natural language to search filters - "
+      },
+      {
+        "name": "semantic-search",
+        "type": "registry:block",
+        "title": "Semantic Search",
+        "description": "Natural language product search - Algolia-level intelligence, zero API costs"
+      },
+      {
+        "name": "sentiment-analysis",
+        "type": "registry:block",
+        "title": "Sentiment Analysis",
+        "description": "Analyze text sentiment with structured JSON output"
+      },
+      {
+        "name": "sentiment-indicator",
+        "type": "registry:block",
+        "title": "Sentiment Indicator",
+        "description": "Real-time sentiment analysis as users type"
+      },
+      {
+        "name": "shakespearean-insult",
+        "type": "registry:block",
+        "title": "Shakespearean Insult",
+        "description": "Generate creative insults in Shakespearean style"
+      },
+      {
+        "name": "similar-items",
+        "type": "registry:block",
+        "title": "Find Similar",
+        "description": "AI-powered "
+      },
+      {
+        "name": "similar-items-finder",
+        "type": "registry:block",
+        "title": "Similar Items Finder",
+        "description": "Find similar items based on semantic understanding"
+      },
+      {
+        "name": "simple-chat",
+        "type": "registry:block",
+        "title": "Simple Chat",
+        "description": "Basic chat interface with user and assistant messages"
+      },
+      {
+        "name": "simple-text-generation",
+        "type": "registry:block",
+        "title": "Simple Text Generation",
+        "description": "Basic prompt-response pattern with a single API call"
+      },
+      {
+        "name": "simplify-text",
+        "type": "registry:block",
+        "title": "Simplify Text",
+        "description": "Convert complex text to plain, accessible language"
+      },
+      {
+        "name": "size-advisor",
+        "type": "registry:block",
+        "title": "Size Advisor",
+        "description": "Personalized size recommendations based on measurements"
+      },
+      {
+        "name": "size-recommender",
+        "type": "registry:block",
+        "title": "Size Recommender",
+        "description": "Personalized clothing size recommendations"
+      },
+      {
+        "name": "smart-search-input",
+        "type": "registry:block",
+        "title": "Smart Search Input",
+        "description": "Search input with AI-powered query understanding and suggestions"
+      },
+      {
+        "name": "smart-tags-input",
+        "type": "registry:block",
+        "title": "Smart Tags Input",
+        "description": "AI-suggested tags based on content"
+      },
+      {
+        "name": "smart-textarea",
+        "type": "registry:block",
+        "title": "Smart Textarea",
+        "description": "AI-powered text input with inline suggestions (Tab to accept)"
+      },
+      {
+        "name": "socratic-tutor",
+        "type": "registry:block",
+        "title": "Socratic Tutor",
+        "description": "Learn through guided questions - no direct answers given"
+      },
+      {
+        "name": "story-collaborator",
+        "type": "registry:block",
+        "title": "Story Collaborator",
+        "description": "Co-write stories with AI that builds on your narrative"
+      },
+      {
+        "name": "story-helper",
+        "type": "registry:block",
+        "title": "Story Helper",
+        "description": "Writing assistant with plot twists, dialogue, and continuations"
+      },
+      {
+        "name": "streaming-text",
+        "type": "registry:block",
+        "title": "Streaming Text",
+        "description": "Real-time streaming response with chunk-by-chunk rendering"
+      },
+      {
+        "name": "summarize-selection",
+        "type": "registry:block",
+        "title": "Summarize Selection Popup",
+        "description": "Select text to get instant AI summaries"
+      },
+      {
+        "name": "text-expander",
+        "type": "registry:block",
+        "title": "Text Expander",
+        "description": "Expand brief notes into full paragraphs with adjustable detail"
+      },
+      {
+        "name": "text-rewriter",
+        "type": "registry:block",
+        "title": "Text Rewriter",
+        "description": "Rewrite text in different tones: professional, casual, formal, friendly"
+      },
+      {
+        "name": "text-to-image",
+        "type": "registry:block",
+        "title": "Text to Image",
+        "description": "Generate images from text prompts using AI"
+      },
+      {
+        "name": "tldr-generator",
+        "type": "registry:block",
+        "title": "TLDR Generator",
+        "description": "Summarize articles in 3 sentences - free for any blog"
+      },
+      {
+        "name": "translate-on-demand",
+        "type": "registry:block",
+        "title": "Translate on Demand",
+        "description": "Instant translation to 10+ languages - no translation budget needed"
+      },
+      {
+        "name": "trivia-game",
+        "type": "registry:block",
+        "title": "Trivia Game",
+        "description": "Play customizable trivia with AI-generated questions"
+      },
+      {
+        "name": "voice-chat",
+        "type": "registry:block",
+        "title": "Voice Chat",
+        "description": "Speech-to-text input with text-to-speech responses"
+      },
+      {
+        "name": "would-you-rather",
+        "type": "registry:block",
+        "title": "Would You Rather",
+        "description": "AI-generated dilemmas with philosophical analysis"
+      },
+      {
+        "name": "writing-coach",
+        "type": "registry:block",
+        "title": "Writing Coach",
+        "description": "Personalized writing feedback and improvement suggestions"
+      }
+    ],
+    "notes": "sitemap_urls=352"
+  },
+  {
+    "handle": "@aliimam",
+    "homepage": "https://aliimam.in",
+    "terminology": null,
+    "status": "not_found",
+    "method": null,
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": ""
+  },
+  {
+    "handle": "@commercn",
+    "homepage": "https://commercn.com",
+    "terminology": null,
+    "status": "dead",
+    "method": null,
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or "
+  },
+  {
+    "handle": "@creative-tim",
+    "homepage": "https://www.creative-tim.com/ui",
+    "terminology": null,
+    "status": "not_found",
+    "method": null,
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": ""
+  },
+  {
+    "handle": "@devl",
+    "homepage": "https://devl.dev",
+    "terminology": null,
+    "status": "not_found",
+    "method": null,
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": ""
+  },
+  {
+    "handle": "@doras-ui",
+    "homepage": "https://ui.doras.to/",
+    "terminology": null,
+    "status": "not_found",
+    "method": null,
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": ""
+  },
+  {
+    "handle": "@emerald-ui",
+    "homepage": "https://emerald-ui.com",
+    "terminology": "Components",
+    "status": "found",
+    "method": "sitemap-slugs",
+    "indexUrl": null,
+    "itemCount": 28,
+    "items": [
+      {
+        "name": "3d-marquee",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "animated-dropdown",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "animated-input",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "animated-number",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "color-text-reveal",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "fancy-text-hover",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "flip-card",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "gradient-file-upload",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "gsap-projects-section",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "image-trail",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "interactive-team",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "link-hover",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "magnetic-effect",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "morphing-highlighter",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "parallax-image",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "perspective-story-card",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "pinned-scroll-fan",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "scroll-float",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "scroll-gallery-sweep",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "scroll-text-reveal",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "scroll-text-reveal-v2",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "sticky-cards-section",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "subscribe-input",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "text-reveal",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "title-mask-effect",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "tooltip-cat",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "vanishing-mouse-trail",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "voice-record",
+        "type": "registry:component",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "notes": "sitemap_urls=40"
+  },
+  {
+    "handle": "@evilbuttons",
+    "homepage": "https://evilbuttons.radiumcoders.com/docs",
+    "terminology": "Components",
+    "status": "found",
+    "method": "index",
+    "indexUrl": "https://evilbuttons.radiumcoders.com/r/index.json",
+    "itemCount": 29,
+    "items": [
+      {
+        "name": "click-powerup",
+        "type": "registry:ui",
+        "title": "ClickPowerUp",
+        "description": "An animated button wrapper with corner brackets, patterned fill, and tap feedback."
+      },
+      {
+        "name": "sticky",
+        "type": "registry:ui",
+        "title": "StickyButton",
+        "description": "A magnetic button that follows cursor movement with spring physics."
+      },
+      {
+        "name": "shiny-button",
+        "type": "registry:ui",
+        "title": "ShinyButton",
+        "description": "A glossy, gradient-styled button with a layered inner glow and press feedback."
+      },
+      {
+        "name": "movie-pass",
+        "type": "registry:ui",
+        "title": "MoviePassButton",
+        "description": "A ticket-style button like a cinema stub."
+      },
+      {
+        "name": "minimal",
+        "type": "registry:ui",
+        "title": "MinimalButton",
+        "description": "A sleek, minimal button with a subtle repeating linear gradient pattern."
+      },
+      {
+        "name": "grid-button",
+        "type": "registry:ui",
+        "title": "GridButton",
+        "description": "A retro-styled button with a pixelated grid icon and tactile press feedback."
+      },
+      {
+        "name": "dither-button",
+        "type": "registry:ui",
+        "title": "DitherButton",
+        "description": "A button with an animated 4x4 ordered-dither wave background and a knockout label."
+      },
+      {
+        "name": "evil-eye-button",
+        "type": "registry:ui",
+        "title": "EvilEyeButton",
+        "description": "A button with a React Bits evil eye shader background and a fiery readable label."
+      },
+      {
+        "name": "troll-button",
+        "type": "registry:ui",
+        "title": "TrollButton",
+        "description": "A button that flees from the user's cursor."
+      },
+      {
+        "name": "chrome-button",
+        "type": "registry:ui",
+        "title": "ChromeButton",
+        "description": "A button with an animated liquid chrome background."
+      },
+      {
+        "name": "brutal-button",
+        "type": "registry:ui",
+        "title": "BrutalButton",
+        "description": "A NeoBrutalism style button with sharp shadows and stark borders."
+      },
+      {
+        "name": "aqua-button",
+        "type": "registry:ui",
+        "title": "AquaButton",
+        "description": "A glossy pill button inspired by Apple's Aqua interface, with layered highlights and a soft inner glow."
+      },
+      {
+        "name": "3d-button",
+        "type": "registry:ui",
+        "title": "ThreeDButton",
+        "description": "A minimal 3D button with a clean deck-style press and sliding click sheen."
+      },
+      {
+        "name": "frame-button",
+        "type": "registry:ui",
+        "title": "FrameButton",
+        "description": "A futuristic button with animated corner frames and tactile motion interactions."
+      },
+      {
+        "name": "highlight-button",
+        "type": "registry:ui",
+        "title": "HighlightButton",
+        "description": "A button with a mouse-following highlight that darkens light surfaces and expands on click."
+      },
+      {
+        "name": "glitch-button",
+        "type": "registry:ui",
+        "title": "GlitchButton",
+        "description": "A button with randomized RGB-split glitch bursts, a scanline overlay, and a flickering label."
+      },
+      {
+        "name": "command-button",
+        "type": "registry:ui",
+        "title": "CommandButton",
+        "description": "A button that binds a keyboard shortcut globally and pulses with a subtle flash animation when the shortcut fires."
+      },
+      {
+        "name": "copy-button",
+        "type": "registry:ui",
+        "title": "CopyButton",
+        "description": "A button that copies a value to the clipboard and transitions through idle, copied, and error states with animated icon swaps."
+      },
+      {
+        "name": "reveal-button",
+        "type": "registry:ui",
+        "title": "RevealButton",
+        "description": "A button that reveals a hidden secret value on hold or toggle, with a blur-in animation and an eye icon indicator."
+      },
+      {
+        "name": "demonic-button",
+        "type": "registry:ui",
+        "title": "DemonicButton",
+        "description": "A hold-to-charge button: keep pressing to slowly strain the devil horns out while it trembles, spits embers, and flashes between black and blood-red like a filling life meter."
+      },
+      {
+        "name": "hold-button",
+        "type": "registry:ui",
+        "title": "HoldButton",
+        "description": "A hold-to-confirm button whose inner fill grows from 0 to 100%; release early to shake and abort, hold to the end to fire the action."
+      },
+      {
+        "name": "captcha-button",
+        "type": "registry:ui",
+        "title": "CaptchaButton",
+        "description": "A button that makes you pass an absurd 'select all the evil' emoji captcha before the real action fires."
+      },
+      {
+        "name": "doubt-button",
+        "type": "registry:ui",
+        "title": "DoubtButton",
+        "description": "An escalating-confirmation button that makes you click through increasingly absurd, guilt-tripping prompts before the real action finally fires."
+      },
+      {
+        "name": "slide-to-detonate",
+        "type": "registry:ui",
+        "title": "SlideToDetonate",
+        "description": "A slide-to-confirm safety gate that makes you drag a handle across a fuse before the real action detonates."
+      },
+      {
+        "name": "morph-status-button",
+        "type": "registry:ui",
+        "title": "MorphStatusButton",
+        "description": "A single button that morphs through idle, loading, success, and error states in place, with no layout shift."
+      },
+      {
+        "name": "cooldown-button",
+        "type": "registry:ui",
+        "title": "CooldownButton",
+        "description": "A button that locks itself behind a draining radial timer after each click to stop spam and double-submits, taunting you while you wait."
+      },
+      {
+        "name": "pill-button",
+        "type": "registry:ui",
+        "title": "PillButton",
+        "description": "A compact pill toggle that slides between two labeled faces with a rolling hover label animation."
+      },
+      {
+        "name": "confetti-button",
+        "type": "registry:ui",
+        "title": "ConfettiButton",
+        "description": "A plain shadcn button that pops on click and fires a confetti celebration burst."
+      },
+      {
+        "name": "hold-confirm-button",
+        "type": "registry:ui",
+        "title": "HoldConfirmButton",
+        "description": "A hold-to-confirm pill button that shrinks while pressed and draws a circular progress ring around it using Motion styleEffect and svgEffect."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "handle": "@fonttrio",
+    "homepage": "https://www.fonttrio.xyz",
+    "terminology": "Components",
+    "status": "found",
+    "method": "sitemap-slugs",
+    "indexUrl": null,
+    "itemCount": 135,
+    "items": [
+      {
+        "name": "actor",
+        "type": "registry:font",
+        "title": "Actor",
+        "description": "Actor — Sans Serif font."
+      },
+      {
+        "name": "alegreya-sans-alegreya",
+        "type": "registry:style",
+        "title": "Alegreya Sans Alegreya — Alegreya Sans + Alegreya + Roboto Mono",
+        "description": "Alegreya offers a smooth serif complement to the humanist tones of Alegreya Sans."
+      },
+      {
+        "name": "aleo",
+        "type": "registry:font",
+        "title": "Aleo",
+        "description": "Aleo — Serif font."
+      },
+      {
+        "name": "amita",
+        "type": "registry:font",
+        "title": "Amita",
+        "description": "Amita — Handwriting font."
+      },
+      {
+        "name": "anek-gurmukhi",
+        "type": "registry:font",
+        "title": "Anek Gurmukhi",
+        "description": "Anek Gurmukhi — Sans Serif font."
+      },
+      {
+        "name": "arvo-lato",
+        "type": "registry:style",
+        "title": "Arvo Lato — Arvo + Lato + JetBrains Mono",
+        "description": "Arvo paired with Lato for a google fonts aesthetic."
+      },
+      {
+        "name": "be-vietnam-fira-sans",
+        "type": "registry:style",
+        "title": "Be Vietnam Fira Sans — Be Vietnam Pro + Fira Sans + Roboto Mono",
+        "description": "Be Vietnam Pro and Fira Sans are both versatile choices that work well across a wide range of use cases."
+      },
+      {
+        "name": "be-vietnam-raleway",
+        "type": "registry:style",
+        "title": "Be Vietnam Raleway — Be Vietnam Pro + Raleway + Inconsolata",
+        "description": "Be Vietnam Pro and Raleway are both versatile choices that work well across a wide range of use cases."
+      },
+      {
+        "name": "belgrano",
+        "type": "registry:font",
+        "title": "Belgrano",
+        "description": "Belgrano — Serif font."
+      },
+      {
+        "name": "bitter-be-vietnam",
+        "type": "registry:style",
+        "title": "Bitter Be Vietnam — Bitter + Be Vietnam Pro + JetBrains Mono",
+        "description": "Bitter and Be Vietnam Pro are both versatile choices that work well across a wide range of use cases."
+      },
+      {
+        "name": "bpmf-iansui",
+        "type": "registry:font",
+        "title": "Bpmf Iansui",
+        "description": "Bpmf Iansui — Handwriting font."
+      },
+      {
+        "name": "bungee-hairline",
+        "type": "registry:font",
+        "title": "Bungee Hairline",
+        "description": "Bungee Hairline — Display font."
+      },
+      {
+        "name": "carrois-gothic-sc",
+        "type": "registry:font",
+        "title": "Carrois Gothic SC",
+        "description": "Carrois Gothic SC — Sans Serif font."
+      },
+      {
+        "name": "castoro",
+        "type": "registry:font",
+        "title": "Castoro",
+        "description": "Castoro — Serif font."
+      },
+      {
+        "name": "caudex-alegreya-sans",
+        "type": "registry:style",
+        "title": "Caudex Alegreya Sans — Caudex + Alegreya Sans + Inconsolata",
+        "description": "Caudex offers classical depth to modern layouts."
+      },
+      {
+        "name": "chathura",
+        "type": "registry:font",
+        "title": "Chathura",
+        "description": "Chathura — Sans Serif font."
+      },
+      {
+        "name": "chela-one",
+        "type": "registry:font",
+        "title": "Chela One",
+        "description": "Chela One — Display font."
+      },
+      {
+        "name": "chicle",
+        "type": "registry:font",
+        "title": "Chicle",
+        "description": "Chicle — Display font."
+      },
+      {
+        "name": "comic-neue",
+        "type": "registry:font",
+        "title": "Comic Neue",
+        "description": "Comic Neue — Handwriting font."
+      },
+      {
+        "name": "copse",
+        "type": "registry:font",
+        "title": "Copse",
+        "description": "Copse — Serif font."
+      },
+      {
+        "name": "cormorant-unicase",
+        "type": "registry:font",
+        "title": "Cormorant Unicase",
+        "description": "Cormorant Unicase — Serif font."
+      },
+      {
+        "name": "crimson-text-crimson-pro",
+        "type": "registry:style",
+        "title": "Crimson Text Crimson Pro — Crimson Text + Crimson Pro + IBM Plex Mono",
+        "description": "Crimson Text paired with Crimson Pro for a google fonts aesthetic."
+      },
+      {
+        "name": "days-one",
+        "type": "registry:font",
+        "title": "Days One",
+        "description": "Days One — Sans Serif font."
+      },
+      {
+        "name": "dhurjati",
+        "type": "registry:font",
+        "title": "Dhurjati",
+        "description": "Dhurjati — Sans Serif font."
+      },
+      {
+        "name": "didact-gothic",
+        "type": "registry:font",
+        "title": "Didact Gothic",
+        "description": "Didact Gothic — Sans Serif font."
+      },
+      {
+        "name": "dm-serif-dm-serif",
+        "type": "registry:style",
+        "title": "Dm Serif Dm Serif — DM Serif Display + DM Serif Text + Inconsolata",
+        "description": "DM Serif Display paired with DM Serif Text for a google fonts aesthetic."
+      },
+      {
+        "name": "edu-au-vic-wa-nt-arrows",
+        "type": "registry:font",
+        "title": "Edu AU VIC WA NT Arrows",
+        "description": "Edu AU VIC WA NT Arrows — Handwriting font."
+      },
+      {
+        "name": "edu-nsw-act-foundation",
+        "type": "registry:font",
+        "title": "Edu NSW ACT Foundation",
+        "description": "Edu NSW ACT Foundation — Handwriting font."
+      },
+      {
+        "name": "edu-tas-beginner",
+        "type": "registry:font",
+        "title": "Edu TAS Beginner",
+        "description": "Edu TAS Beginner — Handwriting font."
+      },
+      {
+        "name": "emblema-one",
+        "type": "registry:font",
+        "title": "Emblema One",
+        "description": "Emblema One — Display font."
+      },
+      {
+        "name": "fahkwang",
+        "type": "registry:font",
+        "title": "Fahkwang",
+        "description": "Fahkwang — Sans Serif font."
+      },
+      {
+        "name": "familjen-grotesk",
+        "type": "registry:font",
+        "title": "Familjen Grotesk",
+        "description": "Familjen Grotesk — Sans Serif font."
+      },
+      {
+        "name": "farsan",
+        "type": "registry:font",
+        "title": "Farsan",
+        "description": "Farsan — Display font."
+      },
+      {
+        "name": "fascinate-inline",
+        "type": "registry:font",
+        "title": "Fascinate Inline",
+        "description": "Fascinate Inline — Display font."
+      },
+      {
+        "name": "federo",
+        "type": "registry:font",
+        "title": "Federo",
+        "description": "Federo — Sans Serif font."
+      },
+      {
+        "name": "felipa",
+        "type": "registry:font",
+        "title": "Felipa",
+        "description": "Felipa — Handwriting font."
+      },
+      {
+        "name": "fenix",
+        "type": "registry:font",
+        "title": "Fenix",
+        "description": "Fenix — Serif font."
+      },
+      {
+        "name": "fira-sans-condensed",
+        "type": "registry:font",
+        "title": "Fira Sans Condensed",
+        "description": "Fira Sans Condensed — Sans Serif font."
+      },
+      {
+        "name": "freckle-face",
+        "type": "registry:font",
+        "title": "Freckle Face",
+        "description": "Freckle Face — Display font."
+      },
+      {
+        "name": "freeman",
+        "type": "registry:font",
+        "title": "Freeman",
+        "description": "Freeman — Display font."
+      },
+      {
+        "name": "funnel-display-funnel-sans",
+        "type": "registry:style",
+        "title": "Funnel Display Funnel Sans — Funnel Display + Funnel Sans + Inconsolata",
+        "description": "Funnel Display paired with Funnel Sans for a google fonts aesthetic."
+      },
+      {
+        "name": "geist-inter",
+        "type": "registry:style",
+        "title": "Geist Inter — Geist + Inter + JetBrains Mono",
+        "description": "Modern sans-serif pairing with excellent readability"
+      },
+      {
+        "name": "gowun-dodum",
+        "type": "registry:font",
+        "title": "Gowun Dodum",
+        "description": "Gowun Dodum — Sans Serif font."
+      },
+      {
+        "name": "grandstander",
+        "type": "registry:font",
+        "title": "Grandstander",
+        "description": "Grandstander — Display font."
+      },
+      {
+        "name": "great-vibes",
+        "type": "registry:font",
+        "title": "Great Vibes",
+        "description": "Great Vibes — Handwriting font."
+      },
+      {
+        "name": "hanken-grotesk",
+        "type": "registry:font",
+        "title": "Hanken Grotesk",
+        "description": "Hanken Grotesk — Sans Serif font."
+      },
+      {
+        "name": "hina-mincho",
+        "type": "registry:font",
+        "title": "Hina Mincho",
+        "description": "Hina Mincho — Serif font."
+      },
+      {
+        "name": "instrument-sans",
+        "type": "registry:font",
+        "title": "Instrument Sans",
+        "description": "Instrument Sans — Sans Serif font."
+      },
+      {
+        "name": "instrument-serif",
+        "type": "registry:font",
+        "title": "Instrument Serif",
+        "description": "Instrument Serif — Serif font."
+      },
+      {
+        "name": "istok-web",
+        "type": "registry:font",
+        "title": "Istok Web",
+        "description": "Istok Web — Sans Serif font."
+      },
+      {
+        "name": "jersey-20",
+        "type": "registry:font",
+        "title": "Jersey 20",
+        "description": "Jersey 20 — Display font."
+      },
+      {
+        "name": "jetbrains-mono",
+        "type": "registry:font",
+        "title": "JetBrains Mono",
+        "description": "JetBrains Mono — Monospace font."
+      },
+      {
+        "name": "josefin-slab-josefin-sans",
+        "type": "registry:style",
+        "title": "Josefin Slab Josefin Sans — Josefin Slab + Josefin Sans + Fira Code",
+        "description": "Josefin Slab paired with Josefin Sans for a google fonts aesthetic."
+      },
+      {
+        "name": "kaisei-harunoumi",
+        "type": "registry:font",
+        "title": "Kaisei HarunoUmi",
+        "description": "Kaisei HarunoUmi — Serif font."
+      },
+      {
+        "name": "karla-faustina",
+        "type": "registry:style",
+        "title": "Karla Faustina — Karla + Faustina + JetBrains Mono",
+        "description": "Faustina brings vertical rhythm to Karla’s modern flow."
+      },
+      {
+        "name": "kedebideri",
+        "type": "registry:font",
+        "title": "Kedebideri",
+        "description": "Kedebideri — Sans Serif font."
+      },
+      {
+        "name": "kode-mono",
+        "type": "registry:font",
+        "title": "Kode Mono",
+        "description": "Kode Mono — Monospace font."
+      },
+      {
+        "name": "kumar-one-outline",
+        "type": "registry:font",
+        "title": "Kumar One Outline",
+        "description": "Kumar One Outline — Display font."
+      },
+      {
+        "name": "league-spartan",
+        "type": "registry:font",
+        "title": "League Spartan",
+        "description": "League Spartan — Sans Serif font."
+      },
+      {
+        "name": "ledger",
+        "type": "registry:font",
+        "title": "Ledger",
+        "description": "Ledger — Serif font."
+      },
+      {
+        "name": "lexend-exa",
+        "type": "registry:font",
+        "title": "Lexend Exa",
+        "description": "Lexend Exa — Sans Serif font."
+      },
+      {
+        "name": "libre-franklin-aleo",
+        "type": "registry:style",
+        "title": "Libre Franklin Aleo — Libre Franklin + Aleo + JetBrains Mono",
+        "description": "Aleo’s rounded edges soften the modern crispness of Libre Franklin."
+      },
+      {
+        "name": "londrina-shadow",
+        "type": "registry:font",
+        "title": "Londrina Shadow",
+        "description": "Londrina Shadow — Display font."
+      },
+      {
+        "name": "m-plus-code-latin",
+        "type": "registry:font",
+        "title": "M PLUS Code Latin",
+        "description": "M PLUS Code Latin — Sans Serif font."
+      },
+      {
+        "name": "maiden-orange",
+        "type": "registry:font",
+        "title": "Maiden Orange",
+        "description": "Maiden Orange — Serif font."
+      },
+      {
+        "name": "manifesto",
+        "type": "registry:style",
+        "title": "Manifesto — Roboto Slab + Roboto + Roboto Mono",
+        "description": "The complete Roboto system. Slab headlines bring gravitas to Google's most versatile typeface family. A three-weight system that works everywhere, from Android to enterprise dashboards."
+      },
+      {
+        "name": "manrope-inter",
+        "type": "registry:style",
+        "title": "Manrope Inter — Manrope + Inter + JetBrains Mono",
+        "description": "Inter brings structured simplicity to Manrope’s tone."
+      },
+      {
+        "name": "mansalva",
+        "type": "registry:font",
+        "title": "Mansalva",
+        "description": "Mansalva — Handwriting font."
+      },
+      {
+        "name": "marmelad",
+        "type": "registry:font",
+        "title": "Marmelad",
+        "description": "Marmelad — Sans Serif font."
+      },
+      {
+        "name": "merienda",
+        "type": "registry:font",
+        "title": "Merienda",
+        "description": "Merienda — Handwriting font."
+      },
+      {
+        "name": "merriweather-be-vietnam",
+        "type": "registry:style",
+        "title": "Merriweather Be Vietnam — Merriweather + Be Vietnam Pro + Roboto Mono",
+        "description": "Merriweather and Be Vietnam Pro are both versatile choices that work well across a wide range of use cases."
+      },
+      {
+        "name": "molle",
+        "type": "registry:font",
+        "title": "Molle",
+        "description": "Molle — Handwriting font."
+      },
+      {
+        "name": "momo-trust-display",
+        "type": "registry:font",
+        "title": "Momo Trust Display",
+        "description": "Momo Trust Display — Sans Serif font."
+      },
+      {
+        "name": "monomakh",
+        "type": "registry:font",
+        "title": "Monomakh",
+        "description": "Monomakh — Display font."
+      },
+      {
+        "name": "mukta",
+        "type": "registry:font",
+        "title": "Mukta",
+        "description": "Mukta — Sans Serif font."
+      },
+      {
+        "name": "neonderthaw",
+        "type": "registry:font",
+        "title": "Neonderthaw",
+        "description": "Neonderthaw — Handwriting font."
+      },
+      {
+        "name": "nerko-one",
+        "type": "registry:font",
+        "title": "Nerko One",
+        "description": "Nerko One — Handwriting font."
+      },
+      {
+        "name": "noto-sans-carian",
+        "type": "registry:font",
+        "title": "Noto Sans Carian",
+        "description": "Noto Sans Carian — Sans Serif font."
+      },
+      {
+        "name": "noto-sans-elbasan",
+        "type": "registry:font",
+        "title": "Noto Sans Elbasan",
+        "description": "Noto Sans Elbasan — Sans Serif font."
+      },
+      {
+        "name": "noto-sans-glagolitic",
+        "type": "registry:font",
+        "title": "Noto Sans Glagolitic",
+        "description": "Noto Sans Glagolitic — Sans Serif font."
+      },
+      {
+        "name": "noto-sans-inscriptional-parthian",
+        "type": "registry:font",
+        "title": "Noto Sans Inscriptional Parthian",
+        "description": "Noto Sans Inscriptional Parthian — Sans Serif font."
+      },
+      {
+        "name": "noto-sans-mende-kikakui",
+        "type": "registry:font",
+        "title": "Noto Sans Mende Kikakui",
+        "description": "Noto Sans Mende Kikakui — Sans Serif font."
+      },
+      {
+        "name": "noto-sans-new-tai-lue",
+        "type": "registry:font",
+        "title": "Noto Sans New Tai Lue",
+        "description": "Noto Sans New Tai Lue — Sans Serif font."
+      },
+      {
+        "name": "noto-sans-ogham",
+        "type": "registry:font",
+        "title": "Noto Sans Ogham",
+        "description": "Noto Sans Ogham — Sans Serif font."
+      },
+      {
+        "name": "noto-sans-runic",
+        "type": "registry:font",
+        "title": "Noto Sans Runic",
+        "description": "Noto Sans Runic — Sans Serif font."
+      },
+      {
+        "name": "noto-sans-shavian",
+        "type": "registry:font",
+        "title": "Noto Sans Shavian",
+        "description": "Noto Sans Shavian — Sans Serif font."
+      },
+      {
+        "name": "noto-serif",
+        "type": "registry:font",
+        "title": "Noto Serif",
+        "description": "Noto Serif — Serif font."
+      },
+      {
+        "name": "noto-serif-ethiopic",
+        "type": "registry:font",
+        "title": "Noto Serif Ethiopic",
+        "description": "Noto Serif Ethiopic — Serif font."
+      },
+      {
+        "name": "noto-serif-khojki",
+        "type": "registry:font",
+        "title": "Noto Serif Khojki",
+        "description": "Noto Serif Khojki — Serif font."
+      },
+      {
+        "name": "nova-flat",
+        "type": "registry:font",
+        "title": "Nova Flat",
+        "description": "Nova Flat — Display font."
+      },
+      {
+        "name": "nunito-roboto",
+        "type": "registry:style",
+        "title": "Nunito Roboto — Nunito + Roboto + Source Code Pro",
+        "description": "Nunito adds a soft, approachable feel while Roboto keeps things clean and readable."
+      },
+      {
+        "name": "open-sans-merriweather",
+        "type": "registry:style",
+        "title": "Open Sans Merriweather — Open Sans + Merriweather + IBM Plex Mono",
+        "description": "Open Sans and Merriweather are both versatile choices that work well across a wide range of use cases."
+      },
+      {
+        "name": "parisienne",
+        "type": "registry:font",
+        "title": "Parisienne",
+        "description": "Parisienne — Handwriting font."
+      },
+      {
+        "name": "pinyon-script",
+        "type": "registry:font",
+        "title": "Pinyon Script",
+        "description": "Pinyon Script — Handwriting font."
+      },
+      {
+        "name": "plaster",
+        "type": "registry:font",
+        "title": "Plaster",
+        "description": "Plaster — Display font."
+      },
+      {
+        "name": "playfair-display-lora",
+        "type": "registry:style",
+        "title": "Playfair Display Lora — Playfair Display + Lora + Source Code Pro",
+        "description": "Playfair Display delivers high-end flair, complemented by the elegant and refined tone of Lora."
+      },
+      {
+        "name": "playwrite-es-deco",
+        "type": "registry:font",
+        "title": "Playwrite ES Deco",
+        "description": "Playwrite ES Deco — Handwriting font."
+      },
+      {
+        "name": "playwrite-es-guides",
+        "type": "registry:font",
+        "title": "Playwrite ES Guides",
+        "description": "Playwrite ES Guides — Handwriting font."
+      },
+      {
+        "name": "playwrite-id",
+        "type": "registry:font",
+        "title": "Playwrite ID",
+        "description": "Playwrite ID — Handwriting font."
+      },
+      {
+        "name": "playwrite-ie",
+        "type": "registry:font",
+        "title": "Playwrite IE",
+        "description": "Playwrite IE — Handwriting font."
+      },
+      {
+        "name": "playwrite-pl-guides",
+        "type": "registry:font",
+        "title": "Playwrite PL Guides",
+        "description": "Playwrite PL Guides — Handwriting font."
+      },
+      {
+        "name": "playwrite-us-modern",
+        "type": "registry:font",
+        "title": "Playwrite US Modern",
+        "description": "Playwrite US Modern — Handwriting font."
+      },
+      {
+        "name": "prociono",
+        "type": "registry:font",
+        "title": "Prociono",
+        "description": "Prociono — Serif font."
+      },
+      {
+        "name": "prosto-one",
+        "type": "registry:font",
+        "title": "Prosto One",
+        "description": "Prosto One — Display font."
+      },
+      {
+        "name": "pt-serif-pt-sans",
+        "type": "registry:style",
+        "title": "Pt Serif Pt Sans — PT Serif + PT Sans + IBM Plex Mono",
+        "description": "PT Serif paired with PT Sans for a google fonts aesthetic."
+      },
+      {
+        "name": "purple-purse",
+        "type": "registry:font",
+        "title": "Purple Purse",
+        "description": "Purple Purse — Display font."
+      },
+      {
+        "name": "rammetto-one",
+        "type": "registry:font",
+        "title": "Rammetto One",
+        "description": "Rammetto One — Display font."
+      },
+      {
+        "name": "roboto-inter",
+        "type": "registry:style",
+        "title": "Roboto Inter — Roboto + Inter + Fira Code",
+        "description": "Roboto and Inter share a clean, modern aesthetic that suits minimalist design systems."
+      },
+      {
+        "name": "roboto-roboto-mono",
+        "type": "registry:style",
+        "title": "Roboto Roboto Mono — Roboto + Roboto Mono + Inconsolata",
+        "description": "Roboto paired with Roboto Mono for a google fonts aesthetic."
+      },
+      {
+        "name": "roboto-slab",
+        "type": "registry:font",
+        "title": "Roboto Slab",
+        "description": "Roboto Slab — Serif font."
+      },
+      {
+        "name": "rubik-burned",
+        "type": "registry:font",
+        "title": "Rubik Burned",
+        "description": "Rubik Burned — Display font."
+      },
+      {
+        "name": "rubik-iso",
+        "type": "registry:font",
+        "title": "Rubik Iso",
+        "description": "Rubik Iso — Display font."
+      },
+      {
+        "name": "rubik-maps",
+        "type": "registry:font",
+        "title": "Rubik Maps",
+        "description": "Rubik Maps — Display font."
+      },
+      {
+        "name": "saira-extra-condensed",
+        "type": "registry:font",
+        "title": "Saira Extra Condensed",
+        "description": "Saira Extra Condensed — Sans Serif font."
+      },
+      {
+        "name": "seaweed-script",
+        "type": "registry:font",
+        "title": "Seaweed Script",
+        "description": "Seaweed Script — Display font."
+      },
+      {
+        "name": "sevillana",
+        "type": "registry:font",
+        "title": "Sevillana",
+        "description": "Sevillana — Display font."
+      },
+      {
+        "name": "shippori-mincho-b1",
+        "type": "registry:font",
+        "title": "Shippori Mincho B1",
+        "description": "Shippori Mincho B1 — Serif font."
+      },
+      {
+        "name": "shojumaru",
+        "type": "registry:font",
+        "title": "Shojumaru",
+        "description": "Shojumaru — Display font."
+      },
+      {
+        "name": "simonetta",
+        "type": "registry:font",
+        "title": "Simonetta",
+        "description": "Simonetta — Display font."
+      },
+      {
+        "name": "sixtyfour",
+        "type": "registry:font",
+        "title": "Sixtyfour",
+        "description": "Sixtyfour — Monospace font."
+      },
+      {
+        "name": "sofia-sans-semi-condensed",
+        "type": "registry:font",
+        "title": "Sofia Sans Semi Condensed",
+        "description": "Sofia Sans Semi Condensed — Sans Serif font."
+      },
+      {
+        "name": "sofia-sans-sofia-sans",
+        "type": "registry:style",
+        "title": "Sofia Sans Sofia Sans — Sofia Sans Condensed + Sofia Sans + Fira Code",
+        "description": "Sofia Sans Condensed paired with Sofia Sans for a google fonts aesthetic."
+      },
+      {
+        "name": "sour-gummy",
+        "type": "registry:font",
+        "title": "Sour Gummy",
+        "description": "Sour Gummy — Sans Serif font."
+      },
+      {
+        "name": "space-grotesk",
+        "type": "registry:font",
+        "title": "Space Grotesk",
+        "description": "Space Grotesk — Sans Serif font."
+      },
+      {
+        "name": "special-gothic-condensed-one",
+        "type": "registry:font",
+        "title": "Special Gothic Condensed One",
+        "description": "Special Gothic Condensed One — Sans Serif font."
+      },
+      {
+        "name": "stack-sans-notch",
+        "type": "registry:font",
+        "title": "Stack Sans Notch",
+        "description": "Stack Sans Notch — Sans Serif font."
+      },
+      {
+        "name": "stint-ultra-condensed",
+        "type": "registry:font",
+        "title": "Stint Ultra Condensed",
+        "description": "Stint Ultra Condensed — Serif font."
+      },
+      {
+        "name": "telex",
+        "type": "registry:font",
+        "title": "Telex",
+        "description": "Telex — Sans Serif font."
+      },
+      {
+        "name": "trispace",
+        "type": "registry:font",
+        "title": "Trispace",
+        "description": "Trispace — Sans Serif font."
+      },
+      {
+        "name": "tulpen-one",
+        "type": "registry:font",
+        "title": "Tulpen One",
+        "description": "Tulpen One — Display font."
+      },
+      {
+        "name": "turret-road",
+        "type": "registry:font",
+        "title": "Turret Road",
+        "description": "Turret Road — Display font."
+      },
+      {
+        "name": "updock",
+        "type": "registry:font",
+        "title": "Updock",
+        "description": "Updock — Handwriting font."
+      },
+      {
+        "name": "wellfleet",
+        "type": "registry:font",
+        "title": "Wellfleet",
+        "description": "Wellfleet — Serif font."
+      },
+      {
+        "name": "winky-rough",
+        "type": "registry:font",
+        "title": "Winky Rough",
+        "description": "Winky Rough — Sans Serif font."
+      },
+      {
+        "name": "winky-sans",
+        "type": "registry:font",
+        "title": "Winky Sans",
+        "description": "Winky Sans — Sans Serif font."
+      }
+    ],
+    "notes": "sitemap_urls=2307"
+  },
+  {
+    "handle": "@grainly-icons",
+    "homepage": "https://grainlyicons.abhii.space",
+    "terminology": null,
+    "status": "not_found",
+    "method": null,
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": ""
+  },
+  {
+    "handle": "@headcodecms",
+    "homepage": "https://headcodecms.com",
+    "terminology": null,
+    "status": "not_found",
+    "method": null,
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": "sitemap_urls=2 but 0 validated"
+  },
+  {
+    "handle": "@icons-animated",
+    "homepage": "https://icons.lndev.me",
+    "terminology": null,
+    "status": "not_found",
+    "method": null,
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": "HTTP 404 on homepage"
+  },
+  {
+    "handle": "@jalco",
+    "homepage": "https://ui.justinlevine.me",
+    "terminology": "Components",
+    "status": "found",
+    "method": "sitemap-slugs",
+    "indexUrl": null,
+    "itemCount": 36,
+    "items": [
+      {
+        "name": "activity-graph",
+        "type": "registry:component",
+        "title": "Activity Graph",
+        "description": "GitHub-style activity heatmap that visualizes daily counts as a color-intensity grid with month labels, day labels, and a Less/More legend. Includes a helper to fetch real GitHub contribution data by username."
+      },
+      {
+        "name": "ai-copy-button",
+        "type": "registry:component",
+        "title": "AI Copy Button",
+        "description": "Split button with a primary copy action and a dropdown of AI destinations. Copy content, view as markdown, or open in v0, ChatGPT, Claude, or Gemini."
+      },
+      {
+        "name": "api-ref-table",
+        "type": "registry:component",
+        "title": "API Reference Table",
+        "description": "Expandable prop reference table with color-coded types, optional descriptions, and full-type details. Designed for component documentation pages."
+      },
+      {
+        "name": "balanced-text",
+        "type": "registry:component",
+        "title": "Pretext Balanced Text",
+        "description": "Text wrapper that uses Pretext to balance line widths so all lines are roughly equal length. Deterministic and cross-browser consistent."
+      },
+      {
+        "name": "chat-bubble",
+        "type": "registry:component",
+        "title": "Pretext Chat Bubble",
+        "description": "Message bubble with Pretext shrinkwrap that finds the tightest width for the same line count, eliminating dead space CSS fit-content leaves behind."
+      },
+      {
+        "name": "ci-badge",
+        "type": "registry:component",
+        "title": "CI Badge",
+        "description": "GitHub Actions CI status badge showing passing, failing, pending, or cancelled state with colored status dot and optional duration. Two layouts: inline pill and expanded card. Async server component — fetches data at build time with ISR."
+      },
+      {
+        "name": "code-block",
+        "type": "registry:component",
+        "title": "Code Block",
+        "description": "Syntax-highlighted code block with bundled language icon, copy button, and optional scrollable or collapsible overflow. Server component powered by shiki."
+      },
+      {
+        "name": "code-block-command",
+        "type": "registry:component",
+        "title": "Code Block Command",
+        "description": "Tabbed CLI command block with package manager switching (pnpm, yarn, npm, bun, shadcn), bundled SVG icons, copy button, and localStorage persistence."
+      },
+      {
+        "name": "code-line",
+        "type": "registry:component",
+        "title": "Code Line",
+        "description": "Compact single-line code snippet with syntax highlighting and an inline copy button. Ideal for imports, CLI commands, env vars, and config values."
+      },
+      {
+        "name": "color-palette",
+        "type": "registry:component",
+        "title": "Color Palette",
+        "description": "Color swatch display with name, hex/hsl/rgb values, and click-to-copy. Grid and horizontal scale strip layouts for design system documentation."
+      },
+      {
+        "name": "commit-graph",
+        "type": "registry:component",
+        "title": "Commit Graph",
+        "description": "Git commit history as a vertical timeline with hashes, messages, author avatars, and branch/tag labels."
+      },
+      {
+        "name": "contributor-grid",
+        "type": "registry:component",
+        "title": "Contributor Grid",
+        "description": "GitHub contributor display with avatar grid and detailed list layouts. Async server component with ISR caching."
+      },
+      {
+        "name": "cron-schedule",
+        "type": "registry:component",
+        "title": "Cron Schedule",
+        "description": "Visual cron expression display with field breakdown, human-readable summary, and optional next-run preview. Designed for dashboards, serverless function docs, and scheduling UIs."
+      },
+      {
+        "name": "diff-viewer",
+        "type": "registry:component",
+        "title": "Diff Viewer",
+        "description": "Code diff viewer with line numbers and add/remove coloring. Supports unified and split layouts."
+      },
+      {
+        "name": "discord-badge",
+        "type": "registry:component",
+        "title": "Discord Badge",
+        "description": "Live Discord server badge showing server name and online count with the Discord icon. Two layouts: inline pill and expanded card. Async server component — fetches data at build time with ISR via the public widget API."
+      },
+      {
+        "name": "download-sparkline",
+        "type": "registry:component",
+        "title": "Download Sparkline",
+        "description": "Tiny inline SVG sparkline showing npm download trends over time. Three chart types, trend indicator, date range, and average baseline. Pure SVG, zero charting dependencies. Async server component — fetches data at build time with ISR."
+      },
+      {
+        "name": "env-table",
+        "type": "registry:component",
+        "title": "Env Table",
+        "description": "Read-only environment variable table with masked values, click-to-reveal, per-row copy, and bulk copy as .env. Designed for settings pages, deploy previews, and documentation."
+      },
+      {
+        "name": "file-tree",
+        "type": "registry:component",
+        "title": "File Tree",
+        "description": "Collapsible file and folder tree with file-type icons, highlights, and configurable expand state. Designed for project structure docs, README displays, and dev-tool file explorers."
+      },
+      {
+        "name": "github-button-group",
+        "type": "registry:component",
+        "title": "GitHub Button Group",
+        "description": "Segmented button group displaying multiple GitHub repo metrics with per-segment links. Async server component — fetches data at build time with ISR."
+      },
+      {
+        "name": "github-stars-button",
+        "type": "registry:component",
+        "title": "GitHub Stars Button",
+        "description": "Link button showing a GitHub repo's star count with the octocat icon. Async server component — fetches data at build time with ISR."
+      },
+      {
+        "name": "json-viewer",
+        "type": "registry:component",
+        "title": "JSON Viewer",
+        "description": "Collapsible, syntax-colored JSON tree with path copying, search, expand/collapse controls, and 65 editor color themes. Designed for dev dashboards, API documentation, and debugging tools."
+      },
+      {
+        "name": "kbd",
+        "type": "registry:component",
+        "title": "Kbd",
+        "description": "Keyboard shortcut key rendered as a styled keycap. Three visual profiles: flat, raised, and sculpted."
+      },
+      {
+        "name": "license-badge",
+        "type": "registry:component",
+        "title": "License Badge",
+        "description": "Software license badge with SPDX identifier, category color-coding, and OSI-approved indicator. Three layouts: inline pill, segmented row, and expanded card. Accepts a license string directly or fetches from the GitHub API."
+      },
+      {
+        "name": "log-viewer",
+        "type": "registry:component",
+        "title": "Log Viewer",
+        "description": "Scrollable log output component for displaying streaming logs or CLI-style output in web apps. Three variants: terminal (full CLI-style with toolbar, line numbers, search), minimal (compact scrolling lines), and filterable (level filtering with counts). Supports colored log levels, timestamps, auto-scrolling, copy, and export."
+      },
+      {
+        "name": "logo-cloud",
+        "type": "registry:component",
+        "title": "Logo Cloud",
+        "description": "\"Trusted by\" logo display with static grid and infinite-scroll marquee layouts. Grayscale by default, color on hover."
+      },
+      {
+        "name": "masonry-grid",
+        "type": "registry:component",
+        "title": "Pretext Masonry Grid",
+        "description": "Text-aware masonry layout where card heights are predicted by Pretext without DOM measurement. Zero layout shift."
+      },
+      {
+        "name": "npm-badge",
+        "type": "registry:component",
+        "title": "npm Badge",
+        "description": "Live npm package badge showing version, weekly downloads, license, and last publish date. Three layouts: inline pill, horizontal row, and expanded card. Async server component — fetches data at build time with ISR."
+      },
+      {
+        "name": "pretext",
+        "type": "registry:lib",
+        "title": "Pretext Hooks",
+        "description": "React hooks for DOM-free text measurement using @chenglou/pretext. Provides prepare/layout lifecycle, shrinkwrap search, and balanced-width computation."
+      },
+      {
+        "name": "producthunt-button",
+        "type": "registry:component",
+        "title": "Product Hunt Button",
+        "description": "Link button showing a Product Hunt post's upvote count with the PH cat icon. Two layouts: inline button and expanded card. Async server component — fetches data at build time with ISR."
+      },
+      {
+        "name": "release-badge",
+        "type": "registry:component",
+        "title": "Release Badge",
+        "description": "Live GitHub release badge showing latest tag, publish date, and pre-release indicator. Three layouts: inline pill, horizontal row, and expanded card. Async server component — fetches data at build time with ISR."
+      },
+      {
+        "name": "repo-card",
+        "type": "registry:component",
+        "title": "Repo Card",
+        "description": "GitHub repository preview card with description, language dot, star and fork counts, license, and topic tags. Async server component — fetches data at build time with ISR."
+      },
+      {
+        "name": "request-viewer",
+        "type": "registry:component",
+        "title": "Request Viewer",
+        "description": "Network request inspector showing headers, response body, and timing waterfall. Designed for dev dashboards, API documentation, and debugging tools."
+      },
+      {
+        "name": "status-indicator",
+        "type": "registry:component",
+        "title": "Status Indicator",
+        "description": "Operational status badge with colored dot and label for dashboards, status pages, and header bars."
+      },
+      {
+        "name": "stepper",
+        "type": "registry:component",
+        "title": "Stepper",
+        "description": "Numbered step-by-step layout with vertical connector lines, auto-incrementing step numbers, and status indicators. Designed for installation guides, tutorials, onboarding flows, and multi-step documentation. Composable — nest any content inside each step."
+      },
+      {
+        "name": "testimonial",
+        "type": "registry:component",
+        "title": "Testimonial",
+        "description": "Customer testimonial display with standalone card, responsive grid, and infinite-scroll marquee layouts."
+      },
+      {
+        "name": "tip-jar",
+        "type": "registry:component",
+        "title": "Crypto + Tip Jar",
+        "description": "Donation and tipping component with QR code, wallet address or handle display, and copy-to-clipboard. Supports crypto chains (Ethereum, Bitcoin, Solana, and more) and platforms (PayPal, Ko-fi, Patreon). Six layout variants for different contexts."
+      }
+    ],
+    "notes": "sitemap_urls=41"
+  },
+  {
+    "handle": "@moleculeui",
+    "homepage": "https://www.moleculeui.design/",
+    "terminology": null,
+    "status": "not_found",
+    "method": null,
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": ""
+  },
+  {
+    "handle": "@neobrutalism",
+    "homepage": "https://www.neobrutalism.dev",
+    "terminology": "Components",
+    "status": "found",
+    "method": "sitemap-slugs",
+    "indexUrl": null,
+    "itemCount": 44,
+    "items": [
+      {
+        "name": "accordion",
+        "type": "registry:ui",
+        "title": "Accordion",
+        "description": ""
+      },
+      {
+        "name": "alert",
+        "type": "registry:ui",
+        "title": "Alert",
+        "description": ""
+      },
+      {
+        "name": "alert-dialog",
+        "type": "registry:ui",
+        "title": "Alert dialog",
+        "description": ""
+      },
+      {
+        "name": "avatar",
+        "type": "registry:ui",
+        "title": "Avatar",
+        "description": ""
+      },
+      {
+        "name": "badge",
+        "type": "registry:ui",
+        "title": "Badge",
+        "description": ""
+      },
+      {
+        "name": "breadcrumb",
+        "type": "registry:ui",
+        "title": "Breadcrumb",
+        "description": ""
+      },
+      {
+        "name": "button",
+        "type": "registry:ui",
+        "title": "Button",
+        "description": ""
+      },
+      {
+        "name": "calendar",
+        "type": "registry:ui",
+        "title": "Calendar",
+        "description": ""
+      },
+      {
+        "name": "card",
+        "type": "registry:ui",
+        "title": "Card",
+        "description": ""
+      },
+      {
+        "name": "carousel",
+        "type": "registry:ui",
+        "title": "Carousel",
+        "description": ""
+      },
+      {
+        "name": "chart",
+        "type": "registry:ui",
+        "title": "Chart",
+        "description": ""
+      },
+      {
+        "name": "checkbox",
+        "type": "registry:ui",
+        "title": "Checkbox",
+        "description": ""
+      },
+      {
+        "name": "collapsible",
+        "type": "registry:ui",
+        "title": "Collapsible",
+        "description": ""
+      },
+      {
+        "name": "command",
+        "type": "registry:ui",
+        "title": "Command",
+        "description": ""
+      },
+      {
+        "name": "context-menu",
+        "type": "registry:ui",
+        "title": "Context menu",
+        "description": ""
+      },
+      {
+        "name": "dialog",
+        "type": "registry:ui",
+        "title": "Dialog",
+        "description": ""
+      },
+      {
+        "name": "drawer",
+        "type": "registry:ui",
+        "title": "Drawer",
+        "description": ""
+      },
+      {
+        "name": "dropdown-menu",
+        "type": "registry:ui",
+        "title": "Dropdown menu",
+        "description": ""
+      },
+      {
+        "name": "form",
+        "type": "registry:ui",
+        "title": "Form",
+        "description": ""
+      },
+      {
+        "name": "hover-card",
+        "type": "registry:ui",
+        "title": "Hover card",
+        "description": ""
+      },
+      {
+        "name": "image-card",
+        "type": "registry:ui",
+        "title": "Image card",
+        "description": ""
+      },
+      {
+        "name": "input",
+        "type": "registry:ui",
+        "title": "Input",
+        "description": ""
+      },
+      {
+        "name": "input-otp",
+        "type": "registry:ui",
+        "title": "Input OTP",
+        "description": ""
+      },
+      {
+        "name": "label",
+        "type": "registry:ui",
+        "title": "Label",
+        "description": ""
+      },
+      {
+        "name": "marquee",
+        "type": "registry:ui",
+        "title": "Marquee",
+        "description": ""
+      },
+      {
+        "name": "menubar",
+        "type": "registry:ui",
+        "title": "Menubar",
+        "description": ""
+      },
+      {
+        "name": "navigation-menu",
+        "type": "registry:ui",
+        "title": "Navigation menu",
+        "description": ""
+      },
+      {
+        "name": "pagination",
+        "type": "registry:ui",
+        "title": "Pagination",
+        "description": ""
+      },
+      {
+        "name": "popover",
+        "type": "registry:ui",
+        "title": "Popover",
+        "description": ""
+      },
+      {
+        "name": "progress",
+        "type": "registry:ui",
+        "title": "Progress",
+        "description": ""
+      },
+      {
+        "name": "radio-group",
+        "type": "registry:ui",
+        "title": "Radio group",
+        "description": ""
+      },
+      {
+        "name": "resizable",
+        "type": "registry:ui",
+        "title": "Resizable",
+        "description": ""
+      },
+      {
+        "name": "scroll-area",
+        "type": "registry:ui",
+        "title": "Scroll area",
+        "description": ""
+      },
+      {
+        "name": "select",
+        "type": "registry:ui",
+        "title": "Select",
+        "description": ""
+      },
+      {
+        "name": "sheet",
+        "type": "registry:ui",
+        "title": "Sheet",
+        "description": ""
+      },
+      {
+        "name": "sidebar",
+        "type": "registry:ui",
+        "title": "Sidebar",
+        "description": ""
+      },
+      {
+        "name": "skeleton",
+        "type": "registry:ui",
+        "title": "Skeleton",
+        "description": ""
+      },
+      {
+        "name": "slider",
+        "type": "registry:ui",
+        "title": "Slider",
+        "description": ""
+      },
+      {
+        "name": "sonner",
+        "type": "registry:ui",
+        "title": "Sonner",
+        "description": ""
+      },
+      {
+        "name": "switch",
+        "type": "registry:ui",
+        "title": "Switch",
+        "description": ""
+      },
+      {
+        "name": "table",
+        "type": "registry:ui",
+        "title": "Table",
+        "description": ""
+      },
+      {
+        "name": "tabs",
+        "type": "registry:ui",
+        "title": "Tabs",
+        "description": ""
+      },
+      {
+        "name": "textarea",
+        "type": "registry:ui",
+        "title": "Textarea",
+        "description": ""
+      },
+      {
+        "name": "tooltip",
+        "type": "registry:ui",
+        "title": "Tooltip",
+        "description": ""
+      }
+    ],
+    "notes": "sitemap_urls=60"
+  },
+  {
+    "handle": "@nexus-elements",
+    "homepage": "https://elements.nexus.availproject.org/docs/view-components",
+    "terminology": null,
+    "status": "not_found",
+    "method": null,
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": ""
+  },
+  {
+    "handle": "@openpolicy",
+    "homepage": "https://www.openpolicy.sh",
+    "terminology": null,
+    "status": "not_found",
+    "method": null,
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": ""
+  },
+  {
+    "handle": "@phucbm",
+    "homepage": "https://phucbm.com/components",
+    "terminology": null,
+    "status": "not_found",
+    "method": null,
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": "sitemap_urls=4 but 0 validated"
+  },
+  {
+    "handle": "@pureui",
+    "homepage": "https://pure.kam-ui.com/",
+    "terminology": null,
+    "status": "dead",
+    "method": null,
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": "URLError: <urlopen error timed out>"
+  },
+  {
+    "handle": "@shadcn-studio",
+    "homepage": "https://shadcnstudio.com",
+    "terminology": null,
+    "status": "not_found",
+    "method": null,
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": "sitemap_urls=199 but 0 validated"
+  },
+  {
+    "handle": "@shark",
+    "homepage": "https://shark.vini.one",
+    "terminology": "Components",
+    "status": "found",
+    "method": "sitemap-slugs",
+    "indexUrl": null,
+    "itemCount": 65,
+    "items": [
+      {
+        "name": "announcement",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "aspect-ratio",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "avatar",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "bottom-navigation",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "breadcrumb",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "button",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "carousel",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "checkbox",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "circular-progress",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "circular-slider",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "clipboard",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "collapsible",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "combobox",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "command",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "data-list",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "date-input",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "date-picker",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "dialog",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "download-trigger",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "drawer",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "editable",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "file-upload",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "float",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "format",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "frame",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "highlight",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "hitbox",
+        "type": "registry:style",
+        "title": "",
+        "description": "Tailwind CSS v4 utilities that expand pointer hit areas without changing layout."
+      },
+      {
+        "name": "input-group",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "input-otp",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "item",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "json-tree-view",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "kbd",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "listbox",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "marquee",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "menu",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "number-input",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "popover",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "presence",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "progress",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "qr-code",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "rating",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "resizable",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "scroll-area",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "segment-group",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "select",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "sheet",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "show",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "sidebar",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "signature-pad",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "skip-nav",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "spinner",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "status",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "swap",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "switch",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "tags-input",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "textarea",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "timer",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "toast",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "toggle",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "toggle-group",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "toggle-tooltip",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "tooltip",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "tour",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "tree-view",
+        "type": "registry:ui",
+        "title": "",
+        "description": ""
+      },
+      {
+        "name": "use-is-mobile",
+        "type": "registry:hook",
+        "title": "",
+        "description": ""
+      }
+    ],
+    "notes": "sitemap_urls=203"
+  },
+  {
+    "handle": "@shieldcn",
+    "homepage": "https://shieldcn.dev",
+    "terminology": "Components",
+    "status": "partial",
+    "method": "sitemap-slugs",
+    "indexUrl": null,
+    "itemCount": 3,
+    "items": [
+      {
+        "name": "badge-preview",
+        "type": "registry:component",
+        "title": "Badge Preview",
+        "description": "Visual badge preview with live image rendering and optional copyable code snippet. Ideal for documentation pages, badge builders, and app UIs."
+      },
+      {
+        "name": "readme-badge",
+        "type": "registry:component",
+        "title": "Readme Badge",
+        "description": "Renders a shieldcn badge image with optional link wrapping. Works with any badge URL — shieldcn, shields.io, or custom images."
+      },
+      {
+        "name": "readme-badge-row",
+        "type": "registry:component",
+        "title": "Readme Badge Row",
+        "description": "Horizontal layout wrapper for multiple badges with consistent spacing, wrapping, and alignment. Pairs with ReadmeBadge."
+      }
+    ],
+    "notes": "sitemap_urls=88"
+  },
+  {
+    "handle": "@square-ui",
+    "homepage": "https://square.lndev.me",
+    "terminology": null,
+    "status": "not_found",
+    "method": null,
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": "sitemap_urls=2 but 0 validated"
+  },
+  {
+    "handle": "@tailwind-builder",
+    "homepage": "https://tailwindbuilder.ai/",
+    "terminology": "Components",
+    "status": "found",
+    "method": "index",
+    "indexUrl": "https://tailwindbuilder.ai/api/registry",
+    "itemCount": 4,
+    "items": [
+      {
+        "name": "download-banner",
+        "type": "registry:component",
+        "title": "",
+        "description": "A banner component with optional code display for UI blocks."
+      },
+      {
+        "name": "empty-banner",
+        "type": "registry:component",
+        "title": "",
+        "description": "A banner component with optional code display for UI blocks."
+      },
+      {
+        "name": "mutual-banner",
+        "type": "registry:component",
+        "title": "",
+        "description": "A mutual banner component with optional code display for UI blocks."
+      },
+      {
+        "name": "dashboard-revenue-chart",
+        "type": "registry:component",
+        "title": "",
+        "description": "A mutual banner component with optional code display for UI blocks."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "handle": "@w3-kit",
+    "homepage": "https://w3-kit.com",
+    "terminology": null,
+    "status": "not_found",
+    "method": null,
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": "sitemap_urls=52 but 0 validated"
+  },
+  {
+    "handle": "@wandry-ui",
+    "homepage": "http://ui.wandry.com.ua/",
+    "terminology": null,
+    "status": "not_found",
+    "method": null,
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": "HTTP 404 on homepage"
+  },
+  {
+    "handle": "@xcn",
+    "homepage": "https://ui.radiumcoders.com",
+    "terminology": "Components",
+    "status": "found",
+    "method": "index",
+    "indexUrl": "https://ui.radiumcoders.com/r/index.json",
+    "itemCount": 6,
+    "items": [
+      {
+        "name": "animated-cards",
+        "type": "registry:component",
+        "title": "Animated Cards",
+        "description": "Overlapping animated cards with subtle hover zoom and per-card rotation."
+      },
+      {
+        "name": "motion-btn",
+        "type": "registry:component",
+        "title": "Motion Button",
+        "description": "A button component with a motion effect."
+      },
+      {
+        "name": "scroll-bars",
+        "type": "registry:component",
+        "title": "Scroll Bars",
+        "description": "Animated scroll bars component."
+      },
+      {
+        "name": "animated-testimonials",
+        "type": "registry:component",
+        "title": "Animated Testimonials",
+        "description": "Animated testimonials with blur effect."
+      },
+      {
+        "name": "skeuomorphic-buttons",
+        "type": "registry:component",
+        "title": "Skeuomorphic Buttons",
+        "description": "A set of skeuomorphic buttons with realistic shadows and press effects."
+      },
+      {
+        "name": "stamp",
+        "type": "registry:component",
+        "title": "Stamp",
+        "description": "A perforated edge stamp component with customizable colors."
+      }
+    ],
+    "notes": ""
+  }
+]

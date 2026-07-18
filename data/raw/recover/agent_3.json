@@ -1,0 +1,506 @@
+[
+  {
+    "handle": "@icons-animated",
+    "homepage": "https://icons.lndev.me",
+    "terminology": "Icons",
+    "status": "dead",
+    "method": "none",
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": "Every path (root, /sitemap.xml, /r/{name}.json) returns Vercel 404 'DEPLOYMENT_NOT_FOUND'. The Vercel deployment has been removed; no items recoverable. Registry described as an open-source library of animated icons (Tabler, Phosphor). Sibling lndev sites (blockus.lndevui.com, square.lndev.me) are still up, so icons may have moved, but icons.lndev.me is gone."
+  },
+  {
+    "handle": "@jalco",
+    "homepage": "https://ui.justinlevine.me",
+    "terminology": "Components",
+    "status": "found",
+    "method": "sitemap-slugs",
+    "indexUrl": null,
+    "itemCount": 36,
+    "items": [
+      {
+        "name": "code-block",
+        "type": "registry:component",
+        "description": "Syntax-highlighted code block with bundled language icon, copy button, and optional scrollable or collapsible overflow. Server component powered by shiki."
+      },
+      {
+        "name": "diff-viewer",
+        "type": "registry:component",
+        "description": "Code diff viewer with line numbers and add/remove coloring. Supports unified and split layouts."
+      },
+      {
+        "name": "code-block-command",
+        "type": "registry:component",
+        "description": "Tabbed CLI command block with package manager switching (pnpm, yarn, npm, bun, shadcn), bundled SVG icons, copy button, and localStorage persistence."
+      },
+      {
+        "name": "code-line",
+        "type": "registry:component",
+        "description": "Compact single-line code snippet with syntax highlighting and an inline copy button. Ideal for imports, CLI commands, env vars, and config values."
+      },
+      {
+        "name": "ai-copy-button",
+        "type": "registry:component",
+        "description": "Split button with a primary copy action and a dropdown of AI destinations. Copy content, view as markdown, or open in v0, ChatGPT, Claude, or Gemini."
+      },
+      {
+        "name": "kbd",
+        "type": "registry:component",
+        "description": "Keyboard shortcut key rendered as a styled keycap. Three visual profiles: flat, raised, and sculpted."
+      },
+      {
+        "name": "api-ref-table",
+        "type": "registry:component",
+        "description": "Expandable prop reference table with color-coded types, optional descriptions, and full-type details. Designed for component documentation pages."
+      },
+      {
+        "name": "file-tree",
+        "type": "registry:component",
+        "description": "Collapsible file and folder tree with file-type icons, highlights, and configurable expand state. Designed for project structure docs, README displays, and dev-tool file explorers."
+      },
+      {
+        "name": "stepper",
+        "type": "registry:component",
+        "description": "Numbered step-by-step layout with vertical connector lines, auto-incrementing step numbers, and status indicators. Designed for installation guides, tutorials, onboarding flows, and multi-step documentation. Composable — nest any content inside each step."
+      },
+      {
+        "name": "color-palette",
+        "type": "registry:component",
+        "description": "Color swatch display with name, hex/hsl/rgb values, and click-to-copy. Grid and horizontal scale strip layouts for design system documentation."
+      },
+      {
+        "name": "activity-graph",
+        "type": "registry:component",
+        "description": "GitHub-style activity heatmap that visualizes daily counts as a color-intensity grid with month labels, day labels, and a Less/More legend. Includes a helper to fetch real GitHub contribution data by username."
+      },
+      {
+        "name": "ci-badge",
+        "type": "registry:component",
+        "description": "GitHub Actions CI status badge showing passing, failing, pending, or cancelled state with colored status dot and optional duration. Two layouts: inline pill and expanded card. Async server component — fetches data at build time with ISR."
+      },
+      {
+        "name": "commit-graph",
+        "type": "registry:component",
+        "description": "Git commit history as a vertical timeline with hashes, messages, author avatars, and branch/tag labels."
+      },
+      {
+        "name": "contributor-grid",
+        "type": "registry:component",
+        "description": "GitHub contributor display with avatar grid and detailed list layouts. Async server component with ISR caching."
+      },
+      {
+        "name": "github-button-group",
+        "type": "registry:component",
+        "description": "Segmented button group displaying multiple GitHub repo metrics with per-segment links. Async server component — fetches data at build time with ISR."
+      },
+      {
+        "name": "github-stars-button",
+        "type": "registry:component",
+        "description": "Link button showing a GitHub repo's star count with the octocat icon. Async server component — fetches data at build time with ISR."
+      },
+      {
+        "name": "release-badge",
+        "type": "registry:component",
+        "description": "Live GitHub release badge showing latest tag, publish date, and pre-release indicator. Three layouts: inline pill, horizontal row, and expanded card. Async server component — fetches data at build time with ISR."
+      },
+      {
+        "name": "repo-card",
+        "type": "registry:component",
+        "description": "GitHub repository preview card with description, language dot, star and fork counts, license, and topic tags. Async server component — fetches data at build time with ISR."
+      },
+      {
+        "name": "discord-badge",
+        "type": "registry:component",
+        "description": "Live Discord server badge showing server name and online count with the Discord icon. Two layouts: inline pill and expanded card. Async server component — fetches data at build time with ISR via the public widget API."
+      },
+      {
+        "name": "download-sparkline",
+        "type": "registry:component",
+        "description": "Tiny inline SVG sparkline showing npm download trends over time. Three chart types, trend indicator, date range, and average baseline. Pure SVG, zero charting dependencies. Async server component — fetches data at build time with ISR."
+      },
+      {
+        "name": "license-badge",
+        "type": "registry:component",
+        "description": "Software license badge with SPDX identifier, category color-coding, and OSI-approved indicator. Three layouts: inline pill, segmented row, and expanded card. Accepts a license string directly or fetches from the GitHub API."
+      },
+      {
+        "name": "npm-badge",
+        "type": "registry:component",
+        "description": "Live npm package badge showing version, weekly downloads, license, and last publish date. Three layouts: inline pill, horizontal row, and expanded card. Async server component — fetches data at build time with ISR."
+      },
+      {
+        "name": "producthunt-button",
+        "type": "registry:component",
+        "description": "Link button showing a Product Hunt post's upvote count with the PH cat icon. Two layouts: inline button and expanded card. Async server component — fetches data at build time with ISR."
+      },
+      {
+        "name": "cron-schedule",
+        "type": "registry:component",
+        "description": "Visual cron expression display with field breakdown, human-readable summary, and optional next-run preview. Designed for dashboards, serverless function docs, and scheduling UIs."
+      },
+      {
+        "name": "env-table",
+        "type": "registry:component",
+        "description": "Read-only environment variable table with masked values, click-to-reveal, per-row copy, and bulk copy as .env. Designed for settings pages, deploy previews, and documentation."
+      },
+      {
+        "name": "json-viewer",
+        "type": "registry:component",
+        "description": "Collapsible, syntax-colored JSON tree with path copying, search, expand/collapse controls, and 65 editor color themes. Designed for dev dashboards, API documentation, and debugging tools."
+      },
+      {
+        "name": "log-viewer",
+        "type": "registry:component",
+        "description": "Scrollable log output component for displaying streaming logs or CLI-style output in web apps. Three variants: terminal (full CLI-style with toolbar, line numbers, search), minimal (compact scrolling lines), and filterable (level filtering with counts). Supports colored log levels, timestamps, auto-scrolling, copy, and export."
+      },
+      {
+        "name": "request-viewer",
+        "type": "registry:component",
+        "description": "Network request inspector showing headers, response body, and timing waterfall. Designed for dev dashboards, API documentation, and debugging tools."
+      },
+      {
+        "name": "logo-cloud",
+        "type": "registry:component",
+        "description": "\"Trusted by\" logo display with static grid and infinite-scroll marquee layouts. Grayscale by default, color on hover."
+      },
+      {
+        "name": "testimonial",
+        "type": "registry:component",
+        "description": "Customer testimonial display with standalone card, responsive grid, and infinite-scroll marquee layouts."
+      },
+      {
+        "name": "status-indicator",
+        "type": "registry:component",
+        "description": "Operational status badge with colored dot and label for dashboards, status pages, and header bars."
+      },
+      {
+        "name": "tip-jar",
+        "type": "registry:component",
+        "description": "Donation and tipping component with QR code, wallet address or handle display, and copy-to-clipboard. Supports crypto chains (Ethereum, Bitcoin, Solana, and more) and platforms (PayPal, Ko-fi, Patreon). Six layout variants for different contexts."
+      },
+      {
+        "name": "pretext",
+        "type": "registry:lib",
+        "description": "React hooks for DOM-free text measurement using @chenglou/pretext. Provides prepare/layout lifecycle, shrinkwrap search, and balanced-width computation."
+      },
+      {
+        "name": "balanced-text",
+        "type": "registry:component",
+        "description": "Text wrapper that uses Pretext to balance line widths so all lines are roughly equal length. Deterministic and cross-browser consistent."
+      },
+      {
+        "name": "chat-bubble",
+        "type": "registry:component",
+        "description": "Message bubble with Pretext shrinkwrap that finds the tightest width for the same line count, eliminating dead space CSS fit-content leaves behind."
+      },
+      {
+        "name": "masonry-grid",
+        "type": "registry:component",
+        "description": "Text-aware masonry layout where card heights are predicted by Pretext without DOM measurement. Zero layout shift."
+      }
+    ],
+    "notes": "sitemap.xml lists 36 /docs/components/{slug} pages; last path segment maps directly to /r/{slug}.json. All 36 validated as registry items (mostly registry:component; 'pretext' is registry:lib). GitHub-integrated / developer-facing components (jalco-ui by Justin Levine)."
+  },
+  {
+    "handle": "@moleculeui",
+    "homepage": "https://www.moleculeui.design/",
+    "terminology": "Components",
+    "status": "not_found",
+    "method": "none",
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": "Domain is now a parked page. Homepage and every path (including /r/{name}.json and nonsense paths) return 200 text/html with an onload redirect to /lander, which is a GoDaddy parking lander (window.LANDER_SYSTEM='PW', wsimg.com parking scripts). No JSON items served; the /r/*.json 200 responses are the parking HTML, not registry items. Registry effectively gone."
+  },
+  {
+    "handle": "@neobrutalism",
+    "homepage": "https://www.neobrutalism.dev",
+    "terminology": "Components",
+    "status": "found",
+    "method": "sitemap-slugs",
+    "indexUrl": null,
+    "itemCount": 44,
+    "items": [
+      {
+        "name": "accordion",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "alert",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "alert-dialog",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "avatar",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "badge",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "breadcrumb",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "button",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "calendar",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "card",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "carousel",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "chart",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "checkbox",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "collapsible",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "command",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "context-menu",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "dialog",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "drawer",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "dropdown-menu",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "form",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "hover-card",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "image-card",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "input",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "input-otp",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "label",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "marquee",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "menubar",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "navigation-menu",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "pagination",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "popover",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "progress",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "radio-group",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "resizable",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "scroll-area",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "select",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "sheet",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "sidebar",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "skeleton",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "slider",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "sonner",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "switch",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "table",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "tabs",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "textarea",
+        "type": "registry:ui",
+        "description": ""
+      },
+      {
+        "name": "tooltip",
+        "type": "registry:ui",
+        "description": ""
+      }
+    ],
+    "notes": "sitemap.xml lists /docs/{slug} pages; slug maps directly to /r/{slug}.json (confirmed). 44 of the /docs slugs validated as registry:ui items. Non-item docs slugs (combobox, date-picker, data-table, resources, figma, changelog, installation, stars, migrating-from-v3, etc.) correctly returned no item. Item JSONs carry no 'description' field (empty). neobrutalism-styled shadcn/ui components."
+  },
+  {
+    "handle": "@nexus-elements",
+    "homepage": "https://elements.nexus.availproject.org/docs/view-components",
+    "terminology": "Widgets / Elements",
+    "status": "found",
+    "method": "docs+item-probe",
+    "indexUrl": null,
+    "itemCount": 7,
+    "items": [
+      {
+        "name": "deposit",
+        "type": "registry:component",
+        "description": "Deprecated: use Nexus Widget instead. A legacy component built with Nexus to enable deposits."
+      },
+      {
+        "name": "fast-bridge",
+        "type": "registry:component",
+        "description": "Deprecated: use Nexus Widget instead. A legacy component built with Nexus to enable cross chain bridging."
+      },
+      {
+        "name": "nexus",
+        "type": "registry:component",
+        "description": "The unified Avail Nexus widget for swap, send, and deposit flows. One component for all cross-chain operations powered by Nexus intents."
+      },
+      {
+        "name": "nexus-provider",
+        "type": "registry:component",
+        "description": "Shared Nexus SDK provider and types for Avail Widgets"
+      },
+      {
+        "name": "transfer",
+        "type": "registry:component",
+        "description": "Deprecated: use Nexus Widget instead. A legacy component built with Nexus to enable cross chain transfer."
+      },
+      {
+        "name": "unified-balance",
+        "type": "registry:component",
+        "description": "Deprecated: use Nexus Widget instead. Unified Balance has been removed in favor of Nexus Widget's inline balance views."
+      },
+      {
+        "name": "view-history",
+        "type": "registry:component",
+        "description": "Deprecated: use Nexus Widget instead. View History has been removed. Use sdk.getMyIntents() for programmatic access."
+      }
+    ],
+    "notes": "elements.nexus.availproject.org 307-redirects to widgets.availproject.org (Next.js SPA; no static sitemap/registry index). Docs (view-components.mdx) install via 'shadcn add availproject/widgets/nexus' and list sections Nexus Widget + Legacy Elements (Fast Bridge, Fast Transfer, Deposit, Unified Balance, View History). Probed item template /r/{name}.json (works on both hosts): 7 valid registry:component items found. Legacy items are marked Deprecated in their descriptions. Avail Nexus cross-chain widgets."
+  },
+  {
+    "handle": "@openpolicy",
+    "homepage": "https://www.openpolicy.sh",
+    "terminology": "Components",
+    "status": "not_found",
+    "method": "none",
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": "openpolicy.sh 308-redirects to policystack.dev (project renamed to PolicyStack). PolicyStack is now distributed as npm packages (@policystack/core, @policystack/react) with components PolicyStack/ConsentGate/CookieBanner and framework adapters (React/Vue/Solid/Svelte/Angular) - NOT a shadcn /r/ registry. No index (/r/registry.json, /r/index.json, /registry.json, /api/registry all 404/redirect) and 18 probed item names (cookie-banner, consent-banner, privacy-policy, terms, etc.) returned 404 on both openpolicy.sh and policystack.dev. Homepage mentions a 'shadcn-style consent banner' but no installable /r/ items exist."
+  }
+]

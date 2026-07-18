@@ -1,0 +1,170 @@
+[
+  {
+    "handle": "@aevr",
+    "homepage": "https://ui.aevr.space",
+    "urlTemplate": "https://ui.aevr.space/r/{name}.json",
+    "lastError": "HTTP 404 @ https://ui.aevr.space/registry.json"
+  },
+  {
+    "handle": "@ai-blocks",
+    "homepage": "https://webllm.org/blocks",
+    "urlTemplate": "https://webllm.org/r/{name}.json",
+    "lastError": "HTTP 404 @ https://webllm.org/registry.json"
+  },
+  {
+    "handle": "@aliimam",
+    "homepage": "https://aliimam.in",
+    "urlTemplate": "https://aliimam.in/r/{name}.json",
+    "lastError": "HTTP 404 @ https://aliimam.in/registry.json"
+  },
+  {
+    "handle": "@commercn",
+    "homepage": "https://commercn.com",
+    "urlTemplate": "https://commercn.com/r/{name}.json",
+    "lastError": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known> @ https://commercn.com/registry.json"
+  },
+  {
+    "handle": "@creative-tim",
+    "homepage": "https://www.creative-tim.com/ui",
+    "urlTemplate": "https://www.creative-tim.com/ui/r/{name}.json",
+    "lastError": "HTTP 404 @ https://www.creative-tim.com/registry.json"
+  },
+  {
+    "handle": "@devl",
+    "homepage": "https://devl.dev",
+    "urlTemplate": "https://devl.dev/r/{name}.json",
+    "lastError": "HTTP 404 @ https://devl.dev/registry.json"
+  },
+  {
+    "handle": "@doras-ui",
+    "homepage": "https://ui.doras.to/",
+    "urlTemplate": "https://ui.doras.to/r/{name}.json",
+    "lastError": "HTTP 404 @ https://ui.doras.to/registry.json"
+  },
+  {
+    "handle": "@emerald-ui",
+    "homepage": "https://emerald-ui.com",
+    "urlTemplate": "https://emerald-ui.com/r/{name}.json",
+    "lastError": "HTTP 404 @ https://emerald-ui.com/registry.json"
+  },
+  {
+    "handle": "@evilbuttons",
+    "homepage": "https://evilbuttons.radiumcoders.com/docs",
+    "urlTemplate": "https://evilbuttons.radiumcoders.com/r/{name}.json",
+    "lastError": "HTTP 404 @ https://evilbuttons.radiumcoders.com/registry.json"
+  },
+  {
+    "handle": "@fonttrio",
+    "homepage": "https://www.fonttrio.xyz",
+    "urlTemplate": "https://www.fonttrio.xyz/r/{name}.json",
+    "lastError": "HTTP 404 @ https://www.fonttrio.xyz/registry.json"
+  },
+  {
+    "handle": "@grainly-icons",
+    "homepage": "https://grainlyicons.abhii.space",
+    "urlTemplate": "https://grainlyicons.abhii.space/r/{name}.json",
+    "lastError": "HTTP 404 @ https://grainlyicons.abhii.space/registry.json"
+  },
+  {
+    "handle": "@headcodecms",
+    "homepage": "https://headcodecms.com",
+    "urlTemplate": "https://headcodecms.com/r/{name}.json",
+    "lastError": "HTTP 401 @ https://headcodecms.com/registry.json"
+  },
+  {
+    "handle": "@icons-animated",
+    "homepage": "https://icons.lndev.me",
+    "urlTemplate": "https://icons.lndev.me/r/{name}.json",
+    "lastError": "HTTP 404 @ https://icons.lndev.me/registry.json"
+  },
+  {
+    "handle": "@jalco",
+    "homepage": "https://ui.justinlevine.me",
+    "urlTemplate": "https://ui.justinlevine.me/r/{name}.json",
+    "lastError": "HTTP 404 @ https://ui.justinlevine.me/registry.json"
+  },
+  {
+    "handle": "@moleculeui",
+    "homepage": "https://www.moleculeui.design/",
+    "urlTemplate": "https://www.moleculeui.design/r/{name}.json",
+    "lastError": "JSONDecodeError: Expecting value: line 1 column 1 (char 0) @ https://www.moleculeui.design/registry.json"
+  },
+  {
+    "handle": "@neobrutalism",
+    "homepage": "https://www.neobrutalism.dev",
+    "urlTemplate": "https://www.neobrutalism.dev/r/{name}.json",
+    "lastError": "HTTP 404 @ https://www.neobrutalism.dev/registry.json"
+  },
+  {
+    "handle": "@nexus-elements",
+    "homepage": "https://elements.nexus.availproject.org/docs/view-components",
+    "urlTemplate": "https://elements.nexus.availproject.org/r/{name}.json",
+    "lastError": "HTTP 404 @ https://elements.nexus.availproject.org/registry.json"
+  },
+  {
+    "handle": "@openpolicy",
+    "homepage": "https://www.openpolicy.sh",
+    "urlTemplate": "https://www.openpolicy.sh/r/{name}.json",
+    "lastError": "HTTP 404 @ https://www.openpolicy.sh/registry.json"
+  },
+  {
+    "handle": "@phucbm",
+    "homepage": "https://phucbm.com/components",
+    "urlTemplate": "https://phucbm.com/r/{name}.json",
+    "lastError": "JSONDecodeError: Expecting value: line 1 column 1 (char 0) @ https://phucbm.com/registry.json"
+  },
+  {
+    "handle": "@pureui",
+    "homepage": "https://pure.kam-ui.com/",
+    "urlTemplate": "https://pure.kam-ui.com/r/{name}.json",
+    "lastError": "URLError: <urlopen error timed out> @ https://pure.kam-ui.com/registry.json"
+  },
+  {
+    "handle": "@shadcn-studio",
+    "homepage": "https://shadcnstudio.com",
+    "urlTemplate": "https://shadcnstudio.com/r/{style}/{name}.json",
+    "lastError": "HTTP 404 @ https://shadcnstudio.com/registry.json"
+  },
+  {
+    "handle": "@shark",
+    "homepage": "https://shark.vini.one",
+    "urlTemplate": "https://shark.vini.one/r/{name}.json",
+    "lastError": "HTTP 404 @ https://shark.vini.one/registry.json"
+  },
+  {
+    "handle": "@shieldcn",
+    "homepage": "https://shieldcn.dev",
+    "urlTemplate": "https://shieldcn.dev/r/{name}.json",
+    "lastError": "HTTP 404 @ https://shieldcn.dev/registry.json"
+  },
+  {
+    "handle": "@square-ui",
+    "homepage": "https://square.lndev.me",
+    "urlTemplate": "https://square.lndev.me/registry/{name}.json",
+    "lastError": "HTTP 404 @ https://square.lndev.me/registry.json"
+  },
+  {
+    "handle": "@tailwind-builder",
+    "homepage": "https://tailwindbuilder.ai/",
+    "urlTemplate": "https://tailwindbuilder.ai/r/{name}.json",
+    "lastError": "HTTP 404 @ https://tailwindbuilder.ai/registry.json"
+  },
+  {
+    "handle": "@w3-kit",
+    "homepage": "https://w3-kit.com",
+    "urlTemplate": "https://w3-kit.com/registry/{name}.json",
+    "lastError": "HTTP 404 @ https://w3-kit.com/registry.json"
+  },
+  {
+    "handle": "@wandry-ui",
+    "homepage": "http://ui.wandry.com.ua/",
+    "urlTemplate": "https://ui.wandry.com.ua/r/{name}.json",
+    "lastError": "HTTP 404 @ https://ui.wandry.com.ua/registry.json"
+  },
+  {
+    "handle": "@xcn",
+    "homepage": "https://ui.radiumcoders.com",
+    "urlTemplate": "https://ui.radiumcoders.com/r/xcn/{name}.json",
+    "lastError": "HTTP 404 @ https://ui.radiumcoders.com/registry.json"
+  }
+]

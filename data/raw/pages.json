@@ -1,0 +1,1904 @@
+{
+  "@7ovr": [
+    {
+      "label": "Blocks",
+      "url": "https://7ovr.com/blocks"
+    },
+    {
+      "label": "Templates",
+      "url": "https://7ovr.com/templates"
+    }
+  ],
+  "@8bitcn": [
+    {
+      "label": "Blocks",
+      "url": "https://www.8bitcn.com/v2"
+    },
+    {
+      "label": "Components",
+      "url": "https://www.8bitcn.com/docs/components"
+    }
+  ],
+  "@8starlabs-ui": [
+    {
+      "label": "Components",
+      "url": "https://ui.8starlabs.com/docs/components"
+    },
+    {
+      "label": "Docs",
+      "url": "https://ui.8starlabs.com/docs"
+    }
+  ],
+  "@abstract": [
+    {
+      "label": "Docs",
+      "url": "https://build.abs.xyz/docs"
+    }
+  ],
+  "@abui": [
+    {
+      "label": "Blocks",
+      "url": "https://www.abui.io/blocks/timeline"
+    },
+    {
+      "label": "Components",
+      "url": "https://www.abui.io/components/breakpoint-display"
+    }
+  ],
+  "@aceternity": [
+    {
+      "label": "Components",
+      "url": "https://ui.aceternity.com/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://ui.aceternity.com/blocks"
+    }
+  ],
+  "@agentcn": [
+    {
+      "label": "Docs",
+      "url": "https://www.agentcn.run/docs"
+    }
+  ],
+  "@agents-ui": [
+    {
+      "label": "UI",
+      "url": "https://livekit.com/products/agents-ui"
+    },
+    {
+      "label": "Icons",
+      "url": "https://livekit.com/products/agent-platform"
+    }
+  ],
+  "@ai-blocks": [
+    {
+      "label": "Blocks",
+      "url": "https://www.webllm.org/blocks"
+    },
+    {
+      "label": "Components",
+      "url": "https://www.webllm.org/blocks/components"
+    }
+  ],
+  "@ai-elements": [
+    {
+      "label": "Components",
+      "url": "https://elements.ai-sdk.dev/components/attachments"
+    },
+    {
+      "label": "Docs",
+      "url": "https://elements.ai-sdk.dev/docs"
+    }
+  ],
+  "@aicanvas": [
+    {
+      "label": "Components",
+      "url": "https://aicanvas.me/components"
+    },
+    {
+      "label": "Icons",
+      "url": "https://aicanvas.me/design-systems/andromeda/icon-button"
+    }
+  ],
+  "@algolia": [
+    {
+      "label": "Components",
+      "url": "https://sitesearch.algolia.com/docs"
+    }
+  ],
+  "@amplo": [
+    {
+      "label": "Docs",
+      "url": "https://amplo.ale.design/docs"
+    }
+  ],
+  "@animate-ui": [
+    {
+      "label": "Components",
+      "url": "https://animate-ui.com/docs/components"
+    },
+    {
+      "label": "Docs",
+      "url": "https://animate-ui.com/docs"
+    }
+  ],
+  "@animbits": [
+    {
+      "label": "Docs",
+      "url": "https://www.animbits.dev/docs"
+    }
+  ],
+  "@aniui": [
+    {
+      "label": "Components",
+      "url": "https://www.aniui.dev/docs/accordion"
+    },
+    {
+      "label": "Charts",
+      "url": "https://www.aniui.dev/charts"
+    }
+  ],
+  "@approvals-ui": [
+    {
+      "label": "Components",
+      "url": "https://approvals-ui.vercel.app/"
+    }
+  ],
+  "@arc": [
+    {
+      "label": "Components",
+      "url": "https://www.witharc.co/components"
+    }
+  ],
+  "@asanshay": [
+    {
+      "label": "Components",
+      "url": "https://ds.asanshay.com/chat-message"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://ds.asanshay.com/code-block"
+    }
+  ],
+  "@assistant-ui": [
+    {
+      "label": "Docs",
+      "url": "https://www.assistant-ui.com/docs"
+    }
+  ],
+  "@auth0": [
+    {
+      "label": "Docs",
+      "url": "https://auth0.com/docs"
+    }
+  ],
+  "@baraile-loader": [
+    {
+      "label": "Components",
+      "url": "https://shadcn-braille-loader.vercel.app/"
+    }
+  ],
+  "@basecn": [
+    {
+      "label": "Components",
+      "url": "https://basecn.dev/docs/components/accordion"
+    }
+  ],
+  "@baselayer": [
+    {
+      "label": "Docs",
+      "url": "https://www.baselayer.dev/docs"
+    }
+  ],
+  "@beste-ui": [
+    {
+      "label": "Blocks",
+      "url": "https://ui.beste.co/blocks"
+    },
+    {
+      "label": "Components",
+      "url": "https://ui.beste.co/components"
+    }
+  ],
+  "@better-upload": [
+    {
+      "label": "Docs",
+      "url": "https://better-upload.com/docs"
+    }
+  ],
+  "@beui": [
+    {
+      "label": "Components",
+      "url": "https://beui.dev/components/motion"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://beui.dev/components/blocks"
+    }
+  ],
+  "@billingsdk": [
+    {
+      "label": "Docs",
+      "url": "https://billingsdk.com/docs"
+    },
+    {
+      "label": "Components",
+      "url": "https://billingsdk.com/docs/components"
+    }
+  ],
+  "@bklit": [
+    {
+      "label": "Components",
+      "url": "https://bklit.com/docs/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://bklit.com/blocks"
+    }
+  ],
+  "@blocks-so": [
+    {
+      "label": "Components",
+      "url": "https://blocks.so/ai"
+    }
+  ],
+  "@blockus": [
+    {
+      "label": "Blocks",
+      "url": "https://blockus.lndevui.com/blocks"
+    },
+    {
+      "label": "Docs",
+      "url": "https://blockus.lndevui.com/docs"
+    }
+  ],
+  "@boldkit": [
+    {
+      "label": "Components",
+      "url": "https://boldkit.dev/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://boldkit.dev/blocks"
+    }
+  ],
+  "@bundui": [
+    {
+      "label": "Components",
+      "url": "https://bundui.io/components/accordion"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://bundui.io/blocks/marketing/hero-sections"
+    }
+  ],
+  "@cardcn": [
+    {
+      "label": "Components",
+      "url": "https://cardcn.dev/"
+    }
+  ],
+  "@chamaac": [
+    {
+      "label": "Components",
+      "url": "https://www.chamaac.com/components"
+    }
+  ],
+  "@channel3": [
+    {
+      "label": "UI",
+      "url": "https://trychannel3.com/developers/ui"
+    }
+  ],
+  "@clerk": [
+    {
+      "label": "Components",
+      "url": "https://clerk.com/docs/guides/development/shadcn-cli"
+    },
+    {
+      "label": "Icons",
+      "url": "https://clerk.com/docs/reference/nextjs/clerk-middleware"
+    }
+  ],
+  "@cognicatch": [
+    {
+      "label": "Components",
+      "url": "https://cognicatch.dev/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://cognicatch.dev/blocks"
+    }
+  ],
+  "@componentry": [
+    {
+      "label": "Blocks",
+      "url": "https://componentry.dev/blocks"
+    },
+    {
+      "label": "Docs",
+      "url": "https://componentry.dev/docs"
+    }
+  ],
+  "@contentbit": [
+    {
+      "label": "Blocks",
+      "url": "https://contentbit.dev/blocks"
+    },
+    {
+      "label": "Templates",
+      "url": "https://contentbit.dev/docs/guides/production-astro/"
+    }
+  ],
+  "@corr": [
+    {
+      "label": "Components",
+      "url": "https://ui.corr.sh/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://ui.corr.sh/blocks"
+    }
+  ],
+  "@coss": [
+    {
+      "label": "UI",
+      "url": "https://coss.com/ui"
+    },
+    {
+      "label": "Components",
+      "url": "https://coss.com/ui/docs/components/accordion"
+    }
+  ],
+  "@creative-tim": [
+    {
+      "label": "Blocks",
+      "url": "https://www.creative-tim.com/ui"
+    },
+    {
+      "label": "Components",
+      "url": "https://www.creative-tim.com/twcomponents"
+    }
+  ],
+  "@cubby-ui": [
+    {
+      "label": "Components",
+      "url": "https://www.cubby-ui.dev/docs/components/button"
+    }
+  ],
+  "@cult-ui": [
+    {
+      "label": "Components",
+      "url": "https://www.cult-ui.com/docs/components/hero-color-panels"
+    },
+    {
+      "label": "Docs",
+      "url": "https://www.cult-ui.com/docs"
+    }
+  ],
+  "@darx": [
+    {
+      "label": "Components",
+      "url": "https://darshitdev.in/arts/components/magic-genie-tabs"
+    }
+  ],
+  "@delego": [
+    {
+      "label": "Components",
+      "url": "https://github.com/topics/ui-components"
+    }
+  ],
+  "@delta": [
+    {
+      "label": "Components",
+      "url": "https://deltacomponents.dev/docs/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://deltacomponents.dev/blocks"
+    }
+  ],
+  "@devl": [
+    {
+      "label": "Charts",
+      "url": "https://www.devl.dev/c/charts"
+    },
+    {
+      "label": "Icons",
+      "url": "https://www.devl.dev/c/layouts/mini-rail"
+    }
+  ],
+  "@diceui": [
+    {
+      "label": "Components",
+      "url": "https://diceui.com/docs/components"
+    },
+    {
+      "label": "Docs",
+      "url": "https://diceui.com/docs/introduction"
+    }
+  ],
+  "@dominik-ui": [
+    {
+      "label": "Components",
+      "url": "https://dominikkoch.dev/ui"
+    },
+    {
+      "label": "Icons",
+      "url": "https://dominikkoch.dev/ui/expandable-tabs"
+    }
+  ],
+  "@doras-ui": [
+    {
+      "label": "Blocks",
+      "url": "https://ui.doras.to/blocks"
+    }
+  ],
+  "@dotmatrix": [
+    {
+      "label": "Browse",
+      "url": "https://dotmatrix.zzzzshawn.cloud/showcase"
+    }
+  ],
+  "@dsikeres1": [
+    {
+      "label": "Components",
+      "url": "https://dsikeres1.github.io/react-date-range-picker/"
+    }
+  ],
+  "@efferd": [
+    {
+      "label": "Blocks",
+      "url": "https://efferd.com/blocks"
+    },
+    {
+      "label": "Docs",
+      "url": "https://efferd.com/docs"
+    }
+  ],
+  "@einui": [
+    {
+      "label": "Components",
+      "url": "https://ui.eindev.ir/docs/components/glass-avatar"
+    },
+    {
+      "label": "Docs",
+      "url": "https://ui.eindev.ir/docs"
+    }
+  ],
+  "@eldoraui": [
+    {
+      "label": "Components",
+      "url": "https://www.eldoraui.site/docs/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://www.eldoraui.site/blocks"
+    }
+  ],
+  "@elements": [
+    {
+      "label": "Icons",
+      "url": "https://www.tryelements.dev/sponsor"
+    },
+    {
+      "label": "Elements",
+      "url": "https://www.tryelements.dev/docs/ai-elements"
+    }
+  ],
+  "@elevenlabs-ui": [
+    {
+      "label": "Components",
+      "url": "https://ui.elevenlabs.io/"
+    }
+  ],
+  "@emerald-ui": [
+    {
+      "label": "Components",
+      "url": "https://www.emerald-ui.com/docs/gsap"
+    },
+    {
+      "label": "Docs",
+      "url": "https://www.emerald-ui.com/docs"
+    }
+  ],
+  "@ericts": [
+    {
+      "label": "Components",
+      "url": "https://ui.ericts.com/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://ui.ericts.com/blocks"
+    }
+  ],
+  "@evex": [
+    {
+      "label": "Docs",
+      "url": "https://www.evex.sh/docs"
+    }
+  ],
+  "@evilbuttons": [
+    {
+      "label": "Docs",
+      "url": "https://www.evilbuttons.com/docs"
+    }
+  ],
+  "@evilcharts": [
+    {
+      "label": "Charts",
+      "url": "https://evilcharts.com/docs"
+    },
+    {
+      "label": "Components",
+      "url": "https://evilcharts.com/docs/components"
+    }
+  ],
+  "@exabase": [
+    {
+      "label": "Components",
+      "url": "https://exawizards.com/exabase/design/docs/components/accordion/"
+    },
+    {
+      "label": "Icons",
+      "url": "https://exawizards.com/exabase/design/icons/"
+    }
+  ],
+  "@extend": [
+    {
+      "label": "Components",
+      "url": "https://ui.extend.ai/ui/docs/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://ui.extend.ai/ui/blocks"
+    }
+  ],
+  "@fab-ui": [
+    {
+      "label": "Docs",
+      "url": "https://www.fab-ui.com/docs"
+    }
+  ],
+  "@flightcn": [
+    {
+      "label": "Docs",
+      "url": "https://flightcn.yencheng.dev/docs"
+    }
+  ],
+  "@flowkit-ui": [
+    {
+      "label": "Components",
+      "url": "https://flowkit-ui.vzkiss.com/docs/components/creatable-combobox"
+    },
+    {
+      "label": "Docs",
+      "url": "https://flowkit-ui.vzkiss.com/docs"
+    }
+  ],
+  "@fluid": [
+    {
+      "label": "Docs",
+      "url": "https://www.fluidfunctionalism.com/docs"
+    }
+  ],
+  "@flx": [
+    {
+      "label": "Blocks",
+      "url": "https://ui.flexnative.com/blocks"
+    }
+  ],
+  "@fonttrio": [
+    {
+      "label": "Gallery",
+      "url": "https://www.fonttrio.xyz/"
+    }
+  ],
+  "@forgeui": [
+    {
+      "label": "Components",
+      "url": "https://forgeui.in/components"
+    },
+    {
+      "label": "Docs",
+      "url": "https://forgeui.in/docs"
+    }
+  ],
+  "@formcn": [
+    {
+      "label": "Templates",
+      "url": "https://formcn.dev/form-templates/"
+    }
+  ],
+  "@framecn": [
+    {
+      "label": "Components",
+      "url": "https://www.framecn.dev/docs/components"
+    },
+    {
+      "label": "Docs",
+      "url": "https://www.framecn.dev/docs"
+    }
+  ],
+  "@gaia": [
+    {
+      "label": "Components",
+      "url": "https://ui.heygaia.io/docs"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://ui.heygaia.io/docs/components/code-block"
+    }
+  ],
+  "@gamekitui": [
+    {
+      "label": "Docs",
+      "url": "https://www.gamekitui.com/docs"
+    }
+  ],
+  "@gamifykit": [
+    {
+      "label": "Docs",
+      "url": "https://gamifykit.com/docs"
+    }
+  ],
+  "@gammaui": [
+    {
+      "label": "Components",
+      "url": "https://www.gammaui.com/docs/components"
+    }
+  ],
+  "@gc-solid": [
+    {
+      "label": "Components",
+      "url": "https://binnodon.github.io/gc-solid-ui"
+    }
+  ],
+  "@glass-ui": [
+    {
+      "label": "Components",
+      "url": "https://glass-ui.crenspire.com/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://glass-ui.crenspire.com/blocks"
+    }
+  ],
+  "@glasscn": [
+    {
+      "label": "Components",
+      "url": "https://glasscn-components.vercel.app/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://glasscn-components.vercel.app/components/glass-code-block-command"
+    }
+  ],
+  "@gooseui": [
+    {
+      "label": "Components",
+      "url": "https://gooseui.pro/docs/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://gooseui.pro/docs/blocks"
+    }
+  ],
+  "@gpt-vis": [
+    {
+      "label": "Docs",
+      "url": "https://gpt-vis.antv.vision/docs"
+    }
+  ],
+  "@grainly-icons": [
+    {
+      "label": "Icons",
+      "url": "https://grainlyicons.abhii.space/"
+    }
+  ],
+  "@grootstudio": [
+    {
+      "label": "Blocks",
+      "url": "https://grootstudio.dev/blocks"
+    },
+    {
+      "label": "Components",
+      "url": "https://grootstudio.dev/components"
+    }
+  ],
+  "@gymnopedies": [
+    {
+      "label": "Components",
+      "url": "https://gymnopedies.shoota.work/"
+    }
+  ],
+  "@ha-components": [
+    {
+      "label": "Docs",
+      "url": "https://hacomponents.keshuac.com/docs"
+    }
+  ],
+  "@headcodecms": [
+    {
+      "label": "Docs",
+      "url": "https://headcodecms.com/docs"
+    }
+  ],
+  "@heatmap": [
+    {
+      "label": "Components",
+      "url": "https://heatmap.chingru.com/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://heatmap.chingru.com/blocks"
+    }
+  ],
+  "@heroicons-animated": [
+    {
+      "label": "Components",
+      "url": "https://www.heroicons-animated.com/"
+    }
+  ],
+  "@hextaui": [
+    {
+      "label": "Components",
+      "url": "https://www.hextaui.com/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://www.hextaui.com/blocks"
+    }
+  ],
+  "@hirael": [
+    {
+      "label": "Components",
+      "url": "https://hirael.com/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://hirael.com/blocks"
+    }
+  ],
+  "@iconiq": [
+    {
+      "label": "Components",
+      "url": "https://iconiqui.com/buttons-and-actions/button"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://iconiqui.com/blocks/ai-input"
+    }
+  ],
+  "@indiacn": [
+    {
+      "label": "Components",
+      "url": "https://indiacn.in/docs"
+    }
+  ],
+  "@inferencesh": [
+    {
+      "label": "Blocks",
+      "url": "https://ui.inference.sh/blocks/agent"
+    }
+  ],
+  "@intentui": [
+    {
+      "label": "Components",
+      "url": "https://intentui.com/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://intentui.com/blocks"
+    }
+  ],
+  "@jalco": [
+    {
+      "label": "Components",
+      "url": "https://ui.justinlevine.me/docs"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://ui.justinlevine.me/docs/components/code-block"
+    }
+  ],
+  "@jolyui": [
+    {
+      "label": "Components",
+      "url": "https://www.jolyui.dev/docs/components"
+    },
+    {
+      "label": "Docs",
+      "url": "https://www.jolyui.dev/docs"
+    }
+  ],
+  "@joyco": [
+    {
+      "label": "Components",
+      "url": "https://hub.joyco.studio/components"
+    }
+  ],
+  "@kanpeki": [
+    {
+      "label": "Components",
+      "url": "https://kanpeki.vercel.app/docs/components/accordion"
+    },
+    {
+      "label": "Docs",
+      "url": "https://kanpeki.vercel.app/docs/introduction"
+    }
+  ],
+  "@kapwa": [
+    {
+      "label": "Components",
+      "url": "https://kapwa-two.vercel.app/storybook/"
+    }
+  ],
+  "@kaui": [
+    {
+      "label": "Components",
+      "url": "https://kaui-shadcn-registry.vercel.app/contribution/component-request"
+    }
+  ],
+  "@kibo-ui": [
+    {
+      "label": "Components",
+      "url": "https://www.kibo-ui.com/components/avatar-stack"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://www.kibo-ui.com/blocks/collaborative-canvas"
+    }
+  ],
+  "@kokonutui": [
+    {
+      "label": "Components",
+      "url": "https://kokonutui.com/docs/navigation/action-search-bar"
+    },
+    {
+      "label": "Docs",
+      "url": "https://kokonutui.com/docs"
+    }
+  ],
+  "@launchui": [
+    {
+      "label": "Blocks",
+      "url": "https://www.launchuicomponents.com/blocks"
+    },
+    {
+      "label": "Components",
+      "url": "https://www.launchuicomponents.com/docs/components/badge"
+    }
+  ],
+  "@lens-blocks": [
+    {
+      "label": "Blocks",
+      "url": "https://lensblocks.com/blocks"
+    },
+    {
+      "label": "Components",
+      "url": "https://lensblocks.com/components"
+    }
+  ],
+  "@limeplay": [
+    {
+      "label": "Components",
+      "url": "https://limeplay.winoffrg.dev/docs/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://limeplay.winoffrg.dev/blocks/video-player"
+    }
+  ],
+  "@lmscn": [
+    {
+      "label": "Docs",
+      "url": "https://lmscn.vercel.app/docs"
+    }
+  ],
+  "@loading-ui": [
+    {
+      "label": "Components",
+      "url": "https://loading-ui.com/docs/components"
+    },
+    {
+      "label": "Docs",
+      "url": "https://loading-ui.com/docs"
+    }
+  ],
+  "@lucide-animated": [
+    {
+      "label": "Components",
+      "url": "https://lucide-animated.com/"
+    }
+  ],
+  "@lumiui": [
+    {
+      "label": "Components",
+      "url": "https://www.lumiui.dev/widgets"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://www.lumiui.dev/blocks"
+    }
+  ],
+  "@lytenyte": [
+    {
+      "label": "Components",
+      "url": "https://www.1771technologies.com/"
+    }
+  ],
+  "@magicui": [
+    {
+      "label": "Components",
+      "url": "https://magicui.design/docs/components"
+    },
+    {
+      "label": "Docs",
+      "url": "https://magicui.design/docs"
+    }
+  ],
+  "@manifest": [
+    {
+      "label": "Blocks",
+      "url": "https://ui.manifest.build/blocks"
+    }
+  ],
+  "@mapcn": [
+    {
+      "label": "Blocks",
+      "url": "https://www.mapcn.dev/blocks"
+    },
+    {
+      "label": "Components",
+      "url": "https://www.mapcn.dev/docs/basic-map"
+    }
+  ],
+  "@mksingh": [
+    {
+      "label": "Components",
+      "url": "https://mksingh.dev/docs/components/typography"
+    },
+    {
+      "label": "Docs",
+      "url": "https://mksingh.dev/docs"
+    }
+  ],
+  "@motion-primitives": [
+    {
+      "label": "Components",
+      "url": "https://www.motion-primitives.com/"
+    }
+  ],
+  "@mozaika": [
+    {
+      "label": "Components",
+      "url": "https://mozaika.design/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://mozaika.design/blocks"
+    }
+  ],
+  "@mui-treasury": [
+    {
+      "label": "Primitives",
+      "url": "https://www.mui-treasury.com/primitive"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://www.mui-treasury.com/block"
+    }
+  ],
+  "@ncdai": [
+    {
+      "label": "Components",
+      "url": "https://chanhdai.com/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://chanhdai.com/blocks"
+    }
+  ],
+  "@neobrutalism": [
+    {
+      "label": "Components",
+      "url": "https://www.neobrutalism.dev/docs/accordion"
+    },
+    {
+      "label": "Charts",
+      "url": "https://www.neobrutalism.dev/charts"
+    }
+  ],
+  "@nessra-ui": [
+    {
+      "label": "Components",
+      "url": "https://nessra-ui.vercel.app/docs/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://nessra-ui.vercel.app/docs/blocks"
+    }
+  ],
+  "@nexus-elements": [
+    {
+      "label": "Components",
+      "url": "https://widgets.availproject.org/docs/view-components"
+    }
+  ],
+  "@nexus-labs": [
+    {
+      "label": "Components",
+      "url": "https://www.nexus-ui.com/components"
+    },
+    {
+      "label": "Templates",
+      "url": "https://www.nexus-ui.com/templates"
+    }
+  ],
+  "@nexus-ui": [
+    {
+      "label": "Components",
+      "url": "https://nexus-ui.dev/docs/components/attachments"
+    },
+    {
+      "label": "Docs",
+      "url": "https://nexus-ui.dev/docs"
+    }
+  ],
+  "@nordaun": [
+    {
+      "label": "Components",
+      "url": "https://ui.nordaun.com/components"
+    }
+  ],
+  "@nteract": [
+    {
+      "label": "Components",
+      "url": "https://nteract-elements.vercel.app/docs/cell/cell-container"
+    },
+    {
+      "label": "Elements",
+      "url": "https://nteract-elements.vercel.app/docs"
+    }
+  ],
+  "@nuqs": [
+    {
+      "label": "Components",
+      "url": "https://nuqs.dev/registry"
+    }
+  ],
+  "@nusaiba": [
+    {
+      "label": "Blocks",
+      "url": "https://nusaiba.dev/blocks"
+    },
+    {
+      "label": "Docs",
+      "url": "https://nusaiba.dev/docs"
+    }
+  ],
+  "@odysseyui": [
+    {
+      "label": "Components",
+      "url": "https://www.odysseyui.com/docs/components"
+    },
+    {
+      "label": "Docs",
+      "url": "https://www.odysseyui.com/docs"
+    }
+  ],
+  "@ogimagecn": [
+    {
+      "label": "Components",
+      "url": "https://www.ogimagecn.com/docs/components"
+    },
+    {
+      "label": "Docs",
+      "url": "https://www.ogimagecn.com/docs"
+    }
+  ],
+  "@openstatus": [
+    {
+      "label": "Components",
+      "url": "https://www.openstatus.dev/registry"
+    }
+  ],
+  "@optics": [
+    {
+      "label": "Components",
+      "url": "https://optics.agusmayol.com.ar/components"
+    },
+    {
+      "label": "Icons",
+      "url": "https://optics.agusmayol.com.ar/core/iconography"
+    }
+  ],
+  "@oui": [
+    {
+      "label": "Components",
+      "url": "https://oui.mw10013.workers.dev/"
+    }
+  ],
+  "@pacekit": [
+    {
+      "label": "Components",
+      "url": "https://paceui.com/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://paceui.com/blocks"
+    }
+  ],
+  "@pacekit-gsap": [
+    {
+      "label": "Docs",
+      "url": "https://gsap.paceui.com/docs"
+    }
+  ],
+  "@paceui": [
+    {
+      "label": "Components",
+      "url": "https://paceui.com/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://paceui.com/blocks"
+    }
+  ],
+  "@paddle": [
+    {
+      "label": "Components",
+      "url": "https://developer.paddle.com/"
+    }
+  ],
+  "@paletteui": [
+    {
+      "label": "Themes",
+      "url": "https://paletteui.xyz/"
+    }
+  ],
+  "@pastecn": [
+    {
+      "label": "Gallery",
+      "url": "https://pastecn.com/"
+    }
+  ],
+  "@paykit-sdk": [
+    {
+      "label": "Docs",
+      "url": "https://docs.usepaykit.dev/introduction"
+    }
+  ],
+  "@payload-components": [
+    {
+      "label": "Components",
+      "url": "https://www.payload-components.xyz/components"
+    },
+    {
+      "label": "Docs",
+      "url": "https://www.payload-components.xyz/docs"
+    }
+  ],
+  "@pixelact-ui": [
+    {
+      "label": "Components",
+      "url": "https://www.pixelactui.com/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://www.pixelactui.com/blocks"
+    }
+  ],
+  "@plate": [
+    {
+      "label": "Components",
+      "url": "https://platejs.org/docs/components"
+    },
+    {
+      "label": "Docs",
+      "url": "https://platejs.org/docs"
+    }
+  ],
+  "@prompt-kit": [
+    {
+      "label": "Blocks",
+      "url": "https://www.prompt-kit.com/blocks"
+    },
+    {
+      "label": "Primitives",
+      "url": "https://www.prompt-kit.com/primitives"
+    }
+  ],
+  "@prosekit": [
+    {
+      "label": "Components",
+      "url": "https://prosekit.dev/components/"
+    }
+  ],
+  "@pulkitxm": [
+    {
+      "label": "Components",
+      "url": "https://www.pulkit.page/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://www.pulkit.blog/blocks"
+    }
+  ],
+  "@pulld": [
+    {
+      "label": "Components",
+      "url": "https://pulld.pages.dev/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://pulld.pages.dev/blocks"
+    }
+  ],
+  "@ramonclaudio-coderabbit": [
+    {
+      "label": "Utilities",
+      "url": "https://ramonclaudio.com/registries/coderabbit"
+    }
+  ],
+  "@react-aria": [
+    {
+      "label": "Components",
+      "url": "https://react-aria.adobe.com/"
+    }
+  ],
+  "@react-bits": [
+    {
+      "label": "Components",
+      "url": "https://reactbits.dev/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://reactbits.dev/blocks"
+    }
+  ],
+  "@react-easy-modals": [
+    {
+      "label": "Components",
+      "url": "https://react-easy-modals-docs.vercel.app/"
+    }
+  ],
+  "@react-slot": [
+    {
+      "label": "Components",
+      "url": "https://react-slot.vercel.app/"
+    }
+  ],
+  "@remocn": [
+    {
+      "label": "Components",
+      "url": "https://www.remocn.dev/docs/typography"
+    },
+    {
+      "label": "Icons",
+      "url": "https://www.remocn.dev/docs/icons/gallery"
+    }
+  ],
+  "@rescript-shadcn": [
+    {
+      "label": "Components",
+      "url": "https://rescript-shadcn.miriad.studio/components"
+    }
+  ],
+  "@retroui": [
+    {
+      "label": "Components",
+      "url": "https://retroui.dev/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://retroui.dev/blocks"
+    }
+  ],
+  "@reui": [
+    {
+      "label": "Blocks",
+      "url": "https://reui.io/blocks"
+    },
+    {
+      "label": "Components",
+      "url": "https://reui.io/components"
+    }
+  ],
+  "@roiui": [
+    {
+      "label": "Components",
+      "url": "https://www.roiui.com/docs/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://www.roiui.com/blocks"
+    }
+  ],
+  "@saaskit": [
+    {
+      "label": "Components",
+      "url": "https://saaskit-theta.vercel.app/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://saaskit-theta.vercel.app/blocks"
+    }
+  ],
+  "@sabraman": [
+    {
+      "label": "Components",
+      "url": "https://sabraman.ru/components"
+    }
+  ],
+  "@satoriui": [
+    {
+      "label": "Components",
+      "url": "https://www.satoriui.site/components"
+    }
+  ],
+  "@scrollxui": [
+    {
+      "label": "Components",
+      "url": "https://scrollxui.dev/docs/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://scrollxui.dev/blocks"
+    }
+  ],
+  "@shadcn-editor": [
+    {
+      "label": "Blocks",
+      "url": "https://shadcn-editor.vercel.app/blocks"
+    },
+    {
+      "label": "Components",
+      "url": "https://shadcn-editor.vercel.app/components"
+    }
+  ],
+  "@shadcn-map": [
+    {
+      "label": "Docs",
+      "url": "https://shadcn-map.vercel.app/docs"
+    }
+  ],
+  "@shadcn-space": [
+    {
+      "label": "Blocks",
+      "url": "https://shadcnspace.com/blocks"
+    },
+    {
+      "label": "Components",
+      "url": "https://shadcnspace.com/components"
+    }
+  ],
+  "@shadcn-studio": [
+    {
+      "label": "Components",
+      "url": "https://shadcnstudio.com/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://shadcnstudio.com/blocks"
+    }
+  ],
+  "@shadcn-ui-blocks": [
+    {
+      "label": "Blocks",
+      "url": "https://www.shadcn-ui-blocks.com/blocks"
+    },
+    {
+      "label": "Templates",
+      "url": "https://www.shadcn-ui-blocks.com/templates"
+    }
+  ],
+  "@shadcnblocks": [
+    {
+      "label": "Blocks",
+      "url": "https://www.shadcnblocks.com/blocks"
+    },
+    {
+      "label": "Components",
+      "url": "https://www.shadcnblocks.com/components"
+    }
+  ],
+  "@shadcncraft": [
+    {
+      "label": "Blocks",
+      "url": "https://shadcncraft.com/blocks"
+    },
+    {
+      "label": "Components",
+      "url": "https://shadcncraft.com/components"
+    }
+  ],
+  "@shadcndesign": [
+    {
+      "label": "Components",
+      "url": "https://www.shadcndesign.com/components"
+    },
+    {
+      "label": "Icons",
+      "url": "https://www.shadcndesign.com/icons"
+    }
+  ],
+  "@shadcnhooks": [
+    {
+      "label": "Docs",
+      "url": "https://shadcn-hooks.com/docs/introduction"
+    }
+  ],
+  "@shadcnmaps": [
+    {
+      "label": "Components",
+      "url": "https://shadcnmaps.com/"
+    }
+  ],
+  "@shadcnstore": [
+    {
+      "label": "Blocks",
+      "url": "https://shadcnstore.com/blocks"
+    },
+    {
+      "label": "Templates",
+      "url": "https://shadcnstore.com/templates"
+    }
+  ],
+  "@shadcnui-blocks": [
+    {
+      "label": "Blocks",
+      "url": "https://www.shadcnui-blocks.com/blocks"
+    },
+    {
+      "label": "Components",
+      "url": "https://www.shadcnui-blocks.com/components/accordion"
+    }
+  ],
+  "@shadcnuikit": [
+    {
+      "label": "Blocks",
+      "url": "https://shadcnuikit.com/blocks"
+    },
+    {
+      "label": "Components",
+      "url": "https://shadcnuikit.com/components"
+    }
+  ],
+  "@shark": [
+    {
+      "label": "Components",
+      "url": "https://shark.vini.one/docs/components"
+    },
+    {
+      "label": "Docs",
+      "url": "https://shark.vini.one/docs"
+    }
+  ],
+  "@shieldcn": [
+    {
+      "label": "Components",
+      "url": "https://shieldcn.dev/components"
+    },
+    {
+      "label": "Charts",
+      "url": "https://shieldcn.dev/docs/charts"
+    }
+  ],
+  "@skiper-ui": [
+    {
+      "label": "Components",
+      "url": "https://skiper-ui.com/components"
+    }
+  ],
+  "@slide-cn": [
+    {
+      "label": "Components",
+      "url": "https://www.slide-cn.com/docs/components"
+    },
+    {
+      "label": "Docs",
+      "url": "https://www.slide-cn.com/docs"
+    }
+  ],
+  "@smoothui": [
+    {
+      "label": "Components",
+      "url": "https://smoothui.dev/docs/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://smoothui.dev/docs/blocks"
+    }
+  ],
+  "@solaceui": [
+    {
+      "label": "Blocks",
+      "url": "https://www.solaceui.com/blocks"
+    },
+    {
+      "label": "Components",
+      "url": "https://www.solaceui.com/components"
+    }
+  ],
+  "@sona-ui": [
+    {
+      "label": "Components",
+      "url": "https://sona-ui.vercel.app/docs/accordion"
+    }
+  ],
+  "@soralabs": [
+    {
+      "label": "Blocks",
+      "url": "https://ui.soralabs.io.vn/components"
+    },
+    {
+      "label": "Primitives",
+      "url": "https://ui.soralabs.io.vn/docs/primitives/text-scramble"
+    }
+  ],
+  "@soundcn": [
+    {
+      "label": "Blocks",
+      "url": "https://soundcn.xyz/"
+    }
+  ],
+  "@spectrumui": [
+    {
+      "label": "Components",
+      "url": "https://ui.spectrumhq.in/docs"
+    },
+    {
+      "label": "Charts",
+      "url": "https://ui.spectrumhq.in/docs/animatedchart"
+    }
+  ],
+  "@spell": [
+    {
+      "label": "Components",
+      "url": "https://spell.sh/docs/components"
+    },
+    {
+      "label": "Docs",
+      "url": "https://spell.sh/docs/introduction"
+    }
+  ],
+  "@stepper": [
+    {
+      "label": "Blocks",
+      "url": "https://francozeta-stepper.vercel.app/docs/blocks"
+    },
+    {
+      "label": "Docs",
+      "url": "https://francozeta-stepper.vercel.app/docs"
+    }
+  ],
+  "@supabase": [
+    {
+      "label": "Blocks",
+      "url": "https://supabase.com/ui/docs/nextjs/password-based-auth"
+    },
+    {
+      "label": "UI",
+      "url": "https://supabase.com/ui"
+    }
+  ],
+  "@svelte-bits": [
+    {
+      "label": "Components",
+      "url": "https://sveltebits.xyz/backgrounds/dot-field"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://sveltebits.xyz/docs/blocks"
+    }
+  ],
+  "@svgl": [
+    {
+      "label": "Components",
+      "url": "https://svgl.app/"
+    }
+  ],
+  "@systaliko-ui": [
+    {
+      "label": "Docs",
+      "url": "https://systaliko-ui.vercel.app/docs"
+    },
+    {
+      "label": "Templates",
+      "url": "https://systaliko-ui.vercel.app/docs/templates"
+    }
+  ],
+  "@tailark": [
+    {
+      "label": "Blocks",
+      "url": "https://tailark.com/blocks"
+    },
+    {
+      "label": "Docs",
+      "url": "https://tailark.com/docs"
+    }
+  ],
+  "@tailgrids": [
+    {
+      "label": "Components",
+      "url": "https://tailgrids.com/figma"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://tailgrids.com/blocks"
+    }
+  ],
+  "@tailwind-admin": [
+    {
+      "label": "Components",
+      "url": "https://tailwind-admin.com/animated-components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://tailwind-admin.com/ui-blocks"
+    }
+  ],
+  "@tailwind-builder": [
+    {
+      "label": "Charts",
+      "url": "https://tailwindbuilder.ai/chart-builder"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://tailwindbuilder.ai/blocks"
+    }
+  ],
+  "@taki": [
+    {
+      "label": "Components",
+      "url": "https://taki-ui.com/docs/components/"
+    },
+    {
+      "label": "Elements",
+      "url": "https://taki-ui.com/docs/ai-elements/"
+    }
+  ],
+  "@termcn": [
+    {
+      "label": "Components",
+      "url": "https://www.termcn.dev/docs/components"
+    },
+    {
+      "label": "Docs",
+      "url": "https://www.termcn.dev/docs"
+    }
+  ],
+  "@terrae": [
+    {
+      "label": "Components",
+      "url": "https://www.terrae.dev/docs/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://www.terrae.dev/blocks"
+    }
+  ],
+  "@tetra-ui": [
+    {
+      "label": "Components",
+      "url": "https://www.tetra-ui.com/docs/components"
+    },
+    {
+      "label": "Docs",
+      "url": "https://www.tetra-ui.com/docs"
+    }
+  ],
+  "@text-ui": [
+    {
+      "label": "Docs",
+      "url": "https://joelachance.github.io/text-ui/docs/"
+    }
+  ],
+  "@thegridcn": [
+    {
+      "label": "Components",
+      "url": "https://thegridcn.com/components"
+    },
+    {
+      "label": "Templates",
+      "url": "https://thegridcn.com/templates"
+    }
+  ],
+  "@threecn": [
+    {
+      "label": "Components",
+      "url": "https://threecn.dev/docs/scenes"
+    },
+    {
+      "label": "Docs",
+      "url": "https://threecn.dev/docs"
+    }
+  ],
+  "@toc-cn": [
+    {
+      "label": "Blocks",
+      "url": "https://tocn.vercel.app/"
+    }
+  ],
+  "@tokenui": [
+    {
+      "label": "Components",
+      "url": "https://www.tokenui.dev/docs/components/token"
+    }
+  ],
+  "@tool-ui": [
+    {
+      "label": "Blocks",
+      "url": "https://www.tool-ui.com/"
+    }
+  ],
+  "@tour": [
+    {
+      "label": "Docs",
+      "url": "https://onboarding-tour.vercel.app/docs"
+    }
+  ],
+  "@trophy-ui": [
+    {
+      "label": "Components",
+      "url": "https://ui.trophy.so/docs/components"
+    },
+    {
+      "label": "Docs",
+      "url": "https://ui.trophy.so/docs"
+    }
+  ],
+  "@turbopills-ui": [
+    {
+      "label": "Components",
+      "url": "https://www.turbopills.com/ui/docs/components/input"
+    },
+    {
+      "label": "Docs",
+      "url": "https://www.turbopills.com/ui/docs"
+    }
+  ],
+  "@typedora-ui": [
+    {
+      "label": "Docs",
+      "url": "https://typedora-ui.netlify.app/docs/"
+    }
+  ],
+  "@ui-layouts": [
+    {
+      "label": "Components",
+      "url": "https://www.ui-layouts.com/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://www.ui-layouts.com/blocks"
+    }
+  ],
+  "@uiable": [
+    {
+      "label": "Components",
+      "url": "https://uiable.com/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://uiable.com/blocks"
+    }
+  ],
+  "@uicapsule": [
+    {
+      "label": "Templates",
+      "url": "https://www.uicapsule.com/ui/emerald-template"
+    },
+    {
+      "label": "Charts",
+      "url": "https://www.uicapsule.com/ui/line-chart"
+    }
+  ],
+  "@uitripled": [
+    {
+      "label": "Components",
+      "url": "https://ui.tripled.work/components"
+    }
+  ],
+  "@unlumen-ui": [
+    {
+      "label": "Components",
+      "url": "https://ui.unlumen.com/components"
+    },
+    {
+      "label": "Primitives",
+      "url": "https://unlumen-ui-docs.vercel.app/docs/ui"
+    }
+  ],
+  "@untld": [
+    {
+      "label": "Docs",
+      "url": "https://ui.untldlabs.com/docs"
+    }
+  ],
+  "@uselayouts": [
+    {
+      "label": "Components",
+      "url": "https://uselayouts.com/docs/components/3d-book"
+    }
+  ],
+  "@utilcn": [
+    {
+      "label": "Docs",
+      "url": "https://www.utilcn.dev/docs"
+    }
+  ],
+  "@uui": [
+    {
+      "label": "Components",
+      "url": "https://uui.app/discover/components"
+    }
+  ],
+  "@vllnt-ui": [
+    {
+      "label": "Components",
+      "url": "https://ui.vllnt.com/components"
+    },
+    {
+      "label": "Templates",
+      "url": "https://ui.vllnt.com/templates"
+    }
+  ],
+  "@vue-bits": [
+    {
+      "label": "Components",
+      "url": "https://vue-bits.dev/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://vue-bits.dev/blocks"
+    }
+  ],
+  "@waves-cn": [
+    {
+      "label": "Components",
+      "url": "https://waves-cn.vercel.app/docs"
+    }
+  ],
+  "@wds": [
+    {
+      "label": "Components",
+      "url": "https://wds-shadcn-registry.netlify.app/components/"
+    }
+  ],
+  "@wensity": [
+    {
+      "label": "Blocks",
+      "url": "https://wensity.com/"
+    }
+  ],
+  "@wigggle-ui": [
+    {
+      "label": "Docs",
+      "url": "https://wigggle-ui.vercel.app/docs"
+    }
+  ],
+  "@xcn": [
+    {
+      "label": "Blocks",
+      "url": "https://ui.radiumcoders.com/blocks"
+    },
+    {
+      "label": "Templates",
+      "url": "https://ui.radiumcoders.com/templates"
+    }
+  ],
+  "@zippystarter": [
+    {
+      "label": "Components",
+      "url": "https://zippystarter.com/components"
+    },
+    {
+      "label": "Blocks",
+      "url": "https://zippystarter.com/blocks"
+    }
+  ]
+}

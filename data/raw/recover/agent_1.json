@@ -1,0 +1,3851 @@
+[
+  {
+    "handle": "@aevr",
+    "homepage": "https://ui.aevr.space",
+    "terminology": "Components",
+    "status": "not_found",
+    "method": "probe+webfetch",
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": "Domain is parked/for-sale: homepage, /sitemap.xml, /registry all return an 'aevr.space' Above.com forsale parking page (assets.abovedomains.com/forsale.min.js). The /r/*.json item endpoint returns a plain Apache '404 Not Found' for every probe (button, badge, registry.json, index.json). No index, no sitemap, no items validate. Registry appears defunct."
+  },
+  {
+    "handle": "@ai-blocks",
+    "homepage": "https://webllm.org/blocks",
+    "terminology": "Blocks",
+    "status": "found",
+    "method": "index:https://webllm.org/r/index.json",
+    "indexUrl": "https://webllm.org/r/index.json",
+    "itemCount": 127,
+    "items": [
+      {
+        "name": "ai-avatar",
+        "type": "registry:ui",
+        "description": "An avatar component with AI/user variants and thinking indicator."
+      },
+      {
+        "name": "ai-input",
+        "type": "registry:ui",
+        "description": "An enhanced textarea input with stop button, file attachments, and submit handling."
+      },
+      {
+        "name": "chat-bubble",
+        "type": "registry:ui",
+        "description": "A chat message bubble with streaming text support, avatar, and timestamp."
+      },
+      {
+        "name": "message-list",
+        "type": "registry:ui",
+        "description": "A scrollable list of chat messages with auto-scroll and empty state."
+      },
+      {
+        "name": "chat-interface",
+        "type": "registry:block",
+        "description": "A complete chat interface with message list, input, and streaming support."
+      },
+      {
+        "name": "streaming-text",
+        "type": "registry:block",
+        "description": "A text component with streaming cursor and optional typing animation."
+      },
+      {
+        "name": "prompt-form",
+        "type": "registry:block",
+        "description": "A prompt input form with optional model selector, temperature, and token controls."
+      },
+      {
+        "name": "use-streaming",
+        "type": "registry:hook",
+        "description": "Hook for handling streaming text responses from AI APIs."
+      },
+      {
+        "name": "use-chat",
+        "type": "registry:hook",
+        "description": "Hook for managing chat conversations with message history and generation."
+      },
+      {
+        "name": "use-webllm",
+        "type": "registry:hook",
+        "description": "Hook for integrating with WebLLM client for browser-native LLM access."
+      },
+      {
+        "name": "alt-text-generator",
+        "type": "registry:block",
+        "description": "Auto-generate image descriptions for accessibility"
+      },
+      {
+        "name": "simplify-text",
+        "type": "registry:block",
+        "description": "Convert complex text to plain, accessible language"
+      },
+      {
+        "name": "screen-reader-prep",
+        "type": "registry:block",
+        "description": "Optimize content for screen readers - replace emojis, fix links"
+      },
+      {
+        "name": "dyslexia-mode",
+        "type": "registry:block",
+        "description": "Adjustable text formatting for easier reading"
+      },
+      {
+        "name": "pirate-article-reader",
+        "type": "registry:block",
+        "description": "Listen to any article narrated by a salty sea captain - Arr!"
+      },
+      {
+        "name": "character-voices",
+        "type": "registry:block",
+        "description": "Hear content in different character voices - news anchor, storyteller, professor"
+      },
+      {
+        "name": "audio-summary",
+        "type": "registry:block",
+        "description": "Get a quick audio TLDR of any article - perfect for busy readers"
+      },
+      {
+        "name": "bedtime-story",
+        "type": "registry:block",
+        "description": "Generate and narrate soothing bedtime stories for children"
+      },
+      {
+        "name": "multi-voice-dialogue",
+        "type": "registry:block",
+        "description": "Dialogues with different AI voices for each character"
+      },
+      {
+        "name": "podcast-generator",
+        "type": "registry:block",
+        "description": "Transform any topic into a podcast segment with AI host"
+      },
+      {
+        "name": "availability-badge",
+        "type": "registry:block",
+        "description": "Simple status pills and badges showing WebLLM availability state"
+      },
+      {
+        "name": "availability-banner",
+        "type": "registry:block",
+        "description": "Contextual banners with setup guidance and action CTAs based on WebLLM status"
+      },
+      {
+        "name": "capability-gate",
+        "type": "registry:block",
+        "description": "Feature cards showing available AI capabilities based on configured providers"
+      },
+      {
+        "name": "availability-behavior",
+        "type": "registry:block",
+        "description": "Interactive demo showing show/hide/fallback patterns for unavailable AI features"
+      },
+      {
+        "name": "oauth-domain-auth",
+        "type": "registry:block",
+        "description": "Complete OAuth flow for connecting user cloud accounts with domain-based authorization"
+      },
+      {
+        "name": "cloud-auth-button",
+        "type": "registry:block",
+        "description": "Various button styles for cloud authentication - simple, icon-only, dropdown, and status badge"
+      },
+      {
+        "name": "cloud-login-button",
+        "type": "registry:block",
+        "description": "Simple login button with green glowing status dot and disconnect dropdown"
+      },
+      {
+        "name": "simple-chat",
+        "type": "registry:block",
+        "description": "Basic chat interface with user and assistant messages"
+      },
+      {
+        "name": "chat-personas",
+        "type": "registry:block",
+        "description": "Switch between AI personalities: pirate, Shakespeare, chef, detective"
+      },
+      {
+        "name": "voice-chat",
+        "type": "registry:block",
+        "description": "Speech-to-text input with text-to-speech responses"
+      },
+      {
+        "name": "chat-with-context",
+        "type": "registry:block",
+        "description": "Chat that references page content - ask questions about any article"
+      },
+      {
+        "name": "chat-with-tools",
+        "type": "registry:block",
+        "description": "AI assistant that can call functions - calculator, time, weather"
+      },
+      {
+        "name": "headline-generator",
+        "type": "registry:block",
+        "description": "Generate multiple headline options in different styles"
+      },
+      {
+        "name": "bio-writer",
+        "type": "registry:block",
+        "description": "Generate professional bios in multiple tones and lengths"
+      },
+      {
+        "name": "email-composer",
+        "type": "registry:block",
+        "description": "Draft professional emails from bullet points"
+      },
+      {
+        "name": "story-helper",
+        "type": "registry:block",
+        "description": "Writing assistant with plot twists, dialogue, and continuations"
+      },
+      {
+        "name": "receipt-parser",
+        "type": "registry:block",
+        "description": "Extract structured data from receipt text or images"
+      },
+      {
+        "name": "product-comparison",
+        "type": "registry:block",
+        "description": "AI-generated comparison tables for any products"
+      },
+      {
+        "name": "pricing-explainer",
+        "type": "registry:block",
+        "description": "Explain if a price is fair with market context"
+      },
+      {
+        "name": "churn-detector",
+        "type": "registry:block",
+        "description": "Identify customers at risk of churning"
+      },
+      {
+        "name": "size-recommender",
+        "type": "registry:block",
+        "description": "Personalized clothing size recommendations"
+      },
+      {
+        "name": "gift-recommender",
+        "type": "registry:block",
+        "description": "Personalized gift ideas based on recipient description"
+      },
+      {
+        "name": "inventory-narrator",
+        "type": "registry:block",
+        "description": "Generate friendly inventory status messages"
+      },
+      {
+        "name": "regex-generator",
+        "type": "registry:block",
+        "description": "Generate regex patterns from natural language descriptions"
+      },
+      {
+        "name": "error-explainer",
+        "type": "registry:block",
+        "description": "Get friendly explanations for cryptic error messages"
+      },
+      {
+        "name": "json-type-converter",
+        "type": "registry:block",
+        "description": "Convert JSON to TypeScript, Zod, or other type definitions"
+      },
+      {
+        "name": "cron-builder",
+        "type": "registry:block",
+        "description": "Generate and explain cron expressions in plain English"
+      },
+      {
+        "name": "api-response-designer",
+        "type": "registry:block",
+        "description": "Generate realistic API responses for testing and docs"
+      },
+      {
+        "name": "git-helper",
+        "type": "registry:block",
+        "description": "Get git commands from natural language descriptions"
+      },
+      {
+        "name": "commit-message-writer",
+        "type": "registry:block",
+        "description": "Generate meaningful commit messages from your changes"
+      },
+      {
+        "name": "code-converter",
+        "type": "registry:block",
+        "description": "Convert code between programming languages"
+      },
+      {
+        "name": "review-summarizer",
+        "type": "registry:block",
+        "description": "Synthesize product reviews into pros, cons, and rating summary"
+      },
+      {
+        "name": "product-compare",
+        "type": "registry:block",
+        "description": "Side-by-side comparison with criteria analysis and winner"
+      },
+      {
+        "name": "size-advisor",
+        "type": "registry:block",
+        "description": "Personalized size recommendations based on measurements"
+      },
+      {
+        "name": "product-search-nl",
+        "type": "registry:block",
+        "description": "Search products by describing what you want in plain English"
+      },
+      {
+        "name": "flashcard-generator",
+        "type": "registry:block",
+        "description": "Generate study flashcards from any educational content"
+      },
+      {
+        "name": "practice-problems",
+        "type": "registry:block",
+        "description": "Infinite multiple choice questions from any content"
+      },
+      {
+        "name": "socratic-tutor",
+        "type": "registry:block",
+        "description": "Learn through guided questions - no direct answers given"
+      },
+      {
+        "name": "glossary-hover",
+        "type": "registry:block",
+        "description": "Hover over technical terms for instant definitions"
+      },
+      {
+        "name": "concept-checker",
+        "type": "registry:block",
+        "description": "Explain it back - AI evaluates your understanding"
+      },
+      {
+        "name": "smart-textarea",
+        "type": "registry:block",
+        "description": "AI-powered text input with inline suggestions (Tab to accept)"
+      },
+      {
+        "name": "form-autofill",
+        "type": "registry:block",
+        "description": "Natural language to form fields - describe yourself, form fills itself"
+      },
+      {
+        "name": "input-validation",
+        "type": "registry:block",
+        "description": "AI-powered input validation with helpful suggestions"
+      },
+      {
+        "name": "contact-form",
+        "type": "registry:block",
+        "description": "AI auto-categorizes and prioritizes support inquiries"
+      },
+      {
+        "name": "roast-my-idea",
+        "type": "registry:block",
+        "description": "Get a brutally honest critique of your startup or project idea"
+      },
+      {
+        "name": "name-generator",
+        "type": "registry:block",
+        "description": "Generate creative names for products, companies, or characters"
+      },
+      {
+        "name": "excuse-generator",
+        "type": "registry:block",
+        "description": "Generate creative excuses for various situations"
+      },
+      {
+        "name": "horoscope-generator",
+        "type": "registry:block",
+        "description": "Generate personalized daily horoscopes"
+      },
+      {
+        "name": "recipe-from-ingredients",
+        "type": "registry:block",
+        "description": "Generate recipes based on available ingredients"
+      },
+      {
+        "name": "rhyme-helper",
+        "type": "registry:block",
+        "description": "Find rhymes and help write poetry or lyrics"
+      },
+      {
+        "name": "shakespearean-insult",
+        "type": "registry:block",
+        "description": "Generate creative insults in Shakespearean style"
+      },
+      {
+        "name": "fortune-cookie",
+        "type": "registry:block",
+        "description": "Generate wisdom and fortunes in fortune cookie style"
+      },
+      {
+        "name": "dating-profile-reviewer",
+        "type": "registry:block",
+        "description": "Get AI feedback on your dating profile"
+      },
+      {
+        "name": "text-to-image",
+        "type": "registry:block",
+        "description": "Generate images from text prompts using AI"
+      },
+      {
+        "name": "image-variations",
+        "type": "registry:block",
+        "description": "Generate style variations of any image - oil painting, minimalist, vintage"
+      },
+      {
+        "name": "image-editor",
+        "type": "registry:block",
+        "description": "Edit images with natural language instructions"
+      },
+      {
+        "name": "pet-portrait",
+        "type": "registry:block",
+        "description": "Transform pet photos into artistic portraits - Renaissance, Pop Art, Watercolor, Cyberpunk"
+      },
+      {
+        "name": "decision-helper",
+        "type": "registry:block",
+        "description": "Structured decision-making with pros, cons, and recommendations"
+      },
+      {
+        "name": "brainstorm-partner",
+        "type": "registry:block",
+        "description": "Collaborative idea generation with AI building on your thoughts"
+      },
+      {
+        "name": "rubber-duck",
+        "type": "registry:block",
+        "description": "Talk through your code problems with an AI duck"
+      },
+      {
+        "name": "story-collaborator",
+        "type": "registry:block",
+        "description": "Co-write stories with AI that builds on your narrative"
+      },
+      {
+        "name": "language-partner",
+        "type": "registry:block",
+        "description": "Practice conversations in any language with corrections"
+      },
+      {
+        "name": "trivia-game",
+        "type": "registry:block",
+        "description": "Play customizable trivia with AI-generated questions"
+      },
+      {
+        "name": "would-you-rather",
+        "type": "registry:block",
+        "description": "AI-generated dilemmas with philosophical analysis"
+      },
+      {
+        "name": "two-truths-lie",
+        "type": "registry:block",
+        "description": "Play the classic game with AI fact-checking"
+      },
+      {
+        "name": "explanation-level",
+        "type": "registry:block",
+        "description": "Get explanations at any complexity level from ELI5 to PhD"
+      },
+      {
+        "name": "code-roaster",
+        "type": "registry:block",
+        "description": "Get your code humorously critiqued with constructive feedback"
+      },
+      {
+        "name": "writing-coach",
+        "type": "registry:block",
+        "description": "Personalized writing feedback and improvement suggestions"
+      },
+      {
+        "name": "product-feedback-panel",
+        "type": "registry:block",
+        "description": "Simulate diverse user personas reviewing your product"
+      },
+      {
+        "name": "interview-simulator",
+        "type": "registry:block",
+        "description": "Practice job interviews with AI interviewers"
+      },
+      {
+        "name": "sales-objection",
+        "type": "registry:block",
+        "description": "Practice handling common sales objections"
+      },
+      {
+        "name": "negotiation-simulator",
+        "type": "registry:block",
+        "description": "Practice negotiation skills with AI opponents"
+      },
+      {
+        "name": "reflection-journal",
+        "type": "registry:block",
+        "description": "Guided journaling with thoughtful AI prompts"
+      },
+      {
+        "name": "debate-partner",
+        "type": "registry:block",
+        "description": "Engage in structured debates on any topic"
+      },
+      {
+        "name": "character-voice",
+        "type": "registry:block",
+        "description": "Write in the voice of famous characters or personas"
+      },
+      {
+        "name": "tldr-generator",
+        "type": "registry:block",
+        "description": "Summarize articles in 3 sentences - free for any blog"
+      },
+      {
+        "name": "reading-level",
+        "type": "registry:block",
+        "description": "Toggle reading complexity: kid, teen, adult, expert"
+      },
+      {
+        "name": "translate-on-demand",
+        "type": "registry:block",
+        "description": "Instant translation to 10+ languages - no translation budget needed"
+      },
+      {
+        "name": "explain-this",
+        "type": "registry:block",
+        "description": "Select any text to get an inline explanation"
+      },
+      {
+        "name": "audio-version",
+        "type": "registry:block",
+        "description": "Listen to any article with browser text-to-speech - no API costs"
+      },
+      {
+        "name": "related-questions",
+        "type": "registry:block",
+        "description": "AI generates questions readers might wonder about"
+      },
+      {
+        "name": "semantic-search",
+        "type": "registry:block",
+        "description": "Natural language product search - Algolia-level intelligence, zero API costs"
+      },
+      {
+        "name": "search-filters",
+        "type": "registry:block",
+        "description": "Natural language to search filters - "
+      },
+      {
+        "name": "similar-items",
+        "type": "registry:block",
+        "description": "AI-powered "
+      },
+      {
+        "name": "search-summary",
+        "type": "registry:block",
+        "description": "AI summary of search results - quick overview before clicking"
+      },
+      {
+        "name": "sentiment-analysis",
+        "type": "registry:block",
+        "description": "Analyze text sentiment with structured JSON output"
+      },
+      {
+        "name": "entity-extraction",
+        "type": "registry:block",
+        "description": "Extract names, dates, locations, organizations from text"
+      },
+      {
+        "name": "content-classifier",
+        "type": "registry:block",
+        "description": "Categorize content by type, tone, and extract metadata"
+      },
+      {
+        "name": "json-generator",
+        "type": "registry:block",
+        "description": "Generate structured JSON from natural language descriptions"
+      },
+      {
+        "name": "form-parser",
+        "type": "registry:block",
+        "description": "Parse unstructured text into structured form fields"
+      },
+      {
+        "name": "simple-text-generation",
+        "type": "registry:block",
+        "description": "Basic prompt-response pattern with a single API call"
+      },
+      {
+        "name": "streaming-text",
+        "type": "registry:block",
+        "description": "Real-time streaming response with chunk-by-chunk rendering"
+      },
+      {
+        "name": "quick-actions",
+        "type": "registry:block",
+        "description": "Pre-defined prompt buttons for common AI tasks"
+      },
+      {
+        "name": "text-rewriter",
+        "type": "registry:block",
+        "description": "Rewrite text in different tones: professional, casual, formal, friendly"
+      },
+      {
+        "name": "text-expander",
+        "type": "registry:block",
+        "description": "Expand brief notes into full paragraphs with adjustable detail"
+      },
+      {
+        "name": "autocomplete",
+        "type": "registry:block",
+        "description": "AI-powered search autocomplete with context-aware suggestions"
+      },
+      {
+        "name": "smart-search-input",
+        "type": "registry:block",
+        "description": "Search input with AI-powered query understanding and suggestions"
+      },
+      {
+        "name": "intent-classifier",
+        "type": "registry:block",
+        "description": "Detect user intent from natural language input"
+      },
+      {
+        "name": "sentiment-indicator",
+        "type": "registry:block",
+        "description": "Real-time sentiment analysis as users type"
+      },
+      {
+        "name": "smart-tags-input",
+        "type": "registry:block",
+        "description": "AI-suggested tags based on content"
+      },
+      {
+        "name": "autocomplete-context",
+        "type": "registry:block",
+        "description": "Autocomplete that understands user context and history"
+      },
+      {
+        "name": "magic-fill-form",
+        "type": "registry:block",
+        "description": "Auto-fill forms from pasted text or documents"
+      },
+      {
+        "name": "reply-suggestions",
+        "type": "registry:block",
+        "description": "Quick reply suggestions for messages"
+      },
+      {
+        "name": "content-warning",
+        "type": "registry:block",
+        "description": "Automatically detect and suggest content warnings"
+      },
+      {
+        "name": "summarize-selection",
+        "type": "registry:block",
+        "description": "Select text to get instant AI summaries"
+      },
+      {
+        "name": "similar-items-finder",
+        "type": "registry:block",
+        "description": "Find similar items based on semantic understanding"
+      },
+      {
+        "name": "validation-explainer",
+        "type": "registry:block",
+        "description": "Friendly explanations for form validation errors"
+      }
+    ],
+    "notes": "Non-standard index at /r/index.json (key 'components', not 'items'). Site 'AI Blocks' = browser-native WebLLM AI components/blocks/hooks. 3 registry:ui, 3+ registry:block, 3 registry:hook, remainder registry:block. Descriptions verbatim; a few in source are truncated (e.g. 'similar-items', 'search-filters')."
+  },
+  {
+    "handle": "@aliimam",
+    "homepage": "https://aliimam.in",
+    "terminology": "Background patterns / snippets (PatternCraft)",
+    "status": "not_found",
+    "method": "webfetch",
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": "aliimam.in is Ali Imam's personal portfolio (Next.js). Only real routes are /, /about, /works. The /r/*.json item endpoint and /components, /registry.json, /sitemap.xml all return the generic Next.js 404 HTML shell (route not implemented) for every probe (button, hero, patterncraft, geometric-lines, shader-lines). 'PatternCraft'/background-pattern strings appear ONLY in SEO meta keywords. og:url leaks http://localhost:4000. No registry items served; author contributes components (e.g. 'Shader Lines') to 21st.dev / shadcn directory instead."
+  },
+  {
+    "handle": "@commercn",
+    "homepage": "https://commercn.com",
+    "terminology": "unknown",
+    "status": "dead",
+    "method": "dns",
+    "indexUrl": null,
+    "itemCount": 0,
+    "items": [],
+    "notes": "Website unreachable. Apex commercn.com has MX records but NO A/AAAA record. www.commercn.com is a CNAME to d3oh6e0o1uo27i.cloudfront.net, but that CloudFront distribution no longer resolves to any IP (getaddrinfo ENOTFOUND / curl code 000). Domain registered but web hosting is dead."
+  },
+  {
+    "handle": "@creative-tim",
+    "homepage": "https://www.creative-tim.com/ui",
+    "terminology": "Components & Blocks",
+    "status": "found",
+    "method": "sitemap-slugs",
+    "indexUrl": null,
+    "itemCount": 471,
+    "items": [
+      {
+        "name": "accordion",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "alert",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "avatar",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "badge",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "breadcrumb",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "button-group",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "button",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "calendar",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "card",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "carousel",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "checkbox",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "chip",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "collapse",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "dialog",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "drawer",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "input",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "list",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "map",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "pagination",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "popover",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "progress",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "rating",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "select",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "sidebar",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "skeleton",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "slider",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "software-purchase-card",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "sonner",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "spinner",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "stepper",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "switch",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "table",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "tabs",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "textarea",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "timeline",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "tooltip",
+        "type": "registry:ui",
+        "description": null
+      },
+      {
+        "name": "404-error-example-with-tags",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "404-error-with-icon-links",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "500-error-with-background-image",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "500-error-with-cta",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "account-2fa-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "account-avatar-upload-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "account-basic-info-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "account-change-password-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "account-integrations-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "account-notifications-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "account-sessions-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "activity-feed",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "advanced-comparison-table",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "agent-management-analytics-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "agent-management-create-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "agent-management-detail-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "agent-management-list-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "agent-management-tasks-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "ai-agent-activity-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "ai-assistant-panel",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "ai-audio-generator-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "ai-audio-generator-02",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "ai-chat-streaming-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "ai-chatbot-onboarding-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "ai-code-assistant-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "ai-document-qa-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "ai-file-attachment-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "ai-image-generator-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "ai-multi-step-agent-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "ai-tool-use-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "ai-video-generator-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "ai-voice-transcription-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "ai-workflow-status-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "api-keys-manager",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "area-chart-gradient",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "authentication-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "authentication-02",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "authentication-03",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "authentication-04",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "authentication-05",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "authentication-06",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "banner-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "banner-02",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "banner-03",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "banner-04",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "banner-05",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "banner-06",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "banner-07",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "bar-chart-example",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "bar-list-metrics",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "billing-addons-selector",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "billing-information-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "blog-cards-layout-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "blog-content-block",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "blog-content-block-with-cta-button",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "blog-content-block-with-quotes",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "blog-post-preview-tags-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "blog-rectangular-images-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "blog-writer-agent-create-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "blog-writer-agent-list-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "blog-writer-cms-connect-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "blog-writer-content-calendar-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "blog-writer-network-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "blog-writer-posts-table-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "blog-writer-seo-analytics-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "blurred-navbar-example",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "booking-content-block",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "calendar-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "calendar-02",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "calendar-03",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "card-charts-example-1",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "card-charts-example-2",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "card-display-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "card-stats",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "card-with-avatar",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "card-with-background-image",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "card-with-cta-button",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "card-without-border",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "categories-with-full-background",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "categories-with-icon",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "categories-with-image",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "categories-with-links",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "changelog-timeline",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "checkout-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "choose-blockchain-login",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "choose-crypto-wallet-login",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "circle-logos-block",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "combo-chart-target",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "coming-soon-simple",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "coming-soon-with-countdown-for-apps",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "coming-soon-with-countdown-timer",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "coming-soon-with-countdown-video",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "command-palette-modal",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "comments-section",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "compact-track-parcel",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "comparison-chart-widget",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "complex-features-block",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "complex-features-block-2",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "complex-kpi-cards",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "complex-product-description-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "comprehensive-order-details",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "contact-agency-brief",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "contact-agency-split",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "contact-sections-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "contact-sections-02",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "contact-sections-03",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "contact-sections-04",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "contact-sections-05",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "contact-sections-06",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "contact-sections-07",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "contact-sections-08",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "contact-sections-09",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "contact-sections-10",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "contact-sections-11",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "contact-sections-12",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "contact-sections-13",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "contact-sections-14",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "contact-sections-15",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "content-block-with-image-filter",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "content-block-with-images",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "content-block-with-logos",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "content-block-with-paragraphs",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "content-cards",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "content-rich-block",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "cruds-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "cruds-02",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "cruds-03",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "crypto-chart-with-details",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "crypto-charts-with-map",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "crypto-large-chart-with-one-line",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "crypto-large-chart-with-three-lines",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "crypto-sidebar",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "crypto-table",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "customer-overview-example-1",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "customer-overview-example-2",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "customer-overview-example-3",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "dark-bakground-pricing",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "dark-content-cards-with-cta",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "dark-design-logo-block",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "dark-features-block",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "dark-product-overview-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "dark-stats-block-1",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "dark-stats-block-2",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "dashboard-sidebar",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "data-table-advanced",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "default-stats-block",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "detailed-features-block",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "digital-product-overview-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "donut-chart-breakdown",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "double-sidebar",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "double-sidebar-with-chat",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "dropdown-with-filter-by-priority",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "dropdown-with-filter-by-status",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "dropdown-with-filter-with-checkbox",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "dropdown-with-filter-with-range",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "dropdown-with-filter-with-search",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "dropdown-with-filter-with-tabs",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "ecommerce-sections-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "ecommerce-sections-02",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "empty-shopping-cart-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "error-404-with-emoji",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "faq-left-title-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "faqs-agency-accordion",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "faqs-agency-split",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "faqs-cards-icons-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "faqs-grid-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "faqs-grid-cta-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "faqs-list-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "features-agency-capabilities",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "features-agency-craft",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "features-block-with-card",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "features-block-with-company-logo",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "features-block-with-cta-button-and-logos",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "features-block-with-icons-and-cta",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "features-block-with-plain-icons",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "features-block-with-stats",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "features-block-with-tags",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "file-manager",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "filled-navbar",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "financial-sidebar",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "footers-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "footers-02",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "footers-03",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "footers-04",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "footers-05",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "footers-06",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "footers-07",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "footers-08",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "footers-09",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "footers-10",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "footers-11",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "footers-12",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "footers-13",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "footers-14",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "footers-15",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "global-sales-table",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "gradient-background-pricing",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "grid-ecommerce-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "grid-layout-features-block",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "hero-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "hero-02",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "hero-03",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "hero-04",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "hero-05",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "hero-06",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "hero-07",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "hero-08",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "hero-09",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "hero-10",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "hero-11",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "hero-12",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "hero-13",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "hero-14",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "hero-15",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "hero-16",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "hero-17",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "hero-18",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "highlighted-blog-posts-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "highlighted-pricing",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "horizontal-pricing",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "icon-enhanced-features-block-with-background",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "integration-setup-wizard",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "interactive-product-preview-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "introductory-popup",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "invoices-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "invoices-table",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "kpi-agency-minimal",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "kpi-agency-spotlight",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "kpi-cards-with-arrow",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "kpi-cards-with-badge",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "kpi-cards-with-chart-and-cta",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "kpi-cards-with-cta",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "kpi-cards-with-icon",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "kpi-cards-with-progress-bar",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "kpi-sparkline-cards",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "large-blog-preview-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "line-chart",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "login-with-crypto-wallet-authentication",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "logo-block-with-cards",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "logo-ecosystem",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "magazine-big-letter",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "magazine-editorial-columns",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "magazine-image-columns",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "magazine-oversized-words",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "magazine-text-wrap",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "maintenance-block-with-email-input",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "maintenance-block-with-icon",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "maintenance-block-with-social-links",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "member-list-table",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "minimalist-500-error",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "minimalist-logo-block",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "minimalist-navbar",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "modals-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "modals-02",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "modals-03",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "modals-04",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "modals-05",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "modals-06",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "modals-07",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "modals-08",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "modals-09",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "modals-10",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "modals-11",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "navbar-example-with-breadcrumbs",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "navbar-with-icons",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "navbar-with-links",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "navbar-with-search",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "newsletter-block-with-dark-background",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "newsletter-block-with-left-to-right-layout",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "notification-inbox",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "notification-popup",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "onboarding-stepper-form",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "onboarding-welcome-block",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "one-plan-pricing",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "order-details-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "order-details-with-timeline",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "order-history-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "order-tracking-form",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "order-tracking-timeline",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "order-with-map",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "orders-table",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "payment-method-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "popup-with-image",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "pricing-agency-engagements",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "pricing-agency-retainer",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "pricing-block-example",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "pricing-block-with-image",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "pricing-block-with-switcher",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "pricing-comparison-table",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "pricing-with-switcher",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "product-description-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "product-details-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "product-inventory-table",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "product-list-block",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "product-list-grid-layout",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "product-list-with-filters",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "product-list-with-ratings",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "product-listing-filters-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "project-management-table",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "promotional-cards-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "request-cta-pricing",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "roadmap-board",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "scan-qr-code-login",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "shopping-cart-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "sidebar-with-calendar",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "sidebar-with-cards",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "sidebar-with-notification",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "sidebar-with-task-manager",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "sidebar-with-team-members",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "simple-404-error-with-icon",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "simple-blog-content-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "simple-blog-post-template",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "simple-card-with-cta",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "simple-categories",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "simple-crypto-login",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "simple-faq-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "simple-features-block",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "simple-features-block-with-cta",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "simple-features-block-with-icons",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "simple-features-block-with-image",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "simple-logo-block",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "simple-maintenance-block",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "simple-navbar",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "simple-pricing-block",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "simple-product-details-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "simple-product-list",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "simple-request-popup",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "simple-stats-block",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "simple-stats-block-with-titles",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "simple-subscribe-to-newsletter-section",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "simple-table-footer-with-pagination",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "single-line-chart",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "slide-agency-closing",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "slide-agency-content",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "slide-agency-quote",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "slide-agency-stats",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "slide-agency-title",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "slide-closing",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "slide-content",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "slide-quote",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "slide-stats-hero",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "slide-title",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "social-content-block",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "software-purchase-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "stats-block-with-description-1",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "stats-block-with-description-2",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "stats-block-with-left-centered-headline",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "stats-with-icons",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "subscribe-popup",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "subscribe-to-newsletter-modal",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "subscribe-to-newsletter-popup-with-image",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "success-popup",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "support-tickets-table",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "table-footer-with-checkbox-and-cta",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "table-footer-with-date-select-and-cta",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "table-footer-with-row-select-and-pagination",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "table-footer-with-text-and-pagination",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "table-footer-with-update-and-progress-bar",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "table-header-with-categories-and-select",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "table-header-with-search-and-cta",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "table-header-with-switch-and-date",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "table-header-with-tabs-and-search",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "table-header-with-tags-and-search",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "table-header-with-title-and-cta",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "team-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "team-02",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "team-03",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "team-04",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "team-05",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "team-06",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "team-07",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "team-08",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "team-09",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "team-10",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "team-11",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "team-12",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "team-13",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "team-14",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "team-15",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "team-16",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "team-17",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "team-permissions-matrix",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "testimonials-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "testimonials-02",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "testimonials-03",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "testimonials-04",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "testimonials-05",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "testimonials-06",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "testimonials-07",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "testimonials-08",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "testimonials-09",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "testimonials-10",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "testimonials-11",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "testimonials-12",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "testimonials-13",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "testimonials-14",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "testimonials-15",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "testimonials-16",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "testimonials-17",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "testimonials-agency-featured",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "testimonials-agency-grid",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "testimonials-agency-ledger",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "top-selling-products-table",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "track-order-form",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "transaction-history-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "transactions-table",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "transparent-navbar",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "two-column-content-layout",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "two-column-content-layout-with-icons-list",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "two-rows-features-block",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "two-rows-logos",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "usage-limits-dashboard",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "user-onboarding",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "user-profile-advanced",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "user-profile-centered",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "user-profile-simple",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "user-profile-with-stats",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "user-profile-with-tabs",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "web3-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "web3-02",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "web3-03",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "web3-04",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "web3-05",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "web3-simple-metrics",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "welcome-popup-with-cta",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "white-navbar",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "widgets-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "widgets-02",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "widgets-03",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "widgets-04",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "widgets-05",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "widgets-06",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "widgets-07",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "x402-ai-agent-chat-01",
+        "type": "registry:block",
+        "description": null
+      },
+      {
+        "name": "x402-payment-01",
+        "type": "registry:block",
+        "description": null
+      }
+    ],
+    "notes": "Item template /ui/r/{name}.json confirmed working (button, card, account-basic-info-01). Names harvested from /ui/sitemap.xml: 36 UI components under /ui/docs/components/* validated as registry:ui (10 doc pages had no registry item: footer, gallery, icon-button, image, menu, navbar, radio, speed-dial, typography, video). 435 blocks under /ui/block/* (registry:block). Most blocks are GATED behind an API key (return {'error':'Unauthorized','message':'Missing API key'}); a few are free (e.g. 404-error-example-with-tags, account-basic-info-01). registry:ui items and gated blocks carry no description field, so descriptions are null. /ui/r/index.json exists but is only the 'index' registry:style item, not a list."
+  },
+  {
+    "handle": "@devl",
+    "homepage": "https://devl.dev",
+    "terminology": "Components",
+    "status": "found",
+    "method": "homepage-ssr+js-registry",
+    "indexUrl": null,
+    "itemCount": 158,
+    "items": [
+      {
+        "name": "auth-centered-signin",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "auth-centered-signup",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "auth-check-email",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "auth-glass-signup",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "auth-inset-login",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "auth-left-signin",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "auth-login",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "auth-magic-link-sent",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "auth-onboarding",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "auth-otp-verify",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "auth-reset-password",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "auth-right-signin",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "auth-two-factor",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "auth-waitlist",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "calendars-agenda",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "calendars-date-range",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "calendars-holidays",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "calendars-mini",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "calendars-month",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "calendars-recurring",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "calendars-timezone",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "calendars-week",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "calendars-year-heatmap",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "cards-event",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "cards-integration",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "cards-invoice",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "cards-media",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "cards-payment-method",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "cards-pricing",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "cards-product",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "cards-profile",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "cards-stat-tile",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "cards-task",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "charts-bar-grouped",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "charts-cohort-heatmap",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "charts-donut",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "charts-funnel",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "charts-gauges",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "charts-line-multi",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "charts-revenue-area",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "charts-scatter",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "charts-waterfall",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "dashboards-analytics",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "dashboards-engineering",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "dashboards-home",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "dashboards-market",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "dashboards-metrics-overview",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "dashboards-revenue",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "dashboards-services",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "dashboards-support",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "dashboards-usage",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "empty-states-404",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "empty-states-end-of-feed",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "empty-states-first-project",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "empty-states-inbox-zero",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "empty-states-maintenance",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "empty-states-no-files",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "empty-states-no-results",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "empty-states-no-team",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "empty-states-offline",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "empty-states-trash",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "filters-chips",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "filters-faceted",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "filters-sidebar",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "filters-toolbar",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "forms-api-key",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "forms-invite-teammates",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "forms-notifications",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "forms-workspace-settings",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "layouts-app-shell",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "layouts-bottom-nav",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "layouts-canvas-tools",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "layouts-docs-tree",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "layouts-floating-toolbar",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "layouts-focus-mode",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "layouts-inbox-rail",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "layouts-mini-rail",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "layouts-split-resizable",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "layouts-three-pane",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "layouts-two-pane",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "layouts-workspace-rail",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "modals-command-palette",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "modals-confirm-delete",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "modals-create-workspace",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "modals-export",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "modals-feedback",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "modals-share-link",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "modals-shortcuts",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "modals-two-factor",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "modals-upgrade",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "modals-upload-files",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "pricing-comparison-table",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "pricing-contact-sales",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "pricing-monthly-yearly",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "pricing-simple-card",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "pricing-slider-seats",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "pricing-three-tier",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "profile-compact-card",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "profile-credentials",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "profile-directory",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "profile-hero",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "profile-hover-card",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "profile-introductions",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "profile-org-chart",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "profile-presence-rail",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "profile-skills",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "profile-team-grid",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "settings-appearance",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "settings-billing",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "settings-branding",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "settings-developer",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "settings-integrations",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "settings-localization",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "settings-permissions",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "settings-privacy",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "settings-profile",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "settings-security",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "settings-sso",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "settings-webhooks",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "tables-api-keys",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "tables-audit-log",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "tables-inventory",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "tables-invoices",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "tables-issues",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "tables-logs",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "tables-members",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "tables-orders",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "tables-transactions",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "threads-comment-row",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "threads-compose-rich",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "threads-inline-thread",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "threads-mention-popover",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "threads-resolved",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "threads-side-panel",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "timelines-activity-feed",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "timelines-approvals",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "timelines-audit",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "timelines-changelog",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "timelines-commits",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "timelines-deploys",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "timelines-inbox-thread",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "timelines-notifications",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "timelines-pr-ops-console",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "timelines-pull-request",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "timelines-releases",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "timelines-status-page",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "toasts-error-retry",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "toasts-info-banner",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "toasts-progress",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "toasts-rich",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "toasts-success",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "toasts-undo",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "tours-arrow-tooltip",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "tours-beacon",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "tours-checklist",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "tours-inline-hint",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "tours-spotlight",
+        "type": "registry:component",
+        "description": null
+      },
+      {
+        "name": "tours-welcome-carousel",
+        "type": "registry:component",
+        "description": null
+      }
+    ],
+    "notes": "TanStack SPA ('devl.dev - UI experiments built on coss-ui', by Sean Brydon). REAL item template is /r/{category}/{design}.json (two segments), NOT /r/{name}.json - that's why single-segment probes 404'd. Confirmed live: /r/layouts/workspace-rail.json, /r/auth/login.json, /r/charts/funnel.json all return valid registry:component items (JSON name = '{category}-{design}', e.g. 'layouts-workspace-rail'). 158 designs across 18 categories extracted from homepage SSR + /assets/registry-*.js (matches site's advertised '159+ components'). Copy command uses namespace @coss (coss-ui): 'npx shadcn@latest registry add @coss'. No description field in items (title only), so descriptions null."
+  }
+]
