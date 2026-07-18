@@ -1,0 +1,1586 @@
+[
+ {
+  "cluster": 377,
+  "domain": 2,
+  "guess": "ts",
+  "n": 546,
+  "samples": [
+   "particles",
+   "meteors",
+   "background",
+   "liquid-chrome",
+   "confetti",
+   "background-gradient",
+   "aurora-background",
+   "waves"
+  ]
+ },
+ {
+  "cluster": 387,
+  "domain": 2,
+  "guess": "text",
+  "n": 443,
+  "samples": [
+   "text-reveal",
+   "progressive-blur",
+   "blur-reveal",
+   "reveal-text",
+   "text-loop",
+   "text-animate",
+   "text-morph",
+   "primitives-texts-gradient"
+  ]
+ },
+ {
+  "cluster": 374,
+  "domain": 2,
+  "guess": "scroll area",
+  "n": 182,
+  "samples": [
+   "scroll-area",
+   "scroll-progress",
+   "primitives-animate-scroll-progress",
+   "scroll-text",
+   "smooth-scroll",
+   "scroll-based-velocity",
+   "scroll-fade-effect",
+   "scroll-float"
+  ]
+ },
+ {
+  "cluster": 301,
+  "domain": 2,
+  "guess": "demo",
+  "n": 168,
+  "samples": [
+   "demo-components-animate-code",
+   "demo-components-animate-code-tabs",
+   "demo-components-animate-tabs",
+   "demo-components-community-notification-list",
+   "demo-components-community-playful-todolist",
+   "demo-components-radix-checkbox",
+   "demo-primitives-animate-scroll-progress",
+   "demo-primitives-animate-tabs"
+  ]
+ },
+ {
+  "cluster": 326,
+  "domain": 2,
+  "guess": "slider",
+  "n": 152,
+  "samples": [
+   "slider",
+   "infinite-slider",
+   "glass-slider",
+   "image-comparison",
+   "circular-slider",
+   "elastic-slider",
+   "slider-01",
+   "slider-02"
+  ]
+ },
+ {
+  "cluster": 297,
+  "domain": 2,
+  "guess": "spinner",
+  "n": 148,
+  "samples": [
+   "spinner",
+   "loader",
+   "thinking-indicator",
+   "icons-loader",
+   "braille-loader",
+   "spinner-01",
+   "spinner-02",
+   "spinner-03"
+  ]
+ },
+ {
+  "cluster": 370,
+  "domain": 2,
+  "guess": "primitives",
+  "n": 122,
+  "samples": [
+   "highlight-text",
+   "highlight",
+   "primitives-animate-spring",
+   "primitives-effects-blur",
+   "primitives-effects-click",
+   "primitives-effects-effect",
+   "primitives-effects-fade",
+   "primitives-effects-image-zoom"
+  ]
+ },
+ {
+  "cluster": 258,
+  "domain": 2,
+  "guess": "demo",
+  "n": 104,
+  "samples": [
+   "dynamic-island-demo",
+   "family-button-demo",
+   "tweet-grid-demo",
+   "sortable-list-demo",
+   "lightboard-demo",
+   "floating-panel-demo",
+   "expandable-demo",
+   "choice-poll-demo"
+  ]
+ },
+ {
+  "cluster": 341,
+  "domain": 2,
+  "guess": "carousel",
+  "n": 99,
+  "samples": [
+   "carousel",
+   "feature-carousel",
+   "Carousel",
+   "apple-cards-carousel",
+   "cube-carousel",
+   "components-community-motion-carousel",
+   "demo-components-community-motion-carousel",
+   "specials-linear-carousel"
+  ]
+ },
+ {
+  "cluster": 12,
+  "domain": 2,
+  "guess": "dotm square",
+  "n": 97,
+  "samples": [
+   "dotm-square-1",
+   "dotm-square-2",
+   "dotm-square-3",
+   "dotm-square-4",
+   "dotm-square-5",
+   "dotm-square-6",
+   "dotm-square-7",
+   "dotm-square-8"
+  ]
+ },
+ {
+  "cluster": 362,
+  "domain": 2,
+  "guess": "orb",
+  "n": 92,
+  "samples": [
+   "spinning-text",
+   "data-flow-pipes",
+   "shader-dot-orbit",
+   "shader-spiral",
+   "shader-swirl",
+   "agent-audio-visualizer-radial",
+   "curious-ai",
+   "halo-type"
+  ]
+ },
+ {
+  "cluster": 192,
+  "domain": 2,
+  "guess": "glass",
+  "n": 81,
+  "samples": [
+   "glass-card",
+   "glass-progress",
+   "liquid-glass",
+   "glass-notification",
+   "glass-badge",
+   "glass-button",
+   "glass-input",
+   "glass-select"
+  ]
+ },
+ {
+  "cluster": 300,
+  "domain": 2,
+  "guess": "css",
+  "n": 81,
+  "samples": [
+   "dynamic-island",
+   "components-community-radial-nav",
+   "shared-layout-bg",
+   "bloom-menu",
+   "expandable-screen",
+   "magic-genie-tabs",
+   "select-base",
+   "notification-center"
+  ]
+ },
+ {
+  "cluster": 369,
+  "domain": 2,
+  "guess": "animated list",
+  "n": 81,
+  "samples": [
+   "animated-list",
+   "primitives-animate-pinned-list",
+   "primitives-animate-slot",
+   "animated-list-demo",
+   "components-community-notification-list",
+   "components-community-playful-todolist",
+   "demo-primitives-animate-pinned-list",
+   "shake-demo"
+  ]
+ },
+ {
+  "cluster": 381,
+  "domain": 2,
+  "guess": "grid",
+  "n": 81,
+  "samples": [
+   "animated-grid-pattern",
+   "primitives-animate-motion-grid",
+   "animated-grid-pattern-demo",
+   "dot-grid",
+   "x-grid",
+   "components-backgrounds-hexagon",
+   "demo-primitives-animate-motion-grid",
+   "interactive-grid-background"
+  ]
+ },
+ {
+  "cluster": 181,
+  "domain": 2,
+  "guess": "number ticker",
+  "n": 80,
+  "samples": [
+   "animated-number",
+   "primitives-texts-counting-number",
+   "primitives-texts-scrolling-number",
+   "primitives-texts-sliding-number",
+   "number-ticker",
+   "sliding-number",
+   "demo-primitives-texts-counting-number",
+   "demo-primitives-texts-scrolling-number"
+  ]
+ },
+ {
+  "cluster": 167,
+  "domain": 2,
+  "guess": "demo",
+  "n": 78,
+  "samples": [
+   "stepper-demo",
+   "carousel-demo",
+   "slider-demo",
+   "spinner-demo",
+   "cambio-image-grid-demo",
+   "tabs-entrance-animation-demo",
+   "angle-slider-demo",
+   "angle-slider-controlled-demo"
+  ]
+ },
+ {
+  "cluster": 54,
+  "domain": 2,
+  "guess": "p slider",
+  "n": 77,
+  "samples": [
+   "cta46",
+   "p-slider-1",
+   "p-slider-2",
+   "p-slider-3",
+   "p-slider-4",
+   "p-slider-5",
+   "p-slider-6",
+   "p-slider-7"
+  ]
+ },
+ {
+  "cluster": 364,
+  "domain": 2,
+  "guess": "demo",
+  "n": 72,
+  "samples": [
+   "cambio-image-dismiss-on-scroll-demo",
+   "tabs-in-scroll-area-demo",
+   "scroll-fade-effect-demo",
+   "scroll-fade-effect-slider-demo",
+   "scroller-demo",
+   "scroller-hidden-demo",
+   "scroller-horizontal-demo",
+   "scroller-navigation-demo"
+  ]
+ },
+ {
+  "cluster": 121,
+  "domain": 2,
+  "guess": "cursor",
+  "n": 71,
+  "samples": [
+   "cursor",
+   "primitives-animate-cursor",
+   "components-animate-cursor",
+   "demo-components-animate-cursor",
+   "demo-primitives-animate-cursor",
+   "simulated-cursor",
+   "custom-cursor",
+   "example-demo-cursor"
+  ]
+ },
+ {
+  "cluster": 389,
+  "domain": 2,
+  "guess": "player",
+  "n": 71,
+  "samples": [
+   "video-player",
+   "audio-player",
+   "media-player",
+   "media-provider",
+   "youtube",
+   "audio",
+   "video",
+   "audio-settings"
+  ]
+ },
+ {
+  "cluster": 386,
+  "domain": 2,
+  "guess": "text shimmer",
+  "n": 69,
+  "samples": [
+   "text-shimmer",
+   "shimmer-text",
+   "shimmering-text",
+   "shimmer",
+   "primitives-texts-shimmering",
+   "shimmer-sweep",
+   "demo-primitives-texts-shimmering",
+   "text-shimmer-wave"
+  ]
+ },
+ {
+  "cluster": 67,
+  "domain": 2,
+  "guess": "background pattern",
+  "n": 67,
+  "samples": [
+   "background-lines",
+   "background-with-shooting-stars",
+   "background-dots",
+   "background-dots-masked",
+   "background-dots-masked-vertical",
+   "background-grid-with-dots",
+   "background-grid-with-dots-and-animations",
+   "background-with-skewed-rectangles"
+  ]
+ },
+ {
+  "cluster": 376,
+  "domain": 2,
+  "guess": "tw",
+  "n": 66,
+  "samples": [
+   "light-rays",
+   "shader-god-rays",
+   "lightning",
+   "electric-mist",
+   "lightboard",
+   "light",
+   "light-rays-demo",
+   "ClickSpark-JS-CSS"
+  ]
+ },
+ {
+  "cluster": 355,
+  "domain": 2,
+  "guess": "marquee",
+  "n": 64,
+  "samples": [
+   "marquee",
+   "marquee-demo",
+   "3d-marquee",
+   "infinite-marquee",
+   "perspective-marquee",
+   "marquee-grayscale-demo",
+   "marquee-reverse-demo",
+   "banner-13"
+  ]
+ },
+ {
+  "cluster": 122,
+  "domain": 2,
+  "guess": "trail",
+  "n": 59,
+  "samples": [
+   "image-trail",
+   "mouse-trail",
+   "image-reveal",
+   "vanishing-mouse-trail",
+   "cursor-trail",
+   "text-outline-glow",
+   "fluid-cursor-trail",
+   "BlobCursor-JS-CSS"
+  ]
+ },
+ {
+  "cluster": 89,
+  "domain": 2,
+  "guess": "c spinner",
+  "n": 58,
+  "samples": [
+   "p-spinner-1",
+   "spinner-color-demo",
+   "spinner-size-demo",
+   "InputGroupSpinner",
+   "SpinnerCustom",
+   "SpinnerEmpty",
+   "c-spinner-1",
+   "c-spinner-10"
+  ]
+ },
+ {
+  "cluster": 375,
+  "domain": 2,
+  "guess": "typewriter",
+  "n": 58,
+  "samples": [
+   "typewriter",
+   "streaming-text",
+   "typewriter-effect",
+   "demo-primitives-texts-typing",
+   "typing-indicator",
+   "text-animation-typewriter-effect-demo",
+   "text-generate-typewriter",
+   "use-streaming"
+  ]
+ },
+ {
+  "cluster": 342,
+  "domain": 2,
+  "guess": "carousel",
+  "n": 57,
+  "samples": [
+   "carousel-01",
+   "carousel-02",
+   "carousel-03",
+   "carousel",
+   "carousel-04",
+   "carousel-05",
+   "carousel-06",
+   "flipping-images-with-bar"
+  ]
+ },
+ {
+  "cluster": 348,
+  "domain": 2,
+  "guess": "spotlight card",
+  "n": 56,
+  "samples": [
+   "spotlight-card",
+   "spotlight",
+   "glare-card",
+   "spotlight-new",
+   "specials-spotlight-card",
+   "specials-spotlight-card-demo",
+   "faq63",
+   "not-found-spotlight"
+  ]
+ },
+ {
+  "cluster": 84,
+  "domain": 2,
+  "guess": "magnetic button",
+  "n": 54,
+  "samples": [
+   "magnetic-button",
+   "magnetic",
+   "primitives-effects-magnetic",
+   "demo-primitives-effects-magnetic",
+   "magnet-lines",
+   "magnetic-dots",
+   "buttons-magnetic",
+   "button-magnetic"
+  ]
+ },
+ {
+  "cluster": 197,
+  "domain": 2,
+  "guess": "terminal",
+  "n": 54,
+  "samples": [
+   "terminal",
+   "terminal-demo",
+   "terminal-simulator",
+   "advanced1",
+   "ascii-art",
+   "ascii-wave",
+   "faq59",
+   "feature167"
+  ]
+ },
+ {
+  "cluster": 351,
+  "domain": 2,
+  "guess": "border",
+  "n": 53,
+  "samples": [
+   "border-beam",
+   "shader-pulsing-border",
+   "shine-border",
+   "border-trail",
+   "moving-border",
+   "specials-border-beam",
+   "specials-border-beam-demo",
+   "error-boundary"
+  ]
+ },
+ {
+  "cluster": 359,
+  "domain": 2,
+  "guess": "grid",
+  "n": 52,
+  "samples": [
+   "grid",
+   "layout-grid",
+   "grid-list",
+   "webcam-pixel-grid",
+   "agent-audio-visualizer-grid",
+   "tweet-grid",
+   "grid-beam-demo",
+   "profile-team-grid"
+  ]
+ },
+ {
+  "cluster": 56,
+  "domain": 2,
+  "guess": "dock",
+  "n": 51,
+  "samples": [
+   "dock",
+   "dock-demo",
+   "floating-dock",
+   "glass-dock",
+   "specials-reaction-dock",
+   "specials-reaction-dock-demo",
+   "magnetic-dock",
+   "dock-text"
+  ]
+ },
+ {
+  "cluster": 138,
+  "domain": 2,
+  "guess": "color picker",
+  "n": 51,
+  "samples": [
+   "color-picker",
+   "color-swatch",
+   "color-palette",
+   "color-swatch-selector",
+   "gradient-picker",
+   "fill-picker",
+   "color-picker-radix",
+   "gradient-picker-radix"
+  ]
+ },
+ {
+  "cluster": 119,
+  "domain": 2,
+  "guess": "number field",
+  "n": 50,
+  "samples": [
+   "number-field",
+   "number-input",
+   "phone-input",
+   "currency-input",
+   "amount-input",
+   "number-field-01",
+   "number-field-02",
+   "use-number-input"
+  ]
+ },
+ {
+  "cluster": 25,
+  "domain": 2,
+  "guess": "aspect ratio",
+  "n": 46,
+  "samples": [
+   "aspect-ratio",
+   "canvas-2d",
+   "aspect-ratio-demo",
+   "aspect-ratio-square",
+   "aspect-ratio-portrait",
+   "image-crop",
+   "AspectRatio",
+   "AspectRatioPortrait"
+  ]
+ },
+ {
+  "cluster": 383,
+  "domain": 2,
+  "guess": "text",
+  "n": 46,
+  "samples": [
+   "scramble-text",
+   "text-scramble",
+   "encrypted-text",
+   "matrix-decode",
+   "scramble",
+   "action-swap-cascade",
+   "loader-terminal-decode",
+   "caption-matrix-decode"
+  ]
+ },
+ {
+  "cluster": 382,
+  "domain": 2,
+  "guess": "glitch",
+  "n": 45,
+  "samples": [
+   "glitch-text",
+   "glitch-button",
+   "rgb-glitch-text",
+   "good-vibes",
+   "responsive-letters",
+   "pixel-heading-character",
+   "pixel-heading-word",
+   "loader-glitch-text"
+  ]
+ },
+ {
+  "cluster": 241,
+  "domain": 2,
+  "guess": "components logoclouds logocloud",
+  "n": 44,
+  "samples": [
+   "logo-carousel",
+   "logo-timeline",
+   "logo-timeline-demo",
+   "logo-timeline-demo-2",
+   "logo-enter",
+   "logo-loop",
+   "logos-carousel",
+   "showreel"
+  ]
+ },
+ {
+  "cluster": 380,
+  "domain": 2,
+  "guess": "tw",
+  "n": 41,
+  "samples": [
+   "distortion-grid",
+   "grid-lines",
+   "canvas-fractal-grid",
+   "dot-grid-spotlight",
+   "dot-grid-hero",
+   "ChromaGrid-JS-TW",
+   "ChromaGrid-TS-TW",
+   "CursorGrid-JS-CSS"
+  ]
+ },
+ {
+  "cluster": 137,
+  "domain": 2,
+  "guess": "color",
+  "n": 39,
+  "samples": [
+   "color-picker-demo",
+   "color-picker-controlled-demo",
+   "color-picker-form-demo",
+   "color-picker-inline-demo",
+   "color-swatch-demo",
+   "color-swatch-sizes-demo",
+   "color-swatch-transparency-demo",
+   "gauge-colors-demo"
+  ]
+ },
+ {
+  "cluster": 257,
+  "domain": 2,
+  "guess": "safari demo",
+  "n": 37,
+  "samples": [
+   "safari",
+   "iphone",
+   "macbook-illustration",
+   "iphone-illustration",
+   "mock-browser-window",
+   "mock-browser-window-demo",
+   "safari-browser",
+   "macbook-pro"
+  ]
+ },
+ {
+  "cluster": 361,
+  "domain": 2,
+  "guess": "js",
+  "n": 36,
+  "samples": [
+   "image-cropper",
+   "Cubes-JS-CSS",
+   "Cubes-JS-TW",
+   "Cubes-TS-CSS",
+   "Cubes-TS-TW",
+   "OrbitImages-JS-CSS",
+   "OrbitImages-JS-TW",
+   "OrbitImages-TS-CSS"
+  ]
+ },
+ {
+  "cluster": 104,
+  "domain": 2,
+  "guess": "skiper",
+  "n": 35,
+  "samples": [
+   "skiper3",
+   "skiper16",
+   "skiper17",
+   "skiper19",
+   "skiper25",
+   "skiper28",
+   "skiper30",
+   "skiper31"
+  ]
+ },
+ {
+  "cluster": 350,
+  "domain": 2,
+  "guess": "animated beam",
+  "n": 34,
+  "samples": [
+   "animated-beam",
+   "background-beams",
+   "animated-beam-demo",
+   "animated-beam-unidirectional",
+   "animated-beam-bidirectional",
+   "tracing-beam",
+   "background-beams-with-collision",
+   "animated-beam-path-illustration"
+  ]
+ },
+ {
+  "cluster": 388,
+  "domain": 2,
+  "guess": "demo",
+  "n": 34,
+  "samples": [
+   "video-player-demo",
+   "video-player-minimal-controls-demo",
+   "video-player-fit-demo",
+   "video-player-sizing-demo",
+   "video-player-repeat-demo",
+   "video-player-auto-demo",
+   "video-player-visible-controls-demo",
+   "video-player-hide-center-controls-demo"
+  ]
+ },
+ {
+  "cluster": 347,
+  "domain": 2,
+  "guess": "globe",
+  "n": 32,
+  "samples": [
+   "globe",
+   "globe-demo",
+   "3d-globe",
+   "world-map-illustration",
+   "globe-icon",
+   "cobe-globe",
+   "cobe-globe-demo",
+   "cobe-globe-demo-2"
+  ]
+ },
+ {
+  "cluster": 68,
+  "domain": 2,
+  "guess": "shader",
+  "n": 31,
+  "samples": [
+   "chapter-intro",
+   "premium-auth-split",
+   "dot-distortion-shader",
+   "lines-gradient-shader",
+   "spotlight-shader",
+   "cta61",
+   "loader-morphing-blob",
+   "pong-01"
+  ]
+ },
+ {
+  "cluster": 203,
+  "domain": 3,
+  "guess": "chart",
+  "n": 145,
+  "samples": [
+   "interactive-logs-chart",
+   "traffic-logs-chart",
+   "interactive-sales-chart",
+   "channel-sales-chart",
+   "chart",
+   "charts-1",
+   "charts-2",
+   "charts-3"
+  ]
+ },
+ {
+  "cluster": 11,
+  "domain": 3,
+  "guess": "data",
+  "n": 124,
+  "samples": [
+   "africa-data",
+   "algeria-data",
+   "angola-data",
+   "argentina-data",
+   "asia-data",
+   "australia-data",
+   "austria-data",
+   "azerbaijan-data"
+  ]
+ },
+ {
+  "cluster": 233,
+  "domain": 3,
+  "guess": "chart",
+  "n": 106,
+  "samples": [
+   "ex-area-chart",
+   "ex-gradient-colors-area-chart",
+   "ex-gradient-colors-bump-area-chart",
+   "ex-loading-state-area-chart",
+   "ex-default-type-area-chart",
+   "ex-stacked-type-area-chart",
+   "ex-expanded-type-area-chart",
+   "ex-bump-curve-type-area-chart"
+  ]
+ },
+ {
+  "cluster": 234,
+  "domain": 3,
+  "guess": "chart",
+  "n": 96,
+  "samples": [
+   "chart-area-step",
+   "chart",
+   "chart-bar",
+   "area-chart-gradient",
+   "bar-chart-example",
+   "card-charts-example-1",
+   "card-charts-example-2",
+   "combo-chart-target"
+  ]
+ },
+ {
+  "cluster": 62,
+  "domain": 3,
+  "guess": "chart",
+  "n": 70,
+  "samples": [
+   "chart-chart-area-axes",
+   "chart-chart-area-default",
+   "chart-chart-area-gradient",
+   "chart-chart-area-icons",
+   "chart-chart-area-interactive",
+   "chart-chart-area-legend",
+   "chart-chart-area-linear",
+   "chart-chart-area-stacked-expand"
+  ]
+ },
+ {
+  "cluster": 10,
+  "domain": 3,
+  "guess": "data",
+  "n": 56,
+  "samples": [
+   "usa-data",
+   "alabama-data",
+   "alaska-data",
+   "arizona-data",
+   "arkansas-data",
+   "california-data",
+   "colorado-data",
+   "canada-data"
+  ]
+ },
+ {
+  "cluster": 175,
+  "domain": 3,
+  "guess": "chart",
+  "n": 38,
+  "samples": [
+   "chart-tooltip",
+   "chart-bar-demo",
+   "area-chart-example",
+   "bar-chart-example",
+   "line-chart-example",
+   "scatter-chart-example",
+   "gauge-chart-example",
+   "radar-chart-example"
+  ]
+ },
+ {
+  "cluster": 173,
+  "domain": 3,
+  "guess": "example",
+  "n": 34,
+  "samples": [
+   "pie-chart-example",
+   "pie-chart-custom-colors-example",
+   "pie-chart-donut-custom-label-example",
+   "pie-chart-donut-example",
+   "pie-chart-gap-example",
+   "pie-chart-interactive-example",
+   "line-chart-controlled-example",
+   "line-chart-custom-colors-example"
+  ]
+ },
+ {
+  "cluster": 209,
+  "domain": 3,
+  "guess": "c chart",
+  "n": 25,
+  "samples": [
+   "c-chart-1",
+   "c-chart-10",
+   "c-chart-11",
+   "c-chart-12",
+   "c-chart-13",
+   "c-chart-14",
+   "c-chart-15",
+   "c-chart-16"
+  ]
+ },
+ {
+  "cluster": 392,
+  "domain": 4,
+  "guess": "sm",
+  "n": 1203,
+  "samples": [
+   "label",
+   "field",
+   "item",
+   "command",
+   "form",
+   "sparkles",
+   "frame",
+   "arc"
+  ]
+ },
+ {
+  "cluster": 372,
+  "domain": 4,
+  "guess": "button",
+  "n": 470,
+  "samples": [
+   "button",
+   "shimmer-button",
+   "shiny-button",
+   "primitives-buttons-button",
+   "primitives-buttons-flip",
+   "primitives-buttons-liquid",
+   "primitives-buttons-ripple",
+   "social-button"
+  ]
+ },
+ {
+  "cluster": 174,
+  "domain": 4,
+  "guess": "chart",
+  "n": 215,
+  "samples": [
+   "chart",
+   "area-chart",
+   "bar-chart",
+   "line-chart",
+   "pie-chart",
+   "radar-chart",
+   "sankey-chart",
+   "radial-chart"
+  ]
+ },
+ {
+  "cluster": 349,
+  "domain": 4,
+  "guess": "use",
+  "n": 204,
+  "samples": [
+   "use-mobile",
+   "hooks-use-auto-height",
+   "hooks-use-controlled-state",
+   "use-media-query",
+   "use-copy-to-clipboard",
+   "hooks-use-data-state",
+   "hooks-use-is-in-view",
+   "hooks-use-motion-value-state"
+  ]
+ },
+ {
+  "cluster": 367,
+  "domain": 4,
+  "guess": "ai",
+  "n": 183,
+  "samples": [
+   "prompt-input",
+   "message",
+   "model-selector",
+   "chat",
+   "open-in-chat",
+   "ai-input",
+   "chat-bubble",
+   "chat-input"
+  ]
+ },
+ {
+  "cluster": 6,
+  "domain": 4,
+  "guess": "new",
+  "n": 181,
+  "samples": [
+   "usa",
+   "africa",
+   "alabama",
+   "alaska",
+   "algeria",
+   "angola",
+   "argentina",
+   "arizona"
+  ]
+ },
+ {
+  "cluster": 365,
+  "domain": 4,
+  "guess": "chat",
+  "n": 178,
+  "samples": [
+   "chat-conversation",
+   "chat",
+   "ai-chat-1",
+   "ai-chat-2",
+   "ai-chat-3",
+   "chat-1",
+   "chat-2",
+   "chat-3"
+  ]
+ },
+ {
+  "cluster": 103,
+  "domain": 4,
+  "guess": "ui",
+  "n": 153,
+  "samples": [
+   "all",
+   "search",
+   "error-boundary-ui",
+   "slash-command-dropdown",
+   "anywidget-view",
+   "widget-view",
+   "adapter-inertia",
+   "oui-react-router-index"
+  ]
+ },
+ {
+  "cluster": 345,
+  "domain": 4,
+  "guess": "hover card",
+  "n": 132,
+  "samples": [
+   "hover-card",
+   "link-preview",
+   "preview-card",
+   "components-radix-hover-card",
+   "demo-components-radix-hover-card",
+   "demo-primitives-base-preview-card",
+   "primitives-base-preview-card",
+   "primitives-radix-hover-card"
+  ]
+ },
+ {
+  "cluster": 272,
+  "domain": 4,
+  "guess": "tooltip",
+  "n": 127,
+  "samples": [
+   "tooltip",
+   "animated-tooltip",
+   "primitives-animate-tooltip",
+   "tooltip-01",
+   "tooltip-02",
+   "tooltip-03",
+   "tooltip-04",
+   "tooltip-05"
+  ]
+ },
+ {
+  "cluster": 217,
+  "domain": 4,
+  "guess": "popover",
+  "n": 115,
+  "samples": [
+   "popover",
+   "floating-panel",
+   "primitives-base-popover",
+   "primitives-headless-popover",
+   "primitives-radix-popover",
+   "popover-10",
+   "popover-11",
+   "popover-14"
+  ]
+ },
+ {
+  "cluster": 134,
+  "domain": 4,
+  "guess": "sample",
+  "n": 110,
+  "samples": [
+   "react-sample-define-atom-block",
+   "react-sample-katex",
+   "react-sample-sample-doc-block-handle",
+   "react-sample-sample-doc-bold",
+   "react-sample-sample-doc-code",
+   "react-sample-sample-doc-code-block",
+   "react-sample-sample-doc-drop-cursor",
+   "react-sample-sample-doc-font-family"
+  ]
+ },
+ {
+  "cluster": 385,
+  "domain": 4,
+  "guess": "arrow",
+  "n": 98,
+  "samples": [
+   "a-arrow-down",
+   "a-arrow-up",
+   "chess-bishop",
+   "moving-line",
+   "following-pointer",
+   "3d-pin",
+   "squiggle-arrow-demo",
+   "direction-provider"
+  ]
+ },
+ {
+  "cluster": 263,
+  "domain": 4,
+  "guess": "dialog",
+  "n": 97,
+  "samples": [
+   "dialog",
+   "primitives-base-dialog",
+   "primitives-headless-dialog",
+   "primitives-radix-dialog",
+   "components-base-dialog",
+   "components-headless-dialog",
+   "components-radix-dialog",
+   "divider-01"
+  ]
+ },
+ {
+  "cluster": 379,
+  "domain": 4,
+  "guess": "kit",
+  "n": 96,
+  "samples": [
+   "editor",
+   "background-boxes",
+   "follow-up-suggestions",
+   "all",
+   "content-renderer",
+   "generic-pack",
+   "astro-content-renderer",
+   "astro-pack"
+  ]
+ },
+ {
+  "cluster": 101,
+  "domain": 4,
+  "guess": "file upload",
+  "n": 94,
+  "samples": [
+   "file-upload-01",
+   "file-upload-1",
+   "file-upload-2",
+   "file-upload-3",
+   "folder-with-files",
+   "file-upload",
+   "file-upload-02",
+   "file-upload-03"
+  ]
+ },
+ {
+  "cluster": 36,
+  "domain": 4,
+  "guess": "agent",
+  "n": 84,
+  "samples": [
+   "eve/ai-seo-audit",
+   "eve/browser-agent",
+   "eve/chat-with-pdf",
+   "eve/chat-with-youtube",
+   "eve/claw",
+   "eve/company-knowledge",
+   "eve/csv-to-questions",
+   "eve/deep-search"
+  ]
+ },
+ {
+  "cluster": 59,
+  "domain": 4,
+  "guess": "nextjs",
+  "n": 80,
+  "samples": [
+   "supabase",
+   "agw-provider",
+   "claude-config",
+   "nextjs-api-token-route",
+   "oauth-domain-auth",
+   "nextjs-clerk-provider",
+   "nextjs-middleware",
+   "nextjs-header"
+  ]
+ },
+ {
+  "cluster": 373,
+  "domain": 4,
+  "guess": "utils",
+  "n": 78,
+  "samples": [
+   "utils",
+   "elevated",
+   "sound-types",
+   "abstract-contracts",
+   "variants",
+   "use-render",
+   "merge-props",
+   "csp-provider"
+  ]
+ },
+ {
+  "cluster": 64,
+  "domain": 4,
+  "guess": "sections",
+  "n": 76,
+  "samples": [
+   "hero-sections-01",
+   "hero-sections-02",
+   "hero-sections-03",
+   "hero-sections-04",
+   "hero-sections-05",
+   "cta-sections-01",
+   "cta-sections-02",
+   "cta-sections-03"
+  ]
+ },
+ {
+  "cluster": 91,
+  "domain": 4,
+  "guess": "timeline",
+  "n": 75,
+  "samples": [
+   "timeline",
+   "timeline-demo",
+   "timeline-hollow-demo",
+   "timeline-nocards-demo",
+   "timeline-not-alternating-demo",
+   "timeline-vertical-demo",
+   "timeline-steps",
+   "timelines-activity-feed"
+  ]
+ },
+ {
+  "cluster": 176,
+  "domain": 4,
+  "guess": "toolbar",
+  "n": 71,
+  "samples": [
+   "toolbar",
+   "floating-toolbar",
+   "toolbar-expandable",
+   "action-bar",
+   "radial-toolbar",
+   "components-community-management-bar",
+   "p-toolbar-1",
+   "filters-toolbar"
+  ]
+ },
+ {
+  "cluster": 100,
+  "domain": 4,
+  "guess": "file upload",
+  "n": 69,
+  "samples": [
+   "file-upload",
+   "dropzone",
+   "file-dropzone",
+   "upload-progress",
+   "use-file-upload",
+   "file-picker",
+   "upload-button",
+   "upload-dropzone"
+  ]
+ },
+ {
+  "cluster": 322,
+  "domain": 4,
+  "guess": "markdown",
+  "n": 69,
+  "samples": [
+   "markdown",
+   "table-of-contents",
+   "heading",
+   "toc",
+   "description-list",
+   "page-header",
+   "markdown-text",
+   "hook-session-summary"
+  ]
+ },
+ {
+  "cluster": 35,
+  "domain": 4,
+  "guess": "docs",
+  "n": 68,
+  "samples": [
+   "plate",
+   "copilot-api",
+   "docs-meta",
+   "docs",
+   "fumadocs",
+   "debugging-docs",
+   "editing-behavior-docs",
+   "editor-methods-docs"
+  ]
+ },
+ {
+  "cluster": 92,
+  "domain": 4,
+  "guess": "clock sm",
+  "n": 68,
+  "samples": [
+   "timer",
+   "flip-clock",
+   "countdown",
+   "alarm-clock",
+   "alarm-clock-check",
+   "alarm-clock-minus",
+   "alarm-smoke",
+   "countdown-timer"
+  ]
+ },
+ {
+  "cluster": 52,
+  "domain": 4,
+  "guess": "tailwind",
+  "n": 64,
+  "samples": [
+   "tailwindcss-buttons",
+   "tailwind-alertdialog",
+   "tailwind-breadcrumbs",
+   "tailwind-button",
+   "tailwind-calendar",
+   "tailwind-checkbox",
+   "tailwind-checkboxgroup",
+   "tailwind-colorarea"
+  ]
+ },
+ {
+  "cluster": 262,
+  "domain": 4,
+  "guess": "modals",
+  "n": 64,
+  "samples": [
+   "modal",
+   "morphing-dialog",
+   "morphing-modal",
+   "portal",
+   "responsive-modal",
+   "animated-modal",
+   "glass-modal",
+   "transitions-shared-modal"
+  ]
+ },
+ {
+  "cluster": 346,
+  "domain": 4,
+  "guess": "map",
+  "n": 62,
+  "samples": [
+   "map",
+   "world-map",
+   "markers",
+   "mapbox-pointer",
+   "map-demo",
+   "flight",
+   "minesweeper",
+   "location-map"
+  ]
+ },
+ {
+  "cluster": 334,
+  "domain": 4,
+  "guess": "file tree",
+  "n": 60,
+  "samples": [
+   "file-tree",
+   "tree",
+   "tree-view",
+   "primitives-base-files",
+   "primitives-radix-files",
+   "json-viewer",
+   "folder-tree",
+   "components-base-files"
+  ]
+ },
+ {
+  "cluster": 254,
+  "domain": 4,
+  "guess": "settings",
+  "n": 57,
+  "samples": [
+   "settings-integrations",
+   "settings-privacy",
+   "settings-profile",
+   "settings-security",
+   "settings-sso",
+   "settings-webhooks",
+   "session-keys",
+   "devtools8"
+  ]
+ },
+ {
+  "cluster": 133,
+  "domain": 4,
+  "guess": "sample",
+  "n": 54,
+  "samples": [
+   "react-sample-sample-uploader",
+   "preact-sample-define-atom-block",
+   "preact-sample-sample-uploader",
+   "vue-sample-sample-uploader",
+   "lit-sample-sample-doc-block-handle",
+   "lit-sample-sample-doc-code-block",
+   "lit-sample-sample-doc-full",
+   "lit-sample-sample-doc-inline-menu"
+  ]
+ },
+ {
+  "cluster": 106,
+  "domain": 4,
+  "guess": "sample",
+  "n": 52,
+  "samples": [
+   "react-example-word-counter",
+   "react-sample-sample-doc-word-counter",
+   "react-ui-word-counter",
+   "preact-example-word-counter",
+   "preact-sample-sample-doc-word-counter",
+   "preact-ui-word-counter",
+   "vue-example-word-counter",
+   "vue-sample-sample-doc-word-counter"
+  ]
+ },
+ {
+  "cluster": 112,
+  "domain": 4,
+  "guess": "realtime",
+  "n": 51,
+  "samples": [
+   "cursor-ai-config",
+   "collaborative-cursors",
+   "discord-online",
+   "discord-online-react",
+   "real-time-cursors",
+   "isolated-renderer",
+   "cursor-rule-back-end",
+   "cursor-rule-bulk-processing"
+  ]
+ },
+ {
+  "cluster": 183,
+  "domain": 4,
+  "guess": "layouts",
+  "n": 48,
+  "samples": [
+   "canvas-text",
+   "thread",
+   "thread-list",
+   "threadlist-sidebar",
+   "side-panel-demo",
+   "layouts-canvas-tools",
+   "layouts-focus-mode",
+   "layouts-inbox-rail"
+  ]
+ },
+ {
+  "cluster": 384,
+  "domain": 4,
+  "guess": "message",
+  "n": 48,
+  "samples": [
+   "message",
+   "message-timing",
+   "forms-notifications",
+   "tours-checklist",
+   "hook-notify-telegram",
+   "error-screen",
+   "bot-message-square",
+   "check-check"
+  ]
+ },
+ {
+  "cluster": 171,
+  "domain": 4,
+  "guess": "contribution graph",
+  "n": 47,
+  "samples": [
+   "contribution-graph",
+   "heatmap",
+   "heatmap-chart",
+   "github-contributions",
+   "calendar-heatmap",
+   "choropleth",
+   "heatmap-demo",
+   "heatmap-interpolate-demo"
+  ]
+ },
+ {
+  "cluster": 218,
+  "domain": 4,
+  "guess": "popover popover standard",
+  "n": 47,
+  "samples": [
+   "feedback-widget",
+   "p-popover-1",
+   "p-popover-2",
+   "p-popover-3",
+   "p-popover-4",
+   "popover-01",
+   "popover-02",
+   "popover-03"
+  ]
+ },
+ {
+  "cluster": 279,
+  "domain": 4,
+  "guess": "link",
+  "n": 45,
+  "samples": [
+   "link",
+   "interactive-hover-button",
+   "card-hover-effect",
+   "direction-aware-hover",
+   "text-hover-effect",
+   "fancy-text-hover",
+   "link-hover",
+   "hover-preview"
+  ]
+ },
+ {
+  "cluster": 271,
+  "domain": 4,
+  "guess": "c tooltip",
+  "n": 43,
+  "samples": [
+   "p-tooltip-1",
+   "p-tooltip-2",
+   "p-tooltip-3",
+   "p-tooltip-4",
+   "command-10",
+   "tooltip-01",
+   "tooltip-02",
+   "tooltip-03"
+  ]
+ }
+]

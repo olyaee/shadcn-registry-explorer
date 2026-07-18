@@ -1,0 +1,497 @@
+[
+ {
+  "cluster": 99,
+  "label": "Product Card",
+  "description": "E-commerce product cards and product listing tiles in many variants."
+ },
+ {
+  "cluster": 343,
+  "label": "Pricing Section",
+  "description": "Pricing page sections and plan blocks in numbered variations."
+ },
+ {
+  "cluster": 283,
+  "label": "Login / Auth",
+  "description": "Login and sign-in authentication screens and forms."
+ },
+ {
+  "cluster": 105,
+  "label": "Documentation / Docs Example",
+  "description": "Documentation preview snippets and editor doc examples (blocks, comments, suggestions)."
+ },
+ {
+  "cluster": 333,
+  "label": "Settings / Admin Panel",
+  "description": "Application settings, organization admin screens, tables, and modals."
+ },
+ {
+  "cluster": 31,
+  "label": "Bento Tile",
+  "description": "Individual tiles used inside bento-style landing grids."
+ },
+ {
+  "cluster": 144,
+  "label": "Form Layout",
+  "description": "Multi-field form layouts and form field groups."
+ },
+ {
+  "cluster": 223,
+  "label": "Feature Section",
+  "description": "Marketing feature sections and account/content blocks with CTAs."
+ },
+ {
+  "cluster": 255,
+  "label": "Stat Card",
+  "description": "Single-metric statistic cards for dashboards."
+ },
+ {
+  "cluster": 185,
+  "label": "Input Group",
+  "description": "Grouped input controls combining fields, addons, and buttons."
+ },
+ {
+  "cluster": 58,
+  "label": "Progress Indicator",
+  "description": "Linear, circular, and ring progress bars."
+ },
+ {
+  "cluster": 140,
+  "label": "Select",
+  "description": "Select and dropdown-choice form controls."
+ },
+ {
+  "cluster": 368,
+  "label": "Code Block",
+  "description": "Syntax-highlighted code blocks, snippets, and command displays."
+ },
+ {
+  "cluster": 204,
+  "label": "Dashboard",
+  "description": "Full dashboard layouts in numbered variations."
+ },
+ {
+  "cluster": 278,
+  "label": "Timeline",
+  "description": "Vertical and horizontal timeline components."
+ },
+ {
+  "cluster": 306,
+  "label": "Onboarding / Tour",
+  "description": "Onboarding flows, welcome dialogs, and product tours."
+ },
+ {
+  "cluster": 71,
+  "label": "Empty State",
+  "description": "Empty-state placeholders with cards, illustrations, and prompts."
+ },
+ {
+  "cluster": 252,
+  "label": "Billing / Settings",
+  "description": "Billing pages and account settings sections."
+ },
+ {
+  "cluster": 37,
+  "label": "OTP Input",
+  "description": "One-time-password / verification code input fields."
+ },
+ {
+  "cluster": 228,
+  "label": "Stats Section",
+  "description": "Statistic sections showing multiple metrics together."
+ },
+ {
+  "cluster": 172,
+  "label": "Changelog",
+  "description": "Changelog and release-notes layouts."
+ },
+ {
+  "cluster": 344,
+  "label": "Pricing Table",
+  "description": "Pricing cards and plan comparison tables."
+ },
+ {
+  "cluster": 224,
+  "label": "App Shell",
+  "description": "Application shell layouts with sidebar and header scaffolding."
+ },
+ {
+  "cluster": 231,
+  "label": "Stepper",
+  "description": "Multi-step progress steppers and step-based flows."
+ },
+ {
+  "cluster": 299,
+  "label": "List",
+  "description": "Sortable, swipeable, and member list components."
+ },
+ {
+  "cluster": 47,
+  "label": "Skeleton Loader",
+  "description": "Skeleton and shimmer loading placeholders."
+ },
+ {
+  "cluster": 184,
+  "label": "Input Field",
+  "description": "Text input form fields in many variants."
+ },
+ {
+  "cluster": 253,
+  "label": "Payment / Checkout",
+  "description": "Payment methods, payment details, and booking screens."
+ },
+ {
+  "cluster": 158,
+  "label": "Hero Section",
+  "description": "Landing-page hero sections."
+ },
+ {
+  "cluster": 268,
+  "label": "Developer Tools",
+  "description": "Devtool-style panels including diff viewers and API inspectors."
+ },
+ {
+  "cluster": 354,
+  "label": "Demo / Example",
+  "description": "Generic example wrappers for agent, chat, and attachment demos."
+ },
+ {
+  "cluster": 109,
+  "label": "Status Indicator",
+  "description": "Status pages and system-status indicators."
+ },
+ {
+  "cluster": 259,
+  "label": "Notifications",
+  "description": "Notification lists and confirmation request panels."
+ },
+ {
+  "cluster": 329,
+  "label": "Activity Feed",
+  "description": "Activity feeds, audit logs, and live log streams."
+ },
+ {
+  "cluster": 229,
+  "label": "Stats Section",
+  "description": "Numbered statistic sections displaying KPI groups."
+ },
+ {
+  "cluster": 27,
+  "label": "Data Grid",
+  "description": "Data grid and framed table components."
+ },
+ {
+  "cluster": 250,
+  "label": "Team Section",
+  "description": "Team member showcase sections."
+ },
+ {
+  "cluster": 2,
+  "label": "Veil Landing Blocks",
+  "description": "Veil-themed marketing blocks (CTAs, cards, logos, call-to-action)."
+ },
+ {
+  "cluster": 190,
+  "label": "Search / Filters",
+  "description": "Search bars, filter panels, and searchable dropdowns."
+ },
+ {
+  "cluster": 194,
+  "label": "404 / Error Page",
+  "description": "Not-found and error state pages."
+ },
+ {
+  "cluster": 232,
+  "label": "Bento Grid",
+  "description": "Bento-style feature grids."
+ },
+ {
+  "cluster": 256,
+  "label": "Card",
+  "description": "General-purpose cards in many numbered variants."
+ },
+ {
+  "cluster": 180,
+  "label": "Reviews / Social Proof",
+  "description": "Social-proof, reviews, and feedback panels."
+ },
+ {
+  "cluster": 46,
+  "label": "Skeleton Loader",
+  "description": "Numbered skeleton loading placeholders."
+ },
+ {
+  "cluster": 244,
+  "label": "Bento Grid",
+  "description": "Numbered bento grid layouts."
+ },
+ {
+  "cluster": 5,
+  "label": "Mist Landing Blocks",
+  "description": "Mist-themed marketing blocks (CTAs, comparators, contact, content)."
+ },
+ {
+  "cluster": 277,
+  "label": "How It Works Section",
+  "description": "Step-by-step how-it-works marketing sections."
+ },
+ {
+  "cluster": 284,
+  "label": "Two-Factor Auth",
+  "description": "Two-factor authentication and MFA management screens."
+ },
+ {
+  "cluster": 157,
+  "label": "Call to Action / Content",
+  "description": "Call-to-action and content marketing blocks."
+ },
+ {
+  "cluster": 53,
+  "label": "Rating",
+  "description": "Star ratings and feedback rating controls."
+ },
+ {
+  "cluster": 139,
+  "label": "Autocomplete",
+  "description": "Autocomplete and searchable input fields."
+ },
+ {
+  "cluster": 166,
+  "label": "Usage Dashboard",
+  "description": "Usage metering tables and analytics dashboards."
+ },
+ {
+  "cluster": 267,
+  "label": "Workflow / Agent Builder",
+  "description": "Workflow canvas, agent, and approval-node builder components."
+ },
+ {
+  "cluster": 208,
+  "label": "Kanban Board",
+  "description": "Kanban and task-board layouts with drag overlays."
+ },
+ {
+  "cluster": 251,
+  "label": "Chart / KPI Card",
+  "description": "Charts, KPI grids, and crypto/wallet metric cards."
+ },
+ {
+  "cluster": 298,
+  "label": "Item / Content Block",
+  "description": "Numbered item and content list blocks."
+ },
+ {
+  "cluster": 207,
+  "label": "Task / Todo List",
+  "description": "Task lists, task detail, and project todo components."
+ },
+ {
+  "cluster": 222,
+  "label": "Data Grid",
+  "description": "Base data grid and comparison table components."
+ },
+ {
+  "cluster": 282,
+  "label": "Forgot Password",
+  "description": "Forgot-password, verify-email, and change-password flows."
+ },
+ {
+  "cluster": 332,
+  "label": "User Profile",
+  "description": "User profile and social profile cards."
+ },
+ {
+  "cluster": 242,
+  "label": "Checkout",
+  "description": "Checkout and express-checkout flows."
+ },
+ {
+  "cluster": 303,
+  "label": "App Dialogs / File Manager",
+  "description": "Application-pro dialogs, version history, and file manager blocks."
+ },
+ {
+  "cluster": 38,
+  "label": "OTP Field",
+  "description": "One-time-password field components."
+ },
+ {
+  "cluster": 72,
+  "label": "Empty State",
+  "description": "Named empty states (inbox zero, 404, no files, maintenance)."
+ },
+ {
+  "cluster": 114,
+  "label": "Leaderboard",
+  "description": "Leaderboards, streaks, and progress trackers."
+ },
+ {
+  "cluster": 73,
+  "label": "GitHub Stars Button",
+  "description": "Animated GitHub star count buttons and widgets."
+ },
+ {
+  "cluster": 285,
+  "label": "Auth",
+  "description": "Numbered authentication screens."
+ },
+ {
+  "cluster": 276,
+  "label": "Email / Inbox",
+  "description": "Email composer, mailbox, and notification inbox shells."
+ },
+ {
+  "cluster": 243,
+  "label": "Bento Grid",
+  "description": "Bento grid marketing layouts."
+ },
+ {
+  "cluster": 15,
+  "label": "Page Section",
+  "description": "Reusable page sections (auth, team, and related blocks)."
+ },
+ {
+  "cluster": 57,
+  "label": "Progress",
+  "description": "Progress bar component variants."
+ },
+ {
+  "cluster": 30,
+  "label": "Bento Tile",
+  "description": "Individual bento grid tiles with counters and content."
+ },
+ {
+  "cluster": 212,
+  "label": "Showcase Section",
+  "description": "Product showcase and feature spotlight sections."
+ },
+ {
+  "cluster": 261,
+  "label": "Localization / i18n",
+  "description": "Localization tools: language switchers, glossaries, locale settings."
+ },
+ {
+  "cluster": 14,
+  "label": "Illustration",
+  "description": "Decorative illustration assets."
+ },
+ {
+  "cluster": 102,
+  "label": "Icon Set",
+  "description": "General-purpose UI icons (arrows, adjustments, boxes, caps)."
+ },
+ {
+  "cluster": 177,
+  "label": "Icon Set",
+  "description": "Named UI icons (clock, bell, battery, audio)."
+ },
+ {
+  "cluster": 188,
+  "label": "Badge",
+  "description": "Status and label badges in many variants."
+ },
+ {
+  "cluster": 238,
+  "label": "Avatar",
+  "description": "Avatars, avatar groups, and stacks."
+ },
+ {
+  "cluster": 179,
+  "label": "Dialog",
+  "description": "Modal dialog components in numbered variants."
+ },
+ {
+  "cluster": 265,
+  "label": "Alert",
+  "description": "Alert, callout, and alert-dialog notices."
+ },
+ {
+  "cluster": 168,
+  "label": "Animated Icons",
+  "description": "Animated icons with wiggle, shake, fade, and draw effects."
+ },
+ {
+  "cluster": 40,
+  "label": "OG Image",
+  "description": "Open Graph social share image templates."
+ },
+ {
+  "cluster": 24,
+  "label": "Toast",
+  "description": "Toast and sonner notification components."
+ },
+ {
+  "cluster": 237,
+  "label": "Avatar",
+  "description": "Numbered avatar component variants."
+ },
+ {
+  "cluster": 187,
+  "label": "Badge",
+  "description": "Numbered badge component variants including availability badges."
+ },
+ {
+  "cluster": 116,
+  "label": "Logo",
+  "description": "Brand logos and QR code marks."
+ },
+ {
+  "cluster": 169,
+  "label": "Icon Set",
+  "description": "Directional arrow and chevron icons."
+ },
+ {
+  "cluster": 117,
+  "label": "Brand Logo",
+  "description": "Third-party brand and service logos (Algolia, Auth0, Cloudflare)."
+ },
+ {
+  "cluster": 118,
+  "label": "Brand Logo",
+  "description": "Third-party brand and framework logos (Astro, Bun, ByteDance)."
+ },
+ {
+  "cluster": 23,
+  "label": "Sonner Toast",
+  "description": "Sonner toast notification variants."
+ },
+ {
+  "cluster": 264,
+  "label": "Alert Dialog",
+  "description": "Confirmation alert dialogs and action sheets."
+ },
+ {
+  "cluster": 28,
+  "label": "AWS Service Icons",
+  "description": "AWS service icons (Amplify, API Gateway, Bedrock, Athena)."
+ },
+ {
+  "cluster": 202,
+  "label": "Pill / Badge",
+  "description": "Pill and badge indicators including delta and composition variants."
+ },
+ {
+  "cluster": 21,
+  "label": "Sonner Toast",
+  "description": "Numbered sonner toast component variants."
+ },
+ {
+  "cluster": 178,
+  "label": "Icon Set",
+  "description": "Message and circle-status icon variants."
+ },
+ {
+  "cluster": 189,
+  "label": "Alert (Demo)",
+  "description": "Uiable alert and alert-dialog demo variants."
+ },
+ {
+  "cluster": 16,
+  "label": "OG Image",
+  "description": "Numbered Open Graph image templates."
+ },
+ {
+  "cluster": 200,
+  "label": "Avatar (Demo)",
+  "description": "Avatar and avatar-group demo examples."
+ }
+]

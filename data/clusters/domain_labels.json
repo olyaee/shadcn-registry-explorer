@@ -1,0 +1,18 @@
+{
+  "0": {"label": "Commerce & App Blocks", "description": "E-commerce, pricing, auth, dashboards, stat cards and full application sections."},
+  "5": {"label": "Marketing & Landing Sections", "description": "Hero, features, blog, footer, portfolio, CTA, testimonial and FAQ page sections."},
+  "4": {"label": "AI & Miscellaneous UI", "description": "AI chat/agents plus assorted interactive UI (tooltips, hover cards, misc)."},
+  "2": {"label": "Animations & Effects", "description": "Text effects, backgrounds, particles, sliders, carousels and animated primitives."},
+  "1": {"label": "Icons, Badges & Feedback", "description": "Icon sets, badges, avatars, dialogs, alerts and toasts."},
+  "9": {"label": "Fonts & Typefaces", "description": "Google fonts, typefaces and font pairings."},
+  "7": {"label": "Layout & Navigation", "description": "Accordions, tables, tabs, sidebars, pagination and breadcrumbs."},
+  "11": {"label": "Buttons & Toggles", "description": "Buttons, toggles, checkboxes, switches and button groups."},
+  "10": {"label": "Themes & Templates", "description": "Color themes, typography systems and full-page templates."},
+  "6": {"label": "Form Inputs", "description": "Text inputs, selects, labels, textareas and calendars."},
+  "13": {"label": "Menus & Command", "description": "Dropdown, context and navigation menus, comboboxes and command palettes."},
+  "8": {"label": "Demos & Examples", "description": "Demo and example wrappers shipped alongside components."},
+  "15": {"label": "Game Audio & Assets", "description": "Sound effects, voiceovers and game audio assets."},
+  "3": {"label": "Charts & Data", "description": "Charts, data grids and maps."},
+  "12": {"label": "Cards", "description": "Card components — hover, tilt, spotlight and stacked cards."},
+  "14": {"label": "Date & Calendar", "description": "Calendars, date pickers and booking widgets."}
+}

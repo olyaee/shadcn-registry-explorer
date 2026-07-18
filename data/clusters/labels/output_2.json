@@ -1,0 +1,497 @@
+[
+ {
+  "cluster": 377,
+  "label": "Animated Background",
+  "description": "Decorative animated backgrounds (particles, meteors, aurora, gradients, waves)."
+ },
+ {
+  "cluster": 387,
+  "label": "Text Reveal / Animation",
+  "description": "Animated text effects that reveal, blur, loop, or morph words."
+ },
+ {
+  "cluster": 374,
+  "label": "Scroll Effects",
+  "description": "Scroll-driven components: scroll areas, progress, velocity, and fade effects."
+ },
+ {
+  "cluster": 301,
+  "label": "Demo / Example",
+  "description": "Generic demo wrappers for animate, primitives, and community components."
+ },
+ {
+  "cluster": 326,
+  "label": "Slider",
+  "description": "Range and image sliders in many styles (glass, circular, elastic, infinite)."
+ },
+ {
+  "cluster": 297,
+  "label": "Spinner / Loader",
+  "description": "Loading spinners and progress indicators, including thinking and braille loaders."
+ },
+ {
+  "cluster": 370,
+  "label": "Motion Primitives / Effects",
+  "description": "Low-level animation primitives and effects (spring, blur, fade, image zoom)."
+ },
+ {
+  "cluster": 258,
+  "label": "Demo / Example",
+  "description": "Demo wrappers for interactive widgets (dynamic island, floating panel, polls)."
+ },
+ {
+  "cluster": 341,
+  "label": "Carousel",
+  "description": "Carousels in varied styles (feature, apple-cards, cube, linear)."
+ },
+ {
+  "cluster": 12,
+  "label": "Dot Matrix Grid",
+  "description": "Numbered dot-matrix square pattern variations."
+ },
+ {
+  "cluster": 362,
+  "label": "Shader / Visualizer",
+  "description": "Shader-based visual effects and audio visualizers (orbit, spiral, swirl, halo)."
+ },
+ {
+  "cluster": 192,
+  "label": "Glassmorphism Set",
+  "description": "Glass/liquid-glass styled components (cards, buttons, inputs, badges, selects)."
+ },
+ {
+  "cluster": 300,
+  "label": "Interactive Menu / Overlay",
+  "description": "Interactive shells like dynamic island, radial nav, and notification center."
+ },
+ {
+  "cluster": 369,
+  "label": "Animated List",
+  "description": "Animated and pinned lists including notification and todo lists."
+ },
+ {
+  "cluster": 381,
+  "label": "Grid Pattern",
+  "description": "Animated grid and dot-grid background patterns."
+ },
+ {
+  "cluster": 181,
+  "label": "Animated Number",
+  "description": "Animated numeric tickers and counting/sliding number displays."
+ },
+ {
+  "cluster": 167,
+  "label": "Demo / Example",
+  "description": "Demo wrappers for steppers, sliders, spinners, and carousels."
+ },
+ {
+  "cluster": 54,
+  "label": "Slider (Numbered Set)",
+  "description": "Numbered slider variants from a pre-built component set."
+ },
+ {
+  "cluster": 364,
+  "label": "Demo / Example",
+  "description": "Scroll-and-scroller focused demo wrappers."
+ },
+ {
+  "cluster": 121,
+  "label": "Custom Cursor",
+  "description": "Custom and simulated cursor components and animate primitives."
+ },
+ {
+  "cluster": 389,
+  "label": "Media Player",
+  "description": "Video, audio, and media player components with providers and controls."
+ },
+ {
+  "cluster": 386,
+  "label": "Shimmer Text",
+  "description": "Shimmering and sweeping text effects."
+ },
+ {
+  "cluster": 67,
+  "label": "Background Pattern",
+  "description": "Decorative backgrounds using lines, dots, grids, and shooting stars."
+ },
+ {
+  "cluster": 376,
+  "label": "Light / Ray Effects",
+  "description": "Light-ray, lightning, and glow shader effects."
+ },
+ {
+  "cluster": 355,
+  "label": "Marquee",
+  "description": "Scrolling marquees (3D, infinite, perspective) for logos and banners."
+ },
+ {
+  "cluster": 122,
+  "label": "Mouse / Image Trail",
+  "description": "Cursor and image trail effects that follow the pointer."
+ },
+ {
+  "cluster": 89,
+  "label": "Spinner (Variant Set)",
+  "description": "Spinner variations demoing color, size, and custom states."
+ },
+ {
+  "cluster": 375,
+  "label": "Typewriter / Streaming Text",
+  "description": "Typewriter, typing-indicator, and streaming text effects."
+ },
+ {
+  "cluster": 342,
+  "label": "Carousel (Numbered Set)",
+  "description": "Numbered carousel variants from a component set."
+ },
+ {
+  "cluster": 348,
+  "label": "Spotlight Card",
+  "description": "Cards with spotlight, glare, and hover-glow effects."
+ },
+ {
+  "cluster": 84,
+  "label": "Magnetic Effect",
+  "description": "Magnetic buttons and elements that attract toward the cursor."
+ },
+ {
+  "cluster": 197,
+  "label": "Terminal",
+  "description": "Terminal UIs and simulators, plus ASCII art effects."
+ },
+ {
+  "cluster": 351,
+  "label": "Animated Border",
+  "description": "Animated and glowing borders (beam, shine, trail, moving)."
+ },
+ {
+  "cluster": 359,
+  "label": "Grid Layout",
+  "description": "Grid and layout-grid components for lists, teams, and visualizers."
+ },
+ {
+  "cluster": 56,
+  "label": "Dock",
+  "description": "macOS-style docks in varied styles (floating, glass, magnetic)."
+ },
+ {
+  "cluster": 138,
+  "label": "Color Picker",
+  "description": "Color and gradient pickers, swatches, and palettes."
+ },
+ {
+  "cluster": 119,
+  "label": "Number / Numeric Input",
+  "description": "Numeric field inputs including phone, currency, and amount."
+ },
+ {
+  "cluster": 25,
+  "label": "Aspect Ratio",
+  "description": "Aspect-ratio containers and image crop utilities."
+ },
+ {
+  "cluster": 383,
+  "label": "Scramble / Decode Text",
+  "description": "Text scramble, encrypt, and matrix-decode animation effects."
+ },
+ {
+  "cluster": 382,
+  "label": "Glitch / Pixel Text",
+  "description": "Glitch and pixelated text and button effects."
+ },
+ {
+  "cluster": 241,
+  "label": "Logo Cloud / Carousel",
+  "description": "Logo clouds, carousels, and animated logo timelines."
+ },
+ {
+  "cluster": 380,
+  "label": "Grid Distortion Effect",
+  "description": "Canvas and shader grid effects (distortion, fractal, chroma, cursor)."
+ },
+ {
+  "cluster": 137,
+  "label": "Demo / Example",
+  "description": "Demo wrappers for color pickers, swatches, and gauges."
+ },
+ {
+  "cluster": 257,
+  "label": "Device Mockup",
+  "description": "Device frames and mockups (Safari, iPhone, MacBook, browser window)."
+ },
+ {
+  "cluster": 361,
+  "label": "3D Image Effect",
+  "description": "3D image and orbit effects (cubes, orbit images, croppers)."
+ },
+ {
+  "cluster": 104,
+  "label": "Skiper UI Blocks",
+  "description": "Numbered Skiper UI component blocks."
+ },
+ {
+  "cluster": 350,
+  "label": "Animated Beam",
+  "description": "Animated connecting beams and background beam effects."
+ },
+ {
+  "cluster": 388,
+  "label": "Demo / Example",
+  "description": "Video-player demo wrappers showing control and sizing variants."
+ },
+ {
+  "cluster": 347,
+  "label": "Globe",
+  "description": "3D interactive globes and world-map illustrations."
+ },
+ {
+  "cluster": 68,
+  "label": "Shader Effects",
+  "description": "Assorted shader-driven visuals (dot distortion, spotlight, morphing blob)."
+ },
+ {
+  "cluster": 203,
+  "label": "Chart",
+  "description": "Interactive data charts for logs, sales, and traffic."
+ },
+ {
+  "cluster": 11,
+  "label": "Country / Region Data",
+  "description": "Per-country data files (Africa, Algeria, Angola, Argentina, etc.)."
+ },
+ {
+  "cluster": 233,
+  "label": "Area Chart Example",
+  "description": "Area chart examples covering gradients, stacking, and curve types."
+ },
+ {
+  "cluster": 234,
+  "label": "Chart Example",
+  "description": "Mixed chart examples (area, bar, combo) in card layouts."
+ },
+ {
+  "cluster": 62,
+  "label": "Area Chart Variants",
+  "description": "Area chart variants (axes, gradient, interactive, legend, stacked)."
+ },
+ {
+  "cluster": 10,
+  "label": "US State / Region Data",
+  "description": "Per-US-state and North America data files."
+ },
+ {
+  "cluster": 175,
+  "label": "Chart Example",
+  "description": "Chart examples across area, bar, line, scatter, gauge, and radar."
+ },
+ {
+  "cluster": 173,
+  "label": "Pie / Line Chart Example",
+  "description": "Pie and line chart examples with donuts, gaps, and custom colors."
+ },
+ {
+  "cluster": 209,
+  "label": "Chart (Numbered Set)",
+  "description": "Numbered chart variants from a component set."
+ },
+ {
+  "cluster": 392,
+  "label": "Core UI Primitives",
+  "description": "Foundational UI primitives (label, field, item, command, form)."
+ },
+ {
+  "cluster": 372,
+  "label": "Button",
+  "description": "Buttons in many styles (shimmer, shiny, flip, liquid, ripple, social)."
+ },
+ {
+  "cluster": 174,
+  "label": "Chart",
+  "description": "Core chart types (area, bar, line, pie, radar, sankey, radial)."
+ },
+ {
+  "cluster": 349,
+  "label": "React Hooks",
+  "description": "Utility React hooks (use-mobile, use-media-query, use-copy-to-clipboard)."
+ },
+ {
+  "cluster": 367,
+  "label": "AI Chat Input",
+  "description": "AI chat building blocks: prompt input, message, model selector, chat bubble."
+ },
+ {
+  "cluster": 6,
+  "label": "Country / Region Names",
+  "description": "Bare country and US-state name entries."
+ },
+ {
+  "cluster": 365,
+  "label": "AI Chat Conversation",
+  "description": "Full AI chat conversation and chat interface components."
+ },
+ {
+  "cluster": 103,
+  "label": "Misc UI / Adapters",
+  "description": "Assorted UI utilities, views, and framework adapters."
+ },
+ {
+  "cluster": 345,
+  "label": "Hover Card",
+  "description": "Hover and preview cards including link previews."
+ },
+ {
+  "cluster": 272,
+  "label": "Tooltip",
+  "description": "Tooltips including animated variants and numbered sets."
+ },
+ {
+  "cluster": 217,
+  "label": "Popover",
+  "description": "Popovers and floating panels across primitive libraries."
+ },
+ {
+  "cluster": 134,
+  "label": "Editor Sample (Doc Blocks)",
+  "description": "React editor sample doc-block building pieces (bold, code, cursor, fonts)."
+ },
+ {
+  "cluster": 385,
+  "label": "Arrow / Pointer",
+  "description": "Arrow, pointer, and directional indicator elements."
+ },
+ {
+  "cluster": 263,
+  "label": "Dialog",
+  "description": "Dialog components across base, headless, and Radix libraries."
+ },
+ {
+  "cluster": 379,
+  "label": "Editor / Content Kit",
+  "description": "Editor and content-rendering kit pieces (renderer, packs, suggestions)."
+ },
+ {
+  "cluster": 101,
+  "label": "File Upload (Numbered Set)",
+  "description": "Numbered file-upload component variants."
+ },
+ {
+  "cluster": 36,
+  "label": "AI Agent Templates",
+  "description": "Prebuilt AI agent templates (browser agent, chat-with-pdf, deep search)."
+ },
+ {
+  "cluster": 59,
+  "label": "Auth / Backend Integration",
+  "description": "Next.js auth and backend wiring (Supabase, Clerk, middleware, OAuth)."
+ },
+ {
+  "cluster": 373,
+  "label": "Utilities / Helpers",
+  "description": "Shared utility helpers (cn utils, variants, merge-props, providers)."
+ },
+ {
+  "cluster": 64,
+  "label": "Page Sections",
+  "description": "Marketing page sections (hero, CTA) in numbered variants."
+ },
+ {
+  "cluster": 91,
+  "label": "Timeline",
+  "description": "Timeline components with vertical, alternating, and activity-feed styles."
+ },
+ {
+  "cluster": 176,
+  "label": "Toolbar",
+  "description": "Toolbars and action bars (floating, radial, expandable, filters)."
+ },
+ {
+  "cluster": 100,
+  "label": "File Upload / Dropzone",
+  "description": "File upload, dropzone, and picker components with progress."
+ },
+ {
+  "cluster": 322,
+  "label": "Markdown / Document",
+  "description": "Markdown rendering, headings, table of contents, and page headers."
+ },
+ {
+  "cluster": 35,
+  "label": "Documentation",
+  "description": "Docs and editor documentation content (Plate, Fumadocs, debugging)."
+ },
+ {
+  "cluster": 92,
+  "label": "Timer / Clock",
+  "description": "Timers, countdowns, and clock components (flip clock, alarm)."
+ },
+ {
+  "cluster": 52,
+  "label": "Tailwind Component Set",
+  "description": "Tailwind-styled component set (buttons, calendar, checkbox, breadcrumbs)."
+ },
+ {
+  "cluster": 262,
+  "label": "Modal",
+  "description": "Modals in varied styles (morphing, responsive, animated, glass)."
+ },
+ {
+  "cluster": 346,
+  "label": "Map",
+  "description": "Maps and world maps with markers and location pointers."
+ },
+ {
+  "cluster": 334,
+  "label": "File Tree / Tree View",
+  "description": "File trees, tree views, and JSON viewers."
+ },
+ {
+  "cluster": 254,
+  "label": "Settings Page",
+  "description": "Settings screens (profile, privacy, security, SSO, integrations)."
+ },
+ {
+  "cluster": 133,
+  "label": "Editor Sample (Multi-Framework)",
+  "description": "Editor doc samples across React, Preact, Vue, and Lit."
+ },
+ {
+  "cluster": 106,
+  "label": "Word Counter Sample",
+  "description": "Word-counter editor samples across multiple frameworks."
+ },
+ {
+  "cluster": 112,
+  "label": "Realtime Collaboration",
+  "description": "Collaborative and real-time cursors plus presence indicators."
+ },
+ {
+  "cluster": 183,
+  "label": "App Layout / Panels",
+  "description": "App layouts, threads, side panels, and focus-mode rails."
+ },
+ {
+  "cluster": 384,
+  "label": "Notification / Message",
+  "description": "Messages, notifications, and error screens plus notify hooks."
+ },
+ {
+  "cluster": 171,
+  "label": "Heatmap / Contribution Graph",
+  "description": "Heatmaps, contribution graphs, and choropleth calendars."
+ },
+ {
+  "cluster": 218,
+  "label": "Popover (Numbered Set)",
+  "description": "Numbered popover variants plus a feedback widget."
+ },
+ {
+  "cluster": 279,
+  "label": "Hover Effect / Link",
+  "description": "Interactive hover buttons, links, and text hover effects."
+ },
+ {
+  "cluster": 271,
+  "label": "Tooltip (Numbered Set)",
+  "description": "Numbered tooltip variants from a component set."
+ }
+]

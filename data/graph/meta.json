@@ -1,0 +1,10 @@
+{
+  "nodes": {
+    "domains": 16,
+    "categories": 396,
+    "registries": 238,
+    "items": 37837
+  },
+  "embeddingDim": 1024,
+  "relationships_est": 76086
+}

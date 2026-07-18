@@ -1,0 +1,1 @@
+{"handle": "@tour", "homepage": "https://onboarding-tour.vercel.app/", "items": 1, "linked": 0, "realItems": 1, "realLinked": 0, "realCoverage": 0, "templateStr": null, "methodCounts": {"no-page": 1}, "poolSize": 17, "links": {"tour": {"url": null, "verified": false, "method": "no-page", "type": "registry:ui"}}, "verified_pass": true}

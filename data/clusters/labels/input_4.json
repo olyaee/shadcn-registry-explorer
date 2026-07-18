@@ -1,0 +1,1586 @@
+[
+ {
+  "cluster": 49,
+  "domain": 7,
+  "guess": "c separator",
+  "n": 33,
+  "samples": [
+   "separator",
+   "separator-demo",
+   "p-separator-1",
+   "separator-example",
+   "separator-orientation-example",
+   "SeparatorVertical",
+   "c-separator-1",
+   "c-separator-2"
+  ]
+ },
+ {
+  "cluster": 289,
+  "domain": 8,
+  "guess": "demo",
+  "n": 239,
+  "samples": [
+   "data-table-demo",
+   "message-demo",
+   "response-demo",
+   "conversation-demo",
+   "dialog-demo",
+   "field-demo",
+   "label-demo",
+   "menu-demo"
+  ]
+ },
+ {
+  "cluster": 305,
+  "domain": 8,
+  "guess": "button",
+  "n": 107,
+  "samples": [
+   "button-demo",
+   "button-variants-demo",
+   "button-sizes-demo",
+   "button-icon-demo",
+   "toggle-group-demo",
+   "cambio-image-icons-expand-demo",
+   "cambio-image-close-button-demo",
+   "segmented-button-demo"
+  ]
+ },
+ {
+  "cluster": 294,
+  "domain": 8,
+  "guess": "example",
+  "n": 94,
+  "samples": [
+   "tracker-example",
+   "text-basic-example",
+   "text-link-example",
+   "show-more-as-text-example",
+   "show-more-controlled-example",
+   "show-more-example",
+   "show-more-orientation-example",
+   "card-action-example"
+  ]
+ },
+ {
+  "cluster": 266,
+  "domain": 8,
+  "guess": "example",
+  "n": 71,
+  "samples": [
+   "number-field-demo",
+   "textarea-autocomplete-example",
+   "textarea-controlled-example",
+   "textarea-description-example",
+   "textarea-disabled-example",
+   "textarea-example",
+   "textarea-readonly-example",
+   "textarea-uncontrolled-example"
+  ]
+ },
+ {
+  "cluster": 325,
+  "domain": 8,
+  "guess": "input group",
+  "n": 61,
+  "samples": [
+   "input-group",
+   "input-group-demo",
+   "input-group-example",
+   "input-group-icon-demo",
+   "input-group-text-demo",
+   "input-group-button-demo",
+   "input-group-tooltip-demo",
+   "input-group-spinner-demo"
+  ]
+ },
+ {
+  "cluster": 320,
+  "domain": 8,
+  "guess": "demo",
+  "n": 60,
+  "samples": [
+   "input-demo",
+   "textarea-demo",
+   "editable-form-demo",
+   "segmented-input-vertical-demo",
+   "mask-input-form-demo",
+   "phone-input-form-demo",
+   "phone-input-custom-countries-demo",
+   "tags-input-editable-demo"
+  ]
+ },
+ {
+  "cluster": 296,
+  "domain": 8,
+  "guess": "checkbox",
+  "n": 50,
+  "samples": [
+   "checkbox-group-demo",
+   "checkbox-demo",
+   "radio-group-demo",
+   "checkbox-group-animated-demo",
+   "checkbox-group-horizontal-demo",
+   "checkbox-group-multi-selection-demo",
+   "checkbox-group-validation-demo",
+   "checkbox-disabled-demo"
+  ]
+ },
+ {
+  "cluster": 281,
+  "domain": 8,
+  "guess": "demo",
+  "n": 49,
+  "samples": [
+   "hover-card-demo",
+   "popover-demo",
+   "tooltip-demo",
+   "admonition-custom-icon-demo",
+   "badge-overflow-demo",
+   "badge-overflow-multiline-demo",
+   "badge-overflow-interactive-demo",
+   "selection-toolbar-demo"
+  ]
+ },
+ {
+  "cluster": 275,
+  "domain": 8,
+  "guess": "box",
+  "n": 44,
+  "samples": [
+   "list-box",
+   "listbox",
+   "list-box-demo",
+   "listbox-demo",
+   "listbox-grid-demo",
+   "listbox-group-demo",
+   "listbox-horizontal-demo",
+   "bar-list-controlled-example"
+  ]
+ },
+ {
+  "cluster": 324,
+  "domain": 8,
+  "guess": "group",
+  "n": 43,
+  "samples": [
+   "button-group-demo",
+   "button-group-example",
+   "button-group-orientation-example",
+   "button-group-with-text-example",
+   "button-group-orientation-demo",
+   "button-group-size-demo",
+   "button-group-nested-demo",
+   "button-group-separator-demo"
+  ]
+ },
+ {
+  "cluster": 291,
+  "domain": 8,
+  "guess": "example",
+  "n": 41,
+  "samples": [
+   "select-controlled-example",
+   "select-disabled-example",
+   "select-example",
+   "select-multiple-example",
+   "select-searchable-example",
+   "select-uncontrolled-example",
+   "select-validation-example",
+   "native-select-controlled-example"
+  ]
+ },
+ {
+  "cluster": 191,
+  "domain": 8,
+  "guess": "form",
+  "n": 39,
+  "samples": [
+   "form-tanstack",
+   "segmented-input-form-demo",
+   "tanstack-form-demo",
+   "tanstack-form-input-demo",
+   "tanstack-form-textarea-demo",
+   "tanstack-form-select-demo",
+   "tanstack-form-checkbox-demo",
+   "tanstack-form-switch-demo"
+  ]
+ },
+ {
+  "cluster": 395,
+  "domain": 9,
+  "guess": "script",
+  "n": 430,
+  "samples": [
+   "fonts",
+   "font-inter",
+   "font-sans",
+   "font-heading",
+   "font-mono",
+   "agu-display",
+   "alex-brush",
+   "alike"
+  ]
+ },
+ {
+  "cluster": 393,
+  "domain": 9,
+  "guess": "libre",
+  "n": 336,
+  "samples": [
+   "abhaya-libre",
+   "aboreto",
+   "abril-fatface",
+   "adamina",
+   "aguafina-script",
+   "aladin",
+   "alan-sans",
+   "alata"
+  ]
+ },
+ {
+  "cluster": 390,
+  "domain": 9,
+  "guess": "anek",
+  "n": 269,
+  "samples": [
+   "abyssinica-sil",
+   "adlam-display",
+   "agbalumo",
+   "agdasima",
+   "akatab",
+   "akaya-telivigala",
+   "akronim",
+   "akshar"
+  ]
+ },
+ {
+  "cluster": 339,
+  "domain": 9,
+  "guess": "noto",
+  "n": 217,
+  "samples": [
+   "font-noto-sans-jp",
+   "nokora",
+   "noto-color-emoji",
+   "noto-emoji",
+   "noto-kufi-arabic",
+   "noto-music",
+   "noto-naskh-arabic",
+   "noto-nastaliq-urdu"
+  ]
+ },
+ {
+  "cluster": 394,
+  "domain": 9,
+  "guess": "one",
+  "n": 207,
+  "samples": [
+   "alfa-slab-one",
+   "autour-one",
+   "bagel-fat-one",
+   "bakbak-one",
+   "baumans",
+   "bbh-bartle",
+   "bbh-hegarty",
+   "beau-rivage"
+  ]
+ },
+ {
+  "cluster": 378,
+  "domain": 9,
+  "guess": "sans",
+  "n": 139,
+  "samples": [
+   "abeezee",
+   "abel",
+   "aclonica",
+   "acme",
+   "actor",
+   "afacad",
+   "afacad-flux",
+   "albert-sans"
+  ]
+ },
+ {
+  "cluster": 4,
+  "domain": 9,
+  "guess": "playwrite",
+  "n": 106,
+  "samples": [
+   "edu-au-vic-wa-nt-guides",
+   "playwrite-ar",
+   "playwrite-ar-guides",
+   "playwrite-at",
+   "playwrite-at-guides",
+   "playwrite-au-nsw",
+   "playwrite-au-nsw-guides",
+   "playwrite-au-qld"
+  ]
+ },
+ {
+  "cluster": 358,
+  "domain": 9,
+  "guess": "zen",
+  "n": 76,
+  "samples": [
+   "akaya-kanadaka",
+   "amiko",
+   "aoboshi-one",
+   "biz-udmincho",
+   "biz-udpmincho",
+   "bpmf-iansui",
+   "bpmf-zihi-kai-std",
+   "chiron-hei-hk"
+  ]
+ },
+ {
+  "cluster": 340,
+  "domain": 9,
+  "guess": "gothic",
+  "n": 73,
+  "samples": [
+   "amatic-sc",
+   "antic-didone",
+   "atkinson-hyperlegible",
+   "baskervville",
+   "baskervville-sc",
+   "biz-udgothic",
+   "biz-udpgothic",
+   "carrois-gothic"
+  ]
+ },
+ {
+  "cluster": 363,
+  "domain": 9,
+  "guess": "mono",
+  "n": 50,
+  "samples": [
+   "atkinson-hyperlegible-mono",
+   "azeret-mono",
+   "b612-mono",
+   "cascadia-mono",
+   "chivo-mono",
+   "cutive-mono",
+   "dm-mono",
+   "fira-mono"
+  ]
+ },
+ {
+  "cluster": 7,
+  "domain": 9,
+  "guess": "rubik",
+  "n": 28,
+  "samples": [
+   "rubik",
+   "rubik-80s-fade",
+   "rubik-beastly",
+   "rubik-broken-fax",
+   "rubik-bubbles",
+   "rubik-burned",
+   "rubik-dirt",
+   "rubik-distressed"
+  ]
+ },
+ {
+  "cluster": 18,
+  "domain": 10,
+  "guess": "sans",
+  "n": 386,
+  "samples": [
+   "editorial",
+   "abril-fatface-lato",
+   "agency",
+   "albert-sans-barlow",
+   "alegreya-alegreya-sans",
+   "alegreya-sans-alegreya",
+   "alegreya-sans-alegreya-sans",
+   "alegreya-sans-aleo"
+  ]
+ },
+ {
+  "cluster": 97,
+  "domain": 10,
+  "guess": "templates",
+  "n": 296,
+  "samples": [
+   "surfaces",
+   "devtool",
+   "1password",
+   "admin-pro",
+   "adyen",
+   "aesop",
+   "agency",
+   "airtable"
+  ]
+ },
+ {
+  "cluster": 98,
+  "domain": 10,
+  "guess": "airbyte",
+  "n": 93,
+  "samples": [
+   "airbyte",
+   "anytype",
+   "appsmith",
+   "appwrite",
+   "astro",
+   "axiom",
+   "better-stack",
+   "bilt"
+  ]
+ },
+ {
+  "cluster": 19,
+  "domain": 10,
+  "guess": "theme",
+  "n": 91,
+  "samples": [
+   "theme-emerald",
+   "theme-daylight",
+   "theme-midnight",
+   "joyco-theme",
+   "zinc",
+   "slate",
+   "stone",
+   "mono"
+  ]
+ },
+ {
+  "cluster": 20,
+  "domain": 10,
+  "guess": "opentui/theme",
+  "n": 89,
+  "samples": [
+   "terminal",
+   "theme-candy",
+   "theme-indigo",
+   "theme-blue",
+   "theme-orange",
+   "ink/types",
+   "opentui/types",
+   "opentui/theme-provider"
+  ]
+ },
+ {
+  "cluster": 33,
+  "domain": 10,
+  "guess": "mobile",
+  "n": 80,
+  "samples": [
+   "1password-mobile",
+   "airbnb-mobile",
+   "alltrails-mobile",
+   "amazon-mobile",
+   "asana-mobile",
+   "bluesky-mobile",
+   "bumble-mobile",
+   "calm-mobile"
+  ]
+ },
+ {
+  "cluster": 34,
+  "domain": 10,
+  "guess": "ui",
+  "n": 48,
+  "samples": [
+   "theme",
+   "delego-theme",
+   "tinte-editor",
+   "amber-minimal-ui",
+   "amethyst-haze-ui",
+   "bold-tech-ui",
+   "bubblegum-ui",
+   "caffeine-ui"
+  ]
+ },
+ {
+  "cluster": 286,
+  "domain": 10,
+  "guess": "font",
+  "n": 41,
+  "samples": [
+   "advent-pro",
+   "joyco-fonts",
+   "font-geist",
+   "font-karla",
+   "font-inter",
+   "font-inter-tight",
+   "font-mona-sans",
+   "font-roboto"
+  ]
+ },
+ {
+  "cluster": 32,
+  "domain": 10,
+  "guess": "mobile",
+  "n": 40,
+  "samples": [
+   "apple-music-mobile",
+   "audible-mobile",
+   "capcut-mobile",
+   "character-ai-mobile",
+   "crypto-com-mobile",
+   "deezer-mobile",
+   "discord-mobile",
+   "disney-mobile"
+  ]
+ },
+ {
+  "cluster": 107,
+  "domain": 10,
+  "guess": "typographyh",
+  "n": 38,
+  "samples": [
+   "typography-demo",
+   "text-morphing-variants-demo",
+   "typewritter-text-demo",
+   "typewritter-text-custom-demo",
+   "typography-blockquote-demo",
+   "typography-h1-demo",
+   "typography-h2-demo",
+   "typography-h3-demo"
+  ]
+ },
+ {
+  "cluster": 108,
+  "domain": 10,
+  "guess": "typography",
+  "n": 38,
+  "samples": [
+   "typography",
+   "text",
+   "font-weight",
+   "global-styles",
+   "info-apex",
+   "info-beats",
+   "info-n01",
+   "info-n02"
+  ]
+ },
+ {
+  "cluster": 1,
+  "domain": 10,
+  "guess": "mui",
+  "n": 30,
+  "samples": [
+   "accordion-mui-treasury",
+   "alert-mui-treasury",
+   "app-bar-mui-treasury",
+   "autocomplete-mui-treasury",
+   "avatar-mui-treasury",
+   "badge-mui-treasury",
+   "breadcrumbs-mui-treasury",
+   "button-group-mui-treasury"
+  ]
+ },
+ {
+  "cluster": 142,
+  "domain": 11,
+  "guess": "button",
+  "n": 111,
+  "samples": [
+   "cloud-auth-button",
+   "button-01",
+   "button-02",
+   "button-03",
+   "button-04",
+   "button-05",
+   "button-06",
+   "button-07"
+  ]
+ },
+ {
+  "cluster": 149,
+  "domain": 11,
+  "guess": "toggle",
+  "n": 110,
+  "samples": [
+   "toggle",
+   "toggle-group",
+   "segmented-control",
+   "primitives-base-toggle",
+   "primitives-base-toggle-group",
+   "primitives-radix-toggle",
+   "primitives-radix-toggle-group",
+   "agent-track-toggle"
+  ]
+ },
+ {
+  "cluster": 143,
+  "domain": 11,
+  "guess": "c button",
+  "n": 106,
+  "samples": [
+   "p-button-1",
+   "p-button-2",
+   "p-button-3",
+   "p-button-4",
+   "p-button-5",
+   "p-button-6",
+   "p-button-7",
+   "p-button-8"
+  ]
+ },
+ {
+  "cluster": 148,
+  "domain": 11,
+  "guess": "theme",
+  "n": 88,
+  "samples": [
+   "theme-toggle",
+   "theme-switcher",
+   "primitives-effects-theme-toggler",
+   "components-buttons-theme-toggler",
+   "demo-components-buttons-theme-toggler",
+   "demo-primitives-effects-theme-toggler",
+   "theme-provider",
+   "theme-switch"
+  ]
+ },
+ {
+  "cluster": 161,
+  "domain": 11,
+  "guess": "checkbox",
+  "n": 87,
+  "samples": [
+   "checkbox",
+   "checkbox-group",
+   "components-radix-checkbox",
+   "primitives-base-checkbox",
+   "primitives-base-radio",
+   "primitives-headless-checkbox",
+   "primitives-radix-checkbox",
+   "choicebox"
+  ]
+ },
+ {
+  "cluster": 94,
+  "domain": 11,
+  "guess": "button group",
+  "n": 66,
+  "samples": [
+   "button-group",
+   "button-group-01",
+   "button-group-03",
+   "button-group-05",
+   "button-group-06",
+   "button-group-08",
+   "button-group-09",
+   "button-group-10"
+  ]
+ },
+ {
+  "cluster": 132,
+  "domain": 11,
+  "guess": "c toggle group",
+  "n": 66,
+  "samples": [
+   "p-toggle-group-1",
+   "p-toggle-group-2",
+   "p-toggle-group-3",
+   "p-toggle-group-4",
+   "p-toggle-group-5",
+   "p-toggle-group-6",
+   "p-toggle-group-7",
+   "p-toggle-group-8"
+  ]
+ },
+ {
+  "cluster": 156,
+  "domain": 11,
+  "guess": "switch",
+  "n": 66,
+  "samples": [
+   "switch",
+   "primitives-base-switch",
+   "primitives-headless-switch",
+   "primitives-radix-switch",
+   "team-switcher",
+   "form-switch",
+   "alert",
+   "components-base-switch"
+  ]
+ },
+ {
+  "cluster": 90,
+  "domain": 11,
+  "guess": "c button group",
+  "n": 60,
+  "samples": [
+   "button-20",
+   "c-button-group-1",
+   "c-button-group-10",
+   "c-button-group-11",
+   "c-button-group-12",
+   "c-button-group-13",
+   "c-button-group-14",
+   "c-button-group-15"
+  ]
+ },
+ {
+  "cluster": 136,
+  "domain": 11,
+  "guess": "c switch",
+  "n": 58,
+  "samples": [
+   "p-switch-1",
+   "p-switch-2",
+   "p-switch-3",
+   "p-switch-4",
+   "p-switch-5",
+   "p-switch-6",
+   "card-11",
+   "item-15"
+  ]
+ },
+ {
+  "cluster": 162,
+  "domain": 11,
+  "guess": "c checkbox",
+  "n": 58,
+  "samples": [
+   "p-checkbox-1",
+   "p-checkbox-2",
+   "p-checkbox-3",
+   "p-checkbox-4",
+   "p-checkbox-5",
+   "p-checkbox-group-1",
+   "p-checkbox-group-2",
+   "p-checkbox-group-3"
+  ]
+ },
+ {
+  "cluster": 164,
+  "domain": 11,
+  "guess": "radio group",
+  "n": 54,
+  "samples": [
+   "radio-group",
+   "radio",
+   "primitives-radix-radio-group",
+   "components-base-radio",
+   "components-radix-radio-group",
+   "radio-group-base",
+   "b-radio-group",
+   "r-radio-group"
+  ]
+ },
+ {
+  "cluster": 163,
+  "domain": 11,
+  "guess": "checkbox",
+  "n": 53,
+  "samples": [
+   "checkbox-06",
+   "checkbox-01",
+   "checkbox-02",
+   "checkbox-03",
+   "checkbox-04",
+   "checkbox-05",
+   "checkbox-07",
+   "checkbox-08"
+  ]
+ },
+ {
+  "cluster": 13,
+  "domain": 11,
+  "guess": "social",
+  "n": 49,
+  "samples": [
+   "components-buttons-social-buttons",
+   "social-button-social-button-apple-default",
+   "social-button-social-button-apple-full",
+   "social-button-social-button-apple-icon",
+   "social-button-social-button-apple-outline",
+   "social-button-social-button-apple-secondary-outline",
+   "social-button-social-button-apple-sm",
+   "social-button-social-button-discord-default"
+  ]
+ },
+ {
+  "cluster": 93,
+  "domain": 11,
+  "guess": "button",
+  "n": 49,
+  "samples": [
+   "button-16",
+   "button-17",
+   "button-18",
+   "button-21",
+   "button-22",
+   "button-24",
+   "button-26",
+   "button-27"
+  ]
+ },
+ {
+  "cluster": 165,
+  "domain": 11,
+  "guess": "radio group",
+  "n": 47,
+  "samples": [
+   "radio-group-01",
+   "radio-group-02",
+   "radio-group-03",
+   "radio-group-04",
+   "radio-group-05",
+   "radio-group-06",
+   "radio-group-07",
+   "radio-group-08"
+  ]
+ },
+ {
+  "cluster": 154,
+  "domain": 11,
+  "guess": "c radio group",
+  "n": 41,
+  "samples": [
+   "p-radio-group-1",
+   "p-radio-group-2",
+   "p-radio-group-3",
+   "p-radio-group-4",
+   "p-radio-group-5",
+   "p-radio-group-6",
+   "FieldRadio",
+   "RadioGroupChoiceCard"
+  ]
+ },
+ {
+  "cluster": 155,
+  "domain": 11,
+  "guess": "switch",
+  "n": 38,
+  "samples": [
+   "switch-01",
+   "switch-02",
+   "switch-03",
+   "switch-04",
+   "switch-05",
+   "switch-06",
+   "switch-07",
+   "swap-button"
+  ]
+ },
+ {
+  "cluster": 120,
+  "domain": 11,
+  "guess": "border button border button moving",
+  "n": 37,
+  "samples": [
+   "border-button-border-button-basic",
+   "border-button-border-button-moving-1",
+   "border-button-border-button-moving-10",
+   "border-button-border-button-moving-11",
+   "border-button-border-button-moving-12",
+   "border-button-border-button-moving-2",
+   "border-button-border-button-moving-3",
+   "border-button-border-button-moving-4"
+  ]
+ },
+ {
+  "cluster": 128,
+  "domain": 11,
+  "guess": "button button text marquee",
+  "n": 36,
+  "samples": [
+   "button-11",
+   "border-button-border-button-corner-1",
+   "border-button-border-button-corner-2",
+   "border-button-border-button-corner-3",
+   "border-button-border-button-corner-4",
+   "border-button-border-button-corner-5",
+   "button-button-morph-expand-1",
+   "button-button-morph-expand-2"
+  ]
+ },
+ {
+  "cluster": 17,
+  "domain": 11,
+  "guess": "theme toggle theme toggle icon",
+  "n": 29,
+  "samples": [
+   "theme-toggle-theme-toggle-icon-1",
+   "theme-toggle-theme-toggle-icon-10",
+   "theme-toggle-theme-toggle-icon-2",
+   "theme-toggle-theme-toggle-icon-3",
+   "theme-toggle-theme-toggle-icon-4",
+   "theme-toggle-theme-toggle-icon-5",
+   "theme-toggle-theme-toggle-icon-6",
+   "theme-toggle-theme-toggle-icon-7"
+  ]
+ },
+ {
+  "cluster": 357,
+  "domain": 12,
+  "guess": "card",
+  "n": 166,
+  "samples": [
+   "card-flip",
+   "expandable-cards",
+   "flip-card",
+   "card",
+   "text-reveal-card",
+   "box-illustration",
+   "peel-corner-reveal",
+   "components-community-flip-card"
+  ]
+ },
+ {
+  "cluster": 337,
+  "domain": 12,
+  "guess": "card",
+  "n": 93,
+  "samples": [
+   "card",
+   "product-card",
+   "security-card",
+   "card-demo",
+   "credit-card",
+   "profile-card",
+   "evervault-card",
+   "card-stack"
+  ]
+ },
+ {
+  "cluster": 219,
+  "domain": 12,
+  "guess": "card",
+  "n": 84,
+  "samples": [
+   "card",
+   "cards-demo-1",
+   "cards-demo-2",
+   "cards-demo-3",
+   "expandable-card-on-click",
+   "booking14",
+   "cta53",
+   "faq50"
+  ]
+ },
+ {
+  "cluster": 338,
+  "domain": 12,
+  "guess": "card",
+  "n": 84,
+  "samples": [
+   "card",
+   "card-10",
+   "card-08",
+   "card-11",
+   "card-12",
+   "card-13",
+   "card-01",
+   "card-02"
+  ]
+ },
+ {
+  "cluster": 352,
+  "domain": 12,
+  "guess": "stack",
+  "n": 74,
+  "samples": [
+   "stack",
+   "deck",
+   "draggable-card",
+   "draggable-cards",
+   "ai-job-cards",
+   "meet-the-crew",
+   "traveldeck",
+   "interactive-card-stack"
+  ]
+ },
+ {
+  "cluster": 220,
+  "domain": 12,
+  "guess": "c card",
+  "n": 43,
+  "samples": [
+   "p-card-1",
+   "p-card-2",
+   "p-card-3",
+   "p-card-4",
+   "p-card-5",
+   "p-card-6",
+   "p-card-7",
+   "p-card-8"
+  ]
+ },
+ {
+  "cluster": 61,
+  "domain": 12,
+  "guess": "login",
+  "n": 40,
+  "samples": [
+   "player-profile-card",
+   "update-plan-card",
+   "report-card",
+   "tweet-card",
+   "login-card",
+   "best-selling-product",
+   "top-cards",
+   "blog-cards"
+  ]
+ },
+ {
+  "cluster": 356,
+  "domain": 12,
+  "guess": "tilt card",
+  "n": 36,
+  "samples": [
+   "tilt-card",
+   "tilt",
+   "demo-tilt-card",
+   "tilted-coverflow",
+   "cards-tilt",
+   "cards-parallax-tilt",
+   "tilt-effect",
+   "nebula-glass-card"
+  ]
+ },
+ {
+  "cluster": 336,
+  "domain": 12,
+  "guess": "c hover card",
+  "n": 35,
+  "samples": [
+   "glossary-hover",
+   "notification-stack",
+   "glow-card",
+   "account-hover-card",
+   "c-hover-card-1",
+   "c-hover-card-2",
+   "c-hover-card-3",
+   "c-hover-card-4"
+  ]
+ },
+ {
+  "cluster": 353,
+  "domain": 12,
+  "guess": "cards",
+  "n": 35,
+  "samples": [
+   "infinite-moving-cards",
+   "rotating-tabs-with-text",
+   "faq62",
+   "card-deck-demo-interactive",
+   "card-deck-balatro-demo",
+   "memory-match",
+   "spaced-repetition",
+   "demo-components-music-album-cards"
+  ]
+ },
+ {
+  "cluster": 330,
+  "domain": 13,
+  "guess": "dropdown menu",
+  "n": 114,
+  "samples": [
+   "dropdown-menu",
+   "dropdown",
+   "dropdown-menu-01",
+   "dropdown-menu-02",
+   "dropdown-menu-03",
+   "dropdown-menu-04",
+   "dropdown-menu-05",
+   "dropdown-menu-06"
+  ]
+ },
+ {
+  "cluster": 124,
+  "domain": 13,
+  "guess": "combobox",
+  "n": 111,
+  "samples": [
+   "combobox",
+   "autocomplete",
+   "combo-box",
+   "combobox-01",
+   "combobox-02",
+   "combobox-03",
+   "combobox-04",
+   "combobox-05"
+  ]
+ },
+ {
+  "cluster": 319,
+  "domain": 13,
+  "guess": "c dropdown menu",
+  "n": 82,
+  "samples": [
+   "notifications-2",
+   "food14",
+   "food16",
+   "grid-list-01",
+   "dropdown-with-filter-by-priority",
+   "dropdown-with-filter-by-status",
+   "dropdown-with-filter-with-checkbox",
+   "dropdown-with-filter-with-range"
+  ]
+ },
+ {
+  "cluster": 196,
+  "domain": 13,
+  "guess": "command",
+  "n": 79,
+  "samples": [
+   "command",
+   "command-palette",
+   "command-menu",
+   "command-02",
+   "command-03",
+   "command-palette-demo",
+   "command-palette-1",
+   "command-palette-2"
+  ]
+ },
+ {
+  "cluster": 29,
+  "domain": 13,
+  "guess": "combobox combobox custom actions",
+  "n": 66,
+  "samples": [
+   "command-05",
+   "rhf-fields-08",
+   "tsf-fields-08",
+   "combobox-combobox-custom-actions-1",
+   "combobox-combobox-custom-actions-2",
+   "combobox-combobox-custom-actions-3",
+   "combobox-combobox-custom-actions-4",
+   "combobox-combobox-custom-actions-5"
+  ]
+ },
+ {
+  "cluster": 211,
+  "domain": 13,
+  "guess": "kbd",
+  "n": 65,
+  "samples": [
+   "p-kbd-1",
+   "c-command-2",
+   "c-command-7",
+   "c-dialog-9",
+   "c-item-7",
+   "c-kbd-1",
+   "c-kbd-2",
+   "c-kbd-3"
+  ]
+ },
+ {
+  "cluster": 331,
+  "domain": 13,
+  "guess": "navigation menu",
+  "n": 64,
+  "samples": [
+   "navigation-menu",
+   "menubar",
+   "menu",
+   "command-menu",
+   "nested-menu",
+   "navbar-menu",
+   "menu-bar",
+   "header-navigation"
+  ]
+ },
+ {
+  "cluster": 210,
+  "domain": 13,
+  "guess": "kbd",
+  "n": 57,
+  "samples": [
+   "kbd",
+   "keyboard",
+   "mac-keyboard",
+   "keyboard-illustration",
+   "keyboard-view",
+   "macbook-keyboard",
+   "macbook-keyboard-demo",
+   "kbd-node"
+  ]
+ },
+ {
+  "cluster": 82,
+  "domain": 13,
+  "guess": "c context menu",
+  "n": 53,
+  "samples": [
+   "main-menu",
+   "pause-menu",
+   "food7",
+   "food9",
+   "command-menu-01",
+   "command-menu-02",
+   "command-menu-03",
+   "p-menu-1"
+  ]
+ },
+ {
+  "cluster": 39,
+  "domain": 13,
+  "guess": "c combobox",
+  "n": 51,
+  "samples": [
+   "p-combobox-1",
+   "p-combobox-2",
+   "p-combobox-3",
+   "p-combobox-4",
+   "p-combobox-5",
+   "p-combobox-6",
+   "p-combobox-7",
+   "p-combobox-8"
+  ]
+ },
+ {
+  "cluster": 321,
+  "domain": 13,
+  "guess": "context menu",
+  "n": 40,
+  "samples": [
+   "context-menu",
+   "components-community-radial-menu",
+   "b-context-menu",
+   "brand-assets-menu",
+   "cell-controls",
+   "dropdown-menu-item",
+   "ContextMenu",
+   "context-menu-tailwind"
+  ]
+ },
+ {
+  "cluster": 295,
+  "domain": 13,
+  "guess": "example",
+  "n": 39,
+  "samples": [
+   "heading-example",
+   "heading-level-example",
+   "description-list-card-example",
+   "description-list-example",
+   "description-list-heading-example",
+   "sheet-menu-example",
+   "modal-triggered-by-menu-example",
+   "breadcrumbs-menu-example"
+  ]
+ },
+ {
+  "cluster": 230,
+  "domain": 13,
+  "guess": "demo",
+  "n": 38,
+  "samples": [
+   "navigation-menu-demo",
+   "action-bar-demo",
+   "breadcrumb-dropdown-demo",
+   "BreadcrumbDropdown",
+   "CommandShortcuts",
+   "ContextMenuBasic",
+   "ContextMenuDemo",
+   "ContextMenuDestructive"
+  ]
+ },
+ {
+  "cluster": 274,
+  "domain": 13,
+  "guess": "combobox",
+  "n": 31,
+  "samples": [
+   "combobox-demo",
+   "combobox-custom-filter-demo",
+   "combobox-debounced-demo",
+   "combobox-groups-demo",
+   "combobox-multiple-demo",
+   "combobox-tags-demo",
+   "combobox-virtualized-demo",
+   "oui-combo-box-demo"
+  ]
+ },
+ {
+  "cluster": 83,
+  "domain": 13,
+  "guess": "context menu context menu standard",
+  "n": 27,
+  "samples": [
+   "context-menu-context-menu-canvas-1",
+   "context-menu-context-menu-canvas-2",
+   "context-menu-context-menu-canvas-3",
+   "context-menu-context-menu-canvas-4",
+   "context-menu-context-menu-canvas-5",
+   "context-menu-context-menu-file-1",
+   "context-menu-context-menu-file-2",
+   "context-menu-context-menu-file-3"
+  ]
+ },
+ {
+  "cluster": 96,
+  "domain": 14,
+  "guess": "calendar",
+  "n": 129,
+  "samples": [
+   "calendar",
+   "range-calendar",
+   "calendar-01",
+   "calendar-02",
+   "calendar-03",
+   "calendar-04",
+   "calendar-05",
+   "calendar-06"
+  ]
+ },
+ {
+  "cluster": 79,
+  "domain": 14,
+  "guess": "date",
+  "n": 107,
+  "samples": [
+   "calendar-range-demo",
+   "calendar-demo",
+   "date-field-demo",
+   "date-picker-demo",
+   "time-field",
+   "time-picker-demo",
+   "time-picker-step-demo",
+   "time-picker-seconds-demo"
+  ]
+ },
+ {
+  "cluster": 95,
+  "domain": 14,
+  "guess": "date picker",
+  "n": 106,
+  "samples": [
+   "date-picker",
+   "calendar",
+   "date-range-picker",
+   "date-field",
+   "time-picker",
+   "wheel-picker",
+   "date-picker-01",
+   "date-picker-02"
+  ]
+ },
+ {
+  "cluster": 198,
+  "domain": 14,
+  "guess": "booking",
+  "n": 85,
+  "samples": [
+   "availability",
+   "calendar-1",
+   "calendar-2",
+   "calendar-3",
+   "save-slots",
+   "meeting-illustration",
+   "booking1",
+   "booking3"
+  ]
+ },
+ {
+  "cluster": 86,
+  "domain": 14,
+  "guess": "c calendar",
+  "n": 61,
+  "samples": [
+   "calendar-year",
+   "event30",
+   "p-calendar-1",
+   "p-calendar-3",
+   "p-calendar-4",
+   "p-calendar-5",
+   "p-calendar-6",
+   "p-calendar-7"
+  ]
+ },
+ {
+  "cluster": 85,
+  "domain": 14,
+  "guess": "p date picker",
+  "n": 52,
+  "samples": [
+   "dialog-10",
+   "p-date-picker-1",
+   "p-date-picker-2",
+   "p-date-picker-9",
+   "p-date-picker-3",
+   "p-date-picker-4",
+   "p-date-picker-5",
+   "p-date-picker-6"
+  ]
+ },
+ {
+  "cluster": 77,
+  "domain": 15,
+  "guess": "impact",
+  "n": 145,
+  "samples": [
+   "book-place-2",
+   "chips-collide-3",
+   "dice-shake-3",
+   "explosion-crunch-000",
+   "explosion-crunch-001",
+   "explosion-crunch-002",
+   "explosion-crunch-003",
+   "explosion-crunch-004"
+  ]
+ },
+ {
+  "cluster": 76,
+  "domain": 15,
+  "guess": "card",
+  "n": 144,
+  "samples": [
+   "click-8bit",
+   "click-soft",
+   "switch-on",
+   "switch-off",
+   "hover-tick",
+   "back-001",
+   "back-002",
+   "back-003"
+  ]
+ },
+ {
+  "cluster": 42,
+  "domain": 15,
+  "guess": "voiceover",
+  "n": 112,
+  "samples": [
+   "flawless-victory",
+   "kill-her",
+   "kill-him",
+   "loser",
+   "prepare-yourself",
+   "voiceover-pack-female-1",
+   "voiceover-pack-female-10",
+   "voiceover-pack-female-2"
+  ]
+ },
+ {
+  "cluster": 65,
+  "domain": 15,
+  "guess": "open",
+  "n": 111,
+  "samples": [
+   "back-004",
+   "book-close",
+   "book-flip-1",
+   "book-flip-2",
+   "book-open",
+   "card-shuffle",
+   "cards-pack-open-1",
+   "cards-pack-open-2"
+  ]
+ },
+ {
+  "cluster": 0,
+  "domain": 15,
+  "guess": "jingles hit",
+  "n": 85,
+  "samples": [
+   "jingles-hit-00",
+   "jingles-hit-01",
+   "jingles-hit-02",
+   "jingles-hit-03",
+   "jingles-hit-04",
+   "jingles-hit-05",
+   "jingles-hit-06",
+   "jingles-hit-07"
+  ]
+ },
+ {
+  "cluster": 41,
+  "domain": 15,
+  "guess": "power up",
+  "n": 64,
+  "samples": [
+   "game-over",
+   "victory-screen",
+   "duel-block",
+   "jump-8bit",
+   "coin-collect",
+   "arcade-mode",
+   "battle-mode",
+   "begin"
+  ]
+ },
+ {
+  "cluster": 9,
+  "domain": 15,
+  "guess": "engine circular",
+  "n": 40,
+  "samples": [
+   "sound-engine",
+   "computer-noise-000",
+   "computer-noise-001",
+   "computer-noise-002",
+   "computer-noise-003",
+   "engine-circular-000",
+   "engine-circular-001",
+   "engine-circular-002"
+  ]
+ },
+ {
+  "cluster": 26,
+  "domain": 15,
+  "guess": "orc female standard npcgreeting",
+  "n": 38,
+  "samples": [
+   "dwarf-female-incoming-01",
+   "dwarf-female-incoming-02",
+   "gnome-male-out-of-mana-01",
+   "gnome-male-out-of-mana-02",
+   "night-elf-female-incoming-01",
+   "night-elf-female-incoming-02",
+   "orc-female-charge-01",
+   "orc-female-charge-02"
+  ]
+ },
+ {
+  "cluster": 3,
+  "domain": 15,
+  "guess": "footstep",
+  "n": 35,
+  "samples": [
+   "footstep-00",
+   "footstep-01",
+   "footstep-02",
+   "footstep-03",
+   "footstep-04",
+   "footstep-05",
+   "footstep-06",
+   "footstep-07"
+  ]
+ },
+ {
+  "cluster": 60,
+  "domain": 15,
+  "guess": "select",
+  "n": 35,
+  "samples": [
+   "banner-02",
+   "notification-pop",
+   "success-chime",
+   "bong-001",
+   "confirmation-001",
+   "confirmation-002",
+   "confirmation-003",
+   "confirmation-004"
+  ]
+ },
+ {
+  "cluster": 22,
+  "domain": 15,
+  "guess": "error",
+  "n": 31,
+  "samples": [
+   "hook-notify-sound",
+   "sfx-all",
+   "sfx-boom",
+   "sfx-cinematic",
+   "sfx-click",
+   "sfx-drone",
+   "sfx-error",
+   "sfx-glitch"
+  ]
+ }
+]

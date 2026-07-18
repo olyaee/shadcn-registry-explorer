@@ -1,0 +1,1586 @@
+[
+ {
+  "cluster": 292,
+  "domain": 4,
+  "guess": "map",
+  "n": 43,
+  "samples": [
+   "mapbox-pointer-demo",
+   "mapbox-pointer-style-demo",
+   "mapbox-pointer-theme-demo",
+   "location-map-demo",
+   "expanded-map-demo",
+   "expanded-map-locations-demo",
+   "expanded-map-dark-demo",
+   "expanded-map-zoom-demo"
+  ]
+ },
+ {
+  "cluster": 391,
+  "domain": 4,
+  "guess": "adobe",
+  "n": 43,
+  "samples": [
+   "illustrator",
+   "photoshop",
+   "acrobat-reader",
+   "pdf-viewer",
+   "signature-pad",
+   "dreamweaver",
+   "adobe",
+   "after-effects"
+  ]
+ },
+ {
+  "cluster": 8,
+  "domain": 4,
+  "guess": "andromeda",
+  "n": 41,
+  "samples": [
+   "andromeda-button",
+   "andromeda-tokens",
+   "andromeda-alert",
+   "andromeda-avatar",
+   "andromeda-badge",
+   "andromeda-button-system",
+   "andromeda-card",
+   "andromeda-checkbox"
+  ]
+ },
+ {
+  "cluster": 366,
+  "domain": 4,
+  "guess": "artifact",
+  "n": 40,
+  "samples": [
+   "ai-artifact",
+   "agent",
+   "artifact",
+   "attachments",
+   "canvas",
+   "checkpoint",
+   "commit",
+   "confirmation"
+  ]
+ },
+ {
+  "cluster": 360,
+  "domain": 4,
+  "guess": "chain of thought",
+  "n": 39,
+  "samples": [
+   "chain-of-thought",
+   "reasoning",
+   "tool",
+   "example-chain-of-thought",
+   "chat13",
+   "handoff-chain",
+   "tool-call",
+   "tool-inspector"
+  ]
+ },
+ {
+  "cluster": 75,
+  "domain": 4,
+  "guess": "file",
+  "n": 37,
+  "samples": [
+   "file-trigger",
+   "cropper-file-upload-demo",
+   "file-upload-demo",
+   "file-upload-chat-input-demo",
+   "file-upload-circular-progress-demo",
+   "file-upload-direct-upload-demo",
+   "file-upload-fill-progress-demo",
+   "file-upload-form-demo"
+  ]
+ },
+ {
+  "cluster": 115,
+  "domain": 4,
+  "guess": "auth",
+  "n": 37,
+  "samples": [
+   "auth-otp-verify",
+   "auth-reset-password",
+   "auth-modal",
+   "auth-centered-signin",
+   "auth-centered-signup",
+   "auth-check-email",
+   "auth-glass-signup",
+   "auth-inset-login"
+  ]
+ },
+ {
+  "cluster": 170,
+  "domain": 4,
+  "guess": "meter",
+  "n": 36,
+  "samples": [
+   "meter",
+   "gauge",
+   "gauge-chart",
+   "usage-meter-linear",
+   "usage-meter-circle",
+   "price-range-gauge",
+   "p-meter-1",
+   "p-meter-2"
+  ]
+ },
+ {
+  "cluster": 193,
+  "domain": 4,
+  "guess": "css",
+  "n": 35,
+  "samples": [
+   "tool-group",
+   "group",
+   "css-logo",
+   "gsap-projects-section",
+   "css-button",
+   "css-colorfield",
+   "css-commandpalette",
+   "css-content"
+  ]
+ },
+ {
+  "cluster": 371,
+  "domain": 4,
+  "guess": "copy button",
+  "n": 34,
+  "samples": [
+   "copy-button",
+   "components-buttons-copy",
+   "demo-components-buttons-copy",
+   "button-20",
+   "copy-icon",
+   "animated-copy-button",
+   "response-actions",
+   "input-copy"
+  ]
+ },
+ {
+  "cluster": 335,
+  "domain": 4,
+  "guess": "c tree",
+  "n": 31,
+  "samples": [
+   "example-file-tree-basic",
+   "example-file-tree-expanded",
+   "example-file-tree-selection",
+   "example-file-tree",
+   "tree-drag-example",
+   "tree-example",
+   "tree-folder-example",
+   "tree-infinite-scroll-example"
+  ]
+ },
+ {
+  "cluster": 269,
+  "domain": 5,
+  "guess": "feature",
+  "n": 716,
+  "samples": [
+   "features-1",
+   "features-3",
+   "feature1",
+   "feature3",
+   "feature2",
+   "feature4",
+   "feature5",
+   "feature8"
+  ]
+ },
+ {
+  "cluster": 221,
+  "domain": 5,
+  "guess": "hero",
+  "n": 497,
+  "samples": [
+   "hero-01",
+   "hero-2",
+   "hero-4",
+   "hero1",
+   "hero2",
+   "hero3",
+   "hero7",
+   "hero-02"
+  ]
+ },
+ {
+  "cluster": 288,
+  "domain": 5,
+  "guess": "blog",
+  "n": 292,
+  "samples": [
+   "blog-01",
+   "blog-02",
+   "blog-1",
+   "blog-2",
+   "blog-03",
+   "blog-04",
+   "blog-05",
+   "blog-06"
+  ]
+ },
+ {
+  "cluster": 55,
+  "domain": 5,
+  "guess": "footer",
+  "n": 264,
+  "samples": [
+   "footer-1",
+   "footer-4",
+   "footer-01",
+   "footer-2",
+   "footer-02",
+   "footer-03",
+   "footer-3",
+   "footer1"
+  ]
+ },
+ {
+  "cluster": 302,
+  "domain": 5,
+  "guess": "portfolio",
+  "n": 243,
+  "samples": [
+   "about12",
+   "agency19",
+   "careers34",
+   "portfolio84",
+   "portfolio94",
+   "marketing-pro-press-sections-press-kit-downloads",
+   "portfolio-pro-about-sections-about-long-form",
+   "portfolio-pro-about-sections-about-split"
+  ]
+ },
+ {
+  "cluster": 214,
+  "domain": 5,
+  "guess": "cta",
+  "n": 217,
+  "samples": [
+   "cta-01",
+   "cta-2",
+   "cta-02",
+   "cta-03",
+   "cta-1",
+   "cta-04",
+   "cta-05",
+   "cta-06"
+  ]
+ },
+ {
+  "cluster": 215,
+  "domain": 5,
+  "guess": "testimonial",
+  "n": 216,
+  "samples": [
+   "animated-testimonials",
+   "testimonials-1",
+   "testimonials-2",
+   "testimonials-01",
+   "testimonials",
+   "testimonials-3",
+   "testimonial1",
+   "testimonial6"
+  ]
+ },
+ {
+  "cluster": 316,
+  "domain": 5,
+  "guess": "marketing",
+  "n": 206,
+  "samples": [
+   "branded-seo-page-builder",
+   "marketing-pro-about-sections-backers-and-angels",
+   "marketing-pro-about-sections-company-fact-sheet",
+   "marketing-pro-about-sections-funding-history-list",
+   "marketing-pro-about-sections-operating-principles-grid",
+   "marketing-pro-about-sections-press-mentions",
+   "marketing-pro-about-sections-principles-numbered",
+   "marketing-pro-about-sections-story-timeline"
+  ]
+ },
+ {
+  "cluster": 280,
+  "domain": 5,
+  "guess": "contact",
+  "n": 190,
+  "samples": [
+   "contact-1",
+   "contact-2",
+   "contact-3",
+   "contact-01",
+   "contact-02",
+   "contact-11",
+   "contact-03",
+   "contact-4"
+  ]
+ },
+ {
+  "cluster": 239,
+  "domain": 5,
+  "guess": "faq",
+  "n": 185,
+  "samples": [
+   "faqs-4",
+   "faqs-1",
+   "faqs-2",
+   "faqs-3",
+   "faqs-5",
+   "faq1",
+   "faq2",
+   "faq3"
+  ]
+ },
+ {
+  "cluster": 312,
+  "domain": 5,
+  "guess": "team",
+  "n": 136,
+  "samples": [
+   "team-1",
+   "team1",
+   "team-01",
+   "team-2",
+   "team-3",
+   "team-02",
+   "team-03",
+   "team-04"
+  ]
+ },
+ {
+  "cluster": 328,
+  "domain": 5,
+  "guess": "portfolio",
+  "n": 133,
+  "samples": [
+   "portfolio-01",
+   "portfolio70",
+   "portfolio79",
+   "portfolio92",
+   "portfolio114",
+   "showcase43",
+   "portfolio",
+   "portfolio-02"
+  ]
+ },
+ {
+  "cluster": 135,
+  "domain": 5,
+  "guess": "integrations",
+  "n": 128,
+  "samples": [
+   "integrations-2",
+   "integrations-3",
+   "integrations-4",
+   "integrations-01",
+   "integrations-11",
+   "integrations-1",
+   "integrations-02",
+   "integrations-03"
+  ]
+ },
+ {
+  "cluster": 247,
+  "domain": 5,
+  "guess": "hero",
+  "n": 126,
+  "samples": [
+   "saas-landing",
+   "startup",
+   "minimal-hero-section-with-parallax-images",
+   "education53",
+   "food44",
+   "hero46",
+   "showcase4",
+   "hero-heatmap"
+  ]
+ },
+ {
+  "cluster": 315,
+  "domain": 5,
+  "guess": "marketing",
+  "n": 125,
+  "samples": [
+   "source-sales-meter",
+   "kpi-agency-spotlight",
+   "marketing-pro-about-sections-about-with-stats",
+   "marketing-pro-about-sections-by-the-numbers",
+   "marketing-pro-about-sections-how-we-make-money",
+   "marketing-pro-affiliate-sections-payout-stats-band",
+   "marketing-pro-affiliate-sections-top-partners-leaderboard",
+   "marketing-pro-ai-sections-ai-outcomes-stats"
+  ]
+ },
+ {
+  "cluster": 249,
+  "domain": 5,
+  "guess": "logo cloud",
+  "n": 123,
+  "samples": [
+   "logo-cloud-01",
+   "logo-cloud-1",
+   "logo-cloud-3",
+   "logo-cloud-4",
+   "logo-cloud-02",
+   "logo-cloud-03",
+   "logo-cloud-04",
+   "logo-cloud-2"
+  ]
+ },
+ {
+  "cluster": 311,
+  "domain": 5,
+  "guess": "about",
+  "n": 121,
+  "samples": [
+   "about1",
+   "about2",
+   "about3",
+   "about5",
+   "about6",
+   "about10",
+   "about13",
+   "about14"
+  ]
+ },
+ {
+  "cluster": 310,
+  "domain": 5,
+  "guess": "gallery",
+  "n": 111,
+  "samples": [
+   "gallery-01",
+   "gallery-02",
+   "gallery-03",
+   "gallery-04",
+   "gallery-10",
+   "gallery-1",
+   "gallery-3",
+   "three-columns-with-images"
+  ]
+ },
+ {
+  "cluster": 235,
+  "domain": 5,
+  "guess": "newsletter",
+  "n": 103,
+  "samples": [
+   "newsletter-01",
+   "newsletter-1",
+   "newsletter-2",
+   "cta-4",
+   "newsletter-3",
+   "newsletter-4",
+   "advanced3",
+   "blog14"
+  ]
+ },
+ {
+  "cluster": 260,
+  "domain": 5,
+  "guess": "careers",
+  "n": 95,
+  "samples": [
+   "careers1",
+   "careers2",
+   "careers3",
+   "careers4",
+   "careers5",
+   "careers6",
+   "careers7",
+   "careers8"
+  ]
+ },
+ {
+  "cluster": 159,
+  "domain": 5,
+  "guess": "banner",
+  "n": 92,
+  "samples": [
+   "banner",
+   "banner-01",
+   "banner-02",
+   "banner-06",
+   "banner-07",
+   "banner-03",
+   "banner-04",
+   "announcement-bar"
+  ]
+ },
+ {
+  "cluster": 304,
+  "domain": 5,
+  "guess": "marketing",
+  "n": 81,
+  "samples": [
+   "comparison-2",
+   "comparison-1",
+   "comparison-3",
+   "product-comparison",
+   "product-compare",
+   "feature30",
+   "feature55",
+   "feature226"
+  ]
+ },
+ {
+  "cluster": 327,
+  "domain": 5,
+  "guess": "portfolio",
+  "n": 81,
+  "samples": [
+   "work-experience",
+   "portfolio98",
+   "experience-01",
+   "portfolio-pro-about-sections-journey-about",
+   "portfolio-pro-about-sections-timeline-about",
+   "portfolio-pro-cta-sections-download-resume-cta",
+   "portfolio-pro-developer-portfolio-career-timeline",
+   "portfolio-pro-developer-portfolio-skills-and-projects"
+  ]
+ },
+ {
+  "cluster": 309,
+  "domain": 5,
+  "guess": "projects",
+  "n": 79,
+  "samples": [
+   "scroll-reveal-content-a",
+   "ipad-illustration",
+   "agency10",
+   "agency12",
+   "agency17",
+   "cta50",
+   "cta52",
+   "cta60"
+  ]
+ },
+ {
+  "cluster": 70,
+  "domain": 5,
+  "guess": "navbar",
+  "n": 77,
+  "samples": [
+   "navbar33",
+   "navbar-10",
+   "navbar-11",
+   "navbar1",
+   "navbar2",
+   "navbar3",
+   "navbar-dark-shadow",
+   "navbar19"
+  ]
+ },
+ {
+  "cluster": 314,
+  "domain": 5,
+  "guess": "portfolio",
+  "n": 75,
+  "samples": [
+   "portfolio67",
+   "hero-04",
+   "hero-06",
+   "hero-19",
+   "pages/landing-page-01",
+   "portfolio-pro-availability-sections-open-for-work-banner",
+   "portfolio-pro-coaching-mentoring-coaching-hero",
+   "portfolio-pro-cta-sections-hire-me-band"
+  ]
+ },
+ {
+  "cluster": 145,
+  "domain": 5,
+  "guess": "legal",
+  "n": 65,
+  "samples": [
+   "cookie-consent-01",
+   "cookie-consent-02",
+   "cookie-consent-1",
+   "cookie-consent-2",
+   "cookie-consent-3",
+   "crypto29",
+   "event79",
+   "legal1"
+  ]
+ },
+ {
+  "cluster": 287,
+  "domain": 5,
+  "guess": "blog",
+  "n": 65,
+  "samples": [
+   "editorial-blog-rail",
+   "marketing-pro-blog-sections-author-spotlight-row",
+   "marketing-pro-blog-sections-blog-cards-grid",
+   "marketing-pro-blog-sections-category-filter-grid",
+   "marketing-pro-blog-sections-curated-reading-path",
+   "marketing-pro-blog-sections-editorial-feature-row",
+   "marketing-pro-blog-sections-editorial-list",
+   "marketing-pro-blog-sections-featured-post-split"
+  ]
+ },
+ {
+  "cluster": 293,
+  "domain": 5,
+  "guess": "event",
+  "n": 64,
+  "samples": [
+   "booking9",
+   "event4",
+   "event7",
+   "event10",
+   "event13",
+   "event14",
+   "event15",
+   "event16"
+  ]
+ },
+ {
+  "cluster": 195,
+  "domain": 5,
+  "guess": "marketing",
+  "n": 58,
+  "samples": [
+   "showcase7",
+   "stats30",
+   "workflow9",
+   "testimonials-03",
+   "testimonials-07",
+   "integration-testimonial",
+   "feature-01",
+   "ecommerce-product-features-features-testimonial-combo"
+  ]
+ },
+ {
+  "cluster": 236,
+  "domain": 5,
+  "guess": "cta",
+  "n": 54,
+  "samples": [
+   "marketing-pro-affiliate-sections-application-cta-card",
+   "marketing-pro-ctas-banner-with-avatars",
+   "marketing-pro-ctas-before-after-split",
+   "marketing-pro-ctas-bordered-inset",
+   "marketing-pro-ctas-cta-with-setup-checklist",
+   "marketing-pro-ctas-cta-with-trend-chart",
+   "marketing-pro-ctas-dark-band-with-sparkline",
+   "marketing-pro-ctas-dual-cta-banner"
+  ]
+ },
+ {
+  "cluster": 323,
+  "domain": 5,
+  "guess": "portfolio",
+  "n": 54,
+  "samples": [
+   "pet-portrait",
+   "portfolio101",
+   "portfolio102",
+   "portfolio105",
+   "portfolio106",
+   "portfolio107",
+   "portfolio108",
+   "portfolio109"
+  ]
+ },
+ {
+  "cluster": 63,
+  "domain": 5,
+  "guess": "header",
+  "n": 53,
+  "samples": [
+   "header-1",
+   "header-3",
+   "header-2",
+   "header-01",
+   "header-10",
+   "header-12",
+   "header-14",
+   "header-4"
+  ]
+ },
+ {
+  "cluster": 216,
+  "domain": 5,
+  "guess": "testimonials",
+  "n": 53,
+  "samples": [
+   "testimonials-02",
+   "testimonials-01",
+   "testimonials-03",
+   "testimonials-04",
+   "testimonials-05",
+   "testimonials-06",
+   "testimonials-07",
+   "testimonials-08"
+  ]
+ },
+ {
+  "cluster": 308,
+  "domain": 5,
+  "guess": "case studies",
+  "n": 53,
+  "samples": [
+   "post26",
+   "post62",
+   "gallery-21",
+   "portfolio-pro-case-study-sections-annotated-screen-case",
+   "portfolio-pro-case-study-sections-before-after-case",
+   "portfolio-pro-case-study-sections-case-study-cover",
+   "portfolio-pro-case-study-sections-case-study-hero",
+   "portfolio-pro-case-study-sections-case-study-index"
+  ]
+ },
+ {
+  "cluster": 290,
+  "domain": 5,
+  "guess": "awards",
+  "n": 49,
+  "samples": [
+   "about17",
+   "agency15",
+   "education17",
+   "portfolio116",
+   "saas34",
+   "about-18",
+   "marketing-pro-awards-sections-award-spotlight",
+   "marketing-pro-awards-sections-awards-timeline"
+  ]
+ },
+ {
+  "cluster": 227,
+  "domain": 5,
+  "guess": "pro",
+  "n": 47,
+  "samples": [
+   "marketing-pro-affiliate-sections-program-faq-accordion",
+   "marketing-pro-ai-sections-ai-skeptics-faq",
+   "marketing-pro-ai-sections-citation-trace-split",
+   "marketing-pro-careers-sections-careers-faq",
+   "marketing-pro-community-sections-join-faq-accordion",
+   "marketing-pro-contact-sections-faq-with-contact-card",
+   "marketing-pro-ctas-with-faq-links",
+   "marketing-pro-faqs-accordion-with-links"
+  ]
+ },
+ {
+  "cluster": 273,
+  "domain": 5,
+  "guess": "services",
+  "n": 46,
+  "samples": [
+   "booking4",
+   "food12",
+   "health5",
+   "services-01",
+   "services-02",
+   "services-03",
+   "services-04",
+   "services-05"
+  ]
+ },
+ {
+  "cluster": 245,
+  "domain": 5,
+  "guess": "download",
+  "n": 45,
+  "samples": [
+   "footer100",
+   "showcase6",
+   "hero-30",
+   "cta-18",
+   "download-with-columnlines",
+   "download-with-iphone",
+   "download-01",
+   "download-02"
+  ]
+ },
+ {
+  "cluster": 129,
+  "domain": 5,
+  "guess": "comingsoon",
+  "n": 44,
+  "samples": [
+   "coming-soon-1",
+   "coming-soon-2",
+   "coming-soon-3",
+   "auth43",
+   "comingsoon1",
+   "comingsoon2",
+   "comingsoon3",
+   "comingsoon4"
+  ]
+ },
+ {
+  "cluster": 270,
+  "domain": 5,
+  "guess": "portfolio",
+  "n": 43,
+  "samples": [
+   "portfolio-pro-clients-and-logos-client-results-row",
+   "portfolio-pro-clients-and-logos-logo-grid-with-quote",
+   "portfolio-pro-clients-and-logos-logos-and-testimonial",
+   "portfolio-pro-clients-and-logos-trusted-by-row",
+   "portfolio-pro-collaborations-partner-quotes",
+   "portfolio-pro-contact-sections-contact-with-testimonial",
+   "portfolio-pro-cta-sections-testimonial-cta",
+   "portfolio-pro-speaking-events-organizer-quotes"
+  ]
+ },
+ {
+  "cluster": 146,
+  "domain": 5,
+  "guess": "hero",
+  "n": 42,
+  "samples": [
+   "hero-01",
+   "hero-02",
+   "hero-03",
+   "hero-04",
+   "hero-05",
+   "hero-06",
+   "hero-07",
+   "hero-08"
+  ]
+ },
+ {
+  "cluster": 248,
+  "domain": 5,
+  "guess": "logos",
+  "n": 42,
+  "samples": [
+   "logos8",
+   "logos9",
+   "logos10",
+   "centered-with-logo",
+   "feature135",
+   "logos6",
+   "gallery-12",
+   "content-block-with-logos"
+  ]
+ },
+ {
+  "cluster": 43,
+  "domain": 5,
+  "guess": "navbars",
+  "n": 40,
+  "samples": [
+   "marketing-pro-navbars-announcement-bar-nav",
+   "marketing-pro-navbars-bordered-grid-nav",
+   "marketing-pro-navbars-centered-links-nav",
+   "marketing-pro-navbars-compact-centered-nav",
+   "marketing-pro-navbars-dark-nav",
+   "marketing-pro-navbars-double-deck-nav",
+   "marketing-pro-navbars-mega-menu-nav",
+   "marketing-pro-navbars-minimal-nav-with-search"
+  ]
+ },
+ {
+  "cluster": 66,
+  "domain": 5,
+  "guess": "navbar",
+  "n": 38,
+  "samples": [
+   "navbar-05",
+   "navbar-04",
+   "navbar-03",
+   "navbar-02",
+   "navbar-01",
+   "simple-navbar-with-hover-effects",
+   "navbar-with-children",
+   "navbar-classic"
+  ]
+ },
+ {
+  "cluster": 160,
+  "domain": 5,
+  "guess": "promo banner",
+  "n": 35,
+  "samples": [
+   "upgrade-sales-promo",
+   "announcement-4",
+   "booking13",
+   "cta26",
+   "ecommerce23",
+   "ecommerce29",
+   "ecommerce44",
+   "pricing14"
+  ]
+ },
+ {
+  "cluster": 182,
+  "domain": 5,
+  "guess": "case",
+  "n": 35,
+  "samples": [
+   "logo-cloud-06",
+   "marketing-pro-affiliate-sections-partner-case-study",
+   "marketing-pro-case-studies-anonymous-results-compact",
+   "marketing-pro-case-studies-before-after-panels",
+   "marketing-pro-case-studies-challenge-solution-results",
+   "marketing-pro-case-studies-dark-panel-feature",
+   "marketing-pro-case-studies-featured-story",
+   "marketing-pro-case-studies-featured-with-list"
+  ]
+ },
+ {
+  "cluster": 69,
+  "domain": 5,
+  "guess": "navbar",
+  "n": 33,
+  "samples": [
+   "navbar41",
+   "navbar43",
+   "navbar44",
+   "navbar45",
+   "navbar46",
+   "navbar47",
+   "navbar48",
+   "navbar49"
+  ]
+ },
+ {
+  "cluster": 240,
+  "domain": 5,
+  "guess": "faq",
+  "n": 32,
+  "samples": [
+   "game-faq1",
+   "simple-faqs-with-background",
+   "faq25",
+   "faq40",
+   "faq-left-title-01",
+   "faqs-cards-icons-01",
+   "faqs-grid-01",
+   "faqs-grid-cta-01"
+  ]
+ },
+ {
+  "cluster": 213,
+  "domain": 5,
+  "guess": "collapsible collapsible faq",
+  "n": 28,
+  "samples": [
+   "faq",
+   "astro-faq",
+   "faq-pro",
+   "motion-faq-disclosure",
+   "components-faqs-faq-1",
+   "demo-components-faqs-faq-1",
+   "collapsible-07",
+   "faq-component-01"
+  ]
+ },
+ {
+  "cluster": 246,
+  "domain": 5,
+  "guess": "hero",
+  "n": 28,
+  "samples": [
+   "hero69",
+   "application-pro-forms-feedback-form-card",
+   "marketing-pro-hero-sections-signup-hero",
+   "marketing-pro-hero-sections-split-with-signup-form",
+   "marketing-hero-forms-booking-form",
+   "marketing-hero-forms-center-aligned-with-a-form",
+   "marketing-hero-forms-contact-form-with-background",
+   "marketing-hero-forms-contest-entry-form"
+  ]
+ },
+ {
+  "cluster": 150,
+  "domain": 6,
+  "guess": "input",
+  "n": 172,
+  "samples": [
+   "input",
+   "input-group",
+   "phone-input",
+   "input-01",
+   "input-02",
+   "input-03",
+   "input-04",
+   "input-05"
+  ]
+ },
+ {
+  "cluster": 110,
+  "domain": 6,
+  "guess": "button",
+  "n": 107,
+  "samples": [
+   "all",
+   "avatar7",
+   "avatar9",
+   "button10",
+   "button11",
+   "button12",
+   "button13",
+   "button14"
+  ]
+ },
+ {
+  "cluster": 152,
+  "domain": 6,
+  "guess": "select",
+  "n": 87,
+  "samples": [
+   "select",
+   "native-select",
+   "form-select",
+   "select-morph",
+   "select-01",
+   "select-02",
+   "select-03",
+   "select-04"
+  ]
+ },
+ {
+  "cluster": 151,
+  "domain": 6,
+  "guess": "label",
+  "n": 76,
+  "samples": [
+   "label",
+   "field",
+   "form",
+   "fieldset",
+   "form-input",
+   "form-error",
+   "shake",
+   "label-selector"
+  ]
+ },
+ {
+  "cluster": 226,
+  "domain": 6,
+  "guess": "uiable",
+  "n": 74,
+  "samples": [
+   "list-group",
+   "list",
+   "uiable-checkbox-basic",
+   "uiable-checkbox-description",
+   "uiable-checkbox-disabled",
+   "uiable-checkbox-group",
+   "uiable-checkbox-invalid",
+   "uiable-checkbox-table"
+  ]
+ },
+ {
+  "cluster": 111,
+  "domain": 6,
+  "guess": "calendar",
+  "n": 71,
+  "samples": [
+   "shadcn-ui",
+   "calendar",
+   "widget-controls",
+   "oui-button",
+   "oui-button-group",
+   "oui-calendar",
+   "oui-checkbox",
+   "oui-checkbox-group"
+  ]
+ },
+ {
+  "cluster": 123,
+  "domain": 6,
+  "guess": "input",
+  "n": 70,
+  "samples": [
+   "tag-input",
+   "tag-group",
+   "tags-input",
+   "search-field",
+   "chip",
+   "search-bar",
+   "search-input",
+   "tag"
+  ]
+ },
+ {
+  "cluster": 201,
+  "domain": 6,
+  "guess": "uiable",
+  "n": 70,
+  "samples": [
+   "uiable-button-default",
+   "uiable-button-destructive",
+   "uiable-button-ghost",
+   "uiable-button-icon",
+   "uiable-button-icon-danger",
+   "uiable-button-icon-dark",
+   "uiable-button-icon-info",
+   "uiable-button-icon-primary"
+  ]
+ },
+ {
+  "cluster": 153,
+  "domain": 6,
+  "guess": "select",
+  "n": 59,
+  "samples": [
+   "select-01",
+   "select-02",
+   "select-03",
+   "select-04",
+   "select-05",
+   "select-06",
+   "select-07",
+   "select-08"
+  ]
+ },
+ {
+  "cluster": 130,
+  "domain": 6,
+  "guess": "textarea",
+  "n": 54,
+  "samples": [
+   "textarea-01",
+   "textarea-02",
+   "textarea-03",
+   "textarea-04",
+   "textarea-05",
+   "textarea-06",
+   "textarea-07",
+   "textarea-08"
+  ]
+ },
+ {
+  "cluster": 131,
+  "domain": 6,
+  "guess": "textarea",
+  "n": 54,
+  "samples": [
+   "textarea",
+   "text-field",
+   "text",
+   "form-textarea",
+   "glass-textarea",
+   "caption",
+   "css-textfield",
+   "Textarea"
+  ]
+ },
+ {
+  "cluster": 225,
+  "domain": 6,
+  "guess": "group",
+  "n": 54,
+  "samples": [
+   "input-group",
+   "uiable-button-group-dropdown",
+   "uiable-button-group-input",
+   "uiable-button-group-input-group",
+   "uiable-button-group-nested",
+   "uiable-button-group-orientation",
+   "uiable-button-group-popover",
+   "uiable-button-group-select"
+  ]
+ },
+ {
+  "cluster": 147,
+  "domain": 6,
+  "guess": "p textarea",
+  "n": 52,
+  "samples": [
+   "p-textarea-1",
+   "p-textarea-2",
+   "p-textarea-3",
+   "p-textarea-4",
+   "p-textarea-5",
+   "p-textarea-6",
+   "p-textarea-7",
+   "p-textarea-8"
+  ]
+ },
+ {
+  "cluster": 141,
+  "domain": 6,
+  "guess": "multi select",
+  "n": 49,
+  "samples": [
+   "multi-select",
+   "model-selector",
+   "choice-poll",
+   "feature-poll",
+   "multiple-select",
+   "team-selector",
+   "option-list",
+   "tag-select"
+  ]
+ },
+ {
+  "cluster": 186,
+  "domain": 6,
+  "guess": "uiable",
+  "n": 38,
+  "samples": [
+   "uiable-avatar-dropdown",
+   "uiable-breadcrumb-dropdown",
+   "uiable-context-menu-basic",
+   "uiable-context-menu-checkboxes",
+   "uiable-context-menu-destructive",
+   "uiable-context-menu-groups",
+   "uiable-context-menu-icons",
+   "uiable-context-menu-radio"
+  ]
+ },
+ {
+  "cluster": 113,
+  "domain": 6,
+  "guess": "jsonforms",
+  "n": 34,
+  "samples": [
+   "json-viewer",
+   "schema-builder",
+   "jsonforms-anyof-string-or-enum-control",
+   "jsonforms-array-layout",
+   "jsonforms-boolean-control",
+   "jsonforms-boolean-toggle-control",
+   "jsonforms-categorization",
+   "jsonforms-boolean-cell"
+  ]
+ },
+ {
+  "cluster": 199,
+  "domain": 6,
+  "guess": "uiable",
+  "n": 34,
+  "samples": [
+   "uiable-avatar-size",
+   "uiable-command-basic",
+   "uiable-command-with-description",
+   "uiable-empty-avatar",
+   "uiable-empty-background",
+   "uiable-empty-card",
+   "uiable-empty-outline",
+   "uiable-item-avatar"
+  ]
+ },
+ {
+  "cluster": 127,
+  "domain": 6,
+  "guess": "password input",
+  "n": 31,
+  "samples": [
+   "password-input",
+   "password",
+   "form-password",
+   "p-input-9",
+   "p-input-group-26",
+   "input-04",
+   "vault-lock",
+   "c-input-22"
+  ]
+ },
+ {
+  "cluster": 87,
+  "domain": 7,
+  "guess": "accordion",
+  "n": 191,
+  "samples": [
+   "accordion",
+   "accordion-01",
+   "accordion-02",
+   "accordion-03",
+   "accordion-05",
+   "accordion-06",
+   "accordion-07",
+   "accordion-09"
+  ]
+ },
+ {
+  "cluster": 206,
+  "domain": 7,
+  "guess": "table",
+  "n": 171,
+  "samples": [
+   "table-01",
+   "table",
+   "table-02",
+   "table-03",
+   "table-04",
+   "table-05",
+   "table-06",
+   "table-07"
+  ]
+ },
+ {
+  "cluster": 313,
+  "domain": 7,
+  "guess": "tabs",
+  "n": 158,
+  "samples": [
+   "tabs",
+   "animated-tabs",
+   "expandable-tabs",
+   "tabs-01",
+   "primitives-animate-tabs",
+   "components-animate-code-tabs",
+   "components-animate-tabs",
+   "primitives-base-tabs"
+  ]
+ },
+ {
+  "cluster": 88,
+  "domain": 7,
+  "guess": "collapsible",
+  "n": 134,
+  "samples": [
+   "collapsible",
+   "collapsible-01",
+   "collapsible-04",
+   "primitives-base-collapsible",
+   "primitives-headless-disclosure",
+   "primitives-radix-collapsible",
+   "collapsible-02",
+   "collapsible-03"
+  ]
+ },
+ {
+  "cluster": 205,
+  "domain": 7,
+  "guess": "table",
+  "n": 134,
+  "samples": [
+   "table",
+   "data-table",
+   "table-03",
+   "table-04",
+   "table-05",
+   "data-table-01",
+   "data-table-02",
+   "data-table-03"
+  ]
+ },
+ {
+  "cluster": 307,
+  "domain": 7,
+  "guess": "sidebar",
+  "n": 122,
+  "samples": [
+   "sidebar",
+   "floating-navbar",
+   "sidebar-group",
+   "navbar-menu",
+   "resizable-navbar",
+   "glass-sidebar",
+   "components-radix-sidebar",
+   "header"
+  ]
+ },
+ {
+  "cluster": 50,
+  "domain": 7,
+  "guess": "pagination",
+  "n": 101,
+  "samples": [
+   "pagination",
+   "pagination-01",
+   "pagination-02",
+   "pagination-03",
+   "pagination-demo",
+   "pagination-04",
+   "pagination-05",
+   "pagination-06"
+  ]
+ },
+ {
+  "cluster": 48,
+  "domain": 7,
+  "guess": "separator",
+  "n": 91,
+  "samples": [
+   "separator",
+   "full-width-divider",
+   "separator-01",
+   "separator-02",
+   "separator-03",
+   "separator-04",
+   "separator-05",
+   "separator-06"
+  ]
+ },
+ {
+  "cluster": 44,
+  "domain": 7,
+  "guess": "breadcrumb",
+  "n": 89,
+  "samples": [
+   "breadcrumb",
+   "breadcrumbs",
+   "breadcrumb-01",
+   "breadcrumb-03",
+   "breadcrumb-04",
+   "breadcrumb-05",
+   "breadcrumb-06",
+   "breadcrumb-demo"
+  ]
+ },
+ {
+  "cluster": 126,
+  "domain": 7,
+  "guess": "sidebar",
+  "n": 88,
+  "samples": [
+   "sidebar",
+   "sidebar-01",
+   "sidebar-02",
+   "sidebar-03",
+   "sidebar-04",
+   "sidebar-05",
+   "sidebar-06",
+   "settings-1"
+  ]
+ },
+ {
+  "cluster": 81,
+  "domain": 7,
+  "guess": "drawer",
+  "n": 84,
+  "samples": [
+   "drawer",
+   "drawer-demo",
+   "specials-magnetic-drawer",
+   "specials-magnetic-drawer-demo",
+   "drawer-base",
+   "action-drawer",
+   "base-drawer",
+   "family-drawer"
+  ]
+ },
+ {
+  "cluster": 317,
+  "domain": 7,
+  "guess": "tabs",
+  "n": 71,
+  "samples": [
+   "tabs-demo",
+   "tabs-06",
+   "tabs",
+   "bottom-tabs",
+   "tab-bar",
+   "expandable-tabs",
+   "p-tabs-1",
+   "p-tabs-2"
+  ]
+ },
+ {
+  "cluster": 45,
+  "domain": 7,
+  "guess": "c breadcrumb",
+  "n": 68,
+  "samples": [
+   "breadcrumb-02",
+   "p-breadcrumb-1",
+   "p-breadcrumb-2",
+   "p-breadcrumb-3",
+   "p-breadcrumb-4",
+   "p-breadcrumb-5",
+   "p-breadcrumb-6",
+   "p-breadcrumb-7"
+  ]
+ },
+ {
+  "cluster": 74,
+  "domain": 7,
+  "guess": "resizable",
+  "n": 68,
+  "samples": [
+   "resizable",
+   "resizable-panels",
+   "resizable-demo",
+   "window",
+   "screen-size-guard",
+   "layouts-split-resizable",
+   "pdf-block-resizable-shell",
+   "masonry"
+  ]
+ },
+ {
+  "cluster": 51,
+  "domain": 7,
+  "guess": "c pagination",
+  "n": 58,
+  "samples": [
+   "p-pagination-1",
+   "p-pagination-2",
+   "p-pagination-3",
+   "pagination-01",
+   "pagination-02",
+   "pagination-03",
+   "pagination-04",
+   "pagination-05"
+  ]
+ },
+ {
+  "cluster": 78,
+  "domain": 7,
+  "guess": "sheet",
+  "n": 53,
+  "samples": [
+   "sheet",
+   "bottom-sheet",
+   "primitives-radix-sheet",
+   "components-radix-sheet",
+   "cell-header",
+   "Sheet",
+   "SheetSide",
+   "side-sheet"
+  ]
+ },
+ {
+  "cluster": 318,
+  "domain": 7,
+  "guess": "tabs",
+  "n": 52,
+  "samples": [
+   "tabs-02",
+   "tabs-07",
+   "tabs-03",
+   "tabs-04",
+   "tabs-05",
+   "tabs-10",
+   "tabs-11",
+   "tabs-12"
+  ]
+ },
+ {
+  "cluster": 125,
+  "domain": 7,
+  "guess": "sheet sheet details",
+  "n": 50,
+  "samples": [
+   "sheet-demo",
+   "character-sheet",
+   "p-sheet-1",
+   "p-sheet-2",
+   "p-sheet-3",
+   "settings-4",
+   "sheet-controlled-example",
+   "sheet-example"
+  ]
+ },
+ {
+  "cluster": 80,
+  "domain": 7,
+  "guess": "p drawer",
+  "n": 43,
+  "samples": [
+   "drawer-nav",
+   "overflow-actions",
+   "p-drawer-1",
+   "p-drawer-2",
+   "p-drawer-3",
+   "p-drawer-4",
+   "p-drawer-5",
+   "p-drawer-6"
+  ]
+ }
+]

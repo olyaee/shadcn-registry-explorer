@@ -1,0 +1,114 @@
+[
+ {
+  "id": "D0",
+  "label": "Commerce & App Blocks",
+  "description": "E-commerce, pricing, auth, dashboards, stat cards and full application sections.",
+  "itemCount": 7448,
+  "nCategories": 75
+ },
+ {
+  "id": "D5",
+  "label": "Marketing & Landing Sections",
+  "description": "Hero, features, blog, footer, portfolio, CTA, testimonial and FAQ page sections.",
+  "itemCount": 5858,
+  "nCategories": 51
+ },
+ {
+  "id": "D4",
+  "label": "AI & Miscellaneous UI",
+  "description": "AI chat/agents plus assorted interactive UI (tooltips, hover cards, misc).",
+  "itemCount": 5552,
+  "nCategories": 51
+ },
+ {
+  "id": "D2",
+  "label": "Animations & Effects",
+  "description": "Text effects, backgrounds, particles, sliders, carousels and animated primitives.",
+  "itemCount": 4345,
+  "nCategories": 50
+ },
+ {
+  "id": "D1",
+  "label": "Icons, Badges & Feedback",
+  "description": "Icon sets, badges, avatars, dialogs, alerts and toasts.",
+  "itemCount": 2500,
+  "nCategories": 24
+ },
+ {
+  "id": "D9",
+  "label": "Fonts & Typefaces",
+  "description": "Google fonts, typefaces and font pairings.",
+  "itemCount": 1931,
+  "nCategories": 11
+ },
+ {
+  "id": "D7",
+  "label": "Layout & Navigation",
+  "description": "Accordions, tables, tabs, sidebars, pagination and breadcrumbs.",
+  "itemCount": 1859,
+  "nCategories": 20
+ },
+ {
+  "id": "D11",
+  "label": "Buttons & Toggles",
+  "description": "Buttons, toggles, checkboxes, switches and button groups.",
+  "itemCount": 1309,
+  "nCategories": 21
+ },
+ {
+  "id": "D10",
+  "label": "Themes & Templates",
+  "description": "Color themes, typography systems and full-page templates.",
+  "itemCount": 1270,
+  "nCategories": 12
+ },
+ {
+  "id": "D6",
+  "label": "Form Inputs",
+  "description": "Text inputs, selects, labels, textareas and calendars.",
+  "itemCount": 1186,
+  "nCategories": 18
+ },
+ {
+  "id": "D13",
+  "label": "Menus & Command",
+  "description": "Dropdown, context and navigation menus, comboboxes and command palettes.",
+  "itemCount": 917,
+  "nCategories": 15
+ },
+ {
+  "id": "D8",
+  "label": "Demos & Examples",
+  "description": "Demo and example wrappers shipped alongside components.",
+  "itemCount": 898,
+  "nCategories": 12
+ },
+ {
+  "id": "D15",
+  "label": "Game Audio & Assets",
+  "description": "Sound effects, voiceovers and game audio assets.",
+  "itemCount": 840,
+  "nCategories": 11
+ },
+ {
+  "id": "D3",
+  "label": "Charts & Data",
+  "description": "Charts, data grids and maps.",
+  "itemCount": 694,
+  "nCategories": 9
+ },
+ {
+  "id": "D12",
+  "label": "Cards",
+  "description": "Card components — hover, tilt, spotlight and stacked cards.",
+  "itemCount": 690,
+  "nCategories": 10
+ },
+ {
+  "id": "D14",
+  "label": "Date & Calendar",
+  "description": "Calendars, date pickers and booking widgets.",
+  "itemCount": 540,
+  "nCategories": 6
+ }
+]

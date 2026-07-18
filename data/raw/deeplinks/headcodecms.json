@@ -1,0 +1,1 @@
+{"handle": "@headcodecms", "homepage": "https://headcodecms.com/", "items": 1, "linked": 0, "realItems": 1, "realLinked": 0, "realCoverage": 0, "templateStr": null, "methodCounts": {"no-page": 1}, "poolSize": 8, "links": {"headcode": {"url": null, "verified": false, "method": "no-page", "type": "registry:component"}}, "verified_pass": true}

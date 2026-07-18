@@ -42,12 +42,21 @@ L.append("Install any component with `npx shadcn add @<registry>/<component>`.\n
 
 L.append("---\n")
 L.append(f"## Registries with components ({len(found)})\n")
-L.append("| # | Registry | Browse components / blocks | Type | Components |")
-L.append("|---:|---|---|---|---:|")
+L.append("The **Exact links** column shows how many *real* components have a verified "
+         "direct deep link (click → land on that component). Per-component URLs live in "
+         "`data/registries.enriched.json` (each item's `url` + `linkMethod`); see "
+         "[`DEEPLINKS_REPORT.md`](DEEPLINKS_REPORT.md).\n")
+L.append("| # | Registry | Browse components / blocks | Type | Components | Exact links |")
+L.append("|---:|---|---|---|---:|---:|")
 for i, r in enumerate(found, 1):
     c = r["components"]
+    el = c.get("exactLinks") or {}
+    if el.get("realItems"):
+        exact = f'{el["realLinked"]}/{el["realItems"]} ({el["realCoverage"]}%)'
+    else:
+        exact = "—"
     L.append(f'| {i} | `{r["handle"]}` | {links_for(r["handle"], r["homepage"])} '
-             f'| {c["terminology"] or "—"} | {c["count"]} |')
+             f'| {c["terminology"] or "—"} | {c["count"]} | {exact} |')
 
 L.append(f"\n## Registries without discoverable components ({len(notfound)})\n")
 L.append("| Registry | Repository / Site | Reason |")

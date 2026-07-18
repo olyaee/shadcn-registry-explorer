@@ -1,0 +1,1906 @@
+[
+ {
+  "handle": "@7ovr",
+  "name": "7ovr",
+  "homepage": "https://7ovr.com/",
+  "terminology": "Blocks",
+  "componentCount": 173,
+  "hasComponents": true
+ },
+ {
+  "handle": "@8bitcn",
+  "name": "8bitcn",
+  "homepage": "https://www.8bitcn.com/",
+  "terminology": "Blocks & Components",
+  "componentCount": 118,
+  "hasComponents": true
+ },
+ {
+  "handle": "@8starlabs-ui",
+  "name": "8starlabs-ui",
+  "homepage": "https://ui.8starlabs.com/",
+  "terminology": "Components",
+  "componentCount": 70,
+  "hasComponents": true
+ },
+ {
+  "handle": "@abstract",
+  "name": "abstract",
+  "homepage": "https://build.abs.xyz/",
+  "terminology": "Components",
+  "componentCount": 13,
+  "hasComponents": true
+ },
+ {
+  "handle": "@abui",
+  "name": "abui",
+  "homepage": "https://abui.io/",
+  "terminology": "Components & Blocks",
+  "componentCount": 16,
+  "hasComponents": true
+ },
+ {
+  "handle": "@aceternity",
+  "name": "aceternity",
+  "homepage": "https://ui.aceternity.com/",
+  "terminology": "Blocks & Components",
+  "componentCount": 270,
+  "hasComponents": true
+ },
+ {
+  "handle": "@aevr",
+  "name": "aevr",
+  "homepage": "https://ui.aevr.space/",
+  "terminology": "Components",
+  "componentCount": 0,
+  "hasComponents": false
+ },
+ {
+  "handle": "@agentcn",
+  "name": "agentcn",
+  "homepage": "https://agentcn.vercel.app/",
+  "terminology": "Blocks",
+  "componentCount": 76,
+  "hasComponents": true
+ },
+ {
+  "handle": "@agents-ui",
+  "name": "agents-ui",
+  "homepage": "https://livekit.com/ui",
+  "terminology": "Components",
+  "componentCount": 17,
+  "hasComponents": true
+ },
+ {
+  "handle": "@ai-blocks",
+  "name": "ai-blocks",
+  "homepage": "https://webllm.org/blocks",
+  "terminology": "Blocks",
+  "componentCount": 127,
+  "hasComponents": true
+ },
+ {
+  "handle": "@ai-elements",
+  "name": "ai-elements",
+  "homepage": "https://ai-sdk.dev/elements",
+  "terminology": "Blocks & Components",
+  "componentCount": 136,
+  "hasComponents": true
+ },
+ {
+  "handle": "@aicanvas",
+  "name": "aicanvas",
+  "homepage": "https://aicanvas.me/",
+  "terminology": "Components",
+  "componentCount": 117,
+  "hasComponents": true
+ },
+ {
+  "handle": "@algolia",
+  "name": "algolia",
+  "homepage": "https://sitesearch.algolia.com/",
+  "terminology": "Blocks",
+  "componentCount": 5,
+  "hasComponents": true
+ },
+ {
+  "handle": "@aliimam",
+  "name": "aliimam",
+  "homepage": "https://aliimam.in/",
+  "terminology": "Background patterns / snippets (PatternCraft)",
+  "componentCount": 0,
+  "hasComponents": false
+ },
+ {
+  "handle": "@amplo",
+  "name": "amplo",
+  "homepage": "https://amplo.ale.design/",
+  "terminology": "Components",
+  "componentCount": 6,
+  "hasComponents": true
+ },
+ {
+  "handle": "@animate-ui",
+  "name": "animate-ui",
+  "homepage": "https://animate-ui.com/",
+  "terminology": "Components",
+  "componentCount": 579,
+  "hasComponents": true
+ },
+ {
+  "handle": "@animbits",
+  "name": "animbits",
+  "homepage": "https://animbits.dev/",
+  "terminology": "Components",
+  "componentCount": 99,
+  "hasComponents": true
+ },
+ {
+  "handle": "@aniui",
+  "name": "aniui",
+  "homepage": "https://aniui.dev/",
+  "terminology": "Components",
+  "componentCount": 118,
+  "hasComponents": true
+ },
+ {
+  "handle": "@approvals-ui",
+  "name": "approvals-ui",
+  "homepage": "https://approvals-ui.vercel.app/",
+  "terminology": "Components",
+  "componentCount": 6,
+  "hasComponents": true
+ },
+ {
+  "handle": "@arc",
+  "name": "arc",
+  "homepage": "https://witharc.co/components",
+  "terminology": "Components",
+  "componentCount": 2,
+  "hasComponents": true
+ },
+ {
+  "handle": "@asanshay",
+  "name": "asanshay",
+  "homepage": "https://ds.asanshay.com/",
+  "terminology": "Components",
+  "componentCount": 27,
+  "hasComponents": true
+ },
+ {
+  "handle": "@assistant-ui",
+  "name": "assistant-ui",
+  "homepage": "https://www.assistant-ui.com/",
+  "terminology": "Components",
+  "componentCount": 40,
+  "hasComponents": true
+ },
+ {
+  "handle": "@auth0",
+  "name": "auth0",
+  "homepage": "https://auth0.com/",
+  "terminology": "Blocks",
+  "componentCount": 6,
+  "hasComponents": true
+ },
+ {
+  "handle": "@baraile-loader",
+  "name": "baraile-loader",
+  "homepage": "https://shadcn-braille-loader.vercel.app/",
+  "terminology": "Components",
+  "componentCount": 1,
+  "hasComponents": true
+ },
+ {
+  "handle": "@basecn",
+  "name": "basecn",
+  "homepage": "https://basecn.dev/",
+  "terminology": "Components",
+  "componentCount": 56,
+  "hasComponents": true
+ },
+ {
+  "handle": "@baselayer",
+  "name": "baselayer",
+  "homepage": "https://www.baselayer.dev/",
+  "terminology": "Components",
+  "componentCount": 26,
+  "hasComponents": true
+ },
+ {
+  "handle": "@beste-ui",
+  "name": "beste-ui",
+  "homepage": "https://ui.beste.co/",
+  "terminology": "Blocks",
+  "componentCount": 1516,
+  "hasComponents": true
+ },
+ {
+  "handle": "@better-upload",
+  "name": "better-upload",
+  "homepage": "https://better-upload.com/",
+  "terminology": "Components",
+  "componentCount": 4,
+  "hasComponents": true
+ },
+ {
+  "handle": "@beui",
+  "name": "beui",
+  "homepage": "https://beui.dev/",
+  "terminology": "Components & Blocks",
+  "componentCount": 71,
+  "hasComponents": true
+ },
+ {
+  "handle": "@billingsdk",
+  "name": "billingsdk",
+  "homepage": "https://billingsdk.com/",
+  "terminology": "Blocks",
+  "componentCount": 35,
+  "hasComponents": true
+ },
+ {
+  "handle": "@bklit",
+  "name": "bklit",
+  "homepage": "https://ui.bklit.com/",
+  "terminology": "Components",
+  "componentCount": 56,
+  "hasComponents": true
+ },
+ {
+  "handle": "@blocks-so",
+  "name": "blocks-so",
+  "homepage": "https://blocks.so/",
+  "terminology": "Blocks",
+  "componentCount": 77,
+  "hasComponents": true
+ },
+ {
+  "handle": "@blockus",
+  "name": "blockus",
+  "homepage": "https://blockus.lndevui.com/",
+  "terminology": "Blocks",
+  "componentCount": 500,
+  "hasComponents": true
+ },
+ {
+  "handle": "@boldkit",
+  "name": "boldkit",
+  "homepage": "https://boldkit.dev/",
+  "terminology": "Components",
+  "componentCount": 91,
+  "hasComponents": true
+ },
+ {
+  "handle": "@bundui",
+  "name": "bundui",
+  "homepage": "https://bundui.io/",
+  "terminology": "Components",
+  "componentCount": 217,
+  "hasComponents": true
+ },
+ {
+  "handle": "@cardcn",
+  "name": "cardcn",
+  "homepage": "https://cardcn.dev/",
+  "terminology": "Components",
+  "componentCount": 27,
+  "hasComponents": true
+ },
+ {
+  "handle": "@chamaac",
+  "name": "chamaac",
+  "homepage": "https://chamaac.com/",
+  "terminology": "Components",
+  "componentCount": 90,
+  "hasComponents": true
+ },
+ {
+  "handle": "@channel3",
+  "name": "channel3",
+  "homepage": "https://trychannel3.com/developers/ui",
+  "terminology": "Components & Hooks",
+  "componentCount": 25,
+  "hasComponents": true
+ },
+ {
+  "handle": "@clerk",
+  "name": "clerk",
+  "homepage": "https://clerk.com/docs/guides/development/shadcn-cli",
+  "terminology": "Pages & Blocks",
+  "componentCount": 12,
+  "hasComponents": true
+ },
+ {
+  "handle": "@cognicatch",
+  "name": "cognicatch",
+  "homepage": "https://cognicatch.dev/",
+  "terminology": "Components",
+  "componentCount": 4,
+  "hasComponents": true
+ },
+ {
+  "handle": "@commercn",
+  "name": "commercn",
+  "homepage": "https://commercn.com/",
+  "terminology": "unknown",
+  "componentCount": 0,
+  "hasComponents": false
+ },
+ {
+  "handle": "@componentry",
+  "name": "componentry",
+  "homepage": "https://componentry.fun/",
+  "terminology": "Components",
+  "componentCount": 55,
+  "hasComponents": true
+ },
+ {
+  "handle": "@contentbit",
+  "name": "contentbit",
+  "homepage": "https://contentbit.dev/",
+  "terminology": "Components",
+  "componentCount": 20,
+  "hasComponents": true
+ },
+ {
+  "handle": "@corr",
+  "name": "corr",
+  "homepage": "https://ui.corr.sh/",
+  "terminology": "Components",
+  "componentCount": 59,
+  "hasComponents": true
+ },
+ {
+  "handle": "@coss",
+  "name": "coss",
+  "homepage": "https://coss.com/ui",
+  "terminology": "Blocks",
+  "componentCount": 565,
+  "hasComponents": true
+ },
+ {
+  "handle": "@creative-tim",
+  "name": "creative-tim",
+  "homepage": "https://www.creative-tim.com/ui",
+  "terminology": "Components & Blocks",
+  "componentCount": 471,
+  "hasComponents": true
+ },
+ {
+  "handle": "@cubby-ui",
+  "name": "cubby-ui",
+  "homepage": "https://www.cubby-ui.dev/",
+  "terminology": "Components",
+  "componentCount": 80,
+  "hasComponents": true
+ },
+ {
+  "handle": "@cult-ui",
+  "name": "cult-ui",
+  "homepage": "https://www.cult-ui.com/",
+  "terminology": "Components",
+  "componentCount": 157,
+  "hasComponents": true
+ },
+ {
+  "handle": "@darx",
+  "name": "darx",
+  "homepage": "https://darshitdev.in/arts",
+  "terminology": "Components",
+  "componentCount": 1,
+  "hasComponents": true
+ },
+ {
+  "handle": "@delego",
+  "name": "delego",
+  "homepage": "https://github.com/Delego-Dev/registry",
+  "terminology": "Components",
+  "componentCount": 6,
+  "hasComponents": true
+ },
+ {
+  "handle": "@delta",
+  "name": "delta",
+  "homepage": "https://deltacomponents.dev/",
+  "terminology": "Components",
+  "componentCount": 91,
+  "hasComponents": true
+ },
+ {
+  "handle": "@devl",
+  "name": "devl",
+  "homepage": "https://devl.dev/",
+  "terminology": "Components",
+  "componentCount": 158,
+  "hasComponents": true
+ },
+ {
+  "handle": "@diceui",
+  "name": "diceui",
+  "homepage": "https://www.diceui.com/",
+  "terminology": "Components",
+  "componentCount": 242,
+  "hasComponents": true
+ },
+ {
+  "handle": "@dominik-ui",
+  "name": "dominik-ui",
+  "homepage": "https://dominikkoch.dev/ui",
+  "terminology": "Components",
+  "componentCount": 3,
+  "hasComponents": true
+ },
+ {
+  "handle": "@doras-ui",
+  "name": "doras-ui",
+  "homepage": "https://ui.doras.to/",
+  "terminology": "Blocks",
+  "componentCount": 4,
+  "hasComponents": true
+ },
+ {
+  "handle": "@dotmatrix",
+  "name": "dotmatrix",
+  "homepage": "https://dotmatrix.zzzzshawn.cloud/",
+  "terminology": "Components",
+  "componentCount": 91,
+  "hasComponents": true
+ },
+ {
+  "handle": "@dsikeres1",
+  "name": "dsikeres1",
+  "homepage": "https://dsikeres1.github.io/react-date-range-picker/",
+  "terminology": "Components",
+  "componentCount": 1,
+  "hasComponents": true
+ },
+ {
+  "handle": "@efferd",
+  "name": "efferd",
+  "homepage": "https://efferd.com/",
+  "terminology": "Blocks",
+  "componentCount": 200,
+  "hasComponents": true
+ },
+ {
+  "handle": "@einui",
+  "name": "einui",
+  "homepage": "https://ui.eindev.ir/",
+  "terminology": "Components",
+  "componentCount": 42,
+  "hasComponents": true
+ },
+ {
+  "handle": "@eldoraui",
+  "name": "eldoraui",
+  "homepage": "https://eldoraui.site/",
+  "terminology": "Components",
+  "componentCount": 114,
+  "hasComponents": true
+ },
+ {
+  "handle": "@elements",
+  "name": "elements",
+  "homepage": "https://www.tryelements.dev/",
+  "terminology": "Components",
+  "componentCount": 359,
+  "hasComponents": true
+ },
+ {
+  "handle": "@elevenlabs-ui",
+  "name": "elevenlabs-ui",
+  "homepage": "https://ui.elevenlabs.io/",
+  "terminology": "Components",
+  "componentCount": 48,
+  "hasComponents": true
+ },
+ {
+  "handle": "@emerald-ui",
+  "name": "emerald-ui",
+  "homepage": "https://emerald-ui.com/",
+  "terminology": "Components",
+  "componentCount": 28,
+  "hasComponents": true
+ },
+ {
+  "handle": "@ericts",
+  "name": "ericts",
+  "homepage": "https://ui.ericts.com/",
+  "terminology": "Components",
+  "componentCount": 28,
+  "hasComponents": true
+ },
+ {
+  "handle": "@evex",
+  "name": "evex",
+  "homepage": "https://evex.sh/",
+  "terminology": "Components",
+  "componentCount": 11,
+  "hasComponents": true
+ },
+ {
+  "handle": "@evilbuttons",
+  "name": "evilbuttons",
+  "homepage": "https://evilbuttons.radiumcoders.com/docs",
+  "terminology": "Buttons",
+  "componentCount": 29,
+  "hasComponents": true
+ },
+ {
+  "handle": "@evilcharts",
+  "name": "evilcharts",
+  "homepage": "https://evilcharts.com/",
+  "terminology": "Blocks",
+  "componentCount": 129,
+  "hasComponents": true
+ },
+ {
+  "handle": "@exabase",
+  "name": "exabase",
+  "homepage": "https://exawizards.com/exabase/design/",
+  "terminology": "Components",
+  "componentCount": 61,
+  "hasComponents": true
+ },
+ {
+  "handle": "@extend",
+  "name": "extend",
+  "homepage": "https://ui.extend.ai/",
+  "terminology": "Components",
+  "componentCount": 55,
+  "hasComponents": true
+ },
+ {
+  "handle": "@fab-ui",
+  "name": "fab-ui",
+  "homepage": "https://fab-ui.com/",
+  "terminology": "Components",
+  "componentCount": 44,
+  "hasComponents": true
+ },
+ {
+  "handle": "@flightcn",
+  "name": "flightcn",
+  "homepage": "https://flightcn.yencheng.dev/",
+  "terminology": "Components",
+  "componentCount": 2,
+  "hasComponents": true
+ },
+ {
+  "handle": "@flowkit-ui",
+  "name": "flowkit-ui",
+  "homepage": "https://flowkit-ui.vzkiss.com/",
+  "terminology": "Components",
+  "componentCount": 1,
+  "hasComponents": true
+ },
+ {
+  "handle": "@fluid",
+  "name": "fluid",
+  "homepage": "https://www.fluidfunctionalism.com/",
+  "terminology": "Components",
+  "componentCount": 52,
+  "hasComponents": true
+ },
+ {
+  "handle": "@flx",
+  "name": "flx",
+  "homepage": "https://ui.flexnative.com/",
+  "terminology": "Blocks",
+  "componentCount": 441,
+  "hasComponents": true
+ },
+ {
+  "handle": "@fonttrio",
+  "name": "fonttrio",
+  "homepage": "https://www.fonttrio.xyz/",
+  "terminology": "Font Pairs",
+  "componentCount": 2305,
+  "hasComponents": true
+ },
+ {
+  "handle": "@forgeui",
+  "name": "forgeui",
+  "homepage": "https://forgeui.in/",
+  "terminology": "Components",
+  "componentCount": 28,
+  "hasComponents": true
+ },
+ {
+  "handle": "@formcn",
+  "name": "formcn",
+  "homepage": "https://formcn.dev/",
+  "terminology": "Components",
+  "componentCount": 9,
+  "hasComponents": true
+ },
+ {
+  "handle": "@framecn",
+  "name": "framecn",
+  "homepage": "https://framecn.vercel.app/",
+  "terminology": "Components",
+  "componentCount": 101,
+  "hasComponents": true
+ },
+ {
+  "handle": "@gaia",
+  "name": "gaia",
+  "homepage": "https://ui.heygaia.io/",
+  "terminology": "Components",
+  "componentCount": 26,
+  "hasComponents": true
+ },
+ {
+  "handle": "@gamekitui",
+  "name": "gamekitui",
+  "homepage": "https://gamekitui.com/",
+  "terminology": "Components",
+  "componentCount": 12,
+  "hasComponents": true
+ },
+ {
+  "handle": "@gamifykit",
+  "name": "gamifykit",
+  "homepage": "https://gamifykit.com/",
+  "terminology": "Components",
+  "componentCount": 3,
+  "hasComponents": true
+ },
+ {
+  "handle": "@gammaui",
+  "name": "gammaui",
+  "homepage": "https://www.gammaui.com/",
+  "terminology": "Components",
+  "componentCount": 60,
+  "hasComponents": true
+ },
+ {
+  "handle": "@gc-solid",
+  "name": "gc-solid",
+  "homepage": "https://binnodon.github.io/gc-solid-ui",
+  "terminology": "Components",
+  "componentCount": 59,
+  "hasComponents": true
+ },
+ {
+  "handle": "@glass-ui",
+  "name": "glass-ui",
+  "homepage": "https://glass-ui.crenspire.com/",
+  "terminology": "Components",
+  "componentCount": 49,
+  "hasComponents": true
+ },
+ {
+  "handle": "@glasscn",
+  "name": "glasscn",
+  "homepage": "https://glasscn-components.vercel.app/",
+  "terminology": "Components",
+  "componentCount": 64,
+  "hasComponents": true
+ },
+ {
+  "handle": "@gooseui",
+  "name": "gooseui",
+  "homepage": "https://gooseui.pro/",
+  "terminology": "Components",
+  "componentCount": 19,
+  "hasComponents": true
+ },
+ {
+  "handle": "@gpt-vis",
+  "name": "gpt-vis",
+  "homepage": "https://gpt-vis.antv.vision/",
+  "terminology": "Components",
+  "componentCount": 27,
+  "hasComponents": true
+ },
+ {
+  "handle": "@grainly-icons",
+  "name": "grainly-icons",
+  "homepage": "https://grainlyicons.abhii.space/",
+  "terminology": "Icons",
+  "componentCount": 23,
+  "hasComponents": true
+ },
+ {
+  "handle": "@grootstudio",
+  "name": "grootstudio",
+  "homepage": "https://grootstudio.vercel.app/",
+  "terminology": "Blocks",
+  "componentCount": 24,
+  "hasComponents": true
+ },
+ {
+  "handle": "@gymnopedies",
+  "name": "gymnopedies",
+  "homepage": "https://gymnopedies.shoota.work/",
+  "terminology": "Components",
+  "componentCount": 47,
+  "hasComponents": true
+ },
+ {
+  "handle": "@ha-components",
+  "name": "ha-components",
+  "homepage": "https://hacomponents.keshuac.com/",
+  "terminology": "Blocks & Components",
+  "componentCount": 12,
+  "hasComponents": true
+ },
+ {
+  "handle": "@headcodecms",
+  "name": "headcodecms",
+  "homepage": "https://headcodecms.com/",
+  "terminology": "Sections",
+  "componentCount": 1,
+  "hasComponents": true
+ },
+ {
+  "handle": "@heatmap",
+  "name": "heatmap",
+  "homepage": "https://shadcn-heatmap.pages.dev/",
+  "terminology": "Components",
+  "componentCount": 4,
+  "hasComponents": true
+ },
+ {
+  "handle": "@heroicons-animated",
+  "name": "heroicons-animated",
+  "homepage": "https://www.heroicons-animated.com/",
+  "terminology": "Components",
+  "componentCount": 316,
+  "hasComponents": true
+ },
+ {
+  "handle": "@hextaui",
+  "name": "hextaui",
+  "homepage": "https://hextaui.com/",
+  "terminology": "Components",
+  "componentCount": 139,
+  "hasComponents": true
+ },
+ {
+  "handle": "@hirael",
+  "name": "hirael",
+  "homepage": "https://hirael.com/",
+  "terminology": "Components & Blocks",
+  "componentCount": 147,
+  "hasComponents": true
+ },
+ {
+  "handle": "@iconiq",
+  "name": "iconiq",
+  "homepage": "https://iconiqui.com/",
+  "terminology": "Components",
+  "componentCount": 116,
+  "hasComponents": true
+ },
+ {
+  "handle": "@icons-animated",
+  "name": "icons-animated",
+  "homepage": "https://icons.lndev.me/",
+  "terminology": "Icons",
+  "componentCount": 0,
+  "hasComponents": false
+ },
+ {
+  "handle": "@indiacn",
+  "name": "indiacn",
+  "homepage": "https://indiacn.in/",
+  "terminology": "Components",
+  "componentCount": 26,
+  "hasComponents": true
+ },
+ {
+  "handle": "@inferencesh",
+  "name": "inferencesh",
+  "homepage": "https://ui.inference.sh/",
+  "terminology": "Blocks",
+  "componentCount": 14,
+  "hasComponents": true
+ },
+ {
+  "handle": "@intentui",
+  "name": "intentui",
+  "homepage": "https://intentui.com/",
+  "terminology": "Pages",
+  "componentCount": 557,
+  "hasComponents": true
+ },
+ {
+  "handle": "@jalco",
+  "name": "jalco",
+  "homepage": "https://ui.justinlevine.me/",
+  "terminology": "Components",
+  "componentCount": 36,
+  "hasComponents": true
+ },
+ {
+  "handle": "@jolyui",
+  "name": "jolyui",
+  "homepage": "https://www.jolyui.dev/",
+  "terminology": "Components",
+  "componentCount": 198,
+  "hasComponents": true
+ },
+ {
+  "handle": "@joyco",
+  "name": "joyco",
+  "homepage": "https://registry.joyco.studio/",
+  "terminology": "Components",
+  "componentCount": 47,
+  "hasComponents": true
+ },
+ {
+  "handle": "@kanpeki",
+  "name": "kanpeki",
+  "homepage": "https://kanpeki.vercel.app/",
+  "terminology": "Components",
+  "componentCount": 260,
+  "hasComponents": true
+ },
+ {
+  "handle": "@kapwa",
+  "name": "kapwa",
+  "homepage": "https://kapwa-two.vercel.app/",
+  "terminology": "Components & Blocks",
+  "componentCount": 11,
+  "hasComponents": true
+ },
+ {
+  "handle": "@kaui",
+  "name": "kaui",
+  "homepage": "https://kaui-shadcn-registry.vercel.app/",
+  "terminology": "Components & Hooks",
+  "componentCount": 10,
+  "hasComponents": true
+ },
+ {
+  "handle": "@kibo-ui",
+  "name": "kibo-ui",
+  "homepage": "https://www.kibo-ui.com/",
+  "terminology": "Components",
+  "componentCount": 40,
+  "hasComponents": true
+ },
+ {
+  "handle": "@kokonutui",
+  "name": "kokonutui",
+  "homepage": "https://kokonutui.com/",
+  "terminology": "Components",
+  "componentCount": 40,
+  "hasComponents": true
+ },
+ {
+  "handle": "@launchui",
+  "name": "launchui",
+  "homepage": "https://www.launchuicomponents.com/",
+  "terminology": "Blocks & Components",
+  "componentCount": 24,
+  "hasComponents": true
+ },
+ {
+  "handle": "@lens-blocks",
+  "name": "lens-blocks",
+  "homepage": "https://lensblocks.com/",
+  "terminology": "Components & Blocks",
+  "componentCount": 24,
+  "hasComponents": true
+ },
+ {
+  "handle": "@limeplay",
+  "name": "limeplay",
+  "homepage": "https://limeplay.winoffrg.dev/",
+  "terminology": "Components & Hooks",
+  "componentCount": 50,
+  "hasComponents": true
+ },
+ {
+  "handle": "@lmscn",
+  "name": "lmscn",
+  "homepage": "https://lmscn.vercel.app/",
+  "terminology": "Components",
+  "componentCount": 10,
+  "hasComponents": true
+ },
+ {
+  "handle": "@loading-ui",
+  "name": "loading-ui",
+  "homepage": "https://loading-ui.com/",
+  "terminology": "Components",
+  "componentCount": 48,
+  "hasComponents": true
+ },
+ {
+  "handle": "@lucide-animated",
+  "name": "lucide-animated",
+  "homepage": "https://lucide-animated.com/",
+  "terminology": "Components",
+  "componentCount": 440,
+  "hasComponents": true
+ },
+ {
+  "handle": "@lumiui",
+  "name": "lumiui",
+  "homepage": "https://www.lumiui.dev/",
+  "terminology": "Components",
+  "componentCount": 67,
+  "hasComponents": true
+ },
+ {
+  "handle": "@lytenyte",
+  "name": "lytenyte",
+  "homepage": "https://www.1771technologies.com/",
+  "terminology": "Components",
+  "componentCount": 2,
+  "hasComponents": true
+ },
+ {
+  "handle": "@magicui",
+  "name": "magicui",
+  "homepage": "https://magicui.design/",
+  "terminology": "Components",
+  "componentCount": 246,
+  "hasComponents": true
+ },
+ {
+  "handle": "@manifest",
+  "name": "manifest",
+  "homepage": "https://ui.manifest.build/",
+  "terminology": "Blocks",
+  "componentCount": 32,
+  "hasComponents": true
+ },
+ {
+  "handle": "@mapcn",
+  "name": "mapcn",
+  "homepage": "https://mapcn.dev/",
+  "terminology": "Blocks",
+  "componentCount": 8,
+  "hasComponents": true
+ },
+ {
+  "handle": "@mksingh",
+  "name": "mksingh",
+  "homepage": "https://mksingh.dev/docs",
+  "terminology": "Components",
+  "componentCount": 36,
+  "hasComponents": true
+ },
+ {
+  "handle": "@moleculeui",
+  "name": "moleculeui",
+  "homepage": "https://www.moleculeui.design/",
+  "terminology": "Components",
+  "componentCount": 0,
+  "hasComponents": false
+ },
+ {
+  "handle": "@motion-primitives",
+  "name": "motion-primitives",
+  "homepage": "https://www.motion-primitives.com/",
+  "terminology": "Components",
+  "componentCount": 33,
+  "hasComponents": true
+ },
+ {
+  "handle": "@mozaika",
+  "name": "mozaika",
+  "homepage": "https://mozaika.design/",
+  "terminology": "Themes",
+  "componentCount": 548,
+  "hasComponents": true
+ },
+ {
+  "handle": "@mui-treasury",
+  "name": "mui-treasury",
+  "homepage": "https://www.mui-treasury.com/",
+  "terminology": "Components",
+  "componentCount": 192,
+  "hasComponents": true
+ },
+ {
+  "handle": "@ncdai",
+  "name": "ncdai",
+  "homepage": "https://chanhdai.com/components",
+  "terminology": "Components",
+  "componentCount": 52,
+  "hasComponents": true
+ },
+ {
+  "handle": "@neobrutalism",
+  "name": "neobrutalism",
+  "homepage": "https://www.neobrutalism.dev/",
+  "terminology": "Components",
+  "componentCount": 44,
+  "hasComponents": true
+ },
+ {
+  "handle": "@nessra-ui",
+  "name": "nessra-ui",
+  "homepage": "https://nessra-ui.vercel.app/",
+  "terminology": "Components",
+  "componentCount": 62,
+  "hasComponents": true
+ },
+ {
+  "handle": "@nexus-elements",
+  "name": "nexus-elements",
+  "homepage": "https://elements.nexus.availproject.org/docs/view-components",
+  "terminology": "Widgets / Elements",
+  "componentCount": 7,
+  "hasComponents": true
+ },
+ {
+  "handle": "@nexus-labs",
+  "name": "nexus-labs",
+  "homepage": "https://nexus-ui.com/",
+  "terminology": "Components",
+  "componentCount": 86,
+  "hasComponents": true
+ },
+ {
+  "handle": "@nexus-ui",
+  "name": "nexus-ui",
+  "homepage": "https://nexus-ui.dev/",
+  "terminology": "Components",
+  "componentCount": 15,
+  "hasComponents": true
+ },
+ {
+  "handle": "@nordaun",
+  "name": "nordaun",
+  "homepage": "https://ui.nordaun.com/",
+  "terminology": "Blocks",
+  "componentCount": 8,
+  "hasComponents": true
+ },
+ {
+  "handle": "@nteract",
+  "name": "nteract",
+  "homepage": "https://nteract-elements.vercel.app/",
+  "terminology": "Components",
+  "componentCount": 35,
+  "hasComponents": true
+ },
+ {
+  "handle": "@nuqs",
+  "name": "nuqs",
+  "homepage": "https://nuqs.dev/registry",
+  "terminology": "Components",
+  "componentCount": 5,
+  "hasComponents": true
+ },
+ {
+  "handle": "@nusaiba",
+  "name": "nusaiba",
+  "homepage": "https://nusaiba.dev/",
+  "terminology": "Blocks",
+  "componentCount": 119,
+  "hasComponents": true
+ },
+ {
+  "handle": "@odysseyui",
+  "name": "odysseyui",
+  "homepage": "https://www.odysseyui.com/docs",
+  "terminology": "Components",
+  "componentCount": 287,
+  "hasComponents": true
+ },
+ {
+  "handle": "@ogimagecn",
+  "name": "ogimagecn",
+  "homepage": "https://ogimagecn.vercel.app/",
+  "terminology": "Components",
+  "componentCount": 22,
+  "hasComponents": true
+ },
+ {
+  "handle": "@openpolicy",
+  "name": "openpolicy",
+  "homepage": "https://www.openpolicy.sh/",
+  "terminology": "Components",
+  "componentCount": 0,
+  "hasComponents": false
+ },
+ {
+  "handle": "@openstatus",
+  "name": "openstatus",
+  "homepage": "https://openstatus.dev/registry",
+  "terminology": "Blocks",
+  "componentCount": 26,
+  "hasComponents": true
+ },
+ {
+  "handle": "@optics",
+  "name": "optics",
+  "homepage": "https://optics.agusmayol.com.ar/",
+  "terminology": "Components",
+  "componentCount": 79,
+  "hasComponents": true
+ },
+ {
+  "handle": "@oui",
+  "name": "oui",
+  "homepage": "https://oui.mw10013.workers.dev/",
+  "terminology": "Components",
+  "componentCount": 137,
+  "hasComponents": true
+ },
+ {
+  "handle": "@pacekit",
+  "name": "pacekit",
+  "homepage": "https://ui.pacekit.dev/",
+  "terminology": "Blocks & Components",
+  "componentCount": 22,
+  "hasComponents": true
+ },
+ {
+  "handle": "@pacekit-gsap",
+  "name": "pacekit-gsap",
+  "homepage": "https://gsap.pacekit.dev/",
+  "terminology": "Components",
+  "componentCount": 28,
+  "hasComponents": true
+ },
+ {
+  "handle": "@paceui",
+  "name": "paceui",
+  "homepage": "https://paceui.com/",
+  "terminology": "Blocks & Components",
+  "componentCount": 22,
+  "hasComponents": true
+ },
+ {
+  "handle": "@paddle",
+  "name": "paddle",
+  "homepage": "https://developer.paddle.com/",
+  "terminology": "Components",
+  "componentCount": 14,
+  "hasComponents": true
+ },
+ {
+  "handle": "@paletteui",
+  "name": "paletteui",
+  "homepage": "https://paletteui.xyz/",
+  "terminology": "Themes",
+  "componentCount": 65,
+  "hasComponents": true
+ },
+ {
+  "handle": "@pastecn",
+  "name": "pastecn",
+  "homepage": "https://pastecn.com/",
+  "terminology": "Files",
+  "componentCount": 1,
+  "hasComponents": true
+ },
+ {
+  "handle": "@paykit-sdk",
+  "name": "paykit-sdk",
+  "homepage": "https://www.usepaykit.dev/",
+  "terminology": "Blocks",
+  "componentCount": 21,
+  "hasComponents": true
+ },
+ {
+  "handle": "@payload-components",
+  "name": "payload-components",
+  "homepage": "https://www.payload-components.xyz/",
+  "terminology": "Blocks",
+  "componentCount": 58,
+  "hasComponents": true
+ },
+ {
+  "handle": "@phucbm",
+  "name": "phucbm",
+  "homepage": "https://phucbm.com/components",
+  "terminology": "Components",
+  "componentCount": 0,
+  "hasComponents": false
+ },
+ {
+  "handle": "@pixelact-ui",
+  "name": "pixelact-ui",
+  "homepage": "https://pixelactui.com/",
+  "terminology": "Components",
+  "componentCount": 28,
+  "hasComponents": true
+ },
+ {
+  "handle": "@plate",
+  "name": "plate",
+  "homepage": "https://platejs.org/",
+  "terminology": "Files & Components",
+  "componentCount": 321,
+  "hasComponents": true
+ },
+ {
+  "handle": "@prompt-kit",
+  "name": "prompt-kit",
+  "homepage": "https://www.prompt-kit.com/",
+  "terminology": "Components",
+  "componentCount": 23,
+  "hasComponents": true
+ },
+ {
+  "handle": "@prosekit",
+  "name": "prosekit",
+  "homepage": "https://prosekit.dev/",
+  "terminology": "Components & Blocks",
+  "componentCount": 548,
+  "hasComponents": true
+ },
+ {
+  "handle": "@pulkitxm",
+  "name": "pulkitxm",
+  "homepage": "https://pulkit.page/",
+  "terminology": "Components",
+  "componentCount": 31,
+  "hasComponents": true
+ },
+ {
+  "handle": "@pulld",
+  "name": "pulld",
+  "homepage": "https://pulld.pages.dev/",
+  "terminology": "Components",
+  "componentCount": 31,
+  "hasComponents": true
+ },
+ {
+  "handle": "@pureui",
+  "name": "pureui",
+  "homepage": "https://pure.kam-ui.com/",
+  "terminology": "Components",
+  "componentCount": 0,
+  "hasComponents": false
+ },
+ {
+  "handle": "@ramonclaudio-coderabbit",
+  "name": "ramonclaudio-coderabbit",
+  "homepage": "https://ramonclaudio.com/registries/coderabbit",
+  "terminology": "Utilities & Blocks",
+  "componentCount": 19,
+  "hasComponents": true
+ },
+ {
+  "handle": "@react-aria",
+  "name": "react-aria",
+  "homepage": "https://react-aria.adobe.com/",
+  "terminology": "Components",
+  "componentCount": 109,
+  "hasComponents": true
+ },
+ {
+  "handle": "@react-bits",
+  "name": "react-bits",
+  "homepage": "https://reactbits.dev/",
+  "terminology": "Components",
+  "componentCount": 556,
+  "hasComponents": true
+ },
+ {
+  "handle": "@react-easy-modals",
+  "name": "react-easy-modals",
+  "homepage": "https://react-easy-modals-docs.vercel.app/",
+  "terminology": "Components",
+  "componentCount": 2,
+  "hasComponents": true
+ },
+ {
+  "handle": "@react-slot",
+  "name": "react-slot",
+  "homepage": "https://react-slot.vercel.app/",
+  "terminology": "Components",
+  "componentCount": 1,
+  "hasComponents": true
+ },
+ {
+  "handle": "@remocn",
+  "name": "remocn",
+  "homepage": "https://www.remocn.dev/",
+  "terminology": "Components",
+  "componentCount": 236,
+  "hasComponents": true
+ },
+ {
+  "handle": "@rescript-shadcn",
+  "name": "rescript-shadcn",
+  "homepage": "https://rescript-shadcn.miriad.studio/",
+  "terminology": "Components",
+  "componentCount": 460,
+  "hasComponents": true
+ },
+ {
+  "handle": "@retroui",
+  "name": "retroui",
+  "homepage": "https://retroui.dev/",
+  "terminology": "Components",
+  "componentCount": 54,
+  "hasComponents": true
+ },
+ {
+  "handle": "@reui",
+  "name": "reui",
+  "homepage": "https://reui.io/",
+  "terminology": "Blocks",
+  "componentCount": 1534,
+  "hasComponents": true
+ },
+ {
+  "handle": "@roiui",
+  "name": "roiui",
+  "homepage": "https://roiui.com/",
+  "terminology": "Components",
+  "componentCount": 124,
+  "hasComponents": true
+ },
+ {
+  "handle": "@saaskit",
+  "name": "saaskit",
+  "homepage": "https://saaskit-theta.vercel.app/",
+  "terminology": "Components",
+  "componentCount": 10,
+  "hasComponents": true
+ },
+ {
+  "handle": "@sabraman",
+  "name": "sabraman",
+  "homepage": "https://sabraman.ru/components",
+  "terminology": "Components",
+  "componentCount": 9,
+  "hasComponents": true
+ },
+ {
+  "handle": "@satoriui",
+  "name": "satoriui",
+  "homepage": "https://satoriui.site/",
+  "terminology": "Components",
+  "componentCount": 15,
+  "hasComponents": true
+ },
+ {
+  "handle": "@scrollxui",
+  "name": "scrollxui",
+  "homepage": "https://www.scrollxui.dev/",
+  "terminology": "Components",
+  "componentCount": 180,
+  "hasComponents": true
+ },
+ {
+  "handle": "@shadcn-editor",
+  "name": "shadcn-editor",
+  "homepage": "https://shadcn-editor.vercel.app/",
+  "terminology": "Blocks",
+  "componentCount": 1,
+  "hasComponents": true
+ },
+ {
+  "handle": "@shadcn-map",
+  "name": "shadcn-map",
+  "homepage": "https://shadcn-map.vercel.app/",
+  "terminology": "Components",
+  "componentCount": 32,
+  "hasComponents": true
+ },
+ {
+  "handle": "@shadcn-space",
+  "name": "shadcn-space",
+  "homepage": "https://shadcnspace.com/",
+  "terminology": "Components & Blocks",
+  "componentCount": 736,
+  "hasComponents": true
+ },
+ {
+  "handle": "@shadcn-studio",
+  "name": "shadcn-studio",
+  "homepage": "https://shadcnstudio.com/",
+  "terminology": "Components",
+  "componentCount": 687,
+  "hasComponents": true
+ },
+ {
+  "handle": "@shadcn-ui-blocks",
+  "name": "shadcn-ui-blocks",
+  "homepage": "https://www.shadcn-ui-blocks.com/",
+  "terminology": "Blocks",
+  "componentCount": 3962,
+  "hasComponents": true
+ },
+ {
+  "handle": "@shadcnblocks",
+  "name": "shadcnblocks",
+  "homepage": "https://shadcnblocks.com/",
+  "terminology": "Blocks",
+  "componentCount": 3730,
+  "hasComponents": true
+ },
+ {
+  "handle": "@shadcncraft",
+  "name": "shadcncraft",
+  "homepage": "https://shadcncraft.com/",
+  "terminology": "Components & Blocks",
+  "componentCount": 22,
+  "hasComponents": true
+ },
+ {
+  "handle": "@shadcndesign",
+  "name": "shadcndesign",
+  "homepage": "https://www.shadcndesign.com/",
+  "terminology": "Components",
+  "componentCount": 44,
+  "hasComponents": true
+ },
+ {
+  "handle": "@shadcnhooks",
+  "name": "shadcnhooks",
+  "homepage": "https://shadcn-hooks.com/",
+  "terminology": "Hooks",
+  "componentCount": 58,
+  "hasComponents": true
+ },
+ {
+  "handle": "@shadcnmaps",
+  "name": "shadcnmaps",
+  "homepage": "https://shadcnmaps.com/",
+  "terminology": "Components & Files",
+  "componentCount": 361,
+  "hasComponents": true
+ },
+ {
+  "handle": "@shadcnstore",
+  "name": "shadcnstore",
+  "homepage": "https://www.shadcnstore.com/",
+  "terminology": "Blocks",
+  "componentCount": 182,
+  "hasComponents": true
+ },
+ {
+  "handle": "@shadcnui-blocks",
+  "name": "shadcnui-blocks",
+  "homepage": "https://shadcnui-blocks.com/",
+  "terminology": "Components & Blocks",
+  "componentCount": 542,
+  "hasComponents": true
+ },
+ {
+  "handle": "@shadcnuikit",
+  "name": "shadcnuikit",
+  "homepage": "https://shadcnuikit.com/",
+  "terminology": "Components & Blocks",
+  "componentCount": 759,
+  "hasComponents": true
+ },
+ {
+  "handle": "@shark",
+  "name": "shark",
+  "homepage": "https://shark.vini.one/",
+  "terminology": "Components",
+  "componentCount": 96,
+  "hasComponents": true
+ },
+ {
+  "handle": "@shieldcn",
+  "name": "shieldcn",
+  "homepage": "https://shieldcn.dev/",
+  "terminology": "Components",
+  "componentCount": 3,
+  "hasComponents": true
+ },
+ {
+  "handle": "@skiper-ui",
+  "name": "skiper-ui",
+  "homepage": "https://skiper-ui.com/",
+  "terminology": "Components",
+  "componentCount": 37,
+  "hasComponents": true
+ },
+ {
+  "handle": "@slide-cn",
+  "name": "slide-cn",
+  "homepage": "https://slide-cn.com/",
+  "terminology": "Components",
+  "componentCount": 20,
+  "hasComponents": true
+ },
+ {
+  "handle": "@smoothui",
+  "name": "smoothui",
+  "homepage": "https://smoothui.dev/",
+  "terminology": "Components",
+  "componentCount": 158,
+  "hasComponents": true
+ },
+ {
+  "handle": "@solaceui",
+  "name": "solaceui",
+  "homepage": "https://www.solaceui.com/",
+  "terminology": "Blocks",
+  "componentCount": 39,
+  "hasComponents": true
+ },
+ {
+  "handle": "@sona-ui",
+  "name": "sona-ui",
+  "homepage": "https://sona-ui.vercel.app/",
+  "terminology": "Components",
+  "componentCount": 16,
+  "hasComponents": true
+ },
+ {
+  "handle": "@soralabs",
+  "name": "soralabs",
+  "homepage": "https://ui.soralabs.io.vn/",
+  "terminology": "Components",
+  "componentCount": 74,
+  "hasComponents": true
+ },
+ {
+  "handle": "@soundcn",
+  "name": "soundcn",
+  "homepage": "https://soundcn.xyz/",
+  "terminology": "Blocks",
+  "componentCount": 816,
+  "hasComponents": true
+ },
+ {
+  "handle": "@spectrumui",
+  "name": "spectrumui",
+  "homepage": "https://ui.spectrumhq.in/",
+  "terminology": "Components",
+  "componentCount": 116,
+  "hasComponents": true
+ },
+ {
+  "handle": "@spell",
+  "name": "spell",
+  "homepage": "https://spell.sh/",
+  "terminology": "Components",
+  "componentCount": 33,
+  "hasComponents": true
+ },
+ {
+  "handle": "@square-ui",
+  "name": "square-ui",
+  "homepage": "https://square.lndev.me/",
+  "terminology": "Templates",
+  "componentCount": 0,
+  "hasComponents": false
+ },
+ {
+  "handle": "@stepper",
+  "name": "stepper",
+  "homepage": "https://francozeta-stepper.vercel.app/",
+  "terminology": "Blocks & Components",
+  "componentCount": 3,
+  "hasComponents": true
+ },
+ {
+  "handle": "@supabase",
+  "name": "supabase",
+  "homepage": "https://supabase.com/ui",
+  "terminology": "Components & Blocks",
+  "componentCount": 60,
+  "hasComponents": true
+ },
+ {
+  "handle": "@svelte-bits",
+  "name": "svelte-bits",
+  "homepage": "https://sveltebits.xyz/",
+  "terminology": "Components",
+  "componentCount": 128,
+  "hasComponents": true
+ },
+ {
+  "handle": "@svgl",
+  "name": "svgl",
+  "homepage": "https://svgl.app/",
+  "terminology": "Components",
+  "componentCount": 665,
+  "hasComponents": true
+ },
+ {
+  "handle": "@systaliko-ui",
+  "name": "systaliko-ui",
+  "homepage": "https://systaliko-ui.vercel.app/",
+  "terminology": "Blocks & Components",
+  "componentCount": 154,
+  "hasComponents": true
+ },
+ {
+  "handle": "@tailark",
+  "name": "tailark",
+  "homepage": "https://tailark.com/",
+  "terminology": "Blocks",
+  "componentCount": 210,
+  "hasComponents": true
+ },
+ {
+  "handle": "@tailgrids",
+  "name": "tailgrids",
+  "homepage": "https://tailgrids.com/",
+  "terminology": "Components",
+  "componentCount": 61,
+  "hasComponents": true
+ },
+ {
+  "handle": "@tailwind-admin",
+  "name": "tailwind-admin",
+  "homepage": "https://tailwind-admin.com/",
+  "terminology": "Components",
+  "componentCount": 102,
+  "hasComponents": true
+ },
+ {
+  "handle": "@tailwind-builder",
+  "name": "tailwind-builder",
+  "homepage": "https://tailwindbuilder.ai/",
+  "terminology": "Components",
+  "componentCount": 4,
+  "hasComponents": true
+ },
+ {
+  "handle": "@taki",
+  "name": "taki",
+  "homepage": "https://taki-ui.com/",
+  "terminology": "Components",
+  "componentCount": 538,
+  "hasComponents": true
+ },
+ {
+  "handle": "@termcn",
+  "name": "termcn",
+  "homepage": "https://termcn.vercel.app/",
+  "terminology": "Components",
+  "componentCount": 329,
+  "hasComponents": true
+ },
+ {
+  "handle": "@terrae",
+  "name": "terrae",
+  "homepage": "https://www.terrae.dev/",
+  "terminology": "Components",
+  "componentCount": 40,
+  "hasComponents": true
+ },
+ {
+  "handle": "@tetra-ui",
+  "name": "tetra-ui",
+  "homepage": "https://tetra-ui.com/",
+  "terminology": "Components",
+  "componentCount": 36,
+  "hasComponents": true
+ },
+ {
+  "handle": "@text-ui",
+  "name": "text-ui",
+  "homepage": "https://joelachance.github.io/text-ui/docs",
+  "terminology": "Components",
+  "componentCount": 1,
+  "hasComponents": true
+ },
+ {
+  "handle": "@thegridcn",
+  "name": "thegridcn",
+  "homepage": "https://thegridcn.com/",
+  "terminology": "Components",
+  "componentCount": 140,
+  "hasComponents": true
+ },
+ {
+  "handle": "@threecn",
+  "name": "threecn",
+  "homepage": "https://threecn.dev/",
+  "terminology": "Components",
+  "componentCount": 27,
+  "hasComponents": true
+ },
+ {
+  "handle": "@toc-cn",
+  "name": "toc-cn",
+  "homepage": "https://tocn.vercel.app/",
+  "terminology": "Blocks",
+  "componentCount": 1,
+  "hasComponents": true
+ },
+ {
+  "handle": "@tokenui",
+  "name": "tokenui",
+  "homepage": "https://www.tokenui.dev/",
+  "terminology": "Components",
+  "componentCount": 17,
+  "hasComponents": true
+ },
+ {
+  "handle": "@tool-ui",
+  "name": "tool-ui",
+  "homepage": "https://www.tool-ui.com/",
+  "terminology": "Blocks",
+  "componentCount": 27,
+  "hasComponents": true
+ },
+ {
+  "handle": "@tour",
+  "name": "tour",
+  "homepage": "https://onboarding-tour.vercel.app/",
+  "terminology": "Components",
+  "componentCount": 1,
+  "hasComponents": true
+ },
+ {
+  "handle": "@trophy-ui",
+  "name": "trophy-ui",
+  "homepage": "https://ui.trophy.so/",
+  "terminology": "Components",
+  "componentCount": 17,
+  "hasComponents": true
+ },
+ {
+  "handle": "@turbopills-ui",
+  "name": "turbopills-ui",
+  "homepage": "https://www.turbopills.com/ui/docs",
+  "terminology": "Components",
+  "componentCount": 10,
+  "hasComponents": true
+ },
+ {
+  "handle": "@typedora-ui",
+  "name": "typedora-ui",
+  "homepage": "https://typedora-ui.netlify.app/",
+  "terminology": "Components",
+  "componentCount": 4,
+  "hasComponents": true
+ },
+ {
+  "handle": "@ui-layouts",
+  "name": "ui-layouts",
+  "homepage": "https://ui-layouts.com/",
+  "terminology": "Components",
+  "componentCount": 327,
+  "hasComponents": true
+ },
+ {
+  "handle": "@uiable",
+  "name": "uiable",
+  "homepage": "https://uiable.com/",
+  "terminology": "Components",
+  "componentCount": 550,
+  "hasComponents": true
+ },
+ {
+  "handle": "@uicapsule",
+  "name": "uicapsule",
+  "homepage": "https://uicapsule.com/",
+  "terminology": "Blocks",
+  "componentCount": 29,
+  "hasComponents": true
+ },
+ {
+  "handle": "@uitripled",
+  "name": "uitripled",
+  "homepage": "https://ui.tripled.work/",
+  "terminology": "Components & Blocks",
+  "componentCount": 282,
+  "hasComponents": true
+ },
+ {
+  "handle": "@unlumen-ui",
+  "name": "unlumen-ui",
+  "homepage": "https://ui.unlumen.com/",
+  "terminology": "Components",
+  "componentCount": 224,
+  "hasComponents": true
+ },
+ {
+  "handle": "@untld",
+  "name": "untld",
+  "homepage": "https://ui.untldlabs.com/",
+  "terminology": "Components",
+  "componentCount": 2,
+  "hasComponents": true
+ },
+ {
+  "handle": "@uselayouts",
+  "name": "uselayouts",
+  "homepage": "https://uselayouts.com/",
+  "terminology": "Components",
+  "componentCount": 26,
+  "hasComponents": true
+ },
+ {
+  "handle": "@utilcn",
+  "name": "utilcn",
+  "homepage": "https://utilcn.dev/",
+  "terminology": "Utilities",
+  "componentCount": 17,
+  "hasComponents": true
+ },
+ {
+  "handle": "@uui",
+  "name": "uui",
+  "homepage": "https://uui.app/",
+  "terminology": "Blocks",
+  "componentCount": 6,
+  "hasComponents": true
+ },
+ {
+  "handle": "@vllnt-ui",
+  "name": "vllnt-ui",
+  "homepage": "https://ui.vllnt.com/",
+  "terminology": "Components",
+  "componentCount": 313,
+  "hasComponents": true
+ },
+ {
+  "handle": "@vue-bits",
+  "name": "vue-bits",
+  "homepage": "https://vue-bits.dev/",
+  "terminology": "Components",
+  "componentCount": 132,
+  "hasComponents": true
+ },
+ {
+  "handle": "@w3-kit",
+  "name": "w3-kit",
+  "homepage": "https://w3-kit.com/",
+  "terminology": "Fonts",
+  "componentCount": 0,
+  "hasComponents": false
+ },
+ {
+  "handle": "@wandry-ui",
+  "name": "wandry-ui",
+  "homepage": "http://ui.wandry.com.ua/",
+  "terminology": null,
+  "componentCount": 0,
+  "hasComponents": false
+ },
+ {
+  "handle": "@waves-cn",
+  "name": "waves-cn",
+  "homepage": "https://waves-cn.vercel.app/",
+  "terminology": "Components",
+  "componentCount": 7,
+  "hasComponents": true
+ },
+ {
+  "handle": "@wds",
+  "name": "wds",
+  "homepage": "https://wds-shadcn-registry.netlify.app/",
+  "terminology": "Components",
+  "componentCount": 10,
+  "hasComponents": true
+ },
+ {
+  "handle": "@wensity",
+  "name": "wensity",
+  "homepage": "https://wensity.com/",
+  "terminology": "Blocks",
+  "componentCount": 70,
+  "hasComponents": true
+ },
+ {
+  "handle": "@wigggle-ui",
+  "name": "wigggle-ui",
+  "homepage": "https://wigggle-ui.vercel.app/",
+  "terminology": "Components",
+  "componentCount": 119,
+  "hasComponents": true
+ },
+ {
+  "handle": "@xcn",
+  "name": "xcn",
+  "homepage": "https://ui.radiumcoders.com/",
+  "terminology": "Components",
+  "componentCount": 6,
+  "hasComponents": true
+ },
+ {
+  "handle": "@zippystarter",
+  "name": "zippystarter",
+  "homepage": "https://zippystarter.com/",
+  "terminology": "Components",
+  "componentCount": 45,
+  "hasComponents": true
+ }
+]

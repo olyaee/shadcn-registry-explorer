@@ -11,3 +11,13 @@ venv/
 
 # OS
 .DS_Store
+
+# Large regenerable artifacts (vectors are ~600MB; regenerate via scripts)
+*.npy
+data/embeddings/
+
+# Logs
+*.log
+
+# Claude Code tooling / worktrees
+.claude/
