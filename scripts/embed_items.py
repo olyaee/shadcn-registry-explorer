@@ -37,6 +37,18 @@ def item_text(name, typ, desc):
     desc = (desc or "").strip()
     return f"{base}: {desc}" if desc else base
 
+def enriched_text(it, registry):
+    """Composite text for clustering: description + category + tags (post-enrichment)."""
+    kind = it.get("kind") or TYPE_KIND.get(it.get("type", ""), "component")
+    desc = (it.get("description") or "").strip()
+    cat = (it.get("category") or "").replace("-", " ")
+    tags = ", ".join(it.get("tags") or [])
+    parts = [f"{human(it.get('name',''))} ({kind})"]
+    if desc: parts.append(desc)
+    if cat: parts.append(f"Category: {cat}.")
+    if tags: parts.append(f"Tags: {tags}.")
+    return " ".join(parts)
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, default=0, help="only first N items (testing)")
@@ -61,7 +73,8 @@ def main():
                 "type": it.get("type", ""),
                 "terminology": c.get("terminology"),
                 "description": it.get("description", "") or "",
-                "text": item_text(nm, it.get("type", ""), it.get("description", "")),
+                "category": it.get("category", ""),
+                "text": enriched_text(it, r),
             })
     if args.limit:
         items = items[:args.limit]

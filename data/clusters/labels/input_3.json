@@ -1,989 +1,125 @@
 [
  {
-  "cluster": 292,
-  "domain": 4,
-  "guess": "map",
-  "n": 43,
-  "samples": [
-   "mapbox-pointer-demo",
-   "mapbox-pointer-style-demo",
-   "mapbox-pointer-theme-demo",
-   "location-map-demo",
-   "expanded-map-demo",
-   "expanded-map-locations-demo",
-   "expanded-map-dark-demo",
-   "expanded-map-zoom-demo"
-  ]
- },
- {
   "cluster": 391,
-  "domain": 4,
-  "guess": "adobe",
-  "n": 43,
-  "samples": [
-   "illustrator",
-   "photoshop",
-   "acrobat-reader",
-   "pdf-viewer",
-   "signature-pad",
-   "dreamweaver",
-   "adobe",
-   "after-effects"
-  ]
- },
- {
-  "cluster": 8,
-  "domain": 4,
-  "guess": "andromeda",
-  "n": 41,
-  "samples": [
-   "andromeda-button",
-   "andromeda-tokens",
-   "andromeda-alert",
-   "andromeda-avatar",
-   "andromeda-badge",
-   "andromeda-button-system",
-   "andromeda-card",
-   "andromeda-checkbox"
-  ]
- },
- {
-  "cluster": 366,
-  "domain": 4,
-  "guess": "artifact",
-  "n": 40,
-  "samples": [
-   "ai-artifact",
-   "agent",
-   "artifact",
-   "attachments",
-   "canvas",
-   "checkpoint",
-   "commit",
-   "confirmation"
-  ]
- },
- {
-  "cluster": 360,
-  "domain": 4,
-  "guess": "chain of thought",
-  "n": 39,
-  "samples": [
-   "chain-of-thought",
-   "reasoning",
-   "tool",
-   "example-chain-of-thought",
-   "chat13",
-   "handoff-chain",
-   "tool-call",
-   "tool-inspector"
-  ]
- },
- {
-  "cluster": 75,
-  "domain": 4,
-  "guess": "file",
-  "n": 37,
-  "samples": [
-   "file-trigger",
-   "cropper-file-upload-demo",
-   "file-upload-demo",
-   "file-upload-chat-input-demo",
-   "file-upload-circular-progress-demo",
-   "file-upload-direct-upload-demo",
-   "file-upload-fill-progress-demo",
-   "file-upload-form-demo"
-  ]
- },
- {
-  "cluster": 115,
-  "domain": 4,
-  "guess": "auth",
-  "n": 37,
-  "samples": [
-   "auth-otp-verify",
-   "auth-reset-password",
-   "auth-modal",
-   "auth-centered-signin",
-   "auth-centered-signup",
-   "auth-check-email",
-   "auth-glass-signup",
-   "auth-inset-login"
-  ]
- },
- {
-  "cluster": 170,
-  "domain": 4,
-  "guess": "meter",
-  "n": 36,
-  "samples": [
-   "meter",
-   "gauge",
-   "gauge-chart",
-   "usage-meter-linear",
-   "usage-meter-circle",
-   "price-range-gauge",
-   "p-meter-1",
-   "p-meter-2"
-  ]
- },
- {
-  "cluster": 193,
-  "domain": 4,
-  "guess": "css",
-  "n": 35,
-  "samples": [
-   "tool-group",
-   "group",
-   "css-logo",
-   "gsap-projects-section",
-   "css-button",
-   "css-colorfield",
-   "css-commandpalette",
-   "css-content"
-  ]
- },
- {
-  "cluster": 371,
-  "domain": 4,
-  "guess": "copy button",
+  "domain": 2,
+  "guess": "pricing",
   "n": 34,
   "samples": [
-   "copy-button",
-   "components-buttons-copy",
-   "demo-components-buttons-copy",
-   "button-20",
-   "copy-icon",
-   "animated-copy-button",
-   "response-actions",
-   "input-copy"
+   "slider-illustration",
+   "event33",
+   "pricing11",
+   "pricing13",
+   "pricing26",
+   "pricing30",
+   "pricing45",
+   "pricing-05"
   ]
  },
  {
-  "cluster": 335,
-  "domain": 4,
-  "guess": "c tree",
-  "n": 31,
-  "samples": [
-   "example-file-tree-basic",
-   "example-file-tree-expanded",
-   "example-file-tree-selection",
-   "example-file-tree",
-   "tree-drag-example",
-   "tree-example",
-   "tree-folder-example",
-   "tree-infinite-scroll-example"
-  ]
- },
- {
-  "cluster": 269,
-  "domain": 5,
-  "guess": "feature",
-  "n": 716,
-  "samples": [
-   "features-1",
-   "features-3",
-   "feature1",
-   "feature3",
-   "feature2",
-   "feature4",
-   "feature5",
-   "feature8"
-  ]
- },
- {
-  "cluster": 221,
-  "domain": 5,
-  "guess": "hero",
-  "n": 497,
-  "samples": [
-   "hero-01",
-   "hero-2",
-   "hero-4",
-   "hero1",
-   "hero2",
-   "hero3",
-   "hero7",
-   "hero-02"
-  ]
- },
- {
-  "cluster": 288,
-  "domain": 5,
-  "guess": "blog",
-  "n": 292,
-  "samples": [
-   "blog-01",
-   "blog-02",
-   "blog-1",
-   "blog-2",
-   "blog-03",
-   "blog-04",
-   "blog-05",
-   "blog-06"
-  ]
- },
- {
-  "cluster": 55,
-  "domain": 5,
-  "guess": "footer",
-  "n": 264,
-  "samples": [
-   "footer-1",
-   "footer-4",
-   "footer-01",
-   "footer-2",
-   "footer-02",
-   "footer-03",
-   "footer-3",
-   "footer1"
-  ]
- },
- {
-  "cluster": 302,
-  "domain": 5,
-  "guess": "portfolio",
-  "n": 243,
-  "samples": [
-   "about12",
-   "agency19",
-   "careers34",
-   "portfolio84",
-   "portfolio94",
-   "marketing-pro-press-sections-press-kit-downloads",
-   "portfolio-pro-about-sections-about-long-form",
-   "portfolio-pro-about-sections-about-split"
-  ]
- },
- {
-  "cluster": 214,
-  "domain": 5,
-  "guess": "cta",
-  "n": 217,
-  "samples": [
-   "cta-01",
-   "cta-2",
-   "cta-02",
-   "cta-03",
-   "cta-1",
-   "cta-04",
-   "cta-05",
-   "cta-06"
-  ]
- },
- {
-  "cluster": 215,
-  "domain": 5,
-  "guess": "testimonial",
-  "n": 216,
-  "samples": [
-   "animated-testimonials",
-   "testimonials-1",
-   "testimonials-2",
-   "testimonials-01",
-   "testimonials",
-   "testimonials-3",
-   "testimonial1",
-   "testimonial6"
-  ]
- },
- {
-  "cluster": 316,
-  "domain": 5,
-  "guess": "marketing",
-  "n": 206,
-  "samples": [
-   "branded-seo-page-builder",
-   "marketing-pro-about-sections-backers-and-angels",
-   "marketing-pro-about-sections-company-fact-sheet",
-   "marketing-pro-about-sections-funding-history-list",
-   "marketing-pro-about-sections-operating-principles-grid",
-   "marketing-pro-about-sections-press-mentions",
-   "marketing-pro-about-sections-principles-numbered",
-   "marketing-pro-about-sections-story-timeline"
-  ]
- },
- {
-  "cluster": 280,
-  "domain": 5,
-  "guess": "contact",
-  "n": 190,
-  "samples": [
-   "contact-1",
-   "contact-2",
-   "contact-3",
-   "contact-01",
-   "contact-02",
-   "contact-11",
-   "contact-03",
-   "contact-4"
-  ]
- },
- {
-  "cluster": 239,
-  "domain": 5,
-  "guess": "faq",
-  "n": 185,
-  "samples": [
-   "faqs-4",
-   "faqs-1",
-   "faqs-2",
-   "faqs-3",
-   "faqs-5",
-   "faq1",
-   "faq2",
-   "faq3"
-  ]
- },
- {
-  "cluster": 312,
-  "domain": 5,
-  "guess": "team",
-  "n": 136,
-  "samples": [
-   "team-1",
-   "team1",
-   "team-01",
-   "team-2",
-   "team-3",
-   "team-02",
-   "team-03",
-   "team-04"
-  ]
- },
- {
-  "cluster": 328,
-  "domain": 5,
-  "guess": "portfolio",
-  "n": 133,
-  "samples": [
-   "portfolio-01",
-   "portfolio70",
-   "portfolio79",
-   "portfolio92",
-   "portfolio114",
-   "showcase43",
-   "portfolio",
-   "portfolio-02"
-  ]
- },
- {
-  "cluster": 135,
-  "domain": 5,
-  "guess": "integrations",
-  "n": 128,
-  "samples": [
-   "integrations-2",
-   "integrations-3",
-   "integrations-4",
-   "integrations-01",
-   "integrations-11",
-   "integrations-1",
-   "integrations-02",
-   "integrations-03"
-  ]
- },
- {
-  "cluster": 247,
-  "domain": 5,
-  "guess": "hero",
-  "n": 126,
-  "samples": [
-   "saas-landing",
-   "startup",
-   "minimal-hero-section-with-parallax-images",
-   "education53",
-   "food44",
-   "hero46",
-   "showcase4",
-   "hero-heatmap"
-  ]
- },
- {
-  "cluster": 315,
-  "domain": 5,
-  "guess": "marketing",
-  "n": 125,
-  "samples": [
-   "source-sales-meter",
-   "kpi-agency-spotlight",
-   "marketing-pro-about-sections-about-with-stats",
-   "marketing-pro-about-sections-by-the-numbers",
-   "marketing-pro-about-sections-how-we-make-money",
-   "marketing-pro-affiliate-sections-payout-stats-band",
-   "marketing-pro-affiliate-sections-top-partners-leaderboard",
-   "marketing-pro-ai-sections-ai-outcomes-stats"
-  ]
- },
- {
-  "cluster": 249,
-  "domain": 5,
-  "guess": "logo cloud",
-  "n": 123,
-  "samples": [
-   "logo-cloud-01",
-   "logo-cloud-1",
-   "logo-cloud-3",
-   "logo-cloud-4",
-   "logo-cloud-02",
-   "logo-cloud-03",
-   "logo-cloud-04",
-   "logo-cloud-2"
-  ]
- },
- {
-  "cluster": 311,
-  "domain": 5,
-  "guess": "about",
-  "n": 121,
-  "samples": [
-   "about1",
-   "about2",
-   "about3",
-   "about5",
-   "about6",
-   "about10",
-   "about13",
-   "about14"
-  ]
- },
- {
-  "cluster": 310,
-  "domain": 5,
-  "guess": "gallery",
-  "n": 111,
-  "samples": [
-   "gallery-01",
-   "gallery-02",
-   "gallery-03",
-   "gallery-04",
-   "gallery-10",
-   "gallery-1",
-   "gallery-3",
-   "three-columns-with-images"
-  ]
- },
- {
-  "cluster": 235,
-  "domain": 5,
-  "guess": "newsletter",
-  "n": 103,
-  "samples": [
-   "newsletter-01",
-   "newsletter-1",
-   "newsletter-2",
-   "cta-4",
-   "newsletter-3",
-   "newsletter-4",
-   "advanced3",
-   "blog14"
-  ]
- },
- {
-  "cluster": 260,
-  "domain": 5,
-  "guess": "careers",
-  "n": 95,
-  "samples": [
-   "careers1",
-   "careers2",
-   "careers3",
-   "careers4",
-   "careers5",
-   "careers6",
-   "careers7",
-   "careers8"
-  ]
- },
- {
-  "cluster": 159,
-  "domain": 5,
-  "guess": "banner",
-  "n": 92,
-  "samples": [
-   "banner",
-   "banner-01",
-   "banner-02",
-   "banner-06",
-   "banner-07",
-   "banner-03",
-   "banner-04",
-   "announcement-bar"
-  ]
- },
- {
-  "cluster": 304,
-  "domain": 5,
-  "guess": "marketing",
-  "n": 81,
-  "samples": [
-   "comparison-2",
-   "comparison-1",
-   "comparison-3",
-   "product-comparison",
-   "product-compare",
-   "feature30",
-   "feature55",
-   "feature226"
-  ]
- },
- {
-  "cluster": 327,
-  "domain": 5,
-  "guess": "portfolio",
-  "n": 81,
-  "samples": [
-   "work-experience",
-   "portfolio98",
-   "experience-01",
-   "portfolio-pro-about-sections-journey-about",
-   "portfolio-pro-about-sections-timeline-about",
-   "portfolio-pro-cta-sections-download-resume-cta",
-   "portfolio-pro-developer-portfolio-career-timeline",
-   "portfolio-pro-developer-portfolio-skills-and-projects"
-  ]
- },
- {
-  "cluster": 309,
-  "domain": 5,
-  "guess": "projects",
-  "n": 79,
-  "samples": [
-   "scroll-reveal-content-a",
-   "ipad-illustration",
-   "agency10",
-   "agency12",
-   "agency17",
-   "cta50",
-   "cta52",
-   "cta60"
-  ]
- },
- {
-  "cluster": 70,
-  "domain": 5,
-  "guess": "navbar",
-  "n": 77,
-  "samples": [
-   "navbar33",
-   "navbar-10",
-   "navbar-11",
-   "navbar1",
-   "navbar2",
-   "navbar3",
-   "navbar-dark-shadow",
-   "navbar19"
-  ]
- },
- {
-  "cluster": 314,
-  "domain": 5,
-  "guess": "portfolio",
-  "n": 75,
-  "samples": [
-   "portfolio67",
-   "hero-04",
-   "hero-06",
-   "hero-19",
-   "pages/landing-page-01",
-   "portfolio-pro-availability-sections-open-for-work-banner",
-   "portfolio-pro-coaching-mentoring-coaching-hero",
-   "portfolio-pro-cta-sections-hire-me-band"
-  ]
- },
- {
-  "cluster": 145,
-  "domain": 5,
-  "guess": "legal",
-  "n": 65,
-  "samples": [
-   "cookie-consent-01",
-   "cookie-consent-02",
-   "cookie-consent-1",
-   "cookie-consent-2",
-   "cookie-consent-3",
-   "crypto29",
-   "event79",
-   "legal1"
-  ]
- },
- {
-  "cluster": 287,
-  "domain": 5,
-  "guess": "blog",
-  "n": 65,
-  "samples": [
-   "editorial-blog-rail",
-   "marketing-pro-blog-sections-author-spotlight-row",
-   "marketing-pro-blog-sections-blog-cards-grid",
-   "marketing-pro-blog-sections-category-filter-grid",
-   "marketing-pro-blog-sections-curated-reading-path",
-   "marketing-pro-blog-sections-editorial-feature-row",
-   "marketing-pro-blog-sections-editorial-list",
-   "marketing-pro-blog-sections-featured-post-split"
-  ]
- },
- {
-  "cluster": 293,
-  "domain": 5,
-  "guess": "event",
-  "n": 64,
-  "samples": [
-   "booking9",
-   "event4",
-   "event7",
-   "event10",
-   "event13",
-   "event14",
-   "event15",
-   "event16"
-  ]
- },
- {
-  "cluster": 195,
-  "domain": 5,
-  "guess": "marketing",
-  "n": 58,
-  "samples": [
-   "showcase7",
-   "stats30",
-   "workflow9",
-   "testimonials-03",
-   "testimonials-07",
-   "integration-testimonial",
-   "feature-01",
-   "ecommerce-product-features-features-testimonial-combo"
-  ]
- },
- {
-  "cluster": 236,
-  "domain": 5,
-  "guess": "cta",
-  "n": 54,
-  "samples": [
-   "marketing-pro-affiliate-sections-application-cta-card",
-   "marketing-pro-ctas-banner-with-avatars",
-   "marketing-pro-ctas-before-after-split",
-   "marketing-pro-ctas-bordered-inset",
-   "marketing-pro-ctas-cta-with-setup-checklist",
-   "marketing-pro-ctas-cta-with-trend-chart",
-   "marketing-pro-ctas-dark-band-with-sparkline",
-   "marketing-pro-ctas-dual-cta-banner"
-  ]
- },
- {
-  "cluster": 323,
-  "domain": 5,
-  "guess": "portfolio",
-  "n": 54,
-  "samples": [
-   "pet-portrait",
-   "portfolio101",
-   "portfolio102",
-   "portfolio105",
-   "portfolio106",
-   "portfolio107",
-   "portfolio108",
-   "portfolio109"
-  ]
- },
- {
-  "cluster": 63,
-  "domain": 5,
-  "guess": "header",
-  "n": 53,
-  "samples": [
-   "header-1",
-   "header-3",
-   "header-2",
-   "header-01",
-   "header-10",
-   "header-12",
-   "header-14",
-   "header-4"
-  ]
- },
- {
-  "cluster": 216,
-  "domain": 5,
-  "guess": "testimonials",
-  "n": 53,
-  "samples": [
-   "testimonials-02",
-   "testimonials-01",
-   "testimonials-03",
-   "testimonials-04",
-   "testimonials-05",
-   "testimonials-06",
-   "testimonials-07",
-   "testimonials-08"
-  ]
- },
- {
-  "cluster": 308,
-  "domain": 5,
-  "guess": "case studies",
-  "n": 53,
-  "samples": [
-   "post26",
-   "post62",
-   "gallery-21",
-   "portfolio-pro-case-study-sections-annotated-screen-case",
-   "portfolio-pro-case-study-sections-before-after-case",
-   "portfolio-pro-case-study-sections-case-study-cover",
-   "portfolio-pro-case-study-sections-case-study-hero",
-   "portfolio-pro-case-study-sections-case-study-index"
-  ]
- },
- {
-  "cluster": 290,
-  "domain": 5,
-  "guess": "awards",
-  "n": 49,
-  "samples": [
-   "about17",
-   "agency15",
-   "education17",
-   "portfolio116",
-   "saas34",
-   "about-18",
-   "marketing-pro-awards-sections-award-spotlight",
-   "marketing-pro-awards-sections-awards-timeline"
-  ]
- },
- {
-  "cluster": 227,
-  "domain": 5,
-  "guess": "pro",
-  "n": 47,
-  "samples": [
-   "marketing-pro-affiliate-sections-program-faq-accordion",
-   "marketing-pro-ai-sections-ai-skeptics-faq",
-   "marketing-pro-ai-sections-citation-trace-split",
-   "marketing-pro-careers-sections-careers-faq",
-   "marketing-pro-community-sections-join-faq-accordion",
-   "marketing-pro-contact-sections-faq-with-contact-card",
-   "marketing-pro-ctas-with-faq-links",
-   "marketing-pro-faqs-accordion-with-links"
-  ]
- },
- {
-  "cluster": 273,
-  "domain": 5,
-  "guess": "services",
-  "n": 46,
-  "samples": [
-   "booking4",
-   "food12",
-   "health5",
-   "services-01",
-   "services-02",
-   "services-03",
-   "services-04",
-   "services-05"
-  ]
- },
- {
-  "cluster": 245,
-  "domain": 5,
-  "guess": "download",
-  "n": 45,
-  "samples": [
-   "footer100",
-   "showcase6",
-   "hero-30",
-   "cta-18",
-   "download-with-columnlines",
-   "download-with-iphone",
-   "download-01",
-   "download-02"
-  ]
- },
- {
-  "cluster": 129,
-  "domain": 5,
-  "guess": "comingsoon",
-  "n": 44,
-  "samples": [
-   "coming-soon-1",
-   "coming-soon-2",
-   "coming-soon-3",
-   "auth43",
-   "comingsoon1",
-   "comingsoon2",
-   "comingsoon3",
-   "comingsoon4"
-  ]
- },
- {
-  "cluster": 270,
-  "domain": 5,
-  "guess": "portfolio",
-  "n": 43,
-  "samples": [
-   "portfolio-pro-clients-and-logos-client-results-row",
-   "portfolio-pro-clients-and-logos-logo-grid-with-quote",
-   "portfolio-pro-clients-and-logos-logos-and-testimonial",
-   "portfolio-pro-clients-and-logos-trusted-by-row",
-   "portfolio-pro-collaborations-partner-quotes",
-   "portfolio-pro-contact-sections-contact-with-testimonial",
-   "portfolio-pro-cta-sections-testimonial-cta",
-   "portfolio-pro-speaking-events-organizer-quotes"
-  ]
- },
- {
-  "cluster": 146,
-  "domain": 5,
-  "guess": "hero",
-  "n": 42,
-  "samples": [
-   "hero-01",
-   "hero-02",
-   "hero-03",
-   "hero-04",
-   "hero-05",
-   "hero-06",
-   "hero-07",
-   "hero-08"
-  ]
- },
- {
-  "cluster": 248,
-  "domain": 5,
-  "guess": "logos",
-  "n": 42,
-  "samples": [
-   "logos8",
-   "logos9",
-   "logos10",
-   "centered-with-logo",
-   "feature135",
-   "logos6",
-   "gallery-12",
-   "content-block-with-logos"
-  ]
- },
- {
-  "cluster": 43,
-  "domain": 5,
-  "guess": "navbars",
-  "n": 40,
-  "samples": [
-   "marketing-pro-navbars-announcement-bar-nav",
-   "marketing-pro-navbars-bordered-grid-nav",
-   "marketing-pro-navbars-centered-links-nav",
-   "marketing-pro-navbars-compact-centered-nav",
-   "marketing-pro-navbars-dark-nav",
-   "marketing-pro-navbars-double-deck-nav",
-   "marketing-pro-navbars-mega-menu-nav",
-   "marketing-pro-navbars-minimal-nav-with-search"
-  ]
- },
- {
-  "cluster": 66,
-  "domain": 5,
-  "guess": "navbar",
-  "n": 38,
-  "samples": [
-   "navbar-05",
-   "navbar-04",
-   "navbar-03",
-   "navbar-02",
-   "navbar-01",
-   "simple-navbar-with-hover-effects",
-   "navbar-with-children",
-   "navbar-classic"
-  ]
- },
- {
-  "cluster": 160,
-  "domain": 5,
+  "cluster": 338,
+  "domain": 2,
   "guess": "promo banner",
-  "n": 35,
+  "n": 33,
   "samples": [
    "upgrade-sales-promo",
    "announcement-4",
-   "booking13",
-   "cta26",
-   "ecommerce23",
-   "ecommerce29",
-   "ecommerce44",
-   "pricing14"
+   "food50",
+   "food51",
+   "food54",
+   "banner-05",
+   "banner-10",
+   "promotional-02"
   ]
  },
  {
-  "cluster": 182,
-  "domain": 5,
-  "guess": "case",
-  "n": 35,
+  "cluster": 212,
+  "domain": 2,
+  "guess": "bento",
+  "n": 31,
   "samples": [
-   "logo-cloud-06",
-   "marketing-pro-affiliate-sections-partner-case-study",
-   "marketing-pro-case-studies-anonymous-results-compact",
-   "marketing-pro-case-studies-before-after-panels",
-   "marketing-pro-case-studies-challenge-solution-results",
-   "marketing-pro-case-studies-dark-panel-feature",
-   "marketing-pro-case-studies-featured-story",
-   "marketing-pro-case-studies-featured-with-list"
+   "bento-1",
+   "bento-2",
+   "bento-4",
+   "bento-3",
+   "showcase13",
+   "showcase40",
+   "how-it-works-14",
+   "bento-01"
   ]
  },
  {
-  "cluster": 69,
-  "domain": 5,
-  "guess": "navbar",
-  "n": 33,
+  "cluster": 448,
+  "domain": 2,
+  "guess": "skills",
+  "n": 31,
   "samples": [
-   "navbar41",
-   "navbar43",
-   "navbar44",
-   "navbar45",
-   "navbar46",
-   "navbar47",
-   "navbar48",
-   "navbar49"
+   "portfolio-pro-developer-portfolio-skills-and-projects",
+   "portfolio-pro-developer-portfolio-tech-stack-detail",
+   "portfolio-pro-resume-cv-skills-and-tools-cv",
+   "portfolio-pro-resume-cv-skills-resume",
+   "portfolio-pro-services-sections-capabilities-grid",
+   "portfolio-pro-skills-sections-badge-cloud",
+   "portfolio-pro-skills-sections-capability-cards",
+   "portfolio-pro-skills-sections-certifications-skills"
   ]
  },
  {
-  "cluster": 240,
-  "domain": 5,
-  "guess": "faq",
-  "n": 32,
+  "cluster": 178,
+  "domain": 2,
+  "guess": "feature",
+  "n": 30,
   "samples": [
-   "game-faq1",
-   "simple-faqs-with-background",
-   "faq25",
-   "faq40",
-   "faq-left-title-01",
-   "faqs-cards-icons-01",
-   "faqs-grid-01",
-   "faqs-grid-cta-01"
+   "feature-bento",
+   "features-section-demo-3",
+   "feature-section-bento-skeletons",
+   "feature33",
+   "feature163",
+   "feature177",
+   "feature182",
+   "feature212"
   ]
  },
  {
-  "cluster": 213,
-  "domain": 5,
-  "guess": "collapsible collapsible faq",
-  "n": 28,
+  "cluster": 277,
+  "domain": 2,
+  "guess": "ecommerce",
+  "n": 30,
   "samples": [
-   "faq",
-   "astro-faq",
-   "faq-pro",
-   "motion-faq-disclosure",
-   "components-faqs-faq-1",
-   "demo-components-faqs-faq-1",
-   "collapsible-07",
-   "faq-component-01"
+   "ecommerce2",
+   "ecommerce-pro-journal-sections-journal-hero-feature",
+   "ecommerce-pro-membership-sections-membership-landing-hero",
+   "ecommerce-pro-store-heroes-archive-sale-hero",
+   "ecommerce-pro-store-heroes-bestseller-spotlight-hero",
+   "ecommerce-pro-store-heroes-brand-manifesto-hero",
+   "ecommerce-pro-store-heroes-centered-with-category-links",
+   "ecommerce-pro-store-heroes-comparison-hero"
   ]
  },
  {
-  "cluster": 246,
-  "domain": 5,
-  "guess": "hero",
-  "n": 28,
+  "cluster": 431,
+  "domain": 2,
+  "guess": "process",
+  "n": 30,
   "samples": [
-   "hero69",
+   "feature222",
+   "portfolio-pro-case-study-sections-process-walkthrough",
+   "portfolio-pro-case-study-sections-visual-process",
+   "portfolio-pro-collaborations-collab-process",
+   "portfolio-pro-design-portfolio-design-process",
+   "portfolio-pro-faq-sections-process-faq",
+   "portfolio-pro-process-sections-checklist-process",
+   "portfolio-pro-process-sections-discovery-call-steps"
+  ]
+ },
+ {
+  "cluster": 174,
+  "domain": 2,
+  "guess": "forms",
+  "n": 26,
+  "samples": [
+   "application-pro-forms-create-project-form",
    "application-pro-forms-feedback-form-card",
-   "marketing-pro-hero-sections-signup-hero",
+   "application-pro-help-support-submit-request-form",
    "marketing-pro-hero-sections-split-with-signup-form",
    "marketing-hero-forms-booking-form",
    "marketing-hero-forms-center-aligned-with-a-form",
@@ -992,504 +128,1256 @@
   ]
  },
  {
-  "cluster": 150,
-  "domain": 6,
-  "guess": "input",
-  "n": 172,
+  "cluster": 356,
+  "domain": 2,
+  "guess": "trust",
+  "n": 26,
   "samples": [
-   "input",
-   "input-group",
-   "phone-input",
-   "input-01",
-   "input-02",
-   "input-03",
-   "input-04",
-   "input-05"
+   "ecommerce-ecommerce-trust-guarantee-checklist",
+   "marketing-pro-integration-sections-integration-security-panel",
+   "marketing-pro-localization-sections-regional-compliance-list",
+   "marketing-pro-mobile-app-sections-app-privacy-label",
+   "marketing-pro-status-sections-incident-response-process",
+   "marketing-pro-trust-and-security-audit-log-preview",
+   "marketing-pro-trust-and-security-compliance-badges-row",
+   "marketing-pro-trust-and-security-compliance-panel"
   ]
  },
  {
-  "cluster": 110,
-  "domain": 6,
-  "guess": "button",
-  "n": 107,
+  "cluster": 422,
+  "domain": 2,
+  "guess": "news",
+  "n": 26,
   "samples": [
-   "all",
-   "avatar7",
-   "avatar9",
-   "button10",
-   "button11",
-   "button12",
-   "button13",
-   "button14"
+   "news1",
+   "news2",
+   "news3",
+   "news4",
+   "news5",
+   "news6",
+   "news7",
+   "news8"
   ]
  },
  {
-  "cluster": 152,
-  "domain": 6,
-  "guess": "select",
-  "n": 87,
+  "cluster": 28,
+  "domain": 2,
+  "guess": "login button login button email",
+  "n": 25,
   "samples": [
-   "select",
-   "native-select",
-   "form-select",
-   "select-morph",
-   "select-01",
-   "select-02",
-   "select-03",
-   "select-04"
+   "login-button",
+   "login-button-login-button-email-1",
+   "login-button-login-button-email-2",
+   "login-button-login-button-email-3",
+   "login-button-login-button-email-4",
+   "login-button-login-button-email-5",
+   "login-button-login-button-email-6",
+   "login-button-login-button-email-7"
   ]
  },
  {
-  "cluster": 151,
-  "domain": 6,
-  "guess": "label",
-  "n": 76,
+  "cluster": 368,
+  "domain": 2,
+  "guess": "portfolio",
+  "n": 25,
   "samples": [
-   "label",
-   "field",
-   "form",
-   "fieldset",
-   "form-input",
-   "form-error",
-   "shake",
-   "label-selector"
-  ]
- },
- {
-  "cluster": 226,
-  "domain": 6,
-  "guess": "uiable",
-  "n": 74,
-  "samples": [
-   "list-group",
-   "list",
-   "uiable-checkbox-basic",
-   "uiable-checkbox-description",
-   "uiable-checkbox-disabled",
-   "uiable-checkbox-group",
-   "uiable-checkbox-invalid",
-   "uiable-checkbox-table"
-  ]
- },
- {
-  "cluster": 111,
-  "domain": 6,
-  "guess": "calendar",
-  "n": 71,
-  "samples": [
-   "shadcn-ui",
-   "calendar",
-   "widget-controls",
-   "oui-button",
-   "oui-button-group",
-   "oui-calendar",
-   "oui-checkbox",
-   "oui-checkbox-group"
-  ]
- },
- {
-  "cluster": 123,
-  "domain": 6,
-  "guess": "input",
-  "n": 70,
-  "samples": [
-   "tag-input",
-   "tag-group",
-   "tags-input",
-   "search-field",
-   "chip",
-   "search-bar",
-   "search-input",
-   "tag"
-  ]
- },
- {
-  "cluster": 201,
-  "domain": 6,
-  "guess": "uiable",
-  "n": 70,
-  "samples": [
-   "uiable-button-default",
-   "uiable-button-destructive",
-   "uiable-button-ghost",
-   "uiable-button-icon",
-   "uiable-button-icon-danger",
-   "uiable-button-icon-dark",
-   "uiable-button-icon-info",
-   "uiable-button-icon-primary"
-  ]
- },
- {
-  "cluster": 153,
-  "domain": 6,
-  "guess": "select",
-  "n": 59,
-  "samples": [
-   "select-01",
-   "select-02",
-   "select-03",
-   "select-04",
-   "select-05",
-   "select-06",
-   "select-07",
-   "select-08"
-  ]
- },
- {
-  "cluster": 130,
-  "domain": 6,
-  "guess": "textarea",
-  "n": 54,
-  "samples": [
-   "textarea-01",
-   "textarea-02",
-   "textarea-03",
-   "textarea-04",
-   "textarea-05",
-   "textarea-06",
-   "textarea-07",
-   "textarea-08"
-  ]
- },
- {
-  "cluster": 131,
-  "domain": 6,
-  "guess": "textarea",
-  "n": 54,
-  "samples": [
-   "textarea",
-   "text-field",
-   "text",
-   "form-textarea",
-   "glass-textarea",
-   "caption",
-   "css-textfield",
-   "Textarea"
-  ]
- },
- {
-  "cluster": 225,
-  "domain": 6,
-  "guess": "group",
-  "n": 54,
-  "samples": [
-   "input-group",
-   "uiable-button-group-dropdown",
-   "uiable-button-group-input",
-   "uiable-button-group-input-group",
-   "uiable-button-group-nested",
-   "uiable-button-group-orientation",
-   "uiable-button-group-popover",
-   "uiable-button-group-select"
-  ]
- },
- {
-  "cluster": 147,
-  "domain": 6,
-  "guess": "p textarea",
-  "n": 52,
-  "samples": [
-   "p-textarea-1",
-   "p-textarea-2",
-   "p-textarea-3",
-   "p-textarea-4",
-   "p-textarea-5",
-   "p-textarea-6",
-   "p-textarea-7",
-   "p-textarea-8"
-  ]
- },
- {
-  "cluster": 141,
-  "domain": 6,
-  "guess": "multi select",
-  "n": 49,
-  "samples": [
-   "multi-select",
-   "model-selector",
-   "choice-poll",
-   "feature-poll",
-   "multiple-select",
-   "team-selector",
-   "option-list",
-   "tag-select"
-  ]
- },
- {
-  "cluster": 186,
-  "domain": 6,
-  "guess": "uiable",
-  "n": 38,
-  "samples": [
-   "uiable-avatar-dropdown",
-   "uiable-breadcrumb-dropdown",
-   "uiable-context-menu-basic",
-   "uiable-context-menu-checkboxes",
-   "uiable-context-menu-destructive",
-   "uiable-context-menu-groups",
-   "uiable-context-menu-icons",
-   "uiable-context-menu-radio"
-  ]
- },
- {
-  "cluster": 113,
-  "domain": 6,
-  "guess": "jsonforms",
-  "n": 34,
-  "samples": [
-   "json-viewer",
-   "schema-builder",
-   "jsonforms-anyof-string-or-enum-control",
-   "jsonforms-array-layout",
-   "jsonforms-boolean-control",
-   "jsonforms-boolean-toggle-control",
-   "jsonforms-categorization",
-   "jsonforms-boolean-cell"
-  ]
- },
- {
-  "cluster": 199,
-  "domain": 6,
-  "guess": "uiable",
-  "n": 34,
-  "samples": [
-   "uiable-avatar-size",
-   "uiable-command-basic",
-   "uiable-command-with-description",
-   "uiable-empty-avatar",
-   "uiable-empty-background",
-   "uiable-empty-card",
-   "uiable-empty-outline",
-   "uiable-item-avatar"
-  ]
- },
- {
-  "cluster": 127,
-  "domain": 6,
-  "guess": "password input",
-  "n": 31,
-  "samples": [
-   "password-input",
-   "password",
-   "form-password",
-   "p-input-9",
-   "p-input-group-26",
-   "input-04",
-   "vault-lock",
-   "c-input-22"
-  ]
- },
- {
-  "cluster": 87,
-  "domain": 7,
-  "guess": "accordion",
-  "n": 191,
-  "samples": [
-   "accordion",
-   "accordion-01",
-   "accordion-02",
-   "accordion-03",
-   "accordion-05",
-   "accordion-06",
-   "accordion-07",
-   "accordion-09"
-  ]
- },
- {
-  "cluster": 206,
-  "domain": 7,
-  "guess": "table",
-  "n": 171,
-  "samples": [
-   "table-01",
-   "table",
-   "table-02",
-   "table-03",
-   "table-04",
-   "table-05",
-   "table-06",
-   "table-07"
-  ]
- },
- {
-  "cluster": 313,
-  "domain": 7,
-  "guess": "tabs",
-  "n": 158,
-  "samples": [
-   "tabs",
-   "animated-tabs",
-   "expandable-tabs",
-   "tabs-01",
-   "primitives-animate-tabs",
-   "components-animate-code-tabs",
-   "components-animate-tabs",
-   "primitives-base-tabs"
-  ]
- },
- {
-  "cluster": 88,
-  "domain": 7,
-  "guess": "collapsible",
-  "n": 134,
-  "samples": [
-   "collapsible",
-   "collapsible-01",
-   "collapsible-04",
-   "primitives-base-collapsible",
-   "primitives-headless-disclosure",
-   "primitives-radix-collapsible",
-   "collapsible-02",
-   "collapsible-03"
-  ]
- },
- {
-  "cluster": 205,
-  "domain": 7,
-  "guess": "table",
-  "n": 134,
-  "samples": [
-   "table",
-   "data-table",
-   "table-03",
-   "table-04",
-   "table-05",
-   "data-table-01",
-   "data-table-02",
-   "data-table-03"
+   "portfolio-pro-clients-and-logos-animated-logo-row",
+   "portfolio-pro-clients-and-logos-client-grid-detailed",
+   "portfolio-pro-clients-and-logos-client-list",
+   "portfolio-pro-clients-and-logos-client-results-row",
+   "portfolio-pro-clients-and-logos-client-spotlight",
+   "portfolio-pro-clients-and-logos-clients-by-service",
+   "portfolio-pro-clients-and-logos-confidential-clients",
+   "portfolio-pro-clients-and-logos-engagement-lengths"
   ]
  },
  {
   "cluster": 307,
-  "domain": 7,
-  "guess": "sidebar",
-  "n": 122,
+  "domain": 2,
+  "guess": "pro",
+  "n": 24,
   "samples": [
-   "sidebar",
-   "floating-navbar",
-   "sidebar-group",
-   "navbar-menu",
-   "resizable-navbar",
-   "glass-sidebar",
-   "components-radix-sidebar",
-   "header"
+   "status-locale-switcher",
+   "application-pro-localization-format-settings",
+   "application-pro-localization-glossary-manager",
+   "application-pro-localization-language-switcher-blueprint",
+   "application-pro-localization-locale-coverage-matrix",
+   "application-pro-localization-locale-fallback-chain",
+   "application-pro-localization-locale-preview-card",
+   "application-pro-localization-pseudo-locale-tester"
   ]
  },
  {
-  "cluster": 50,
-  "domain": 7,
-  "guess": "pagination",
-  "n": 101,
+  "cluster": 73,
+  "domain": 2,
+  "guess": "faq",
+  "n": 23,
   "samples": [
-   "pagination",
-   "pagination-01",
-   "pagination-02",
-   "pagination-03",
-   "pagination-demo",
-   "pagination-04",
-   "pagination-05",
-   "pagination-06"
+   "faq",
+   "frequently-asked-questions-accordion",
+   "astro-faq",
+   "faq-pro",
+   "motion-faq-disclosure",
+   "components-faqs-faq-1",
+   "demo-components-faqs-faq-1",
+   "accordion-03"
   ]
  },
  {
-  "cluster": 48,
-  "domain": 7,
-  "guess": "separator",
+  "cluster": 278,
+  "domain": 2,
+  "guess": "storefront hero",
+  "n": 23,
+  "samples": [
+   "sheet-9",
+   "shop-hero-1",
+   "shop-hero-2",
+   "shop-hero-3",
+   "shop-hero-4",
+   "shop-hero-5",
+   "shop-hero-6",
+   "shop-hero-7"
+  ]
+ },
+ {
+  "cluster": 426,
+  "domain": 2,
+  "guess": "bio link",
+  "n": 23,
+  "samples": [
+   "bio-writer",
+   "portfolio62",
+   "maintenance-block-with-social-links",
+   "social-links-01",
+   "bio-link-01",
+   "bio-link-02",
+   "bio-link-03",
+   "bio-link-04"
+  ]
+ },
+ {
+  "cluster": 208,
+  "domain": 3,
+  "guess": "switch",
+  "n": 121,
+  "samples": [
+   "switch",
+   "swap",
+   "switch-01",
+   "switch-02",
+   "switch-03",
+   "switch-04",
+   "switch-05",
+   "switch-06"
+  ]
+ },
+ {
+  "cluster": 300,
+  "domain": 3,
+  "guess": "c button",
+  "n": 119,
+  "samples": [
+   "p-button-1",
+   "p-button-2",
+   "p-button-3",
+   "p-button-4",
+   "p-button-5",
+   "p-button-7",
+   "p-button-8",
+   "p-button-9"
+  ]
+ },
+ {
+  "cluster": 418,
+  "domain": 3,
+  "guess": "button",
+  "n": 116,
+  "samples": [
+   "button",
+   "button-outline",
+   "button-with-icon",
+   "abstract-app-voting",
+   "agent-disconnect-button",
+   "delete-button",
+   "reaction-button",
+   "fab"
+  ]
+ },
+ {
+  "cluster": 408,
+  "domain": 3,
+  "guess": "button",
+  "n": 114,
+  "samples": [
+   "primitives-buttons-button",
+   "primitives-buttons-flip",
+   "primitives-buttons-liquid",
+   "components-buttons-button",
+   "demo-primitives-buttons-flip",
+   "demo-primitives-buttons-liquid",
+   "button-base",
+   "interactive-hover-button"
+  ]
+ },
+ {
+  "cluster": 227,
+  "domain": 3,
+  "guess": "toggle",
+  "n": 95,
+  "samples": [
+   "demo-primitives-base-switch",
+   "demo-primitives-base-toggle",
+   "demo-primitives-base-toggle-group",
+   "demo-primitives-headless-switch",
+   "demo-primitives-radix-switch",
+   "demo-primitives-radix-toggle",
+   "demo-primitives-radix-toggle-group",
+   "primitives-base-switch"
+  ]
+ },
+ {
+  "cluster": 402,
+  "domain": 3,
+  "guess": "button",
   "n": 91,
   "samples": [
-   "separator",
-   "full-width-divider",
-   "separator-01",
-   "separator-02",
-   "separator-03",
-   "separator-04",
-   "separator-05",
-   "separator-06"
+   "shimmer-button",
+   "shiny-button",
+   "pulsating-button",
+   "3d-button",
+   "rainbow-button",
+   "rainbow-button-demo",
+   "glow-button",
+   "buttons-glow"
   ]
  },
  {
-  "cluster": 44,
-  "domain": 7,
-  "guess": "breadcrumb",
-  "n": 89,
+  "cluster": 182,
+  "domain": 3,
+  "guess": "theme",
+  "n": 83,
   "samples": [
-   "breadcrumb",
-   "breadcrumbs",
-   "breadcrumb-01",
-   "breadcrumb-03",
-   "breadcrumb-04",
-   "breadcrumb-05",
-   "breadcrumb-06",
-   "breadcrumb-demo"
+   "theme-toggle",
+   "theme-switcher",
+   "primitives-effects-theme-toggler",
+   "components-buttons-theme-toggler",
+   "demo-components-buttons-theme-toggler",
+   "demo-primitives-effects-theme-toggler",
+   "theme-provider",
+   "team-switcher"
   ]
  },
  {
-  "cluster": 126,
-  "domain": 7,
-  "guess": "sidebar",
-  "n": 88,
+  "cluster": 310,
+  "domain": 3,
+  "guess": "toolbar",
+  "n": 83,
   "samples": [
-   "sidebar",
-   "sidebar-01",
-   "sidebar-02",
-   "sidebar-03",
-   "sidebar-04",
-   "sidebar-05",
-   "sidebar-06",
-   "settings-1"
+   "toolbar",
+   "floating-toolbar",
+   "emoji-burst",
+   "jar-of-emotions",
+   "social15",
+   "p-toolbar-1",
+   "layouts-floating-toolbar",
+   "selection-toolbar"
   ]
  },
  {
-  "cluster": 81,
-  "domain": 7,
-  "guess": "drawer",
-  "n": 84,
+  "cluster": 257,
+  "domain": 3,
+  "guess": "uiable",
+  "n": 75,
   "samples": [
-   "drawer",
-   "drawer-demo",
-   "specials-magnetic-drawer",
-   "specials-magnetic-drawer-demo",
-   "drawer-base",
-   "action-drawer",
-   "base-drawer",
-   "family-drawer"
+   "button-37",
+   "components-alerts-dismissible-alerts",
+   "uiable-alert-action",
+   "uiable-alert-dismissible-danger",
+   "uiable-alert-dismissible-dark",
+   "uiable-alert-dismissible-info",
+   "uiable-alert-dismissible-primary",
+   "uiable-alert-dismissible-secondary"
   ]
  },
  {
-  "cluster": 317,
-  "domain": 7,
-  "guess": "tabs",
-  "n": 71,
+  "cluster": 187,
+  "domain": 3,
+  "guess": "toggle",
+  "n": 69,
   "samples": [
-   "tabs-demo",
-   "tabs-06",
-   "tabs",
-   "bottom-tabs",
-   "tab-bar",
-   "expandable-tabs",
-   "p-tabs-1",
-   "p-tabs-2"
+   "toggle",
+   "agent-track-toggle",
+   "mark-toggle",
+   "pill-toggle",
+   "taga-toggle",
+   "components-base-toggle",
+   "icons-toggle-left",
+   "b-toggle"
+  ]
+ },
+ {
+  "cluster": 288,
+  "domain": 3,
+  "guess": "demo",
+  "n": 66,
+  "samples": [
+   "button-demo",
+   "demo-components-buttons-button",
+   "button-variants-demo",
+   "button-sizes-demo",
+   "button-icon-demo",
+   "demo-components-buttons-icon",
+   "demo-components-buttons-liquid",
+   "demo-components-radix-files"
+  ]
+ },
+ {
+  "cluster": 417,
+  "domain": 3,
+  "guess": "button",
+  "n": 61,
+  "samples": [
+   "social-button",
+   "button-10",
+   "button-11",
+   "button-12",
+   "button-13",
+   "button-14",
+   "button-default",
+   "button-01"
+  ]
+ },
+ {
+  "cluster": 176,
+  "domain": 3,
+  "guess": "magnetic button",
+  "n": 60,
+  "samples": [
+   "magnetic-button",
+   "magnetic",
+   "primitives-effects-magnetic",
+   "demo-primitives-effects-magnetic",
+   "magnet-lines",
+   "magnetic-dots",
+   "buttons-magnetic",
+   "specials-magnetic-drawer"
+  ]
+ },
+ {
+  "cluster": 226,
+  "domain": 3,
+  "guess": "toggle group",
+  "n": 60,
+  "samples": [
+   "toggle-group",
+   "segmented-control",
+   "primitives-base-toggle-group",
+   "tag-group",
+   "components-base-toggle-group",
+   "permission-selector",
+   "b-togglegroup",
+   "r-togglegroup"
+  ]
+ },
+ {
+  "cluster": 29,
+  "domain": 3,
+  "guess": "login button login button social",
+  "n": 58,
+  "samples": [
+   "components-buttons-social-buttons",
+   "login-button-login-button-social-1",
+   "login-button-login-button-social-2",
+   "login-button-login-button-social-3",
+   "login-button-login-button-social-4",
+   "login-button-login-button-social-5",
+   "login-button-login-button-social-6",
+   "login-button-login-button-social-7"
+  ]
+ },
+ {
+  "cluster": 306,
+  "domain": 3,
+  "guess": "button button destructive",
+  "n": 56,
+  "samples": [
+   "button-02",
+   "button-04",
+   "button-12",
+   "legacy-bar-button",
+   "button-button-destructive-1",
+   "button-button-destructive-2",
+   "button-button-destructive-3",
+   "button-button-destructive-4"
+  ]
+ },
+ {
+  "cluster": 190,
+  "domain": 3,
+  "guess": "c switch",
+  "n": 49,
+  "samples": [
+   "p-switch-1",
+   "p-switch-2",
+   "p-switch-3",
+   "p-switch-4",
+   "p-switch-5",
+   "p-switch-6",
+   "card-11",
+   "item-15"
+  ]
+ },
+ {
+  "cluster": 273,
+  "domain": 3,
+  "guess": "copy button",
+  "n": 43,
+  "samples": [
+   "copy-button",
+   "components-buttons-copy",
+   "demo-components-buttons-copy",
+   "clipboard",
+   "button-20",
+   "animated-copy-button",
+   "p-button-36",
+   "input-copy"
+  ]
+ },
+ {
+  "cluster": 279,
+  "domain": 3,
+  "guess": "button button text marquee",
+  "n": 40,
+  "samples": [
+   "slideup-button",
+   "sliding-button",
+   "components-buttons-rotate-buttons",
+   "components-buttons-shadow-buttons",
+   "components-buttons-skew-buttons",
+   "components-buttons-slide-buttons",
+   "components-buttons-underline-buttons",
+   "border-button-border-button-corner-1"
+  ]
+ },
+ {
+  "cluster": 191,
+  "domain": 3,
+  "guess": "c toggle",
+  "n": 39,
+  "samples": [
+   "cookie-consent-3",
+   "p-toggle-1",
+   "p-toggle-2",
+   "p-toggle-3",
+   "p-toggle-4",
+   "p-toggle-5",
+   "p-toggle-6",
+   "p-toggle-8"
+  ]
+ },
+ {
+  "cluster": 179,
+  "domain": 3,
+  "guess": "c toggle group",
+  "n": 34,
+  "samples": [
+   "p-toast-13",
+   "p-toggle-group-1",
+   "p-toggle-group-2",
+   "p-toggle-group-3",
+   "p-toggle-group-4",
+   "p-toggle-group-5",
+   "p-toggle-group-6",
+   "p-toggle-group-7"
+  ]
+ },
+ {
+  "cluster": 355,
+  "domain": 3,
+  "guess": "ripple",
+  "n": 34,
+  "samples": [
+   "primitives-buttons-ripple",
+   "demo-primitives-buttons-ripple",
+   "ripple",
+   "ripple-button",
+   "background-ripple-effect",
+   "ripple-type",
+   "components-buttons-ripple",
+   "demo-components-buttons-ripple"
+  ]
+ },
+ {
+  "cluster": 147,
+  "domain": 3,
+  "guess": "example",
+  "n": 29,
+  "samples": [
+   "pending-demo",
+   "pending-wrapper-demo",
+   "pending-form-demo",
+   "pending-link-demo",
+   "pending-switch-demo",
+   "pending",
+   "text-link-example",
+   "note-example"
+  ]
+ },
+ {
+  "cluster": 261,
+  "domain": 3,
+  "guess": "link",
+  "n": 29,
+  "samples": [
+   "link",
+   "button-link",
+   "link-button",
+   "icons-link",
+   "pages-page-transition-link",
+   "hyper-text",
+   "link-node",
+   "css-link"
+  ]
+ },
+ {
+  "cluster": 13,
+  "domain": 3,
+  "guess": "theme toggle theme toggle icon",
+  "n": 28,
+  "samples": [
+   "theme-toggle-theme-toggle-icon-1",
+   "theme-toggle-theme-toggle-icon-10",
+   "theme-toggle-theme-toggle-icon-2",
+   "theme-toggle-theme-toggle-icon-3",
+   "theme-toggle-theme-toggle-icon-4",
+   "theme-toggle-theme-toggle-icon-5",
+   "theme-toggle-theme-toggle-icon-6",
+   "theme-toggle-theme-toggle-icon-7"
+  ]
+ },
+ {
+  "cluster": 305,
+  "domain": 3,
+  "guess": "button button ghost",
+  "n": 27,
+  "samples": [
+   "button-ghost",
+   "p-button-6",
+   "command-09",
+   "ButtonGhost",
+   "c-button-20",
+   "c-button-21",
+   "c-button-33",
+   "c-button-35"
+  ]
+ },
+ {
+  "cluster": 333,
+  "domain": 3,
+  "guess": "border button border button moving",
+  "n": 24,
+  "samples": [
+   "border-button",
+   "border-button-demo",
+   "components-buttons-border-animation-buttons",
+   "moving-border-button",
+   "trace-button",
+   "border-button-border-button-basic",
+   "border-button-border-button-moving-1",
+   "border-button-border-button-moving-10"
+  ]
+ },
+ {
+  "cluster": 371,
+  "domain": 3,
+  "guess": "button button glow",
+  "n": 22,
+  "samples": [
+   "bloom-menu",
+   "components-buttons-pulse-buttons",
+   "gleam-button",
+   "pinlight-button",
+   "button-button-glow-1",
+   "button-button-glow-2",
+   "button-button-glow-3",
+   "button-button-glow-aurora-1"
+  ]
+ },
+ {
+  "cluster": 412,
+  "domain": 3,
+  "guess": "button",
+  "n": 22,
+  "samples": [
+   "button-17",
+   "button10",
+   "button11",
+   "button12",
+   "button13",
+   "button14",
+   "button15",
+   "button16"
+  ]
+ },
+ {
+  "cluster": 350,
+  "domain": 4,
+  "guess": "card",
+  "n": 198,
+  "samples": [
+   "card",
+   "card-02",
+   "card-04",
+   "card-05",
+   "card-06",
+   "card-07",
+   "card-08",
+   "security-card"
+  ]
+ },
+ {
+  "cluster": 137,
+  "domain": 4,
+  "guess": "tooltip",
+  "n": 161,
+  "samples": [
+   "tooltip",
+   "animated-tooltip",
+   "tooltip-05",
+   "primitives-animate-tooltip",
+   "tooltip-01",
+   "tooltip-02",
+   "tooltip-03",
+   "tooltip-04"
+  ]
+ },
+ {
+  "cluster": 364,
+  "domain": 4,
+  "guess": "card",
+  "n": 111,
+  "samples": [
+   "card-flip",
+   "demo-primitives-radix-hover-card",
+   "flip-card",
+   "folder",
+   "card-hover-effect",
+   "3d-card",
+   "wobble-card",
+   "ai-job-cards"
+  ]
+ },
+ {
+  "cluster": 322,
+  "domain": 4,
+  "guess": "stack",
+  "n": 96,
+  "samples": [
+   "stack",
+   "card-stack",
+   "layered-stack",
+   "sticky-scroll-cards",
+   "draggable-card",
+   "sticky-banner",
+   "rotating-tabs-with-text",
+   "draggable-cards"
+  ]
+ },
+ {
+  "cluster": 121,
+  "domain": 4,
+  "guess": "popover",
+  "n": 87,
+  "samples": [
+   "popover",
+   "primitives-base-popover",
+   "primitives-headless-popover",
+   "popover-01",
+   "popover-03",
+   "popover-04",
+   "popover-05",
+   "popover-06"
+  ]
+ },
+ {
+  "cluster": 404,
+  "domain": 4,
+  "guess": "card",
+  "n": 77,
+  "samples": [
+   "card-12",
+   "capability-gate",
+   "radial-cards",
+   "crypto24",
+   "feature29",
+   "feature115",
+   "feature119",
+   "feature147"
+  ]
+ },
+ {
+  "cluster": 345,
+  "domain": 4,
+  "guess": "link preview",
+  "n": 63,
+  "samples": [
+   "link-preview",
+   "preview-card",
+   "jsx-preview",
+   "web-preview",
+   "demo-primitives-base-preview-card",
+   "primitives-base-preview-card",
+   "primitives-radix-hover-card",
+   "hover-preview-demo"
+  ]
+ },
+ {
+  "cluster": 120,
+  "domain": 4,
+  "guess": "popover",
+  "n": 54,
+  "samples": [
+   "popover-02",
+   "p-popover-1",
+   "p-popover-2",
+   "p-popover-3",
+   "p-popover-4",
+   "introductory-popup",
+   "popup-with-image",
+   "simple-request-popup"
+  ]
+ },
+ {
+  "cluster": 285,
+  "domain": 4,
+  "guess": "c card",
+  "n": 53,
+  "samples": [
+   "cards-demo-2",
+   "education17",
+   "wallet-card",
+   "p-card-1",
+   "p-card-2",
+   "p-card-3",
+   "p-card-4",
+   "p-card-5"
+  ]
+ },
+ {
+  "cluster": 372,
+  "domain": 4,
+  "guess": "hover card",
+  "n": 53,
+  "samples": [
+   "hover-card",
+   "components-radix-hover-card",
+   "demo-components-radix-hover-card",
+   "hover-card-demo",
+   "glossary-hover",
+   "profile-hover-card",
+   "link-hover",
+   "b-hover-card"
+  ]
+ },
+ {
+  "cluster": 323,
+  "domain": 4,
+  "guess": "demo",
+  "n": 47,
+  "samples": [
+   "card-demo",
+   "cards-demo-1",
+   "texture-card-demo",
+   "minimal-card-demo",
+   "cutout-card-demo",
+   "card-deck",
+   "x-card-demo",
+   "x-card-basic-demo"
+  ]
+ },
+ {
+  "cluster": 136,
+  "domain": 4,
+  "guess": "c tooltip",
+  "n": 42,
+  "samples": [
+   "tooltip-10",
+   "p-tooltip-1",
+   "p-tooltip-2",
+   "p-tooltip-3",
+   "p-tooltip-4",
+   "tooltip-01",
+   "tooltip-02",
+   "tooltip-03"
+  ]
+ },
+ {
+  "cluster": 340,
+  "domain": 4,
+  "guess": "faq",
+  "n": 35,
+  "samples": [
+   "cards-demo-3",
+   "peel-corner-reveal",
+   "faq60",
+   "faq61",
+   "faq62",
+   "faq64",
+   "card-without-border",
+   "cutout-card"
+  ]
+ },
+ {
+  "cluster": 232,
+  "domain": 4,
+  "guess": "tilt card",
+  "n": 31,
+  "samples": [
+   "tilt-card",
+   "tilt",
+   "demo-tilt-card",
+   "tilted-coverflow",
+   "cards-tilt",
+   "cards-parallax-tilt",
+   "tilt-effect",
+   "scroll-tilted-grid"
+  ]
+ },
+ {
+  "cluster": 296,
+  "domain": 4,
+  "guess": "shadcnui",
+  "n": 31,
+  "samples": [
+   "animated-card-stack-shadcnui",
+   "animated-profile-menu-shadcnui",
+   "cards-slider-shadcnui",
+   "course-content-page-shadcnui",
+   "credit-card-shadcnui",
+   "currency-converter-card-baseui",
+   "currency-converter-card-shadcnui",
+   "hover-expand-card-baseui"
+  ]
+ },
+ {
+  "cluster": 373,
+  "domain": 4,
+  "guess": "c hover card",
+  "n": 30,
+  "samples": [
+   "account-hover-card",
+   "c-hover-card-1",
+   "c-hover-card-2",
+   "c-hover-card-3",
+   "c-hover-card-4",
+   "c-hover-card-5",
+   "c-hover-card-6",
+   "c-hover-card-7"
+  ]
+ },
+ {
+  "cluster": 316,
+  "domain": 4,
+  "guess": "card",
+  "n": 28,
+  "samples": [
+   "card-10",
+   "card-11",
+   "card-12",
+   "card-13",
+   "card-15",
+   "card-14",
+   "card-16",
+   "card-17"
+  ]
+ },
+ {
+  "cluster": 91,
+  "domain": 4,
+  "guess": "popover demo",
+  "n": 25,
+  "samples": [
+   "popover-demo",
+   "demo-primitives-base-popover",
+   "demo-primitives-headless-popover",
+   "demo-primitives-radix-popover",
+   "demo-components-base-popover",
+   "demo-components-headless-popover",
+   "demo-components-radix-popover",
+   "popover-form-demo"
+  ]
+ },
+ {
+  "cluster": 90,
+  "domain": 4,
+  "guess": "popover",
+  "n": 22,
+  "samples": [
+   "popover",
+   "portal",
+   "primitives-radix-popover",
+   "components-radix-popover",
+   "popover1",
+   "popover2",
+   "popover3",
+   "popover4"
+  ]
+ },
+ {
+  "cluster": 339,
+  "domain": 5,
+  "guess": "sample",
+  "n": 516,
+  "samples": [
+   "strikethrough-replace",
+   "adapter-inertia",
+   "adapter-onejs",
+   "adapter-react-router-v5",
+   "adapter-waku",
+   "equation-node",
+   "hr-node",
+   "block-placeholder-kit"
   ]
  },
  {
   "cluster": 45,
-  "domain": 7,
-  "guess": "c breadcrumb",
-  "n": 68,
+  "domain": 5,
+  "guess": "avatar",
+  "n": 343,
   "samples": [
-   "breadcrumb-02",
-   "p-breadcrumb-1",
-   "p-breadcrumb-2",
-   "p-breadcrumb-3",
-   "p-breadcrumb-4",
-   "p-breadcrumb-5",
-   "p-breadcrumb-6",
-   "p-breadcrumb-7"
+   "avatar",
+   "avatar-group",
+   "avatar-01",
+   "avatar-02",
+   "avatar-03",
+   "avatar-04",
+   "avatar-05",
+   "avatar-06"
   ]
  },
  {
-  "cluster": 74,
-  "domain": 7,
+  "cluster": 50,
+  "domain": 5,
+  "guess": "use",
+  "n": 229,
+  "samples": [
+   "use-mobile",
+   "hooks-use-auto-height",
+   "hooks-use-controlled-state",
+   "lib-get-strict-context",
+   "use-media-query",
+   "use-copy-to-clipboard",
+   "hooks-use-data-state",
+   "hooks-use-is-in-view"
+  ]
+ },
+ {
+  "cluster": 360,
+  "domain": 5,
+  "guess": "badge",
+  "n": 216,
+  "samples": [
+   "badge",
+   "status-badge",
+   "badge-05",
+   "badge-07",
+   "badge-10",
+   "badge-12",
+   "badge-demo",
+   "badge-01"
+  ]
+ },
+ {
+  "cluster": 0,
+  "domain": 5,
+  "guess": "new",
+  "n": 181,
+  "samples": [
+   "usa",
+   "africa",
+   "alabama",
+   "alaska",
+   "algeria",
+   "angola",
+   "argentina",
+   "arizona"
+  ]
+ },
+ {
+  "cluster": 1,
+  "domain": 5,
+  "guess": "data",
+  "n": 180,
+  "samples": [
+   "usa-data",
+   "africa-data",
+   "alabama-data",
+   "alaska-data",
+   "algeria-data",
+   "angola-data",
+   "argentina-data",
+   "arizona-data"
+  ]
+ },
+ {
+  "cluster": 82,
+  "domain": 5,
+  "guess": "c empty",
+  "n": 126,
+  "samples": [
+   "empty-state-01",
+   "empty-states-1",
+   "empty-states-2",
+   "empty-states-3",
+   "empty-states-4",
+   "empty-state-vertical-grid",
+   "empty-state-with-cards",
+   "empty-state-with-pictures"
+  ]
+ },
+ {
+  "cluster": 302,
+  "domain": 5,
+  "guess": "player",
+  "n": 122,
+  "samples": [
+   "image",
+   "video-player",
+   "audio-player",
+   "video-player-demo",
+   "media-player",
+   "volume-control",
+   "audio",
+   "video"
+  ]
+ },
+ {
+  "cluster": 223,
+  "domain": 5,
+  "guess": "oui",
+  "n": 120,
+  "samples": [
+   "all",
+   "direction",
+   "direction-provider",
+   "tour",
+   "error-boundary",
+   "ui",
+   "client-only",
+   "plan"
+  ]
+ },
+ {
+  "cluster": 291,
+  "domain": 5,
+  "guess": "typography",
+  "n": 115,
+  "samples": [
+   "typography",
+   "text",
+   "heading",
+   "typography-demo",
+   "prose",
+   "quote",
+   "signature",
+   "fonts"
+  ]
+ },
+ {
+  "cluster": 378,
+  "domain": 5,
+  "guess": "kit",
+  "n": 104,
+  "samples": [
+   "markdown",
+   "mention",
+   "editor",
+   "markdown-text",
+   "content-renderer",
+   "generic-pack",
+   "astro-content-renderer",
+   "astro-pack"
+  ]
+ },
+ {
+  "cluster": 36,
+  "domain": 5,
+  "guess": "skeleton",
+  "n": 99,
+  "samples": [
+   "skeleton",
+   "shimmer-skeleton",
+   "skeleton-01",
+   "skeleton-02",
+   "skeleton-demo",
+   "skeleton-card",
+   "features-section-with-skeletons",
+   "loaders-skeleton"
+  ]
+ },
+ {
+  "cluster": 125,
+  "domain": 5,
+  "guess": "color picker",
+  "n": 96,
+  "samples": [
+   "color-picker",
+   "color-swatch",
+   "color-picker-demo",
+   "color-palette",
+   "partition-bar-custom-colours-demo",
+   "color-swatch-selector",
+   "gradient-picker",
+   "fill-picker"
+  ]
+ },
+ {
+  "cluster": 361,
+  "domain": 5,
+  "guess": "c badge",
+  "n": 94,
+  "samples": [
+   "badge-03",
+   "badge-04",
+   "availability-badge",
+   "p-badge-1",
+   "p-badge-2",
+   "p-badge-3",
+   "p-badge-4",
+   "p-badge-5"
+  ]
+ },
+ {
+  "cluster": 131,
+  "domain": 5,
+  "guess": "map",
+  "n": 85,
+  "samples": [
+   "map",
+   "world-map",
+   "world-map-illustration",
+   "mapbox-pointer",
+   "mapbox-pointer-demo",
+   "mapbox-pointer-style-demo",
+   "mapbox-pointer-theme-demo",
+   "map-demo"
+  ]
+ },
+ {
+  "cluster": 313,
+  "domain": 5,
+  "guess": "viewer",
+  "n": 85,
+  "samples": [
+   "json-viewer",
+   "panel",
+   "pdf-viewer",
+   "json-viewer-demo",
+   "json-viewer-features-demo",
+   "breakpoint-display",
+   "schema-display",
+   "validation-panel"
+  ]
+ },
+ {
+  "cluster": 86,
+  "domain": 5,
+  "guess": "file upload",
+  "n": 84,
+  "samples": [
+   "file-upload",
+   "upload-progress",
+   "file-thumbnail",
+   "use-file-upload",
+   "file-trigger",
+   "file-picker",
+   "file",
+   "upload-button"
+  ]
+ },
+ {
+  "cluster": 78,
+  "domain": 5,
+  "guess": "utils",
+  "n": 80,
+  "samples": [
+   "utils",
+   "slot",
+   "primitives-animate-slot",
+   "elevated",
+   "sound-types",
+   "abstract-contracts",
+   "claude-config",
+   "json-type-converter"
+  ]
+ },
+ {
+  "cluster": 315,
+  "domain": 5,
+  "guess": "tree",
+  "n": 79,
+  "samples": [
+   "file-tree",
+   "tree",
+   "tree-view",
+   "primitives-base-files",
+   "primitives-radix-files",
+   "layouts-docs-tree",
+   "conversation-tree",
+   "file-system"
+  ]
+ },
+ {
+  "cluster": 359,
+  "domain": 5,
+  "guess": "docs",
+  "n": 71,
+  "samples": [
+   "plate",
+   "plate-types",
+   "installation-next-demo",
+   "docs-meta",
+   "docs",
+   "fumadocs",
+   "controlled-docs",
+   "debugging-docs"
+  ]
+ },
+ {
+  "cluster": 79,
+  "domain": 5,
+  "guess": "kbd",
+  "n": 70,
+  "samples": [
+   "kbd",
+   "keyboard",
+   "keyboard-view",
+   "p-kbd-1",
+   "macbook-keyboard",
+   "macbook-keyboard-demo",
+   "mac-keyboard",
+   "oui-keyboard"
+  ]
+ },
+ {
+  "cluster": 85,
+  "domain": 5,
+  "guess": "file upload",
+  "n": 69,
+  "samples": [
+   "file-upload-01",
+   "file-upload-1",
+   "file-upload-2",
+   "file-upload-3",
+   "file-upload",
+   "file-upload-02",
+   "file-upload-04",
+   "file-upload-05"
+  ]
+ },
+ {
+  "cluster": 48,
+  "domain": 5,
   "guess": "resizable",
   "n": 68,
   "samples": [
@@ -1499,88 +1387,88 @@
    "window",
    "screen-size-guard",
    "layouts-split-resizable",
-   "pdf-block-resizable-shell",
-   "masonry"
+   "sortable",
+   "editable-autosize-demo"
   ]
  },
  {
-  "cluster": 51,
-  "domain": 7,
-  "guess": "c pagination",
-  "n": 58,
+  "cluster": 165,
+  "domain": 5,
+  "guess": "command",
+  "n": 63,
   "samples": [
-   "p-pagination-1",
-   "p-pagination-2",
-   "p-pagination-3",
-   "pagination-01",
-   "pagination-02",
-   "pagination-03",
-   "pagination-04",
-   "pagination-05"
+   "command",
+   "command-menu",
+   "command-button",
+   "forge-ai-command-bar",
+   "slash-node",
+   "react-ui-slash-menu",
+   "preact-ui-slash-menu",
+   "solid-ui-slash-menu"
   ]
  },
  {
-  "cluster": 78,
-  "domain": 7,
-  "guess": "sheet",
+  "cluster": 124,
+  "domain": 5,
+  "guess": "tailwind",
+  "n": 62,
+  "samples": [
+   "tailwindcss-buttons",
+   "notch",
+   "cookie-consent-01",
+   "cookie-consent-02",
+   "cookie-consent-03",
+   "tailwind-alertdialog",
+   "tailwind-breadcrumbs",
+   "tailwind-button"
+  ]
+ },
+ {
+  "cluster": 309,
+  "domain": 5,
+  "guess": "list",
+  "n": 62,
+  "samples": [
+   "feature158",
+   "swipeable-list",
+   "c-sortable-1",
+   "c-sortable-3",
+   "c-sortable-4",
+   "list-panel-list-as-links",
+   "list-panel-list-bordered",
+   "list-panel-list-compact"
+  ]
+ },
+ {
+  "cluster": 81,
+  "domain": 5,
+  "guess": "empty",
+  "n": 56,
+  "samples": [
+   "empty",
+   "empty-state",
+   "andromeda-empty-state",
+   "empty-states-404",
+   "empty-states-end-of-feed",
+   "empty-states-first-project",
+   "empty-states-inbox-zero",
+   "empty-states-maintenance"
+  ]
+ },
+ {
+  "cluster": 186,
+  "domain": 5,
+  "guess": "item",
   "n": 53,
   "samples": [
-   "sheet",
-   "bottom-sheet",
-   "primitives-radix-sheet",
-   "components-radix-sheet",
-   "cell-header",
-   "Sheet",
-   "SheetSide",
-   "side-sheet"
-  ]
- },
- {
-  "cluster": 318,
-  "domain": 7,
-  "guess": "tabs",
-  "n": 52,
-  "samples": [
-   "tabs-02",
-   "tabs-07",
-   "tabs-03",
-   "tabs-04",
-   "tabs-05",
-   "tabs-10",
-   "tabs-11",
-   "tabs-12"
-  ]
- },
- {
-  "cluster": 125,
-  "domain": 7,
-  "guess": "sheet sheet details",
-  "n": 50,
-  "samples": [
-   "sheet-demo",
-   "character-sheet",
-   "p-sheet-1",
-   "p-sheet-2",
-   "p-sheet-3",
-   "settings-4",
-   "sheet-controlled-example",
-   "sheet-example"
-  ]
- },
- {
-  "cluster": 80,
-  "domain": 7,
-  "guess": "p drawer",
-  "n": 43,
-  "samples": [
-   "drawer-nav",
-   "overflow-actions",
-   "p-drawer-1",
-   "p-drawer-2",
-   "p-drawer-3",
-   "p-drawer-4",
-   "p-drawer-5",
-   "p-drawer-6"
+   "item",
+   "variants",
+   "use-variant-selection",
+   "variant-selector",
+   "list-item-01",
+   "list-item-02",
+   "Item",
+   "BubbleVariants"
   ]
  }
 ]

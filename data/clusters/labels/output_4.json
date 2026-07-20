@@ -1,497 +1,94 @@
 [
- {
-  "cluster": 49,
-  "label": "Separator",
-  "description": "Horizontal and vertical divider/separator components in various orientations."
- },
- {
-  "cluster": 289,
-  "label": "Demo / Example",
-  "description": "Generic demo wrappers for many components (data table, dialog, message, menu)."
- },
- {
-  "cluster": 305,
-  "label": "Button",
-  "description": "Button demos across variants, sizes, icons, toggle and segmented styles."
- },
- {
-  "cluster": 294,
-  "label": "Text / Show More",
-  "description": "Text and expandable show-more examples with links and controlled states."
- },
- {
-  "cluster": 266,
-  "label": "Textarea",
-  "description": "Textarea examples covering controlled, disabled, readonly and autocomplete states."
- },
- {
-  "cluster": 325,
-  "label": "Input Group",
-  "description": "Input-group components combining icons, text, buttons, tooltips and spinners."
- },
- {
-  "cluster": 320,
-  "label": "Input Field",
-  "description": "Input and textarea demos including phone, mask, tags and segmented inputs."
- },
- {
-  "cluster": 296,
-  "label": "Checkbox / Radio Group",
-  "description": "Checkbox and radio-group demos with animation, layout and validation variants."
- },
- {
-  "cluster": 281,
-  "label": "Popover / Tooltip",
-  "description": "Hover cards, popovers, tooltips, badges and selection toolbars."
- },
- {
-  "cluster": 275,
-  "label": "Listbox",
-  "description": "Listbox components in grid, group and horizontal demo layouts."
- },
- {
-  "cluster": 324,
-  "label": "Button Group",
-  "description": "Button-group demos varying orientation, size, nesting and separators."
- },
- {
-  "cluster": 291,
-  "label": "Select",
-  "description": "Select examples for controlled, multiple, searchable and native variants."
- },
- {
-  "cluster": 191,
-  "label": "Form (TanStack)",
-  "description": "TanStack form demos wiring inputs, selects, checkboxes and switches."
- },
- {
-  "cluster": 395,
-  "label": "Font / Typeface",
-  "description": "Font family tokens and typefaces (Inter, sans, mono, display fonts)."
- },
- {
-  "cluster": 393,
-  "label": "Font / Typeface",
-  "description": "Google-style serif and script typefaces (Abril Fatface, Adamina, Aladin)."
- },
- {
-  "cluster": 390,
-  "label": "Font / Typeface",
-  "description": "Multilingual and display typefaces (Abyssinica SIL, Adlam, Akshar)."
- },
- {
-  "cluster": 339,
-  "label": "Font / Typeface",
-  "description": "Noto font family covering emoji, Arabic, Urdu and CJK scripts."
- },
- {
-  "cluster": 394,
-  "label": "Font / Typeface",
-  "description": "Decorative and display typefaces (Alfa Slab One, Bakbak One, Baumans)."
- },
- {
-  "cluster": 378,
-  "label": "Font / Typeface",
-  "description": "Sans-serif typefaces (ABeeZee, Abel, Acme, Albert Sans)."
- },
- {
-  "cluster": 4,
-  "label": "Font / Typeface",
-  "description": "Playwrite handwriting fonts and regional guide variants."
- },
- {
-  "cluster": 358,
-  "label": "Font / Typeface",
-  "description": "CJK-focused typefaces (Aoboshi One, BIZ UDMincho, Chiron Hei HK)."
- },
- {
-  "cluster": 340,
-  "label": "Font / Typeface",
-  "description": "Gothic, Baskerville and legibility typefaces (BIZ UDGothic, Atkinson)."
- },
- {
-  "cluster": 363,
-  "label": "Font / Typeface",
-  "description": "Monospace typefaces (Azeret Mono, Cascadia Mono, Fira Mono)."
- },
- {
-  "cluster": 7,
-  "label": "Font / Typeface",
-  "description": "Rubik font family and its distressed/decorative display variants."
- },
- {
-  "cluster": 18,
-  "label": "Font Pairing",
-  "description": "Editorial font-pairing combinations (Abril Fatface + Lato, Alegreya sets)."
- },
- {
-  "cluster": 97,
-  "label": "Brand Template",
-  "description": "Brand and product template names (Airtable, Adyen, Aesop, admin-pro)."
- },
- {
-  "cluster": 98,
-  "label": "Brand Template",
-  "description": "SaaS and developer brand templates (Airbyte, Appwrite, Astro, Axiom)."
- },
- {
-  "cluster": 19,
-  "label": "Color Theme",
-  "description": "Named color themes and palettes (emerald, midnight, zinc, slate, stone)."
- },
- {
-  "cluster": 20,
-  "label": "Terminal / Theme",
-  "description": "Terminal UI themes and OpenTUI theme provider/type modules."
- },
- {
-  "cluster": 33,
-  "label": "Mobile App UI",
-  "description": "Mobile app UI kits for popular brands (Airbnb, Asana, Bumble, Calm)."
- },
- {
-  "cluster": 34,
-  "label": "Theme / UI Style",
-  "description": "Named minimal UI theme styles (amber-minimal, amethyst-haze, bubblegum)."
- },
- {
-  "cluster": 286,
-  "label": "Font / Typeface",
-  "description": "Font tokens and families (Geist, Karla, Inter, Mona Sans, Roboto)."
- },
- {
-  "cluster": 32,
-  "label": "Mobile App UI",
-  "description": "Mobile app UI kits for media and social brands (Apple Music, Discord, Disney)."
- },
- {
-  "cluster": 107,
-  "label": "Typography",
-  "description": "Typography demos including headings, blockquotes and typewriter text effects."
- },
- {
-  "cluster": 108,
-  "label": "Typography",
-  "description": "Typography primitives covering text, font weight and global styles."
- },
- {
-  "cluster": 1,
-  "label": "MUI Treasury Components",
-  "description": "Material UI Treasury component set (accordion, alert, avatar, badge)."
- },
- {
-  "cluster": 142,
-  "label": "Button",
-  "description": "Numbered button variations plus cloud/auth button styles."
- },
- {
-  "cluster": 149,
-  "label": "Toggle",
-  "description": "Toggles, toggle groups and segmented controls across primitive libraries."
- },
- {
-  "cluster": 143,
-  "label": "Button",
-  "description": "Sequentially numbered button component variants (p-button set)."
- },
- {
-  "cluster": 148,
-  "label": "Theme Toggle",
-  "description": "Theme toggle, switcher and provider components for dark/light mode."
- },
- {
-  "cluster": 161,
-  "label": "Checkbox",
-  "description": "Checkbox and radio primitives across Radix, Base and Headless libraries."
- },
- {
-  "cluster": 94,
-  "label": "Button Group",
-  "description": "Numbered button-group component variants."
- },
- {
-  "cluster": 132,
-  "label": "Toggle Group",
-  "description": "Sequentially numbered toggle-group component variants."
- },
- {
-  "cluster": 156,
-  "label": "Switch",
-  "description": "Switch components across primitive libraries plus team/form switchers."
- },
- {
-  "cluster": 90,
-  "label": "Button Group",
-  "description": "Numbered button and button-group component variants (c-button-group set)."
- },
- {
-  "cluster": 136,
-  "label": "Switch",
-  "description": "Sequentially numbered switch component variants."
- },
- {
-  "cluster": 162,
-  "label": "Checkbox",
-  "description": "Numbered checkbox and checkbox-group component variants (p-checkbox set)."
- },
- {
-  "cluster": 164,
-  "label": "Radio Group",
-  "description": "Radio and radio-group primitives across Radix and Base libraries."
- },
- {
-  "cluster": 163,
-  "label": "Checkbox",
-  "description": "Sequentially numbered checkbox component variants."
- },
- {
-  "cluster": 13,
-  "label": "Social Login Button",
-  "description": "Social auth buttons for providers like Apple and Discord in many styles."
- },
- {
-  "cluster": 93,
-  "label": "Button",
-  "description": "Sequentially numbered button component variants."
- },
- {
-  "cluster": 165,
-  "label": "Radio Group",
-  "description": "Sequentially numbered radio-group component variants."
- },
- {
-  "cluster": 154,
-  "label": "Radio Group",
-  "description": "Numbered radio-group variants plus field radio and choice-card components."
- },
- {
-  "cluster": 155,
-  "label": "Switch",
-  "description": "Sequentially numbered switch component variants."
- },
- {
-  "cluster": 120,
-  "label": "Animated Border Button",
-  "description": "Buttons with animated moving-border effects in many variations."
- },
- {
-  "cluster": 128,
-  "label": "Animated Button",
-  "description": "Buttons with border-corner, morph-expand and marquee text animations."
- },
- {
-  "cluster": 17,
-  "label": "Theme Toggle Icon",
-  "description": "Animated theme-toggle icon button variations."
- },
- {
-  "cluster": 357,
-  "label": "Card (Animated)",
-  "description": "Interactive cards with flip, expand and text-reveal effects."
- },
- {
-  "cluster": 337,
-  "label": "Card",
-  "description": "Content cards including product, profile, credit and security cards."
- },
- {
-  "cluster": 219,
-  "label": "Card",
-  "description": "Card demos and section blocks (expandable cards, booking, CTA, FAQ)."
- },
- {
-  "cluster": 338,
-  "label": "Card",
-  "description": "Sequentially numbered card component variants."
- },
- {
-  "cluster": 352,
-  "label": "Card Stack",
-  "description": "Stacked, draggable and deck-style card collections."
- },
- {
-  "cluster": 220,
-  "label": "Card",
-  "description": "Sequentially numbered card component variants (p-card set)."
- },
- {
-  "cluster": 61,
-  "label": "Card",
-  "description": "Purpose-specific cards (profile, plan, report, tweet, login, blog)."
- },
- {
-  "cluster": 356,
-  "label": "Tilt Card",
-  "description": "3D tilt and parallax card hover-effect components."
- },
- {
-  "cluster": 336,
-  "label": "Hover Card",
-  "description": "Hover cards, glow and notification-stack card variants."
- },
- {
-  "cluster": 353,
-  "label": "Card (Interactive)",
-  "description": "Interactive card decks and moving-card carousels for demos and games."
- },
- {
-  "cluster": 330,
-  "label": "Dropdown Menu",
-  "description": "Dropdown menu components in many numbered variations."
- },
- {
-  "cluster": 124,
-  "label": "Combobox",
-  "description": "Combobox and autocomplete components in numbered variations."
- },
- {
-  "cluster": 319,
-  "label": "Dropdown / Filter Menu",
-  "description": "Dropdown filter menus with status, priority, checkbox and range options."
- },
- {
-  "cluster": 196,
-  "label": "Command Palette",
-  "description": "Command palette and command-menu components with demos and variants."
- },
- {
-  "cluster": 29,
-  "label": "Combobox (Custom Actions)",
-  "description": "Comboboxes with custom actions plus command and form-field variants."
- },
- {
-  "cluster": 211,
-  "label": "Keyboard Key (Kbd)",
-  "description": "Kbd, command and dialog keyboard-shortcut component variants."
- },
- {
-  "cluster": 331,
-  "label": "Navigation Menu",
-  "description": "Navigation menus, menubars and header navigation components."
- },
- {
-  "cluster": 210,
-  "label": "Keyboard (Kbd)",
-  "description": "Keyboard key and illustrated keyboard components including Mac layouts."
- },
- {
-  "cluster": 82,
-  "label": "Menu",
-  "description": "Menu variants including main, pause, command and context menus."
- },
- {
-  "cluster": 39,
-  "label": "Combobox",
-  "description": "Sequentially numbered combobox component variants (p-combobox set)."
- },
- {
-  "cluster": 321,
-  "label": "Context Menu",
-  "description": "Context and radial menu components with dropdown menu items."
- },
- {
-  "cluster": 295,
-  "label": "Heading / Description List",
-  "description": "Heading, description-list and menu-triggered examples."
- },
- {
-  "cluster": 230,
-  "label": "Navigation / Context Menu",
-  "description": "Navigation, breadcrumb dropdown and context-menu demos."
- },
- {
-  "cluster": 274,
-  "label": "Combobox",
-  "description": "Combobox demos with filtering, debounce, grouping and virtualization."
- },
- {
-  "cluster": 83,
-  "label": "Context Menu",
-  "description": "Context menus for canvas and file interactions in numbered variants."
- },
- {
-  "cluster": 96,
-  "label": "Calendar",
-  "description": "Calendar and range-calendar components in numbered variations."
- },
- {
-  "cluster": 79,
-  "label": "Date / Time Picker",
-  "description": "Calendar, date-field and time-picker demos with step and seconds options."
- },
- {
-  "cluster": 95,
-  "label": "Date Picker",
-  "description": "Date, date-range, time and wheel picker components in variations."
- },
- {
-  "cluster": 198,
-  "label": "Booking / Availability",
-  "description": "Availability calendars, booking slots and scheduling sections."
- },
- {
-  "cluster": 86,
-  "label": "Calendar",
-  "description": "Sequentially numbered calendar component variants (p-calendar set)."
- },
- {
-  "cluster": 85,
-  "label": "Date Picker",
-  "description": "Sequentially numbered date-picker component variants (p-date-picker set)."
- },
- {
-  "cluster": 77,
-  "label": "Sound Effect",
-  "description": "Game impact sound effects (explosions, dice shakes, chip collisions)."
- },
- {
-  "cluster": 76,
-  "label": "Sound Effect",
-  "description": "UI and game click/switch sound effects (8bit clicks, hover ticks)."
- },
- {
-  "cluster": 42,
-  "label": "Game Voiceover",
-  "description": "Game announcer voiceover clips and voice packs."
- },
- {
-  "cluster": 65,
-  "label": "Sound Effect",
-  "description": "Card and book handling sound effects (shuffle, flip, pack open)."
- },
- {
-  "cluster": 0,
-  "label": "Sound Effect",
-  "description": "Numbered jingle-hit audio stinger clips."
- },
- {
-  "cluster": 41,
-  "label": "Game Audio",
-  "description": "Arcade game sound cues (game over, victory, coin collect, power-up)."
- },
- {
-  "cluster": 9,
-  "label": "Sound Effect",
-  "description": "Engine and computer-noise looped sound effects."
- },
- {
-  "cluster": 26,
-  "label": "Game Voiceover",
-  "description": "Fantasy-race NPC voice lines (dwarf, gnome, night elf, orc)."
- },
- {
-  "cluster": 3,
-  "label": "Sound Effect",
-  "description": "Numbered footstep audio clips."
- },
- {
-  "cluster": 60,
-  "label": "Sound Effect",
-  "description": "Notification and confirmation UI sound cues (chime, pop, bong)."
- },
- {
-  "cluster": 22,
-  "label": "Sound Effect",
-  "description": "Named SFX pack clips (boom, click, drone, error, glitch)."
- }
+ { "cluster": 80, "label": "Keyboard / Keycap", "description": "Keyboard and keycap visuals for displaying keys and shortcuts." },
+ { "cluster": 23, "label": "Dock", "description": "macOS-style docks including floating, glass, and magnetic variants." },
+ { "cluster": 8, "label": "Aspect Ratio", "description": "Aspect-ratio containers for constraining media to fixed proportions." },
+ { "cluster": 46, "label": "Rating", "description": "Star and feedback rating widgets for capturing user scores." },
+ { "cluster": 314, "label": "List", "description": "General-purpose list components including description and data lists." },
+ { "cluster": 166, "label": "Command Palette", "description": "Searchable command palettes for quick keyboard-driven navigation." },
+ { "cluster": 74, "label": "File Upload / Dropzone", "description": "Drag-and-drop dropzones for uploading files." },
+ { "cluster": 222, "label": "Globe", "description": "Interactive 3D globe visualizations." },
+ { "cluster": 65, "label": "Terminal", "description": "Terminal and console UI simulators." },
+ { "cluster": 119, "label": "Reviews / Social Proof", "description": "Marketing blocks showcasing reviews, testimonials, and social proof." },
+ { "cluster": 112, "label": "Command Menu", "description": "Command and slash menus for inline action selection." },
+ { "cluster": 301, "label": "Media", "description": "Media provider and player components for images and background media." },
+ { "cluster": 37, "label": "Skeleton", "description": "Skeleton placeholders shown while content is loading." },
+ { "cluster": 185, "label": "Item", "description": "Generic item and content-block components for structured layouts." },
+ { "cluster": 49, "label": "Andromeda UI Kit", "description": "Themed Andromeda design-system component set (buttons, cards, alerts, etc.)." },
+ { "cluster": 256, "label": "Pill / Badge", "description": "Pill and badge elements for statuses, tags, and indicators." },
+ { "cluster": 269, "label": "Waveform / Audio Visualizer", "description": "Live audio waveform and visualizer components." },
+ { "cluster": 58, "label": "Device Mockup", "description": "Device and browser frames (iPhone, iPad, MacBook, Safari) for showcasing UIs." },
+ { "cluster": 22, "label": "Frame", "description": "Frame and image-frame wrappers for containing content." },
+ { "cluster": 42, "label": "MUI Treasury Components", "description": "Material-UI Treasury styled component variants." },
+ { "cluster": 358, "label": "API Docs", "description": "API reference and documentation pages." },
+ { "cluster": 262, "label": "QR Code", "description": "QR code generators and display components." },
+ { "cluster": 376, "label": "Attachment", "description": "File attachment chips, groups, and previews." },
+ { "cluster": 108, "label": "List Box", "description": "Selectable listbox components with grid and grouped variants." },
+ { "cluster": 150, "label": "Radio Group", "description": "Radio button groups for single-choice selection." },
+ { "cluster": 224, "label": "Checkbox", "description": "Checkbox and checkbox-group input controls." },
+ { "cluster": 135, "label": "Textarea", "description": "Multi-line textarea input fields." },
+ { "cluster": 294, "label": "Input", "description": "Text input fields including masked variants." },
+ { "cluster": 239, "label": "Button Group", "description": "Grouped button controls for segmented actions." },
+ { "cluster": 51, "label": "Input OTP", "description": "One-time-password segmented input fields." },
+ { "cluster": 248, "label": "Input Field", "description": "Specialized inputs such as phone, masked, and speech inputs." },
+ { "cluster": 263, "label": "Input Group", "description": "Composite input groups combining inputs with addons." },
+ { "cluster": 266, "label": "Label", "description": "Form labels and labeled input pairings." },
+ { "cluster": 225, "label": "Checkbox", "description": "Checkbox and checkbox-group control variants." },
+ { "cluster": 167, "label": "Number Field", "description": "Numeric input fields with steppers." },
+ { "cluster": 219, "label": "Field", "description": "Form field and fieldset wrappers for input composition." },
+ { "cluster": 241, "label": "Button Group", "description": "Grouped button component variants." },
+ { "cluster": 297, "label": "Input Button Group", "description": "Combined input-and-button group compositions." },
+ { "cluster": 159, "label": "Form", "description": "Form components including TanStack-based form builders." },
+ { "cluster": 211, "label": "Form Layout", "description": "Prebuilt form layout templates and arrangements." },
+ { "cluster": 247, "label": "Text Field / Search", "description": "Text and search field inputs with search bars." },
+ { "cluster": 298, "label": "Input Group", "description": "Input groups pairing inputs with icons, text, and dropdowns." },
+ { "cluster": 149, "label": "Tag Input", "description": "Tag and editable inputs for managing multiple tokens." },
+ { "cluster": 93, "label": "Autocomplete", "description": "Autocomplete and autofill input components." },
+ { "cluster": 164, "label": "Form Controls", "description": "Assorted form control variants (inputs, checkboxes, selects)." },
+ { "cluster": 240, "label": "Button Group", "description": "Grouped button action components." },
+ { "cluster": 52, "label": "OTP Field", "description": "One-time-password entry field variants." },
+ { "cluster": 210, "label": "Field", "description": "Form field wrapper component variants." },
+ { "cluster": 169, "label": "Password Input", "description": "Password entry inputs with masking and validation." },
+ { "cluster": 193, "label": "React Hook Form Fields", "description": "React Hook Form field and validation-rule examples." },
+ { "cluster": 94, "label": "JSON Forms", "description": "Schema-driven JSON Forms controls and cells." },
+ { "cluster": 218, "label": "Form", "description": "Form components with inputs, errors, and settings flows." },
+ { "cluster": 92, "label": "Autocomplete", "description": "Autocomplete inputs with contextual suggestions." },
+ { "cluster": 282, "label": "Input", "description": "Numbered input and field control variants." },
+ { "cluster": 293, "label": "Input", "description": "Numbered text input variants." },
+ { "cluster": 106, "label": "Group", "description": "Generic grouping container components." },
+ { "cluster": 264, "label": "Input Group", "description": "Input group composition variants." },
+ { "cluster": 89, "label": "Game Audio", "description": "Game UI sound effects like chimes, pops, and mode jingles." },
+ { "cluster": 24, "label": "Game Voiceover", "description": "Combat and announcer voiceover clips for games." },
+ { "cluster": 100, "label": "UI Sound Effect", "description": "Interface click, hover, and toggle sound effects." },
+ { "cluster": 39, "label": "Sound Effect", "description": "General SFX pack including clicks, booms, and glitches." },
+ { "cluster": 72, "label": "Impact Sound Effect", "description": "Explosion and heavy impact sound effects." },
+ { "cluster": 53, "label": "Sound Effect", "description": "Foley sound effects such as book flips and page turns." },
+ { "cluster": 47, "label": "Impact Sound Effect", "description": "Metal impact and collision sound effects." },
+ { "cluster": 4, "label": "Game Voiceover", "description": "Fantasy character voiceover lines (dwarf, orc, elf, gnome)." },
+ { "cluster": 99, "label": "Game Audio", "description": "Retro game sound effects like jumps, coins, and battle cues." },
+ { "cluster": 6, "label": "Footstep Sound Effect", "description": "Footstep sound effect sequences." },
+ { "cluster": 9, "label": "Engine Sound Effect", "description": "Engine, computer noise, and machinery ambience." },
+ { "cluster": 31, "label": "Laser Sound Effect", "description": "Sci-fi laser blast sound effects." },
+ { "cluster": 54, "label": "Card Sound Effect", "description": "Playing-card handling sound effects (fan, place, shove)." },
+ { "cluster": 55, "label": "Casino Chip Sound Effect", "description": "Poker chip laying and colliding sound effects." },
+ { "cluster": 62, "label": "Impact Sound Effect", "description": "Wood and plank impact sound effects." },
+ { "cluster": 25, "label": "Game Voiceover", "description": "Fighter character voiceover pack clips." },
+ { "cluster": 15, "label": "Font / Typeface", "description": "Web font and typeface families (Inter, Geist, sans, mono)." },
+ { "cluster": 189, "label": "Brand Theme", "description": "Brand-inspired UI theme presets named after companies." },
+ { "cluster": 14, "label": "Font / Typeface", "description": "Noto and related multilingual font families." },
+ { "cluster": 188, "label": "Mobile App UI", "description": "Brand-inspired mobile app interface templates." },
+ { "cluster": 56, "label": "Theme", "description": "Color theme presets and palettes." },
+ { "cluster": 10, "label": "Font / Typeface", "description": "Playwrite handwriting font families with guides." },
+ { "cluster": 57, "label": "Theme", "description": "Terminal and TUI theme presets (Catppuccin, OpenTUI, Ink)." },
+ { "cluster": 7, "label": "Font / Typeface", "description": "Rubik font family and its stylistic variants." },
+ { "cluster": 5, "label": "Font / Typeface", "description": "Educational handwriting fonts with cursive and guide styles." },
+ { "cluster": 3, "label": "Footer", "description": "Page footer section layouts." },
+ { "cluster": 206, "label": "Tabs", "description": "Tabbed navigation and content-switching components." },
+ { "cluster": 103, "label": "Accordion", "description": "Expandable accordion panels for collapsible content." },
+ { "cluster": 151, "label": "Navbar", "description": "Top navigation bar layouts." },
+ { "cluster": 40, "label": "Collapsible", "description": "Collapsible show/hide content containers." },
+ { "cluster": 63, "label": "Sheet", "description": "Slide-out sheet and bottom-sheet panels." },
+ { "cluster": 199, "label": "Dropdown Menu", "description": "Dropdown menus for contextual actions." },
+ { "cluster": 141, "label": "Sidebar", "description": "Sidebar navigation and layout components." },
+ { "cluster": 101, "label": "App Shell", "description": "Application shell layouts framing page structure." },
+ { "cluster": 26, "label": "Pagination", "description": "Pagination controls for navigating paged content." }
 ]

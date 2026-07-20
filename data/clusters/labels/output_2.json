@@ -1,497 +1,94 @@
 [
- {
-  "cluster": 377,
-  "label": "Animated Background",
-  "description": "Decorative animated backgrounds (particles, meteors, aurora, gradients, waves)."
- },
- {
-  "cluster": 387,
-  "label": "Text Reveal / Animation",
-  "description": "Animated text effects that reveal, blur, loop, or morph words."
- },
- {
-  "cluster": 374,
-  "label": "Scroll Effects",
-  "description": "Scroll-driven components: scroll areas, progress, velocity, and fade effects."
- },
- {
-  "cluster": 301,
-  "label": "Demo / Example",
-  "description": "Generic demo wrappers for animate, primitives, and community components."
- },
- {
-  "cluster": 326,
-  "label": "Slider",
-  "description": "Range and image sliders in many styles (glass, circular, elastic, infinite)."
- },
- {
-  "cluster": 297,
-  "label": "Spinner / Loader",
-  "description": "Loading spinners and progress indicators, including thinking and braille loaders."
- },
- {
-  "cluster": 370,
-  "label": "Motion Primitives / Effects",
-  "description": "Low-level animation primitives and effects (spring, blur, fade, image zoom)."
- },
- {
-  "cluster": 258,
-  "label": "Demo / Example",
-  "description": "Demo wrappers for interactive widgets (dynamic island, floating panel, polls)."
- },
- {
-  "cluster": 341,
-  "label": "Carousel",
-  "description": "Carousels in varied styles (feature, apple-cards, cube, linear)."
- },
- {
-  "cluster": 12,
-  "label": "Dot Matrix Grid",
-  "description": "Numbered dot-matrix square pattern variations."
- },
- {
-  "cluster": 362,
-  "label": "Shader / Visualizer",
-  "description": "Shader-based visual effects and audio visualizers (orbit, spiral, swirl, halo)."
- },
- {
-  "cluster": 192,
-  "label": "Glassmorphism Set",
-  "description": "Glass/liquid-glass styled components (cards, buttons, inputs, badges, selects)."
- },
- {
-  "cluster": 300,
-  "label": "Interactive Menu / Overlay",
-  "description": "Interactive shells like dynamic island, radial nav, and notification center."
- },
- {
-  "cluster": 369,
-  "label": "Animated List",
-  "description": "Animated and pinned lists including notification and todo lists."
- },
- {
-  "cluster": 381,
-  "label": "Grid Pattern",
-  "description": "Animated grid and dot-grid background patterns."
- },
- {
-  "cluster": 181,
-  "label": "Animated Number",
-  "description": "Animated numeric tickers and counting/sliding number displays."
- },
- {
-  "cluster": 167,
-  "label": "Demo / Example",
-  "description": "Demo wrappers for steppers, sliders, spinners, and carousels."
- },
- {
-  "cluster": 54,
-  "label": "Slider (Numbered Set)",
-  "description": "Numbered slider variants from a pre-built component set."
- },
- {
-  "cluster": 364,
-  "label": "Demo / Example",
-  "description": "Scroll-and-scroller focused demo wrappers."
- },
- {
-  "cluster": 121,
-  "label": "Custom Cursor",
-  "description": "Custom and simulated cursor components and animate primitives."
- },
- {
-  "cluster": 389,
-  "label": "Media Player",
-  "description": "Video, audio, and media player components with providers and controls."
- },
- {
-  "cluster": 386,
-  "label": "Shimmer Text",
-  "description": "Shimmering and sweeping text effects."
- },
- {
-  "cluster": 67,
-  "label": "Background Pattern",
-  "description": "Decorative backgrounds using lines, dots, grids, and shooting stars."
- },
- {
-  "cluster": 376,
-  "label": "Light / Ray Effects",
-  "description": "Light-ray, lightning, and glow shader effects."
- },
- {
-  "cluster": 355,
-  "label": "Marquee",
-  "description": "Scrolling marquees (3D, infinite, perspective) for logos and banners."
- },
- {
-  "cluster": 122,
-  "label": "Mouse / Image Trail",
-  "description": "Cursor and image trail effects that follow the pointer."
- },
- {
-  "cluster": 89,
-  "label": "Spinner (Variant Set)",
-  "description": "Spinner variations demoing color, size, and custom states."
- },
- {
-  "cluster": 375,
-  "label": "Typewriter / Streaming Text",
-  "description": "Typewriter, typing-indicator, and streaming text effects."
- },
- {
-  "cluster": 342,
-  "label": "Carousel (Numbered Set)",
-  "description": "Numbered carousel variants from a component set."
- },
- {
-  "cluster": 348,
-  "label": "Spotlight Card",
-  "description": "Cards with spotlight, glare, and hover-glow effects."
- },
- {
-  "cluster": 84,
-  "label": "Magnetic Effect",
-  "description": "Magnetic buttons and elements that attract toward the cursor."
- },
- {
-  "cluster": 197,
-  "label": "Terminal",
-  "description": "Terminal UIs and simulators, plus ASCII art effects."
- },
- {
-  "cluster": 351,
-  "label": "Animated Border",
-  "description": "Animated and glowing borders (beam, shine, trail, moving)."
- },
- {
-  "cluster": 359,
-  "label": "Grid Layout",
-  "description": "Grid and layout-grid components for lists, teams, and visualizers."
- },
- {
-  "cluster": 56,
-  "label": "Dock",
-  "description": "macOS-style docks in varied styles (floating, glass, magnetic)."
- },
- {
-  "cluster": 138,
-  "label": "Color Picker",
-  "description": "Color and gradient pickers, swatches, and palettes."
- },
- {
-  "cluster": 119,
-  "label": "Number / Numeric Input",
-  "description": "Numeric field inputs including phone, currency, and amount."
- },
- {
-  "cluster": 25,
-  "label": "Aspect Ratio",
-  "description": "Aspect-ratio containers and image crop utilities."
- },
- {
-  "cluster": 383,
-  "label": "Scramble / Decode Text",
-  "description": "Text scramble, encrypt, and matrix-decode animation effects."
- },
- {
-  "cluster": 382,
-  "label": "Glitch / Pixel Text",
-  "description": "Glitch and pixelated text and button effects."
- },
- {
-  "cluster": 241,
-  "label": "Logo Cloud / Carousel",
-  "description": "Logo clouds, carousels, and animated logo timelines."
- },
- {
-  "cluster": 380,
-  "label": "Grid Distortion Effect",
-  "description": "Canvas and shader grid effects (distortion, fractal, chroma, cursor)."
- },
- {
-  "cluster": 137,
-  "label": "Demo / Example",
-  "description": "Demo wrappers for color pickers, swatches, and gauges."
- },
- {
-  "cluster": 257,
-  "label": "Device Mockup",
-  "description": "Device frames and mockups (Safari, iPhone, MacBook, browser window)."
- },
- {
-  "cluster": 361,
-  "label": "3D Image Effect",
-  "description": "3D image and orbit effects (cubes, orbit images, croppers)."
- },
- {
-  "cluster": 104,
-  "label": "Skiper UI Blocks",
-  "description": "Numbered Skiper UI component blocks."
- },
- {
-  "cluster": 350,
-  "label": "Animated Beam",
-  "description": "Animated connecting beams and background beam effects."
- },
- {
-  "cluster": 388,
-  "label": "Demo / Example",
-  "description": "Video-player demo wrappers showing control and sizing variants."
- },
- {
-  "cluster": 347,
-  "label": "Globe",
-  "description": "3D interactive globes and world-map illustrations."
- },
- {
-  "cluster": 68,
-  "label": "Shader Effects",
-  "description": "Assorted shader-driven visuals (dot distortion, spotlight, morphing blob)."
- },
- {
-  "cluster": 203,
-  "label": "Chart",
-  "description": "Interactive data charts for logs, sales, and traffic."
- },
- {
-  "cluster": 11,
-  "label": "Country / Region Data",
-  "description": "Per-country data files (Africa, Algeria, Angola, Argentina, etc.)."
- },
- {
-  "cluster": 233,
-  "label": "Area Chart Example",
-  "description": "Area chart examples covering gradients, stacking, and curve types."
- },
- {
-  "cluster": 234,
-  "label": "Chart Example",
-  "description": "Mixed chart examples (area, bar, combo) in card layouts."
- },
- {
-  "cluster": 62,
-  "label": "Area Chart Variants",
-  "description": "Area chart variants (axes, gradient, interactive, legend, stacked)."
- },
- {
-  "cluster": 10,
-  "label": "US State / Region Data",
-  "description": "Per-US-state and North America data files."
- },
- {
-  "cluster": 175,
-  "label": "Chart Example",
-  "description": "Chart examples across area, bar, line, scatter, gauge, and radar."
- },
- {
-  "cluster": 173,
-  "label": "Pie / Line Chart Example",
-  "description": "Pie and line chart examples with donuts, gaps, and custom colors."
- },
- {
-  "cluster": 209,
-  "label": "Chart (Numbered Set)",
-  "description": "Numbered chart variants from a component set."
- },
- {
-  "cluster": 392,
-  "label": "Core UI Primitives",
-  "description": "Foundational UI primitives (label, field, item, command, form)."
- },
- {
-  "cluster": 372,
-  "label": "Button",
-  "description": "Buttons in many styles (shimmer, shiny, flip, liquid, ripple, social)."
- },
- {
-  "cluster": 174,
-  "label": "Chart",
-  "description": "Core chart types (area, bar, line, pie, radar, sankey, radial)."
- },
- {
-  "cluster": 349,
-  "label": "React Hooks",
-  "description": "Utility React hooks (use-mobile, use-media-query, use-copy-to-clipboard)."
- },
- {
-  "cluster": 367,
-  "label": "AI Chat Input",
-  "description": "AI chat building blocks: prompt input, message, model selector, chat bubble."
- },
- {
-  "cluster": 6,
-  "label": "Country / Region Names",
-  "description": "Bare country and US-state name entries."
- },
- {
-  "cluster": 365,
-  "label": "AI Chat Conversation",
-  "description": "Full AI chat conversation and chat interface components."
- },
- {
-  "cluster": 103,
-  "label": "Misc UI / Adapters",
-  "description": "Assorted UI utilities, views, and framework adapters."
- },
- {
-  "cluster": 345,
-  "label": "Hover Card",
-  "description": "Hover and preview cards including link previews."
- },
- {
-  "cluster": 272,
-  "label": "Tooltip",
-  "description": "Tooltips including animated variants and numbered sets."
- },
- {
-  "cluster": 217,
-  "label": "Popover",
-  "description": "Popovers and floating panels across primitive libraries."
- },
- {
-  "cluster": 134,
-  "label": "Editor Sample (Doc Blocks)",
-  "description": "React editor sample doc-block building pieces (bold, code, cursor, fonts)."
- },
- {
-  "cluster": 385,
-  "label": "Arrow / Pointer",
-  "description": "Arrow, pointer, and directional indicator elements."
- },
- {
-  "cluster": 263,
-  "label": "Dialog",
-  "description": "Dialog components across base, headless, and Radix libraries."
- },
- {
-  "cluster": 379,
-  "label": "Editor / Content Kit",
-  "description": "Editor and content-rendering kit pieces (renderer, packs, suggestions)."
- },
- {
-  "cluster": 101,
-  "label": "File Upload (Numbered Set)",
-  "description": "Numbered file-upload component variants."
- },
- {
-  "cluster": 36,
-  "label": "AI Agent Templates",
-  "description": "Prebuilt AI agent templates (browser agent, chat-with-pdf, deep search)."
- },
- {
-  "cluster": 59,
-  "label": "Auth / Backend Integration",
-  "description": "Next.js auth and backend wiring (Supabase, Clerk, middleware, OAuth)."
- },
- {
-  "cluster": 373,
-  "label": "Utilities / Helpers",
-  "description": "Shared utility helpers (cn utils, variants, merge-props, providers)."
- },
- {
-  "cluster": 64,
-  "label": "Page Sections",
-  "description": "Marketing page sections (hero, CTA) in numbered variants."
- },
- {
-  "cluster": 91,
-  "label": "Timeline",
-  "description": "Timeline components with vertical, alternating, and activity-feed styles."
- },
- {
-  "cluster": 176,
-  "label": "Toolbar",
-  "description": "Toolbars and action bars (floating, radial, expandable, filters)."
- },
- {
-  "cluster": 100,
-  "label": "File Upload / Dropzone",
-  "description": "File upload, dropzone, and picker components with progress."
- },
- {
-  "cluster": 322,
-  "label": "Markdown / Document",
-  "description": "Markdown rendering, headings, table of contents, and page headers."
- },
- {
-  "cluster": 35,
-  "label": "Documentation",
-  "description": "Docs and editor documentation content (Plate, Fumadocs, debugging)."
- },
- {
-  "cluster": 92,
-  "label": "Timer / Clock",
-  "description": "Timers, countdowns, and clock components (flip clock, alarm)."
- },
- {
-  "cluster": 52,
-  "label": "Tailwind Component Set",
-  "description": "Tailwind-styled component set (buttons, calendar, checkbox, breadcrumbs)."
- },
- {
-  "cluster": 262,
-  "label": "Modal",
-  "description": "Modals in varied styles (morphing, responsive, animated, glass)."
- },
- {
-  "cluster": 346,
-  "label": "Map",
-  "description": "Maps and world maps with markers and location pointers."
- },
- {
-  "cluster": 334,
-  "label": "File Tree / Tree View",
-  "description": "File trees, tree views, and JSON viewers."
- },
- {
-  "cluster": 254,
-  "label": "Settings Page",
-  "description": "Settings screens (profile, privacy, security, SSO, integrations)."
- },
- {
-  "cluster": 133,
-  "label": "Editor Sample (Multi-Framework)",
-  "description": "Editor doc samples across React, Preact, Vue, and Lit."
- },
- {
-  "cluster": 106,
-  "label": "Word Counter Sample",
-  "description": "Word-counter editor samples across multiple frameworks."
- },
- {
-  "cluster": 112,
-  "label": "Realtime Collaboration",
-  "description": "Collaborative and real-time cursors plus presence indicators."
- },
- {
-  "cluster": 183,
-  "label": "App Layout / Panels",
-  "description": "App layouts, threads, side panels, and focus-mode rails."
- },
- {
-  "cluster": 384,
-  "label": "Notification / Message",
-  "description": "Messages, notifications, and error screens plus notify hooks."
- },
- {
-  "cluster": 171,
-  "label": "Heatmap / Contribution Graph",
-  "description": "Heatmaps, contribution graphs, and choropleth calendars."
- },
- {
-  "cluster": 218,
-  "label": "Popover (Numbered Set)",
-  "description": "Numbered popover variants plus a feedback widget."
- },
- {
-  "cluster": 279,
-  "label": "Hover Effect / Link",
-  "description": "Interactive hover buttons, links, and text hover effects."
- },
- {
-  "cluster": 271,
-  "label": "Tooltip (Numbered Set)",
-  "description": "Numbered tooltip variants from a component set."
- }
+ {"cluster": 160, "label": "Spinner", "description": "Loading spinner components, including badge- and input-group-embedded variants."},
+ {"cluster": 163, "label": "Countdown Timer", "description": "Countdown, timer, and flip-clock components for time-based displays."},
+ {"cluster": 41, "label": "Background Pattern", "description": "Decorative background pattern presets."},
+ {"cluster": 133, "label": "Particle Effect", "description": "Sparkle, confetti, firework, and bubble particle animations."},
+ {"cluster": 217, "label": "Animated List", "description": "Animated notification and pinned list components with entrance effects."},
+ {"cluster": 204, "label": "Image Comparison", "description": "Before/after image comparison, cropper, and diff viewer widgets."},
+ {"cluster": 312, "label": "Scramble Text Effect", "description": "Text scramble, decode, and encrypted reveal animations."},
+ {"cluster": 18, "label": "Logo Carousel", "description": "Animated logo carousels, marquees, and timelines."},
+ {"cluster": 346, "label": "Wave Animation", "description": "Animated wave, wavy line, and moving-line background effects."},
+ {"cluster": 347, "label": "Animated Background", "description": "Strands and Ribbons animated backgrounds across JS/TS and CSS/Tailwind variants."},
+ {"cluster": 400, "label": "Text Animation", "description": "Per-character and letter entrance text animations."},
+ {"cluster": 280, "label": "Loading Button", "description": "Stateful buttons with loading, async, and status feedback."},
+ {"cluster": 354, "label": "Morphing Text", "description": "Text and dialog morphing transition effects."},
+ {"cluster": 230, "label": "Cursor Effect", "description": "Blob, crosshair, and eye-tracking custom cursor effects."},
+ {"cluster": 318, "label": "Staggered Animation", "description": "Staggered fade, reveal, and split-text entrance animations."},
+ {"cluster": 195, "label": "Skiper UI Component", "description": "Skiper UI animated components and skip-navigation helpers."},
+ {"cluster": 203, "label": "Animated Beam", "description": "Animated beam and tracing-beam background connector effects."},
+ {"cluster": 375, "label": "Gradient Text", "description": "Animated gradient text and gradient heading effects."},
+ {"cluster": 331, "label": "Scroll Progress", "description": "Scroll progress bars, scroll-spy, and pull-to-refresh controls."},
+ {"cluster": 209, "label": "Mouse Trail Effect", "description": "Cursor, image, and mouse trail follow animations."},
+ {"cluster": 38, "label": "Dot Matrix (Hexagon)", "description": "Hexagonal dot-matrix pattern variants."},
+ {"cluster": 344, "label": "Aurora Background", "description": "Aurora, snowfall, and glassy ambient background effects."},
+ {"cluster": 272, "label": "Drag & Drop Cursor", "description": "Editor drop/gap cursors and drag-and-drop indicators."},
+ {"cluster": 352, "label": "Shader Background", "description": "WebGL shader and dot-distortion background effects."},
+ {"cluster": 311, "label": "Glitch Effect", "description": "Glitch button, text, and RGB distortion effects."},
+ {"cluster": 88, "label": "Spinner", "description": "Numbered loading spinner variants."},
+ {"cluster": 118, "label": "Glassmorphism Block", "description": "Glassmorphism hero, CTA, and timeline section blocks."},
+ {"cluster": 44, "label": "Dot Matrix (Square)", "description": "Square dot-matrix pattern variants."},
+ {"cluster": 68, "label": "Dot Matrix (Triangle)", "description": "Triangular dot-matrix pattern variants."},
+ {"cluster": 104, "label": "Dot Matrix (Circular)", "description": "Circular dot-matrix pattern variants."},
+ {"cluster": 21, "label": "Brand Logo", "description": "Brand and app logos such as GitHub, Instagram, and JetBrains."},
+ {"cluster": 175, "label": "Hero Section", "description": "Landing-page hero sections."},
+ {"cluster": 442, "label": "Feature Section", "description": "Product feature highlight sections."},
+ {"cluster": 77, "label": "Login / Auth", "description": "Login, signup, and authentication form sections."},
+ {"cluster": 392, "label": "Pricing Table", "description": "Pricing plan tables and pricing cards."},
+ {"cluster": 214, "label": "CTA Section", "description": "Call-to-action sections and banners."},
+ {"cluster": 30, "label": "Bento Tile", "description": "Individual bento-grid tiles and cards."},
+ {"cluster": 388, "label": "Testimonial", "description": "Customer testimonial sections, including animated variants."},
+ {"cluster": 447, "label": "Blog Section", "description": "Blog listing and blog post preview sections."},
+ {"cluster": 334, "label": "Team Section", "description": "Team member and staff profile sections."},
+ {"cluster": 253, "label": "FAQ", "description": "Frequently-asked-questions accordion sections."},
+ {"cluster": 155, "label": "Integrations Section", "description": "Third-party integrations showcase sections."},
+ {"cluster": 411, "label": "About Section", "description": "About-us and company introduction sections."},
+ {"cluster": 385, "label": "Contact Section", "description": "Contact form and contact info sections."},
+ {"cluster": 61, "label": "Logo Cloud", "description": "Logo cloud and partner-logo strip sections."},
+ {"cluster": 423, "label": "Feature Section", "description": "Feature sections with demos, terminals, and skeletons."},
+ {"cluster": 348, "label": "Stats Section", "description": "Statistics, metrics, and social-proof number sections."},
+ {"cluster": 410, "label": "Gallery", "description": "Image gallery grid sections."},
+ {"cluster": 64, "label": "OG Image", "description": "Open Graph social preview image templates."},
+ {"cluster": 450, "label": "Portfolio", "description": "Portfolio and agency showcase pages."},
+ {"cluster": 399, "label": "Landing Page", "description": "SaaS and marketing landing pages."},
+ {"cluster": 70, "label": "Newsletter Signup", "description": "Newsletter subscription and signup sections."},
+ {"cluster": 353, "label": "Careers Section", "description": "Careers and job-listing sections."},
+ {"cluster": 325, "label": "Banner", "description": "Promotional and page banner sections."},
+ {"cluster": 357, "label": "Timeline / Process Steps", "description": "Story timelines and step-by-step process sections."},
+ {"cluster": 398, "label": "Event Section", "description": "Event and education-focused sections."},
+ {"cluster": 409, "label": "Portfolio Showcase", "description": "Agency, portfolio, and project showcase sections."},
+ {"cluster": 387, "label": "Testimonial", "description": "Numbered testimonial sections."},
+ {"cluster": 157, "label": "FAQ", "description": "FAQ and related-questions sections."},
+ {"cluster": 420, "label": "Portfolio Section", "description": "Portfolio availability, hire-me, and landing sections."},
+ {"cluster": 434, "label": "About Section", "description": "About sections with founder letters, stats, and company facts."},
+ {"cluster": 446, "label": "Article / Blog Post", "description": "News, article, and editorial content posts."},
+ {"cluster": 421, "label": "Awards Section", "description": "Awards, badges, and analyst-mention sections."},
+ {"cluster": 254, "label": "FAQ", "description": "FAQ sections, including grid layouts."},
+ {"cluster": 216, "label": "Legal / Cookie Consent", "description": "Legal notice and cookie-consent sections."},
+ {"cluster": 75, "label": "404 / Error Page", "description": "Not-found and error page layouts."},
+ {"cluster": 200, "label": "Bento Grid", "description": "Numbered bento-grid layout sections."},
+ {"cluster": 337, "label": "Ecommerce / Promo Section", "description": "Ecommerce and promotional marketing sections."},
+ {"cluster": 428, "label": "Blog Section", "description": "Editorial and blog content sections with author and category layouts."},
+ {"cluster": 213, "label": "Bento Grid", "description": "Bento-grid layouts, including animated and multi-column variants."},
+ {"cluster": 386, "label": "Contact Section", "description": "Contact and callback-request form sections."},
+ {"cluster": 406, "label": "Content Section", "description": "Multi-column content blocks with images and paragraphs."},
+ {"cluster": 251, "label": "Services Section", "description": "Services and offering feature sections."},
+ {"cluster": 20, "label": "Brand Logo", "description": "AWS service icons and logos."},
+ {"cluster": 437, "label": "Case Study", "description": "Case-study sections with challenge-solution-result layouts."},
+ {"cluster": 443, "label": "Experience Timeline", "description": "Work-experience and career timeline sections."},
+ {"cluster": 71, "label": "OG Image", "description": "Assorted Open Graph and social preview templates."},
+ {"cluster": 451, "label": "Portfolio Section", "description": "Portfolio project index, gallery, and developer showcase sections."},
+ {"cluster": 432, "label": "Portfolio / Coaching Section", "description": "Portfolio availability and coaching/mentoring sections."},
+ {"cluster": 326, "label": "Announcement Banner", "description": "Announcement bars and system banner components."},
+ {"cluster": 397, "label": "Testimonial / Quotes", "description": "Quote and partner-testimonial card sections."},
+ {"cluster": 35, "label": "Device Illustration", "description": "Device mockup illustrations for MacBook, iPhone, and iPad."},
+ {"cluster": 60, "label": "Logo Cloud", "description": "Animated logo cloud sections with blur and swap effects."},
+ {"cluster": 389, "label": "Hero Section", "description": "Portfolio hero and intro sections."},
+ {"cluster": 440, "label": "Case Study", "description": "Case-study cover, hero, and split-layout sections."},
+ {"cluster": 396, "label": "Quote / Pull Quote", "description": "Pull-quote and reviewer-quote break sections."},
+ {"cluster": 444, "label": "Gallery", "description": "Portfolio gallery sections with album, filmstrip, and contact-sheet layouts."},
+ {"cluster": 111, "label": "Download CTA", "description": "App download and software purchase CTA sections."},
+ {"cluster": 441, "label": "Feature Section", "description": "Numbered feature and showcase sections."},
+ {"cluster": 32, "label": "Logo Cloud", "description": "Logo strip and multi-row logo sections."},
+ {"cluster": 246, "label": "Social Post", "description": "X, Instagram, and LinkedIn social post cards."},
+ {"cluster": 215, "label": "CTA Section", "description": "Call-to-action bands with booking and event prompts."}
 ]

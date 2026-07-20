@@ -15,9 +15,17 @@ import json, glob, os
 import numpy as np
 
 os.makedirs("data/graph", exist_ok=True)
-DIM = 1024
+DIM = 3072
 
 enr = json.load(open("data/registries.enriched.json"))
+# join map: item id -> enriched fields (kind/tags/useCases/style added during data enrichment)
+enr_items = {}
+for r in enr["registries"]:
+    if not r["components"]["found"]:
+        continue
+    for it in r["components"]["items"]:
+        if it.get("name"):
+            enr_items[f'{r["handle"]}/{it["name"]}'] = it
 items_meta = json.load(open("data/embeddings/items.json"))
 V = np.load("data/embeddings/unique_vectors.npy")               # unique x 3072 (normalized)
 cats_raw = json.load(open("data/clusters/categories.json"))
@@ -74,12 +82,16 @@ vecs = np.zeros((len(items_meta), DIM), dtype=np.float32)
 with open("data/graph/items.jsonl", "w") as f:
     for i, it in enumerate(items_meta):
         cluster = uidx2cluster[it["uidx"]]
+        ei = enr_items.get(it["id"], {})
         rec = {"id": it["id"], "name": it["name"], "type": it["type"],
                "description": it["description"], "handle": it["handle"],
-               "categoryId": f"C{cluster}"}
+               "categoryId": f"C{cluster}",
+               "kind": ei.get("kind") or "",
+               "tags": ei.get("tags") or [],
+               "useCases": ei.get("useCases") or []}
         f.write(json.dumps(rec, ensure_ascii=False) + "\n")
         vecs[i] = Vt[it["uidx"]]
-np.save("data/graph/item_vectors_1024.npy", vecs)
+np.save("data/graph/item_vectors.npy", vecs)
 
 meta = {"nodes": {"domains": len(domains), "categories": len(categories),
                   "registries": len(registries), "items": len(items_meta)},

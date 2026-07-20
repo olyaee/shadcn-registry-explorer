@@ -1,497 +1,462 @@
 [
  {
-  "cluster": 292,
-  "label": "Map",
-  "description": "Interactive Mapbox map components with pointers, themes, and zoom controls."
- },
- {
   "cluster": 391,
-  "label": "App Icon Set",
-  "description": "Software/app icons such as Illustrator, Photoshop, Acrobat, and PDF viewer."
+  "label": "Pricing Table",
+  "description": "Pricing plan and tier comparison sections."
  },
  {
-  "cluster": 8,
-  "label": "Andromeda UI Kit",
-  "description": "Andromeda-branded component set (button, alert, avatar, badge, card, checkbox)."
- },
- {
-  "cluster": 366,
-  "label": "AI Chat / Agent UI",
-  "description": "AI assistant workspace pieces like artifacts, agents, canvas, checkpoints, and commits."
- },
- {
-  "cluster": 360,
-  "label": "AI Reasoning / Chain-of-Thought",
-  "description": "Chain-of-thought, reasoning, and tool-call inspection UI for AI agents."
- },
- {
-  "cluster": 75,
-  "label": "File Upload",
-  "description": "File upload widgets with progress, cropping, and chat/form variants."
- },
- {
-  "cluster": 115,
-  "label": "Login / Auth",
-  "description": "Authentication flows: sign-in, sign-up, OTP verify, and password reset."
- },
- {
-  "cluster": 170,
-  "label": "Meter / Gauge",
-  "description": "Meters and gauges for usage, price ranges, and other metrics."
- },
- {
-  "cluster": 193,
-  "label": "CSS Component Kit",
-  "description": "CSS-prefixed primitives like buttons, color fields, and command palettes."
- },
- {
-  "cluster": 371,
-  "label": "Copy Button",
-  "description": "Copy-to-clipboard buttons, including animated and icon variants."
- },
- {
-  "cluster": 335,
-  "label": "File Tree",
-  "description": "File/folder tree views with selection, drag, and infinite scroll."
- },
- {
-  "cluster": 269,
-  "label": "Feature Section",
-  "description": "Marketing feature sections showcasing product capabilities."
- },
- {
-  "cluster": 221,
-  "label": "Hero Section",
-  "description": "Landing-page hero sections in many numbered variants."
- },
- {
-  "cluster": 288,
-  "label": "Blog Section",
-  "description": "Blog listing and article sections for content pages."
- },
- {
-  "cluster": 55,
-  "label": "Footer",
-  "description": "Page footer sections in many layout variants."
- },
- {
-  "cluster": 302,
-  "label": "Portfolio Page Section",
-  "description": "About, agency, careers, and portfolio page sections."
- },
- {
-  "cluster": 214,
-  "label": "Call to Action",
-  "description": "Numbered CTA sections prompting user action."
- },
- {
-  "cluster": 215,
-  "label": "Testimonial",
-  "description": "Customer testimonial sections, including animated variants."
- },
- {
-  "cluster": 316,
-  "label": "Marketing About Section",
-  "description": "Marketing-pro about-page sections: fact sheets, principles, story timelines."
- },
- {
-  "cluster": 280,
-  "label": "Contact Section",
-  "description": "Contact form and info sections in many variants."
- },
- {
-  "cluster": 239,
-  "label": "FAQ",
-  "description": "Frequently-asked-questions sections."
- },
- {
-  "cluster": 312,
-  "label": "Team Section",
-  "description": "Team member and staff showcase sections."
- },
- {
-  "cluster": 328,
-  "label": "Portfolio Showcase",
-  "description": "Portfolio and project showcase sections."
- },
- {
-  "cluster": 135,
-  "label": "Integrations Section",
-  "description": "Integration and app-connection showcase sections."
- },
- {
-  "cluster": 247,
-  "label": "Landing / Hero Section",
-  "description": "SaaS/startup landing heroes with parallax and themed variants."
- },
- {
-  "cluster": 315,
-  "label": "Stats / Metrics Section",
-  "description": "By-the-numbers and KPI stat bands for marketing pages."
- },
- {
-  "cluster": 249,
-  "label": "Logo Cloud",
-  "description": "Trusted-by logo cloud sections."
- },
- {
-  "cluster": 311,
-  "label": "About Section",
-  "description": "About-us page sections in many variants."
- },
- {
-  "cluster": 310,
-  "label": "Gallery",
-  "description": "Image gallery and grid sections."
- },
- {
-  "cluster": 235,
-  "label": "Newsletter Signup",
-  "description": "Newsletter subscription and email-capture sections."
- },
- {
-  "cluster": 260,
-  "label": "Careers Section",
-  "description": "Careers and job-listing page sections."
- },
- {
-  "cluster": 159,
-  "label": "Banner / Announcement Bar",
-  "description": "Top-of-page banners and announcement bars."
- },
- {
-  "cluster": 304,
-  "label": "Comparison Section",
-  "description": "Product comparison and feature-versus sections."
- },
- {
-  "cluster": 327,
-  "label": "Portfolio Experience / Timeline",
-  "description": "Portfolio career timelines, journeys, and skills sections."
- },
- {
-  "cluster": 309,
-  "label": "Agency / Marketing Section",
-  "description": "Agency and marketing sections with scroll reveals and CTAs."
- },
- {
-  "cluster": 70,
-  "label": "Navbar",
-  "description": "Top navigation bars in many numbered variants."
- },
- {
-  "cluster": 314,
-  "label": "Portfolio Hero",
-  "description": "Portfolio hero and hire-me banner sections."
- },
- {
-  "cluster": 145,
-  "label": "Cookie Consent / Legal",
-  "description": "Cookie consent banners and legal-notice sections."
- },
- {
-  "cluster": 287,
-  "label": "Blog Section",
-  "description": "Marketing-pro blog sections: card grids, editorial lists, featured posts."
- },
- {
-  "cluster": 293,
-  "label": "Event Section",
-  "description": "Event and booking listing sections."
- },
- {
-  "cluster": 195,
-  "label": "Marketing Section",
-  "description": "Mixed marketing blocks: showcases, stats, workflows, and testimonials."
- },
- {
-  "cluster": 236,
-  "label": "Call to Action",
-  "description": "Marketing-pro CTA banners with avatars, charts, and dual buttons."
- },
- {
-  "cluster": 323,
-  "label": "Portfolio Showcase",
-  "description": "Numbered portfolio showcase sections."
- },
- {
-  "cluster": 63,
-  "label": "Header",
-  "description": "Page header sections in many variants."
- },
- {
-  "cluster": 216,
-  "label": "Testimonial",
-  "description": "Numbered testimonial sections."
- },
- {
-  "cluster": 308,
-  "label": "Case Study Section",
-  "description": "Portfolio case-study sections: covers, heroes, and before/after panels."
- },
- {
-  "cluster": 290,
-  "label": "Awards Section",
-  "description": "Awards and recognition showcase sections."
- },
- {
-  "cluster": 227,
-  "label": "FAQ",
-  "description": "Marketing-pro FAQ accordions across many page types."
- },
- {
-  "cluster": 273,
-  "label": "Services Section",
-  "description": "Services and offerings listing sections."
- },
- {
-  "cluster": 245,
-  "label": "App Download Section",
-  "description": "App download sections with device mockups and store links."
- },
- {
-  "cluster": 129,
-  "label": "Coming Soon",
-  "description": "Coming-soon and pre-launch placeholder sections."
- },
- {
-  "cluster": 270,
-  "label": "Client Logos / Testimonials",
-  "description": "Portfolio client-logo rows paired with quotes and testimonials."
- },
- {
-  "cluster": 146,
-  "label": "Hero Section",
-  "description": "Sequentially numbered hero sections."
- },
- {
-  "cluster": 248,
-  "label": "Logo Cloud",
-  "description": "Logo strips and content blocks featuring brand logos."
- },
- {
-  "cluster": 43,
-  "label": "Navbar",
-  "description": "Marketing-pro navbars: mega-menu, dark, centered, and compact variants."
- },
- {
-  "cluster": 66,
-  "label": "Navbar",
-  "description": "Navigation bars with hover effects, children, and classic styles."
- },
- {
-  "cluster": 160,
+  "cluster": 338,
   "label": "Promo Banner",
-  "description": "Promotional and sales banners across ecommerce and pricing pages."
+  "description": "Promotional announcement and sales banners."
  },
  {
-  "cluster": 182,
-  "label": "Case Study Section",
-  "description": "Marketing-pro case studies with challenge-solution-results panels."
+  "cluster": 212,
+  "label": "Bento Grid",
+  "description": "Bento-style feature and showcase grid layouts."
  },
  {
-  "cluster": 69,
-  "label": "Navbar",
-  "description": "Numbered navigation bar variants."
+  "cluster": 448,
+  "label": "Skills Section",
+  "description": "Portfolio skills, tech-stack, and capability showcases."
  },
  {
-  "cluster": 240,
-  "label": "FAQ",
-  "description": "FAQ sections in card, grid, and CTA layouts."
+  "cluster": 178,
+  "label": "Feature Section",
+  "description": "Marketing feature highlight and benefit sections."
  },
  {
-  "cluster": 213,
-  "label": "FAQ / Accordion",
-  "description": "Collapsible FAQ disclosure components."
+  "cluster": 277,
+  "label": "Ecommerce Hero",
+  "description": "Storefront and ecommerce landing hero sections."
  },
  {
-  "cluster": 246,
-  "label": "Hero with Form",
-  "description": "Hero sections featuring signup, contact, or booking forms."
+  "cluster": 431,
+  "label": "Process Section",
+  "description": "Step-by-step process and workflow walkthroughs."
  },
  {
-  "cluster": 150,
-  "label": "Input",
-  "description": "Text input fields, including phone and grouped variants."
+  "cluster": 174,
+  "label": "Form Section",
+  "description": "Contact, signup, and request form layouts."
  },
  {
-  "cluster": 110,
-  "label": "Button",
-  "description": "Numbered buttons alongside some avatar samples."
+  "cluster": 356,
+  "label": "Trust & Security",
+  "description": "Compliance, security, and trust-signal panels."
  },
  {
-  "cluster": 152,
-  "label": "Select",
-  "description": "Select dropdowns including native and form variants."
+  "cluster": 422,
+  "label": "News Section",
+  "description": "News article and press listing blocks."
  },
  {
-  "cluster": 151,
-  "label": "Form Field / Label",
-  "description": "Form fields, labels, fieldsets, and validation states."
+  "cluster": 28,
+  "label": "Login / Auth",
+  "description": "Email login buttons and auth entry points."
  },
  {
-  "cluster": 226,
-  "label": "Checkbox / List",
-  "description": "Checkbox and list-group components with grouping and validation."
- },
- {
-  "cluster": 111,
-  "label": "UI Component Kit",
-  "description": "shadcn/oui primitives: calendar, button, checkbox, and groups."
- },
- {
-  "cluster": 123,
-  "label": "Tag / Search Input",
-  "description": "Tag inputs, chips, and search fields."
- },
- {
-  "cluster": 201,
-  "label": "Button",
-  "description": "Uiable button variants: default, destructive, ghost, and icon styles."
- },
- {
-  "cluster": 153,
-  "label": "Select",
-  "description": "Numbered select dropdown variants."
- },
- {
-  "cluster": 130,
-  "label": "Textarea",
-  "description": "Numbered textarea input variants."
- },
- {
-  "cluster": 131,
-  "label": "Textarea",
-  "description": "Textarea and text-field components in various styles."
- },
- {
-  "cluster": 225,
-  "label": "Button Group",
-  "description": "Button groups with dropdown, input, and popover combinations."
- },
- {
-  "cluster": 147,
-  "label": "Textarea",
-  "description": "Numbered p-prefixed textarea variants."
- },
- {
-  "cluster": 141,
-  "label": "Multi-Select",
-  "description": "Multi-select, poll, and option-list pickers."
- },
- {
-  "cluster": 186,
-  "label": "Context Menu / Dropdown",
-  "description": "Context menus and dropdowns with icons, radios, and checkboxes."
- },
- {
-  "cluster": 113,
-  "label": "JSON Forms / Schema Form",
-  "description": "JSONForms schema-driven controls and JSON viewers."
- },
- {
-  "cluster": 199,
-  "label": "Command / Empty State",
-  "description": "Command palettes and empty-state placeholder components."
- },
- {
-  "cluster": 127,
-  "label": "Password Input",
-  "description": "Password entry fields with masking and form variants."
- },
- {
-  "cluster": 87,
-  "label": "Accordion",
-  "description": "Accordion expand/collapse components."
- },
- {
-  "cluster": 206,
-  "label": "Table",
-  "description": "Numbered table components."
- },
- {
-  "cluster": 313,
-  "label": "Tabs",
-  "description": "Tab components, including animated and expandable variants."
- },
- {
-  "cluster": 88,
-  "label": "Collapsible",
-  "description": "Collapsible and disclosure primitives across libraries."
- },
- {
-  "cluster": 205,
-  "label": "Data Table",
-  "description": "Data tables with numbered variants."
+  "cluster": 368,
+  "label": "Client Logos",
+  "description": "Client and partner logo rows and grids."
  },
  {
   "cluster": 307,
-  "label": "Sidebar / Navigation",
-  "description": "Sidebars and navbars including floating, glass, and resizable styles."
+  "label": "Localization Settings",
+  "description": "Locale switchers and localization management controls."
  },
  {
-  "cluster": 50,
-  "label": "Pagination",
-  "description": "Pagination controls in many variants."
+  "cluster": 73,
+  "label": "FAQ",
+  "description": "Frequently-asked-questions accordions and disclosures."
  },
  {
-  "cluster": 48,
-  "label": "Separator / Divider",
-  "description": "Separators and dividers, including full-width variants."
+  "cluster": 278,
+  "label": "Storefront Hero",
+  "description": "Shop landing hero and header sections."
  },
  {
-  "cluster": 44,
-  "label": "Breadcrumb",
-  "description": "Breadcrumb navigation components."
+  "cluster": 426,
+  "label": "Bio Link / Social Links",
+  "description": "Link-in-bio pages and social link lists."
  },
  {
-  "cluster": 126,
-  "label": "Sidebar",
-  "description": "Numbered sidebar layout variants."
+  "cluster": 208,
+  "label": "Switch",
+  "description": "On/off toggle switch controls."
  },
  {
-  "cluster": 81,
-  "label": "Drawer",
-  "description": "Slide-out drawers, including magnetic and family variants."
+  "cluster": 300,
+  "label": "Button",
+  "description": "General-purpose button components."
  },
  {
-  "cluster": 317,
-  "label": "Tabs",
-  "description": "Tab bars and bottom-tab navigation variants."
+  "cluster": 418,
+  "label": "Button",
+  "description": "Action buttons including delete, reaction, and FAB variants."
+ },
+ {
+  "cluster": 408,
+  "label": "Button",
+  "description": "Primitive and interactive button components."
+ },
+ {
+  "cluster": 227,
+  "label": "Toggle / Switch",
+  "description": "Switch, toggle, and toggle-group primitives."
+ },
+ {
+  "cluster": 402,
+  "label": "Animated Button",
+  "description": "Shimmer, shiny, glow, and rainbow animated buttons."
+ },
+ {
+  "cluster": 182,
+  "label": "Theme Toggle",
+  "description": "Dark/light theme switchers and providers."
+ },
+ {
+  "cluster": 310,
+  "label": "Toolbar",
+  "description": "Floating and selection toolbars."
+ },
+ {
+  "cluster": 257,
+  "label": "Alert",
+  "description": "Dismissible alert and notice components."
+ },
+ {
+  "cluster": 187,
+  "label": "Toggle",
+  "description": "Toggle button controls in various styles."
+ },
+ {
+  "cluster": 288,
+  "label": "Demo / Example",
+  "description": "Button demo and example wrappers."
+ },
+ {
+  "cluster": 417,
+  "label": "Button",
+  "description": "Numbered button variants including social buttons."
+ },
+ {
+  "cluster": 176,
+  "label": "Magnetic Button",
+  "description": "Magnetic-effect buttons and cursor interactions."
+ },
+ {
+  "cluster": 226,
+  "label": "Toggle Group",
+  "description": "Segmented controls and toggle-group selectors."
+ },
+ {
+  "cluster": 29,
+  "label": "Social Login Button",
+  "description": "Social sign-in buttons for auth flows."
+ },
+ {
+  "cluster": 306,
+  "label": "Button (Destructive)",
+  "description": "Destructive and bar button variants."
+ },
+ {
+  "cluster": 190,
+  "label": "Switch",
+  "description": "Toggle switch control variants."
+ },
+ {
+  "cluster": 273,
+  "label": "Copy Button",
+  "description": "Copy-to-clipboard buttons."
+ },
+ {
+  "cluster": 279,
+  "label": "Animated Button",
+  "description": "Slide, rotate, skew, and underline animated buttons."
+ },
+ {
+  "cluster": 191,
+  "label": "Toggle",
+  "description": "Toggle control variants."
+ },
+ {
+  "cluster": 179,
+  "label": "Toggle Group",
+  "description": "Toggle-group selector variants."
+ },
+ {
+  "cluster": 355,
+  "label": "Ripple Button",
+  "description": "Ripple-effect buttons and backgrounds."
+ },
+ {
+  "cluster": 147,
+  "label": "Demo / Example",
+  "description": "Pending-state demo and example wrappers."
+ },
+ {
+  "cluster": 261,
+  "label": "Link",
+  "description": "Text link and link-button components."
+ },
+ {
+  "cluster": 13,
+  "label": "Theme Toggle",
+  "description": "Animated theme-toggle icon variants."
+ },
+ {
+  "cluster": 305,
+  "label": "Button (Ghost)",
+  "description": "Ghost-style button variants."
+ },
+ {
+  "cluster": 333,
+  "label": "Animated Border Button",
+  "description": "Moving and traced border-animation buttons."
+ },
+ {
+  "cluster": 371,
+  "label": "Glow Button",
+  "description": "Glow, pulse, and aurora buttons."
+ },
+ {
+  "cluster": 412,
+  "label": "Button",
+  "description": "Numbered button variants."
+ },
+ {
+  "cluster": 350,
+  "label": "Card",
+  "description": "General card container components."
+ },
+ {
+  "cluster": 137,
+  "label": "Tooltip",
+  "description": "Tooltip and animated-tooltip components."
+ },
+ {
+  "cluster": 364,
+  "label": "Animated Card",
+  "description": "Flip, 3D, wobble, and hover-effect cards."
+ },
+ {
+  "cluster": 322,
+  "label": "Card Stack",
+  "description": "Stacked, layered, and draggable card decks."
+ },
+ {
+  "cluster": 121,
+  "label": "Popover",
+  "description": "Popover primitive components."
+ },
+ {
+  "cluster": 404,
+  "label": "Card",
+  "description": "Feature and radial card variants."
+ },
+ {
+  "cluster": 345,
+  "label": "Link Preview",
+  "description": "Link and web preview cards."
+ },
+ {
+  "cluster": 120,
+  "label": "Popover",
+  "description": "Popover and popup variants."
+ },
+ {
+  "cluster": 285,
+  "label": "Card",
+  "description": "Card component variants."
+ },
+ {
+  "cluster": 372,
+  "label": "Hover Card",
+  "description": "Hover-card components with profile previews."
+ },
+ {
+  "cluster": 323,
+  "label": "Demo / Example",
+  "description": "Card demo and example wrappers."
+ },
+ {
+  "cluster": 136,
+  "label": "Tooltip",
+  "description": "Tooltip component variants."
+ },
+ {
+  "cluster": 340,
+  "label": "Card",
+  "description": "Card variants including cutout and borderless styles."
+ },
+ {
+  "cluster": 232,
+  "label": "Tilt Card",
+  "description": "3D tilt-effect cards and grids."
+ },
+ {
+  "cluster": 296,
+  "label": "Card",
+  "description": "Animated and specialized card components."
+ },
+ {
+  "cluster": 373,
+  "label": "Hover Card",
+  "description": "Hover-card component variants."
+ },
+ {
+  "cluster": 316,
+  "label": "Card",
+  "description": "Numbered card variants."
+ },
+ {
+  "cluster": 91,
+  "label": "Demo / Example",
+  "description": "Popover demo and example wrappers."
+ },
+ {
+  "cluster": 90,
+  "label": "Popover",
+  "description": "Popover and portal primitives."
+ },
+ {
+  "cluster": 339,
+  "label": "Editor Plugin",
+  "description": "Rich-text editor nodes, adapters, and kits."
  },
  {
   "cluster": 45,
-  "label": "Breadcrumb",
-  "description": "Numbered p-prefixed breadcrumb variants."
+  "label": "Avatar",
+  "description": "Avatar and avatar-group components."
  },
  {
-  "cluster": 74,
-  "label": "Resizable Panels",
-  "description": "Resizable split panels and layout shells."
+  "cluster": 50,
+  "label": "React Hook",
+  "description": "Reusable React hooks and utilities."
  },
  {
-  "cluster": 51,
-  "label": "Pagination",
-  "description": "Numbered pagination component variants."
+  "cluster": 360,
+  "label": "Badge",
+  "description": "Badge and status-badge components."
  },
  {
-  "cluster": 78,
-  "label": "Sheet",
-  "description": "Sheet overlays including bottom and side variants."
+  "cluster": 0,
+  "label": "Geographic Region",
+  "description": "Country and state map region components."
  },
  {
-  "cluster": 318,
-  "label": "Tabs",
-  "description": "Numbered tab component variants."
+  "cluster": 1,
+  "label": "Geographic Data",
+  "description": "Country and state geographic data files."
+ },
+ {
+  "cluster": 82,
+  "label": "Empty State",
+  "description": "Empty-state layouts with cards and illustrations."
+ },
+ {
+  "cluster": 302,
+  "label": "Media Player",
+  "description": "Video, audio, and media player components."
+ },
+ {
+  "cluster": 223,
+  "label": "Utility / Provider",
+  "description": "Providers, boundaries, and utility wrappers."
+ },
+ {
+  "cluster": 291,
+  "label": "Typography",
+  "description": "Text, heading, and prose typography components."
+ },
+ {
+  "cluster": 378,
+  "label": "Editor / Markdown",
+  "description": "Markdown editors and content renderers."
+ },
+ {
+  "cluster": 36,
+  "label": "Skeleton",
+  "description": "Loading skeleton and shimmer placeholders."
  },
  {
   "cluster": 125,
-  "label": "Sheet",
-  "description": "Sheet demos and controlled-example variants."
+  "label": "Color Picker",
+  "description": "Color picker, swatch, and palette selectors."
  },
  {
-  "cluster": 80,
-  "label": "Drawer",
-  "description": "Numbered drawer and overflow-action variants."
+  "cluster": 361,
+  "label": "Badge",
+  "description": "Badge component variants."
+ },
+ {
+  "cluster": 131,
+  "label": "Map",
+  "description": "World map and map pointer components."
+ },
+ {
+  "cluster": 313,
+  "label": "Data Viewer",
+  "description": "JSON, PDF, and schema viewer panels."
+ },
+ {
+  "cluster": 86,
+  "label": "File Upload",
+  "description": "File upload, picker, and thumbnail components."
+ },
+ {
+  "cluster": 78,
+  "label": "Utility",
+  "description": "Utility helpers, slots, and type converters."
+ },
+ {
+  "cluster": 315,
+  "label": "Tree View",
+  "description": "File tree and tree-view components."
+ },
+ {
+  "cluster": 359,
+  "label": "Documentation",
+  "description": "Docs pages and documentation renderers."
+ },
+ {
+  "cluster": 79,
+  "label": "Keyboard Key (Kbd)",
+  "description": "Kbd, keyboard, and macbook-keyboard components."
+ },
+ {
+  "cluster": 85,
+  "label": "File Upload",
+  "description": "File upload component variants."
+ },
+ {
+  "cluster": 48,
+  "label": "Resizable Panel",
+  "description": "Resizable and split-panel layouts."
+ },
+ {
+  "cluster": 165,
+  "label": "Command Menu",
+  "description": "Command palettes and slash menus."
+ },
+ {
+  "cluster": 124,
+  "label": "Tailwind Component",
+  "description": "Tailwind-styled UI primitives and cookie consents."
+ },
+ {
+  "cluster": 309,
+  "label": "List",
+  "description": "Sortable, swipeable, and panel list layouts."
+ },
+ {
+  "cluster": 81,
+  "label": "Empty State",
+  "description": "Empty-state screens for 404, inbox, and feeds."
+ },
+ {
+  "cluster": 186,
+  "label": "List Item",
+  "description": "List items and variant selectors."
  }
 ]

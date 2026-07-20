@@ -1,2774 +1,3215 @@
 [
  {
-  "id": "C99",
-  "label": "Product Card",
-  "description": "E-commerce product cards and product listing tiles in many variants.",
-  "domainId": "D0",
-  "itemCount": 1333
- },
- {
-  "id": "C392",
-  "label": "Core UI Primitives",
-  "description": "Foundational UI primitives (label, field, item, command, form).",
-  "domainId": "D4",
-  "itemCount": 1203
- },
- {
-  "id": "C269",
-  "label": "Feature Section",
-  "description": "Marketing feature sections showcasing product capabilities.",
-  "domainId": "D5",
-  "itemCount": 716
- },
- {
-  "id": "C377",
-  "label": "Animated Background",
-  "description": "Decorative animated backgrounds (particles, meteors, aurora, gradients, waves).",
-  "domainId": "D2",
-  "itemCount": 546
- },
- {
-  "id": "C221",
-  "label": "Hero Section",
-  "description": "Landing-page hero sections in many numbered variants.",
-  "domainId": "D5",
-  "itemCount": 497
- },
- {
-  "id": "C372",
-  "label": "Button",
-  "description": "Buttons in many styles (shimmer, shiny, flip, liquid, ripple, social).",
-  "domainId": "D4",
-  "itemCount": 470
- },
- {
-  "id": "C387",
-  "label": "Text Reveal / Animation",
-  "description": "Animated text effects that reveal, blur, loop, or morph words.",
-  "domainId": "D2",
-  "itemCount": 443
- },
- {
-  "id": "C395",
+  "id": "C15",
   "label": "Font / Typeface",
-  "description": "Font family tokens and typefaces (Inter, sans, mono, display fonts).",
-  "domainId": "D9",
-  "itemCount": 430
- },
- {
-  "id": "C18",
-  "label": "Font Pairing",
-  "description": "Editorial font-pairing combinations (Abril Fatface + Lato, Alegreya sets).",
-  "domainId": "D10",
-  "itemCount": 386
- },
- {
-  "id": "C343",
-  "label": "Pricing Section",
-  "description": "Pricing page sections and plan blocks in numbered variations.",
-  "domainId": "D0",
-  "itemCount": 354
- },
- {
-  "id": "C393",
-  "label": "Font / Typeface",
-  "description": "Google-style serif and script typefaces (Abril Fatface, Adamina, Aladin).",
-  "domainId": "D9",
-  "itemCount": 336
- },
- {
-  "id": "C102",
-  "label": "Icon Set",
-  "description": "General-purpose UI icons (arrows, adjustments, boxes, caps).",
-  "domainId": "D1",
-  "itemCount": 323
- },
- {
-  "id": "C97",
-  "label": "Brand Template",
-  "description": "Brand and product template names (Airtable, Adyen, Aesop, admin-pro).",
-  "domainId": "D10",
-  "itemCount": 296
- },
- {
-  "id": "C288",
-  "label": "Blog Section",
-  "description": "Blog listing and article sections for content pages.",
-  "domainId": "D5",
-  "itemCount": 292
- },
- {
-  "id": "C283",
-  "label": "Login / Auth",
-  "description": "Login and sign-in authentication screens and forms.",
-  "domainId": "D0",
-  "itemCount": 274
- },
- {
-  "id": "C390",
-  "label": "Font / Typeface",
-  "description": "Multilingual and display typefaces (Abyssinica SIL, Adlam, Akshar).",
-  "domainId": "D9",
-  "itemCount": 269
- },
- {
-  "id": "C55",
-  "label": "Footer",
-  "description": "Page footer sections in many layout variants.",
-  "domainId": "D5",
-  "itemCount": 264
- },
- {
-  "id": "C177",
-  "label": "Icon Set",
-  "description": "Named UI icons (clock, bell, battery, audio).",
-  "domainId": "D1",
-  "itemCount": 254
- },
- {
-  "id": "C302",
-  "label": "Portfolio Page Section",
-  "description": "About, agency, careers, and portfolio page sections.",
-  "domainId": "D5",
-  "itemCount": 243
- },
- {
-  "id": "C289",
-  "label": "Demo / Example",
-  "description": "Generic demo wrappers for many components (data table, dialog, message, menu).",
+  "description": "Web font and typeface families (Inter, Geist, sans, mono).",
   "domainId": "D8",
-  "itemCount": 239
+  "itemCount": 1984
  },
  {
-  "id": "C188",
-  "label": "Badge",
-  "description": "Status and label badges in many variants.",
-  "domainId": "D1",
-  "itemCount": 224
+  "id": "C21",
+  "label": "Brand Logo",
+  "description": "Brand and app logos such as GitHub, Instagram, and JetBrains.",
+  "domainId": "D2",
+  "itemCount": 874
  },
  {
-  "id": "C105",
-  "label": "Documentation / Docs Example",
-  "description": "Documentation preview snippets and editor doc examples (blocks, comments, suggestions).",
+  "id": "C192",
+  "label": "Chart",
+  "description": "Data charts including line, bar, pie, area, radar, and sankey types.",
   "domainId": "D0",
-  "itemCount": 218
+  "itemCount": 738
  },
  {
-  "id": "C214",
-  "label": "Call to Action",
-  "description": "Numbered CTA sections prompting user action.",
-  "domainId": "D5",
-  "itemCount": 217
+  "id": "C175",
+  "label": "Hero Section",
+  "description": "Landing-page hero sections.",
+  "domainId": "D2",
+  "itemCount": 713
  },
  {
   "id": "C339",
-  "label": "Font / Typeface",
-  "description": "Noto font family covering emoji, Arabic, Urdu and CJK scripts.",
-  "domainId": "D9",
-  "itemCount": 217
+  "label": "Editor Plugin",
+  "description": "Rich-text editor nodes, adapters, and kits.",
+  "domainId": "D5",
+  "itemCount": 516
  },
  {
-  "id": "C215",
+  "id": "C449",
+  "label": "Icon Set",
+  "description": "General-purpose UI icon set covering common actions and objects.",
+  "domainId": "D11",
+  "itemCount": 487
+ },
+ {
+  "id": "C442",
+  "label": "Feature Section",
+  "description": "Product feature highlight sections.",
+  "domainId": "D2",
+  "itemCount": 482
+ },
+ {
+  "id": "C77",
+  "label": "Login / Auth",
+  "description": "Login, signup, and authentication form sections.",
+  "domainId": "D2",
+  "itemCount": 474
+ },
+ {
+  "id": "C392",
+  "label": "Pricing Table",
+  "description": "Pricing plan tables and pricing cards.",
+  "domainId": "D2",
+  "itemCount": 431
+ },
+ {
+  "id": "C189",
+  "label": "Brand Theme",
+  "description": "Brand-inspired UI theme presets named after companies.",
+  "domainId": "D8",
+  "itemCount": 429
+ },
+ {
+  "id": "C45",
+  "label": "Avatar",
+  "description": "Avatar and avatar-group components.",
+  "domainId": "D5",
+  "itemCount": 343
+ },
+ {
+  "id": "C439",
+  "label": "E-commerce Section",
+  "description": "E-commerce store sections focused on accessibility and shopping features.",
+  "domainId": "D10",
+  "itemCount": 323
+ },
+ {
+  "id": "C3",
+  "label": "Footer",
+  "description": "Page footer section layouts.",
+  "domainId": "D9",
+  "itemCount": 321
+ },
+ {
+  "id": "C214",
+  "label": "CTA Section",
+  "description": "Call-to-action sections and banners.",
+  "domainId": "D2",
+  "itemCount": 306
+ },
+ {
+  "id": "C69",
+  "label": "Slider",
+  "description": "Range slider controls and variants.",
+  "domainId": "D1",
+  "itemCount": 241
+ },
+ {
+  "id": "C30",
+  "label": "Bento Tile",
+  "description": "Individual bento-grid tiles and cards.",
+  "domainId": "D2",
+  "itemCount": 231
+ },
+ {
+  "id": "C50",
+  "label": "React Hook",
+  "description": "Reusable React hooks and utilities.",
+  "domainId": "D5",
+  "itemCount": 229
+ },
+ {
+  "id": "C388",
   "label": "Testimonial",
   "description": "Customer testimonial sections, including animated variants.",
+  "domainId": "D2",
+  "itemCount": 222
+ },
+ {
+  "id": "C14",
+  "label": "Font / Typeface",
+  "description": "Noto and related multilingual font families.",
+  "domainId": "D8",
+  "itemCount": 218
+ },
+ {
+  "id": "C360",
+  "label": "Badge",
+  "description": "Badge and status-badge components.",
   "domainId": "D5",
   "itemCount": 216
  },
  {
-  "id": "C174",
-  "label": "Chart",
-  "description": "Core chart types (area, bar, line, pie, radar, sankey, radial).",
-  "domainId": "D4",
-  "itemCount": 215
- },
- {
-  "id": "C394",
-  "label": "Font / Typeface",
-  "description": "Decorative and display typefaces (Alfa Slab One, Bakbak One, Baumans).",
-  "domainId": "D9",
-  "itemCount": 207
- },
- {
-  "id": "C316",
-  "label": "Marketing About Section",
-  "description": "Marketing-pro about-page sections: fact sheets, principles, story timelines.",
-  "domainId": "D5",
-  "itemCount": 206
- },
- {
-  "id": "C349",
-  "label": "React Hooks",
-  "description": "Utility React hooks (use-mobile, use-media-query, use-copy-to-clipboard).",
-  "domainId": "D4",
-  "itemCount": 204
- },
- {
-  "id": "C333",
-  "label": "Settings / Admin Panel",
-  "description": "Application settings, organization admin screens, tables, and modals.",
+  "id": "C425",
+  "label": "Stats",
+  "description": "Statistic blocks that surface key numeric metrics.",
   "domainId": "D0",
-  "itemCount": 203
+  "itemCount": 210
  },
  {
-  "id": "C31",
-  "label": "Bento Tile",
-  "description": "Individual tiles used inside bento-style landing grids.",
+  "id": "C181",
+  "label": "Table",
+  "description": "Basic tabular data display components.",
   "domainId": "D0",
   "itemCount": 202
  },
  {
-  "id": "C238",
-  "label": "Avatar",
-  "description": "Avatars, avatar groups, and stacks.",
-  "domainId": "D1",
-  "itemCount": 200
- },
- {
-  "id": "C179",
-  "label": "Dialog",
-  "description": "Modal dialog components in numbered variants.",
-  "domainId": "D1",
-  "itemCount": 196
- },
- {
-  "id": "C87",
-  "label": "Accordion",
-  "description": "Accordion expand/collapse components.",
-  "domainId": "D7",
-  "itemCount": 191
- },
- {
-  "id": "C280",
-  "label": "Contact Section",
-  "description": "Contact form and info sections in many variants.",
-  "domainId": "D5",
-  "itemCount": 190
- },
- {
-  "id": "C239",
-  "label": "FAQ",
-  "description": "Frequently-asked-questions sections.",
-  "domainId": "D5",
-  "itemCount": 185
- },
- {
-  "id": "C367",
-  "label": "AI Chat Input",
-  "description": "AI chat building blocks: prompt input, message, model selector, chat bubble.",
+  "id": "C350",
+  "label": "Card",
+  "description": "General card container components.",
   "domainId": "D4",
-  "itemCount": 183
+  "itemCount": 198
  },
  {
-  "id": "C374",
-  "label": "Scroll Effects",
-  "description": "Scroll-driven components: scroll areas, progress, velocity, and fade effects.",
+  "id": "C447",
+  "label": "Blog Section",
+  "description": "Blog listing and blog post preview sections.",
   "domainId": "D2",
-  "itemCount": 182
- },
- {
-  "id": "C6",
-  "label": "Country / Region Names",
-  "description": "Bare country and US-state name entries.",
-  "domainId": "D4",
-  "itemCount": 181
- },
- {
-  "id": "C365",
-  "label": "AI Chat Conversation",
-  "description": "Full AI chat conversation and chat interface components.",
-  "domainId": "D4",
-  "itemCount": 178
- },
- {
-  "id": "C265",
-  "label": "Alert",
-  "description": "Alert, callout, and alert-dialog notices.",
-  "domainId": "D1",
-  "itemCount": 173
+  "itemCount": 198
  },
  {
   "id": "C150",
-  "label": "Input",
-  "description": "Text input fields, including phone and grouped variants.",
+  "label": "Radio Group",
+  "description": "Radio button groups for single-choice selection.",
   "domainId": "D6",
+  "itemCount": 193
+ },
+ {
+  "id": "C98",
+  "label": "Carousel",
+  "description": "Image and content carousels.",
+  "domainId": "D1",
+  "itemCount": 189
+ },
+ {
+  "id": "C334",
+  "label": "Team Section",
+  "description": "Team member and staff profile sections.",
+  "domainId": "D2",
+  "itemCount": 189
+ },
+ {
+  "id": "C0",
+  "label": "Geographic Region",
+  "description": "Country and state map region components.",
+  "domainId": "D5",
+  "itemCount": 181
+ },
+ {
+  "id": "C224",
+  "label": "Checkbox",
+  "description": "Checkbox and checkbox-group input controls.",
+  "domainId": "D6",
+  "itemCount": 181
+ },
+ {
+  "id": "C1",
+  "label": "Geographic Data",
+  "description": "Country and state geographic data files.",
+  "domainId": "D5",
+  "itemCount": 180
+ },
+ {
+  "id": "C135",
+  "label": "Textarea",
+  "description": "Multi-line textarea input fields.",
+  "domainId": "D6",
+  "itemCount": 175
+ },
+ {
+  "id": "C117",
+  "label": "Calendar",
+  "description": "Calendar and date-range calendar components.",
+  "domainId": "D13",
   "itemCount": 172
  },
  {
-  "id": "C206",
-  "label": "Table",
-  "description": "Numbered table components.",
-  "domainId": "D7",
-  "itemCount": 171
- },
- {
-  "id": "C144",
-  "label": "Form Layout",
-  "description": "Multi-field form layouts and form field groups.",
-  "domainId": "D0",
+  "id": "C253",
+  "label": "FAQ",
+  "description": "Frequently-asked-questions accordion sections.",
+  "domainId": "D2",
   "itemCount": 170
  },
  {
-  "id": "C301",
-  "label": "Demo / Example",
-  "description": "Generic demo wrappers for animate, primitives, and community components.",
-  "domainId": "D2",
-  "itemCount": 168
+  "id": "C137",
+  "label": "Tooltip",
+  "description": "Tooltip and animated-tooltip components.",
+  "domainId": "D4",
+  "itemCount": 161
  },
  {
-  "id": "C357",
-  "label": "Card (Animated)",
-  "description": "Interactive cards with flip, expand and text-reveal effects.",
-  "domainId": "D12",
-  "itemCount": 166
- },
- {
-  "id": "C313",
-  "label": "Tabs",
-  "description": "Tab components, including animated and expandable variants.",
+  "id": "C89",
+  "label": "Game Audio",
+  "description": "Game UI sound effects like chimes, pops, and mode jingles.",
   "domainId": "D7",
-  "itemCount": 158
- },
- {
-  "id": "C223",
-  "label": "Feature Section",
-  "description": "Marketing feature sections and account/content blocks with CTAs.",
-  "domainId": "D0",
   "itemCount": 156
  },
  {
-  "id": "C103",
-  "label": "Misc UI / Adapters",
-  "description": "Assorted UI utilities, views, and framework adapters.",
-  "domainId": "D4",
-  "itemCount": 153
- },
- {
-  "id": "C255",
-  "label": "Stat Card",
-  "description": "Single-metric statistic cards for dashboards.",
+  "id": "C114",
+  "label": "Progress Bar",
+  "description": "Progress indicators including linear and circular variants.",
   "domainId": "D0",
   "itemCount": 153
  },
  {
-  "id": "C326",
-  "label": "Slider",
-  "description": "Range and image sliders in many styles (glass, circular, elastic, infinite).",
+  "id": "C155",
+  "label": "Integrations Section",
+  "description": "Third-party integrations showcase sections.",
   "domainId": "D2",
+  "itemCount": 153
+ },
+ {
+  "id": "C206",
+  "label": "Tabs",
+  "description": "Tabbed navigation and content-switching components.",
+  "domainId": "D9",
+  "itemCount": 153
+ },
+ {
+  "id": "C268",
+  "label": "Arrow Icon",
+  "description": "Directional arrow icons in various orientations.",
+  "domainId": "D11",
   "itemCount": 152
  },
  {
-  "id": "C297",
-  "label": "Spinner / Loader",
-  "description": "Loading spinners and progress indicators, including thinking and braille loaders.",
+  "id": "C382",
+  "label": "Background Pattern",
+  "description": "Animated background patterns and gradients.",
+  "domainId": "D1",
+  "itemCount": 147
+ },
+ {
+  "id": "C403",
+  "label": "Code Block",
+  "description": "Syntax-highlighted code snippet and command displays.",
+  "domainId": "D0",
+  "itemCount": 146
+ },
+ {
+  "id": "C294",
+  "label": "Input",
+  "description": "Text input fields including masked variants.",
+  "domainId": "D6",
+  "itemCount": 145
+ },
+ {
+  "id": "C411",
+  "label": "About Section",
+  "description": "About-us and company introduction sections.",
   "domainId": "D2",
-  "itemCount": 148
- },
- {
-  "id": "C77",
-  "label": "Sound Effect",
-  "description": "Game impact sound effects (explosions, dice shakes, chip collisions).",
-  "domainId": "D15",
-  "itemCount": 145
- },
- {
-  "id": "C203",
-  "label": "Chart",
-  "description": "Interactive data charts for logs, sales, and traffic.",
-  "domainId": "D3",
-  "itemCount": 145
- },
- {
-  "id": "C76",
-  "label": "Sound Effect",
-  "description": "UI and game click/switch sound effects (8bit clicks, hover ticks).",
-  "domainId": "D15",
   "itemCount": 144
  },
  {
-  "id": "C185",
-  "label": "Input Group",
-  "description": "Grouped input controls combining fields, addons, and buttons.",
-  "domainId": "D0",
+  "id": "C231",
+  "label": "Select",
+  "description": "Select dropdown input component variants.",
+  "domainId": "D13",
+  "itemCount": 142
+ },
+ {
+  "id": "C385",
+  "label": "Contact Section",
+  "description": "Contact form and contact info sections.",
+  "domainId": "D2",
+  "itemCount": 142
+ },
+ {
+  "id": "C103",
+  "label": "Accordion",
+  "description": "Expandable accordion panels for collapsible content.",
+  "domainId": "D9",
   "itemCount": 141
  },
  {
-  "id": "C58",
-  "label": "Progress Indicator",
-  "description": "Linear, circular, and ring progress bars.",
+  "id": "C342",
+  "label": "Comparison Table",
+  "description": "Product and pricing comparison tables and decision helpers.",
+  "domainId": "D10",
+  "itemCount": 141
+ },
+ {
+  "id": "C456",
+  "label": "Chat / Messaging",
+  "description": "Chat conversation UI with message bubbles and inputs.",
   "domainId": "D0",
   "itemCount": 140
  },
  {
-  "id": "C378",
-  "label": "Font / Typeface",
-  "description": "Sans-serif typefaces (ABeeZee, Abel, Acme, Albert Sans).",
+  "id": "C351",
+  "label": "Shader Effect",
+  "description": "WebGL shader-based visual effects.",
+  "domainId": "D1",
+  "itemCount": 137
+ },
+ {
+  "id": "C151",
+  "label": "Navbar",
+  "description": "Top navigation bar layouts.",
   "domainId": "D9",
-  "itemCount": 139
+  "itemCount": 135
  },
  {
-  "id": "C140",
-  "label": "Select",
-  "description": "Select and dropdown-choice form controls.",
-  "domainId": "D0",
-  "itemCount": 138
- },
- {
-  "id": "C312",
-  "label": "Team Section",
-  "description": "Team member and staff showcase sections.",
-  "domainId": "D5",
-  "itemCount": 136
- },
- {
-  "id": "C88",
-  "label": "Collapsible",
-  "description": "Collapsible and disclosure primitives across libraries.",
-  "domainId": "D7",
-  "itemCount": 134
- },
- {
-  "id": "C205",
-  "label": "Data Table",
-  "description": "Data tables with numbered variants.",
-  "domainId": "D7",
-  "itemCount": 134
- },
- {
-  "id": "C328",
-  "label": "Portfolio Showcase",
-  "description": "Portfolio and project showcase sections.",
-  "domainId": "D5",
+  "id": "C180",
+  "label": "Billing / Payment",
+  "description": "Billing, payment method, and receipt management components.",
+  "domainId": "D10",
   "itemCount": 133
  },
  {
-  "id": "C345",
-  "label": "Hover Card",
-  "description": "Hover and preview cards including link previews.",
-  "domainId": "D4",
-  "itemCount": 132
+  "id": "C221",
+  "label": "Glassmorphism",
+  "description": "Frosted glass styled UI components.",
+  "domainId": "D1",
+  "itemCount": 133
  },
  {
-  "id": "C368",
-  "label": "Code Block",
-  "description": "Syntax-highlighted code blocks, snippets, and command displays.",
-  "domainId": "D0",
+  "id": "C394",
+  "label": "Animated Text",
+  "description": "Text animation and splitting effects.",
+  "domainId": "D1",
+  "itemCount": 133
+ },
+ {
+  "id": "C40",
+  "label": "Collapsible",
+  "description": "Collapsible show/hide content containers.",
+  "domainId": "D9",
   "itemCount": 130
  },
  {
-  "id": "C96",
-  "label": "Calendar",
-  "description": "Calendar and range-calendar components in numbered variations.",
-  "domainId": "D14",
-  "itemCount": 129
- },
- {
-  "id": "C135",
-  "label": "Integrations Section",
-  "description": "Integration and app-connection showcase sections.",
-  "domainId": "D5",
-  "itemCount": 128
- },
- {
-  "id": "C204",
-  "label": "Dashboard",
-  "description": "Full dashboard layouts in numbered variations.",
-  "domainId": "D0",
-  "itemCount": 127
- },
- {
-  "id": "C272",
-  "label": "Tooltip",
-  "description": "Tooltips including animated variants and numbered sets.",
-  "domainId": "D4",
-  "itemCount": 127
- },
- {
-  "id": "C247",
-  "label": "Landing / Hero Section",
-  "description": "SaaS/startup landing heroes with parallax and themed variants.",
-  "domainId": "D5",
-  "itemCount": 126
- },
- {
-  "id": "C278",
+  "id": "C245",
   "label": "Timeline",
-  "description": "Vertical and horizontal timeline components.",
+  "description": "Vertical timelines listing chronological events.",
   "domainId": "D0",
+  "itemCount": 127
+ },
+ {
+  "id": "C82",
+  "label": "Empty State",
+  "description": "Empty-state layouts with cards and illustrations.",
+  "domainId": "D5",
   "itemCount": 126
  },
  {
-  "id": "C315",
-  "label": "Stats / Metrics Section",
-  "description": "By-the-numbers and KPI stat bands for marketing pages.",
-  "domainId": "D5",
-  "itemCount": 125
- },
- {
-  "id": "C11",
-  "label": "Country / Region Data",
-  "description": "Per-country data files (Africa, Algeria, Angola, Argentina, etc.).",
-  "domainId": "D3",
+  "id": "C63",
+  "label": "Sheet",
+  "description": "Slide-out sheet and bottom-sheet panels.",
+  "domainId": "D9",
   "itemCount": 124
  },
  {
-  "id": "C249",
-  "label": "Logo Cloud",
-  "description": "Trusted-by logo cloud sections.",
-  "domainId": "D5",
+  "id": "C239",
+  "label": "Button Group",
+  "description": "Grouped button controls for segmented actions.",
+  "domainId": "D6",
   "itemCount": 123
  },
  {
-  "id": "C307",
-  "label": "Sidebar / Navigation",
-  "description": "Sidebars and navbars including floating, glass, and resizable styles.",
-  "domainId": "D7",
-  "itemCount": 122
- },
- {
-  "id": "C370",
-  "label": "Motion Primitives / Effects",
-  "description": "Low-level animation primitives and effects (spring, blur, fade, image zoom).",
-  "domainId": "D2",
-  "itemCount": 122
- },
- {
-  "id": "C306",
-  "label": "Onboarding / Tour",
-  "description": "Onboarding flows, welcome dialogs, and product tours.",
+  "id": "C284",
+  "label": "Onboarding",
+  "description": "User onboarding flows and welcome dialogs.",
   "domainId": "D0",
-  "itemCount": 121
+  "itemCount": 122
  },
  {
-  "id": "C311",
-  "label": "About Section",
-  "description": "About-us page sections in many variants.",
+  "id": "C302",
+  "label": "Media Player",
+  "description": "Video, audio, and media player components.",
   "domainId": "D5",
+  "itemCount": 122
+ },
+ {
+  "id": "C438",
+  "label": "E-commerce Section",
+  "description": "General e-commerce store page sections and layouts.",
+  "domainId": "D10",
+  "itemCount": 122
+ },
+ {
+  "id": "C188",
+  "label": "Mobile App UI",
+  "description": "Brand-inspired mobile app interface templates.",
+  "domainId": "D8",
   "itemCount": 121
  },
  {
-  "id": "C168",
-  "label": "Animated Icons",
-  "description": "Animated icons with wiggle, shake, fade, and draw effects.",
-  "domainId": "D1",
+  "id": "C199",
+  "label": "Dropdown Menu",
+  "description": "Dropdown menus for contextual actions.",
+  "domainId": "D9",
+  "itemCount": 121
+ },
+ {
+  "id": "C208",
+  "label": "Switch",
+  "description": "On/off toggle switch controls.",
+  "domainId": "D3",
+  "itemCount": 121
+ },
+ {
+  "id": "C223",
+  "label": "Utility / Provider",
+  "description": "Providers, boundaries, and utility wrappers.",
+  "domainId": "D5",
   "itemCount": 120
  },
  {
-  "id": "C71",
-  "label": "Empty State",
-  "description": "Empty-state placeholders with cards, illustrations, and prompts.",
+  "id": "C300",
+  "label": "Button",
+  "description": "General-purpose button components.",
+  "domainId": "D3",
+  "itemCount": 119
+ },
+ {
+  "id": "C365",
+  "label": "Activity Feed",
+  "description": "Activity, audit log, and live event feeds.",
+  "domainId": "D0",
+  "itemCount": 119
+ },
+ {
+  "id": "C380",
+  "label": "Dialog",
+  "description": "Dialog components built on base, headless, and Radix primitives.",
+  "domainId": "D12",
+  "itemCount": 118
+ },
+ {
+  "id": "C457",
+  "label": "AI Tool",
+  "description": "AI-powered content generation and accessibility utilities.",
   "domainId": "D0",
   "itemCount": 117
  },
  {
-  "id": "C217",
-  "label": "Popover",
-  "description": "Popovers and floating panels across primitive libraries.",
-  "domainId": "D4",
+  "id": "C141",
+  "label": "Sidebar",
+  "description": "Sidebar navigation and layout components.",
+  "domainId": "D9",
+  "itemCount": 116
+ },
+ {
+  "id": "C418",
+  "label": "Button",
+  "description": "Action buttons including delete, reaction, and FAB variants.",
+  "domainId": "D3",
+  "itemCount": 116
+ },
+ {
+  "id": "C291",
+  "label": "Typography",
+  "description": "Text, heading, and prose typography components.",
+  "domainId": "D5",
   "itemCount": 115
  },
  {
-  "id": "C330",
-  "label": "Dropdown Menu",
-  "description": "Dropdown menu components in many numbered variations.",
-  "domainId": "D13",
+  "id": "C61",
+  "label": "Logo Cloud",
+  "description": "Logo cloud and partner-logo strip sections.",
+  "domainId": "D2",
   "itemCount": 114
  },
  {
-  "id": "C42",
-  "label": "Game Voiceover",
-  "description": "Game announcer voiceover clips and voice packs.",
-  "domainId": "D15",
+  "id": "C408",
+  "label": "Button",
+  "description": "Primitive and interactive button components.",
+  "domainId": "D3",
+  "itemCount": 114
+ },
+ {
+  "id": "C423",
+  "label": "Feature Section",
+  "description": "Feature sections with demos, terminals, and skeletons.",
+  "domainId": "D2",
   "itemCount": 112
  },
  {
-  "id": "C65",
-  "label": "Sound Effect",
-  "description": "Card and book handling sound effects (shuffle, flip, pack open).",
-  "domainId": "D15",
-  "itemCount": 111
- },
- {
-  "id": "C124",
-  "label": "Combobox",
-  "description": "Combobox and autocomplete components in numbered variations.",
-  "domainId": "D13",
-  "itemCount": 111
- },
- {
-  "id": "C142",
-  "label": "Button",
-  "description": "Numbered button variations plus cloud/auth button styles.",
-  "domainId": "D11",
-  "itemCount": 111
- },
- {
-  "id": "C252",
-  "label": "Billing / Settings",
-  "description": "Billing pages and account settings sections.",
-  "domainId": "D0",
-  "itemCount": 111
- },
- {
-  "id": "C310",
-  "label": "Gallery",
-  "description": "Image gallery and grid sections.",
-  "domainId": "D5",
-  "itemCount": 111
- },
- {
-  "id": "C134",
-  "label": "Editor Sample (Doc Blocks)",
-  "description": "React editor sample doc-block building pieces (bold, code, cursor, fonts).",
+  "id": "C364",
+  "label": "Animated Card",
+  "description": "Flip, 3D, wobble, and hover-effect cards.",
   "domainId": "D4",
-  "itemCount": 110
+  "itemCount": 111
  },
  {
-  "id": "C149",
-  "label": "Toggle",
-  "description": "Toggles, toggle groups and segmented controls across primitive libraries.",
-  "domainId": "D11",
-  "itemCount": 110
- },
- {
-  "id": "C79",
-  "label": "Date / Time Picker",
-  "description": "Calendar, date-field and time-picker demos with step and seconds options.",
-  "domainId": "D14",
-  "itemCount": 107
- },
- {
-  "id": "C110",
-  "label": "Button",
-  "description": "Numbered buttons alongside some avatar samples.",
-  "domainId": "D6",
-  "itemCount": 107
- },
- {
-  "id": "C305",
-  "label": "Button",
-  "description": "Button demos across variants, sizes, icons, toggle and segmented styles.",
-  "domainId": "D8",
-  "itemCount": 107
- },
- {
-  "id": "C4",
-  "label": "Font / Typeface",
-  "description": "Playwrite handwriting fonts and regional guide variants.",
-  "domainId": "D9",
-  "itemCount": 106
- },
- {
-  "id": "C37",
-  "label": "OTP Input",
-  "description": "One-time-password / verification code input fields.",
+  "id": "C413",
+  "label": "Settings",
+  "description": "Application settings panels for privacy, security, and more.",
   "domainId": "D0",
-  "itemCount": 106
+  "itemCount": 109
  },
  {
-  "id": "C95",
-  "label": "Date Picker",
-  "description": "Date, date-range, time and wheel picker components in variations.",
-  "domainId": "D14",
-  "itemCount": 106
+  "id": "C236",
+  "label": "Table",
+  "description": "Basic tabular data display components.",
+  "domainId": "D0",
+  "itemCount": 108
  },
  {
-  "id": "C143",
-  "label": "Button",
-  "description": "Sequentially numbered button component variants (p-button set).",
-  "domainId": "D11",
-  "itemCount": 106
+  "id": "C328",
+  "label": "Alert",
+  "description": "Inline alert components for status and notification messages.",
+  "domainId": "D12",
+  "itemCount": 108
  },
  {
-  "id": "C233",
-  "label": "Area Chart Example",
-  "description": "Area chart examples covering gradients, stacking, and curve types.",
-  "domainId": "D3",
-  "itemCount": 106
+  "id": "C183",
+  "label": "Dashboard",
+  "description": "Analytics dashboard layout templates.",
+  "domainId": "D0",
+  "itemCount": 107
  },
  {
-  "id": "C228",
+  "id": "C348",
   "label": "Stats Section",
-  "description": "Statistic sections showing multiple metrics together.",
-  "domainId": "D0",
-  "itemCount": 104
- },
- {
-  "id": "C258",
-  "label": "Demo / Example",
-  "description": "Demo wrappers for interactive widgets (dynamic island, floating panel, polls).",
+  "description": "Statistics, metrics, and social-proof number sections.",
   "domainId": "D2",
-  "itemCount": 104
+  "itemCount": 107
  },
  {
-  "id": "C235",
-  "label": "Newsletter Signup",
-  "description": "Newsletter subscription and email-capture sections.",
-  "domainId": "D5",
-  "itemCount": 103
- },
- {
-  "id": "C172",
-  "label": "Changelog",
-  "description": "Changelog and release-notes layouts.",
-  "domainId": "D0",
-  "itemCount": 102
- },
- {
-  "id": "C50",
-  "label": "Pagination",
-  "description": "Pagination controls in many variants.",
-  "domainId": "D7",
-  "itemCount": 101
- },
- {
-  "id": "C341",
-  "label": "Carousel",
-  "description": "Carousels in varied styles (feature, apple-cards, cube, linear).",
-  "domainId": "D2",
-  "itemCount": 99
- },
- {
-  "id": "C344",
-  "label": "Pricing Table",
-  "description": "Pricing cards and plan comparison tables.",
-  "domainId": "D0",
-  "itemCount": 99
- },
- {
-  "id": "C224",
-  "label": "App Shell",
-  "description": "Application shell layouts with sidebar and header scaffolding.",
-  "domainId": "D0",
-  "itemCount": 98
- },
- {
-  "id": "C385",
-  "label": "Arrow / Pointer",
-  "description": "Arrow, pointer, and directional indicator elements.",
-  "domainId": "D4",
-  "itemCount": 98
- },
- {
-  "id": "C12",
-  "label": "Dot Matrix Grid",
-  "description": "Numbered dot-matrix square pattern variations.",
-  "domainId": "D2",
-  "itemCount": 97
- },
- {
-  "id": "C40",
-  "label": "OG Image",
-  "description": "Open Graph social share image templates.",
-  "domainId": "D1",
-  "itemCount": 97
- },
- {
-  "id": "C263",
-  "label": "Dialog",
-  "description": "Dialog components across base, headless, and Radix libraries.",
-  "domainId": "D4",
-  "itemCount": 97
- },
- {
-  "id": "C234",
-  "label": "Chart Example",
-  "description": "Mixed chart examples (area, bar, combo) in card layouts.",
-  "domainId": "D3",
-  "itemCount": 96
+  "id": "C51",
+  "label": "Input OTP",
+  "description": "One-time-password segmented input fields.",
+  "domainId": "D6",
+  "itemCount": 106
  },
  {
   "id": "C379",
-  "label": "Editor / Content Kit",
-  "description": "Editor and content-rendering kit pieces (renderer, packs, suggestions).",
+  "label": "Blur Reveal",
+  "description": "Blur-based reveal and fade transitions.",
+  "domainId": "D1",
+  "itemCount": 106
+ },
+ {
+  "id": "C424",
+  "label": "Stat Card",
+  "description": "Cards displaying a single headline statistic.",
+  "domainId": "D0",
+  "itemCount": 105
+ },
+ {
+  "id": "C378",
+  "label": "Editor / Markdown",
+  "description": "Markdown editors and content renderers.",
+  "domainId": "D5",
+  "itemCount": 104
+ },
+ {
+  "id": "C101",
+  "label": "App Shell",
+  "description": "Application shell layouts framing page structure.",
+  "domainId": "D9",
+  "itemCount": 103
+ },
+ {
+  "id": "C410",
+  "label": "Gallery",
+  "description": "Image gallery grid sections.",
+  "domainId": "D2",
+  "itemCount": 103
+ },
+ {
+  "id": "C26",
+  "label": "Pagination",
+  "description": "Pagination controls for navigating paged content.",
+  "domainId": "D9",
+  "itemCount": 102
+ },
+ {
+  "id": "C84",
+  "label": "Breadcrumb",
+  "description": "Breadcrumb navigation trails showing the user's location in a page hierarchy.",
+  "domainId": "D9",
+  "itemCount": 102
+ },
+ {
+  "id": "C384",
+  "label": "Reveal Animation",
+  "description": "Scroll and text reveal animations.",
+  "domainId": "D1",
+  "itemCount": 101
+ },
+ {
+  "id": "C56",
+  "label": "Theme",
+  "description": "Color theme presets and palettes.",
+  "domainId": "D8",
+  "itemCount": 100
+ },
+ {
+  "id": "C248",
+  "label": "Input Field",
+  "description": "Specialized inputs such as phone, masked, and speech inputs.",
+  "domainId": "D6",
+  "itemCount": 100
+ },
+ {
+  "id": "C36",
+  "label": "Skeleton",
+  "description": "Loading skeleton and shimmer placeholders.",
+  "domainId": "D5",
+  "itemCount": 99
+ },
+ {
+  "id": "C161",
+  "label": "Spinner",
+  "description": "Loading spinner components.",
+  "domainId": "D1",
+  "itemCount": 99
+ },
+ {
+  "id": "C244",
+  "label": "Changelog",
+  "description": "Product changelog and release note sections.",
+  "domainId": "D0",
+  "itemCount": 99
+ },
+ {
+  "id": "C263",
+  "label": "Input Group",
+  "description": "Composite input groups combining inputs with addons.",
+  "domainId": "D6",
+  "itemCount": 99
+ },
+ {
+  "id": "C33",
+  "label": "Separator / Divider",
+  "description": "Horizontal or vertical dividers used to separate content sections.",
+  "domainId": "D9",
+  "itemCount": 97
+ },
+ {
+  "id": "C64",
+  "label": "OG Image",
+  "description": "Open Graph social preview image templates.",
+  "domainId": "D2",
+  "itemCount": 96
+ },
+ {
+  "id": "C125",
+  "label": "Color Picker",
+  "description": "Color picker, swatch, and palette selectors.",
+  "domainId": "D5",
+  "itemCount": 96
+ },
+ {
+  "id": "C322",
+  "label": "Card Stack",
+  "description": "Stacked, layered, and draggable card decks.",
   "domainId": "D4",
   "itemCount": 96
  },
  {
-  "id": "C24",
-  "label": "Toast",
-  "description": "Toast and sonner notification components.",
-  "domainId": "D1",
-  "itemCount": 95
- },
- {
-  "id": "C260",
-  "label": "Careers Section",
-  "description": "Careers and job-listing page sections.",
-  "domainId": "D5",
-  "itemCount": 95
- },
- {
-  "id": "C101",
-  "label": "File Upload (Numbered Set)",
-  "description": "Numbered file-upload component variants.",
-  "domainId": "D4",
-  "itemCount": 94
- },
- {
-  "id": "C294",
-  "label": "Text / Show More",
-  "description": "Text and expandable show-more examples with links and controlled states.",
+  "id": "C10",
+  "label": "Font / Typeface",
+  "description": "Playwrite handwriting font families with guides.",
   "domainId": "D8",
+  "itemCount": 95
+ },
+ {
+  "id": "C227",
+  "label": "Toggle / Switch",
+  "description": "Switch, toggle, and toggle-group primitives.",
+  "domainId": "D3",
+  "itemCount": 95
+ },
+ {
+  "id": "C24",
+  "label": "Game Voiceover",
+  "description": "Combat and announcer voiceover clips for games.",
+  "domainId": "D7",
   "itemCount": 94
  },
  {
-  "id": "C98",
-  "label": "Brand Template",
-  "description": "SaaS and developer brand templates (Airbyte, Appwrite, Astro, Axiom).",
-  "domainId": "D10",
-  "itemCount": 93
+  "id": "C361",
+  "label": "Badge",
+  "description": "Badge component variants.",
+  "domainId": "D5",
+  "itemCount": 94
  },
  {
-  "id": "C337",
-  "label": "Card",
-  "description": "Content cards including product, profile, credit and security cards.",
+  "id": "C450",
+  "label": "Portfolio",
+  "description": "Portfolio and agency showcase pages.",
+  "domainId": "D2",
+  "itemCount": 94
+ },
+ {
+  "id": "C19",
+  "label": "Toast",
+  "description": "Toast notification components with animations and actions.",
   "domainId": "D12",
   "itemCount": 93
  },
  {
-  "id": "C159",
-  "label": "Banner / Announcement Bar",
-  "description": "Top-of-page banners and announcement bars.",
-  "domainId": "D5",
+  "id": "C237",
+  "label": "Select",
+  "description": "Select inputs including native, floating, and lazy variants.",
+  "domainId": "D13",
+  "itemCount": 93
+ },
+ {
+  "id": "C399",
+  "label": "Landing Page",
+  "description": "SaaS and marketing landing pages.",
+  "domainId": "D2",
+  "itemCount": 93
+ },
+ {
+  "id": "C100",
+  "label": "UI Sound Effect",
+  "description": "Interface click, hover, and toggle sound effects.",
+  "domainId": "D7",
+  "itemCount": 92
+ },
+ {
+  "id": "C144",
+  "label": "Combobox",
+  "description": "Combobox components combining input with a searchable dropdown.",
+  "domainId": "D13",
+  "itemCount": 92
+ },
+ {
+  "id": "C320",
+  "label": "Scroll Area",
+  "description": "Scrollable area containers.",
+  "domainId": "D1",
   "itemCount": 92
  },
  {
   "id": "C362",
-  "label": "Shader / Visualizer",
-  "description": "Shader-based visual effects and audio visualizers (orbit, spiral, swirl, halo).",
-  "domainId": "D2",
+  "label": "Animation Primitives",
+  "description": "Low-level animation and effect primitives.",
+  "domainId": "D1",
   "itemCount": 92
  },
  {
-  "id": "C19",
-  "label": "Color Theme",
-  "description": "Named color themes and palettes (emerald, midnight, zinc, slate, stone).",
-  "domainId": "D10",
+  "id": "C367",
+  "label": "Dialog",
+  "description": "Numbered dialog component variants.",
+  "domainId": "D12",
   "itemCount": 91
  },
  {
-  "id": "C48",
-  "label": "Separator / Divider",
-  "description": "Separators and dividers, including full-width variants.",
-  "domainId": "D7",
+  "id": "C402",
+  "label": "Animated Button",
+  "description": "Shimmer, shiny, glow, and rainbow animated buttons.",
+  "domainId": "D3",
   "itemCount": 91
  },
  {
-  "id": "C20",
-  "label": "Terminal / Theme",
-  "description": "Terminal UI themes and OpenTUI theme provider/type modules.",
-  "domainId": "D10",
+  "id": "C452",
+  "label": "Action Icon",
+  "description": "Action icons like plus, pause, and maximize.",
+  "domainId": "D11",
   "itemCount": 89
  },
  {
-  "id": "C44",
-  "label": "Breadcrumb",
-  "description": "Breadcrumb navigation components.",
-  "domainId": "D7",
-  "itemCount": 89
- },
- {
-  "id": "C126",
+  "id": "C140",
   "label": "Sidebar",
-  "description": "Numbered sidebar layout variants.",
-  "domainId": "D7",
+  "description": "Collapsible side navigation panels for app layouts.",
+  "domainId": "D9",
   "itemCount": 88
  },
  {
-  "id": "C148",
-  "label": "Theme Toggle",
-  "description": "Theme toggle, switcher and provider components for dark/light mode.",
-  "domainId": "D11",
-  "itemCount": 88
- },
- {
-  "id": "C231",
-  "label": "Stepper",
-  "description": "Multi-step progress steppers and step-based flows.",
-  "domainId": "D0",
-  "itemCount": 88
- },
- {
-  "id": "C152",
-  "label": "Select",
-  "description": "Select dropdowns including native and form variants.",
-  "domainId": "D6",
+  "id": "C57",
+  "label": "Theme",
+  "description": "Terminal and TUI theme presets (Catppuccin, OpenTUI, Ink).",
+  "domainId": "D8",
   "itemCount": 87
  },
  {
-  "id": "C161",
-  "label": "Checkbox",
-  "description": "Checkbox and radio primitives across Radix, Base and Headless libraries.",
-  "domainId": "D11",
+  "id": "C105",
+  "label": "Loader",
+  "description": "Loading indicators and loading screens.",
+  "domainId": "D1",
   "itemCount": 87
- },
- {
-  "id": "C0",
-  "label": "Sound Effect",
-  "description": "Numbered jingle-hit audio stinger clips.",
-  "domainId": "D15",
-  "itemCount": 85
- },
- {
-  "id": "C198",
-  "label": "Booking / Availability",
-  "description": "Availability calendars, booking slots and scheduling sections.",
-  "domainId": "D14",
-  "itemCount": 85
- },
- {
-  "id": "C237",
-  "label": "Avatar",
-  "description": "Numbered avatar component variants.",
-  "domainId": "D1",
-  "itemCount": 85
- },
- {
-  "id": "C299",
-  "label": "List",
-  "description": "Sortable, swipeable, and member list components.",
-  "domainId": "D0",
-  "itemCount": 85
- },
- {
-  "id": "C36",
-  "label": "AI Agent Templates",
-  "description": "Prebuilt AI agent templates (browser agent, chat-with-pdf, deep search).",
-  "domainId": "D4",
-  "itemCount": 84
- },
- {
-  "id": "C81",
-  "label": "Drawer",
-  "description": "Slide-out drawers, including magnetic and family variants.",
-  "domainId": "D7",
-  "itemCount": 84
- },
- {
-  "id": "C187",
-  "label": "Badge",
-  "description": "Numbered badge component variants including availability badges.",
-  "domainId": "D1",
-  "itemCount": 84
- },
- {
-  "id": "C219",
-  "label": "Card",
-  "description": "Card demos and section blocks (expandable cards, booking, CTA, FAQ).",
-  "domainId": "D12",
-  "itemCount": 84
- },
- {
-  "id": "C338",
-  "label": "Card",
-  "description": "Sequentially numbered card component variants.",
-  "domainId": "D12",
-  "itemCount": 84
- },
- {
-  "id": "C116",
-  "label": "Logo",
-  "description": "Brand logos and QR code marks.",
-  "domainId": "D1",
-  "itemCount": 82
- },
- {
-  "id": "C319",
-  "label": "Dropdown / Filter Menu",
-  "description": "Dropdown filter menus with status, priority, checkbox and range options.",
-  "domainId": "D13",
-  "itemCount": 82
- },
- {
-  "id": "C192",
-  "label": "Glassmorphism Set",
-  "description": "Glass/liquid-glass styled components (cards, buttons, inputs, badges, selects).",
-  "domainId": "D2",
-  "itemCount": 81
- },
- {
-  "id": "C300",
-  "label": "Interactive Menu / Overlay",
-  "description": "Interactive shells like dynamic island, radial nav, and notification center.",
-  "domainId": "D2",
-  "itemCount": 81
- },
- {
-  "id": "C304",
-  "label": "Comparison Section",
-  "description": "Product comparison and feature-versus sections.",
-  "domainId": "D5",
-  "itemCount": 81
- },
- {
-  "id": "C327",
-  "label": "Portfolio Experience / Timeline",
-  "description": "Portfolio career timelines, journeys, and skills sections.",
-  "domainId": "D5",
-  "itemCount": 81
- },
- {
-  "id": "C369",
-  "label": "Animated List",
-  "description": "Animated and pinned lists including notification and todo lists.",
-  "domainId": "D2",
-  "itemCount": 81
- },
- {
-  "id": "C381",
-  "label": "Grid Pattern",
-  "description": "Animated grid and dot-grid background patterns.",
-  "domainId": "D2",
-  "itemCount": 81
- },
- {
-  "id": "C33",
-  "label": "Mobile App UI",
-  "description": "Mobile app UI kits for popular brands (Airbnb, Asana, Bumble, Calm).",
-  "domainId": "D10",
-  "itemCount": 80
- },
- {
-  "id": "C59",
-  "label": "Auth / Backend Integration",
-  "description": "Next.js auth and backend wiring (Supabase, Clerk, middleware, OAuth).",
-  "domainId": "D4",
-  "itemCount": 80
- },
- {
-  "id": "C181",
-  "label": "Animated Number",
-  "description": "Animated numeric tickers and counting/sliding number displays.",
-  "domainId": "D2",
-  "itemCount": 80
- },
- {
-  "id": "C196",
-  "label": "Command Palette",
-  "description": "Command palette and command-menu components with demos and variants.",
-  "domainId": "D13",
-  "itemCount": 79
- },
- {
-  "id": "C309",
-  "label": "Agency / Marketing Section",
-  "description": "Agency and marketing sections with scroll reveals and CTAs.",
-  "domainId": "D5",
-  "itemCount": 79
- },
- {
-  "id": "C167",
-  "label": "Demo / Example",
-  "description": "Demo wrappers for steppers, sliders, spinners, and carousels.",
-  "domainId": "D2",
-  "itemCount": 78
- },
- {
-  "id": "C373",
-  "label": "Utilities / Helpers",
-  "description": "Shared utility helpers (cn utils, variants, merge-props, providers).",
-  "domainId": "D4",
-  "itemCount": 78
- },
- {
-  "id": "C54",
-  "label": "Slider (Numbered Set)",
-  "description": "Numbered slider variants from a pre-built component set.",
-  "domainId": "D2",
-  "itemCount": 77
- },
- {
-  "id": "C70",
-  "label": "Navbar",
-  "description": "Top navigation bars in many numbered variants.",
-  "domainId": "D5",
-  "itemCount": 77
- },
- {
-  "id": "C47",
-  "label": "Skeleton Loader",
-  "description": "Skeleton and shimmer loading placeholders.",
-  "domainId": "D0",
-  "itemCount": 76
- },
- {
-  "id": "C64",
-  "label": "Page Sections",
-  "description": "Marketing page sections (hero, CTA) in numbered variants.",
-  "domainId": "D4",
-  "itemCount": 76
- },
- {
-  "id": "C151",
-  "label": "Form Field / Label",
-  "description": "Form fields, labels, fieldsets, and validation states.",
-  "domainId": "D6",
-  "itemCount": 76
- },
- {
-  "id": "C358",
-  "label": "Font / Typeface",
-  "description": "CJK-focused typefaces (Aoboshi One, BIZ UDMincho, Chiron Hei HK).",
-  "domainId": "D9",
-  "itemCount": 76
- },
- {
-  "id": "C91",
-  "label": "Timeline",
-  "description": "Timeline components with vertical, alternating, and activity-feed styles.",
-  "domainId": "D4",
-  "itemCount": 75
- },
- {
-  "id": "C184",
-  "label": "Input Field",
-  "description": "Text input form fields in many variants.",
-  "domainId": "D0",
-  "itemCount": 75
- },
- {
-  "id": "C253",
-  "label": "Payment / Checkout",
-  "description": "Payment methods, payment details, and booking screens.",
-  "domainId": "D0",
-  "itemCount": 75
- },
- {
-  "id": "C314",
-  "label": "Portfolio Hero",
-  "description": "Portfolio hero and hire-me banner sections.",
-  "domainId": "D5",
-  "itemCount": 75
- },
- {
-  "id": "C226",
-  "label": "Checkbox / List",
-  "description": "Checkbox and list-group components with grouping and validation.",
-  "domainId": "D6",
-  "itemCount": 74
- },
- {
-  "id": "C352",
-  "label": "Card Stack",
-  "description": "Stacked, draggable and deck-style card collections.",
-  "domainId": "D12",
-  "itemCount": 74
- },
- {
-  "id": "C158",
-  "label": "Hero Section",
-  "description": "Landing-page hero sections.",
-  "domainId": "D0",
-  "itemCount": 73
- },
- {
-  "id": "C268",
-  "label": "Developer Tools",
-  "description": "Devtool-style panels including diff viewers and API inspectors.",
-  "domainId": "D0",
-  "itemCount": 73
- },
- {
-  "id": "C340",
-  "label": "Font / Typeface",
-  "description": "Gothic, Baskerville and legibility typefaces (BIZ UDGothic, Atkinson).",
-  "domainId": "D9",
-  "itemCount": 73
- },
- {
-  "id": "C364",
-  "label": "Demo / Example",
-  "description": "Scroll-and-scroller focused demo wrappers.",
-  "domainId": "D2",
-  "itemCount": 72
- },
- {
-  "id": "C111",
-  "label": "UI Component Kit",
-  "description": "shadcn/oui primitives: calendar, button, checkbox, and groups.",
-  "domainId": "D6",
-  "itemCount": 71
  },
  {
   "id": "C121",
-  "label": "Custom Cursor",
-  "description": "Custom and simulated cursor components and animate primitives.",
-  "domainId": "D2",
-  "itemCount": 71
- },
- {
-  "id": "C176",
-  "label": "Toolbar",
-  "description": "Toolbars and action bars (floating, radial, expandable, filters).",
+  "label": "Popover",
+  "description": "Popover primitive components.",
   "domainId": "D4",
-  "itemCount": 71
+  "itemCount": 87
  },
  {
-  "id": "C266",
-  "label": "Textarea",
-  "description": "Textarea examples covering controlled, disabled, readonly and autocomplete states.",
-  "domainId": "D8",
-  "itemCount": 71
+  "id": "C139",
+  "label": "Dropdown Menu",
+  "description": "Dropdown menus with filtering, search, and notification options.",
+  "domainId": "D9",
+  "itemCount": 87
  },
  {
-  "id": "C317",
-  "label": "Tabs",
-  "description": "Tab bars and bottom-tab navigation variants.",
-  "domainId": "D7",
-  "itemCount": 71
- },
- {
-  "id": "C389",
-  "label": "Media Player",
-  "description": "Video, audio, and media player components with providers and controls.",
+  "id": "C70",
+  "label": "Newsletter Signup",
+  "description": "Newsletter subscription and signup sections.",
   "domainId": "D2",
-  "itemCount": 71
- },
- {
-  "id": "C62",
-  "label": "Area Chart Variants",
-  "description": "Area chart variants (axes, gradient, interactive, legend, stacked).",
-  "domainId": "D3",
-  "itemCount": 70
- },
- {
-  "id": "C123",
-  "label": "Tag / Search Input",
-  "description": "Tag inputs, chips, and search fields.",
-  "domainId": "D6",
-  "itemCount": 70
- },
- {
-  "id": "C201",
-  "label": "Button",
-  "description": "Uiable button variants: default, destructive, ghost, and icon styles.",
-  "domainId": "D6",
-  "itemCount": 70
- },
- {
-  "id": "C354",
-  "label": "Demo / Example",
-  "description": "Generic example wrappers for agent, chat, and attachment demos.",
-  "domainId": "D0",
-  "itemCount": 70
- },
- {
-  "id": "C100",
-  "label": "File Upload / Dropzone",
-  "description": "File upload, dropzone, and picker components with progress.",
-  "domainId": "D4",
-  "itemCount": 69
- },
- {
-  "id": "C322",
-  "label": "Markdown / Document",
-  "description": "Markdown rendering, headings, table of contents, and page headers.",
-  "domainId": "D4",
-  "itemCount": 69
- },
- {
-  "id": "C386",
-  "label": "Shimmer Text",
-  "description": "Shimmering and sweeping text effects.",
-  "domainId": "D2",
-  "itemCount": 69
- },
- {
-  "id": "C35",
-  "label": "Documentation",
-  "description": "Docs and editor documentation content (Plate, Fumadocs, debugging).",
-  "domainId": "D4",
-  "itemCount": 68
- },
- {
-  "id": "C45",
-  "label": "Breadcrumb",
-  "description": "Numbered p-prefixed breadcrumb variants.",
-  "domainId": "D7",
-  "itemCount": 68
- },
- {
-  "id": "C74",
-  "label": "Resizable Panels",
-  "description": "Resizable split panels and layout shells.",
-  "domainId": "D7",
-  "itemCount": 68
- },
- {
-  "id": "C92",
-  "label": "Timer / Clock",
-  "description": "Timers, countdowns, and clock components (flip clock, alarm).",
-  "domainId": "D4",
-  "itemCount": 68
- },
- {
-  "id": "C109",
-  "label": "Status Indicator",
-  "description": "Status pages and system-status indicators.",
-  "domainId": "D0",
-  "itemCount": 68
- },
- {
-  "id": "C169",
-  "label": "Icon Set",
-  "description": "Directional arrow and chevron icons.",
-  "domainId": "D1",
-  "itemCount": 68
- },
- {
-  "id": "C67",
-  "label": "Background Pattern",
-  "description": "Decorative backgrounds using lines, dots, grids, and shooting stars.",
-  "domainId": "D2",
-  "itemCount": 67
- },
- {
-  "id": "C259",
-  "label": "Notifications",
-  "description": "Notification lists and confirmation request panels.",
-  "domainId": "D0",
-  "itemCount": 67
- },
- {
-  "id": "C29",
-  "label": "Combobox (Custom Actions)",
-  "description": "Comboboxes with custom actions plus command and form-field variants.",
-  "domainId": "D13",
-  "itemCount": 66
- },
- {
-  "id": "C94",
-  "label": "Button Group",
-  "description": "Numbered button-group component variants.",
-  "domainId": "D11",
-  "itemCount": 66
- },
- {
-  "id": "C132",
-  "label": "Toggle Group",
-  "description": "Sequentially numbered toggle-group component variants.",
-  "domainId": "D11",
-  "itemCount": 66
- },
- {
-  "id": "C156",
-  "label": "Switch",
-  "description": "Switch components across primitive libraries plus team/form switchers.",
-  "domainId": "D11",
-  "itemCount": 66
- },
- {
-  "id": "C329",
-  "label": "Activity Feed",
-  "description": "Activity feeds, audit logs, and live log streams.",
-  "domainId": "D0",
-  "itemCount": 66
- },
- {
-  "id": "C376",
-  "label": "Light / Ray Effects",
-  "description": "Light-ray, lightning, and glow shader effects.",
-  "domainId": "D2",
-  "itemCount": 66
- },
- {
-  "id": "C145",
-  "label": "Cookie Consent / Legal",
-  "description": "Cookie consent banners and legal-notice sections.",
-  "domainId": "D5",
-  "itemCount": 65
- },
- {
-  "id": "C211",
-  "label": "Keyboard Key (Kbd)",
-  "description": "Kbd, command and dialog keyboard-shortcut component variants.",
-  "domainId": "D13",
-  "itemCount": 65
- },
- {
-  "id": "C229",
-  "label": "Stats Section",
-  "description": "Numbered statistic sections displaying KPI groups.",
-  "domainId": "D0",
-  "itemCount": 65
+  "itemCount": 86
  },
  {
   "id": "C287",
-  "label": "Blog Section",
-  "description": "Marketing-pro blog sections: card grids, editorial lists, featured posts.",
-  "domainId": "D5",
-  "itemCount": 65
+  "label": "Search / Filters",
+  "description": "Search bars, chips, and filter controls.",
+  "domainId": "D0",
+  "itemCount": 86
  },
  {
-  "id": "C41",
-  "label": "Game Audio",
-  "description": "Arcade game sound cues (game over, victory, coin collect, power-up).",
-  "domainId": "D15",
-  "itemCount": 64
+  "id": "C343",
+  "label": "Alert Dialog",
+  "description": "Confirmation alert dialogs built on various UI primitives.",
+  "domainId": "D12",
+  "itemCount": 86
  },
  {
-  "id": "C52",
-  "label": "Tailwind Component Set",
-  "description": "Tailwind-styled component set (buttons, calendar, checkbox, breadcrumbs).",
-  "domainId": "D4",
-  "itemCount": 64
+  "id": "C66",
+  "label": "Drawer",
+  "description": "Slide-out drawer panels for actions and secondary content.",
+  "domainId": "D9",
+  "itemCount": 85
  },
  {
-  "id": "C262",
-  "label": "Modal",
-  "description": "Modals in varied styles (morphing, responsive, animated, glass).",
-  "domainId": "D4",
-  "itemCount": 64
- },
- {
-  "id": "C293",
-  "label": "Event Section",
-  "description": "Event and booking listing sections.",
-  "domainId": "D5",
-  "itemCount": 64
- },
- {
-  "id": "C331",
-  "label": "Navigation Menu",
-  "description": "Navigation menus, menubars and header navigation components.",
+  "id": "C126",
+  "label": "Calendar",
+  "description": "Calendar and date-selection component variants.",
   "domainId": "D13",
-  "itemCount": 64
+  "itemCount": 85
  },
  {
-  "id": "C355",
-  "label": "Marquee",
-  "description": "Scrolling marquees (3D, infinite, perspective) for logos and banners.",
-  "domainId": "D2",
-  "itemCount": 64
- },
- {
-  "id": "C27",
-  "label": "Data Grid",
-  "description": "Data grid and framed table components.",
-  "domainId": "D0",
-  "itemCount": 63
- },
- {
-  "id": "C250",
-  "label": "Team Section",
-  "description": "Team member showcase sections.",
-  "domainId": "D0",
-  "itemCount": 63
- },
- {
-  "id": "C2",
-  "label": "Veil Landing Blocks",
-  "description": "Veil-themed marketing blocks (CTAs, cards, logos, call-to-action).",
-  "domainId": "D0",
-  "itemCount": 62
- },
- {
-  "id": "C346",
+  "id": "C131",
   "label": "Map",
-  "description": "Maps and world maps with markers and location pointers.",
-  "domainId": "D4",
-  "itemCount": 62
+  "description": "World map and map pointer components.",
+  "domainId": "D5",
+  "itemCount": 85
+ },
+ {
+  "id": "C313",
+  "label": "Data Viewer",
+  "description": "JSON, PDF, and schema viewer panels.",
+  "domainId": "D5",
+  "itemCount": 85
+ },
+ {
+  "id": "C341",
+  "label": "Particle Effect",
+  "description": "Particle, meteor, and confetti animations.",
+  "domainId": "D1",
+  "itemCount": 85
+ },
+ {
+  "id": "C353",
+  "label": "Careers Section",
+  "description": "Careers and job-listing sections.",
+  "domainId": "D2",
+  "itemCount": 85
+ },
+ {
+  "id": "C17",
+  "label": "AI Agent",
+  "description": "Prebuilt AI agent tools and automation workflows.",
+  "domainId": "D0",
+  "itemCount": 84
  },
  {
   "id": "C86",
-  "label": "Calendar",
-  "description": "Sequentially numbered calendar component variants (p-calendar set).",
-  "domainId": "D14",
-  "itemCount": 61
+  "label": "File Upload",
+  "description": "File upload, picker, and thumbnail components.",
+  "domainId": "D5",
+  "itemCount": 84
  },
  {
-  "id": "C117",
-  "label": "Brand Logo",
-  "description": "Third-party brand and service logos (Algolia, Auth0, Cloudflare).",
+  "id": "C162",
+  "label": "Animated Number",
+  "description": "Animated number counters and tickers.",
   "domainId": "D1",
-  "itemCount": 61
- },
- {
-  "id": "C118",
-  "label": "Brand Logo",
-  "description": "Third-party brand and framework logos (Astro, Bun, ByteDance).",
-  "domainId": "D1",
-  "itemCount": 61
+  "itemCount": 84
  },
  {
   "id": "C325",
-  "label": "Input Group",
-  "description": "Input-group components combining icons, text, buttons, tooltips and spinners.",
-  "domainId": "D8",
+  "label": "Banner",
+  "description": "Promotional and page banner sections.",
+  "domainId": "D2",
+  "itemCount": 84
+ },
+ {
+  "id": "C357",
+  "label": "Timeline / Process Steps",
+  "description": "Story timelines and step-by-step process sections.",
+  "domainId": "D2",
+  "itemCount": 84
+ },
+ {
+  "id": "C97",
+  "label": "Timeline",
+  "description": "Timeline component variants and activity feeds.",
+  "domainId": "D0",
+  "itemCount": 83
+ },
+ {
+  "id": "C182",
+  "label": "Theme Toggle",
+  "description": "Dark/light theme switchers and providers.",
+  "domainId": "D3",
+  "itemCount": 83
+ },
+ {
+  "id": "C310",
+  "label": "Toolbar",
+  "description": "Floating and selection toolbars.",
+  "domainId": "D3",
+  "itemCount": 83
+ },
+ {
+  "id": "C317",
+  "label": "Icon Set",
+  "description": "Animated icon collection.",
+  "domainId": "D1",
+  "itemCount": 83
+ },
+ {
+  "id": "C429",
+  "label": "Order Tracking",
+  "description": "E-commerce delivery and parcel tracking components.",
+  "domainId": "D10",
+  "itemCount": 82
+ },
+ {
+  "id": "C78",
+  "label": "Utility",
+  "description": "Utility helpers, slots, and type converters.",
+  "domainId": "D5",
+  "itemCount": 80
+ },
+ {
+  "id": "C315",
+  "label": "Tree View",
+  "description": "File tree and tree-view components.",
+  "domainId": "D5",
+  "itemCount": 79
+ },
+ {
+  "id": "C266",
+  "label": "Label",
+  "description": "Form labels and labeled input pairings.",
+  "domainId": "D6",
+  "itemCount": 78
+ },
+ {
+  "id": "C271",
+  "label": "Stepper",
+  "description": "Multi-step progress steppers and step indicators.",
+  "domainId": "D0",
+  "itemCount": 78
+ },
+ {
+  "id": "C404",
+  "label": "Card",
+  "description": "Feature and radial card variants.",
+  "domainId": "D4",
+  "itemCount": 77
+ },
+ {
+  "id": "C197",
+  "label": "Date Picker",
+  "description": "Date, date-range, month, and year picker components.",
+  "domainId": "D13",
+  "itemCount": 76
+ },
+ {
+  "id": "C427",
+  "label": "File & Folder Icon",
+  "description": "File, folder, lock, and storage-related icons.",
+  "domainId": "D11",
+  "itemCount": 76
+ },
+ {
+  "id": "C458",
+  "label": "AI Chat",
+  "description": "AI chat conversation interfaces with streaming text.",
+  "domainId": "D0",
+  "itemCount": 76
+ },
+ {
+  "id": "C257",
+  "label": "Alert",
+  "description": "Dismissible alert and notice components.",
+  "domainId": "D3",
+  "itemCount": 75
+ },
+ {
+  "id": "C398",
+  "label": "Event Section",
+  "description": "Event and education-focused sections.",
+  "domainId": "D2",
+  "itemCount": 74
+ },
+ {
+  "id": "C409",
+  "label": "Portfolio Showcase",
+  "description": "Agency, portfolio, and project showcase sections.",
+  "domainId": "D2",
+  "itemCount": 74
+ },
+ {
+  "id": "C229",
+  "label": "Cursor",
+  "description": "Custom and animated cursor effects.",
+  "domainId": "D1",
+  "itemCount": 73
+ },
+ {
+  "id": "C363",
+  "label": "Alert Dialog",
+  "description": "Confirmation and destructive-action alert dialogs.",
+  "domainId": "D12",
+  "itemCount": 73
+ },
+ {
+  "id": "C359",
+  "label": "Documentation",
+  "description": "Docs pages and documentation renderers.",
+  "domainId": "D5",
+  "itemCount": 71
+ },
+ {
+  "id": "C79",
+  "label": "Keyboard Key (Kbd)",
+  "description": "Kbd, keyboard, and macbook-keyboard components.",
+  "domainId": "D5",
+  "itemCount": 70
+ },
+ {
+  "id": "C387",
+  "label": "Testimonial",
+  "description": "Numbered testimonial sections.",
+  "domainId": "D2",
+  "itemCount": 70
+ },
+ {
+  "id": "C39",
+  "label": "Sound Effect",
+  "description": "General SFX pack including clicks, booms, and glitches.",
+  "domainId": "D7",
+  "itemCount": 69
+ },
+ {
+  "id": "C85",
+  "label": "File Upload",
+  "description": "File upload component variants.",
+  "domainId": "D5",
+  "itemCount": 69
+ },
+ {
+  "id": "C138",
+  "label": "Header",
+  "description": "Page and site header layouts with navigation and branding.",
+  "domainId": "D9",
+  "itemCount": 69
+ },
+ {
+  "id": "C157",
+  "label": "FAQ",
+  "description": "FAQ and related-questions sections.",
+  "domainId": "D2",
+  "itemCount": 69
+ },
+ {
+  "id": "C187",
+  "label": "Toggle",
+  "description": "Toggle button controls in various styles.",
+  "domainId": "D3",
+  "itemCount": 69
+ },
+ {
+  "id": "C48",
+  "label": "Resizable Panel",
+  "description": "Resizable and split-panel layouts.",
+  "domainId": "D5",
+  "itemCount": 68
+ },
+ {
+  "id": "C454",
+  "label": "Demo / Example",
+  "description": "Example wrappers demonstrating individual components.",
+  "domainId": "D0",
+  "itemCount": 68
+ },
+ {
+  "id": "C383",
+  "label": "Grid Pattern",
+  "description": "Grid, dot, and glyph matrix backgrounds.",
+  "domainId": "D1",
+  "itemCount": 67
+ },
+ {
+  "id": "C16",
+  "label": "Marquee",
+  "description": "Scrolling marquee effects.",
+  "domainId": "D1",
+  "itemCount": 66
+ },
+ {
+  "id": "C288",
+  "label": "Demo / Example",
+  "description": "Button demo and example wrappers.",
+  "domainId": "D3",
+  "itemCount": 66
+ },
+ {
+  "id": "C72",
+  "label": "Impact Sound Effect",
+  "description": "Explosion and heavy impact sound effects.",
+  "domainId": "D7",
+  "itemCount": 65
+ },
+ {
+  "id": "C225",
+  "label": "Checkbox",
+  "description": "Checkbox and checkbox-group control variants.",
+  "domainId": "D6",
+  "itemCount": 65
+ },
+ {
+  "id": "C234",
+  "label": "Tabs",
+  "description": "Tabbed navigation for switching between content views.",
+  "domainId": "D9",
+  "itemCount": 65
+ },
+ {
+  "id": "C255",
+  "label": "Shimmer Text",
+  "description": "Shimmering text effects.",
+  "domainId": "D1",
+  "itemCount": 65
+ },
+ {
+  "id": "C336",
+  "label": "Liquid Shader",
+  "description": "Liquid metal and fluid shader effects.",
+  "domainId": "D1",
+  "itemCount": 65
+ },
+ {
+  "id": "C170",
+  "label": "Infinite Scroll",
+  "description": "Infinite scroll and masonry layouts.",
+  "domainId": "D1",
+  "itemCount": 64
+ },
+ {
+  "id": "C243",
+  "label": "Grid Layout",
+  "description": "Grid list and layout components.",
+  "domainId": "D1",
+  "itemCount": 64
+ },
+ {
+  "id": "C252",
+  "label": "Animated Border",
+  "description": "Glowing and animated border effects.",
+  "domainId": "D1",
+  "itemCount": 64
+ },
+ {
+  "id": "C165",
+  "label": "Command Menu",
+  "description": "Command palettes and slash menus.",
+  "domainId": "D5",
+  "itemCount": 63
+ },
+ {
+  "id": "C196",
+  "label": "Date & Time Picker",
+  "description": "Date field and time picker components with step and seconds options.",
+  "domainId": "D13",
+  "itemCount": 63
+ },
+ {
+  "id": "C258",
+  "label": "Product Card",
+  "description": "Product card components displaying item images and details.",
+  "domainId": "D10",
+  "itemCount": 63
+ },
+ {
+  "id": "C345",
+  "label": "Link Preview",
+  "description": "Link and web preview cards.",
+  "domainId": "D4",
+  "itemCount": 63
+ },
+ {
+  "id": "C420",
+  "label": "Portfolio Section",
+  "description": "Portfolio availability, hire-me, and landing sections.",
+  "domainId": "D2",
+  "itemCount": 63
+ },
+ {
+  "id": "C436",
+  "label": "Account / Loyalty",
+  "description": "E-commerce account, loyalty, gift card, and email capture sections.",
+  "domainId": "D10",
+  "itemCount": 63
+ },
+ {
+  "id": "C109",
+  "label": "Select",
+  "description": "Select input examples including searchable and multiple variants.",
+  "domainId": "D13",
+  "itemCount": 62
+ },
+ {
+  "id": "C124",
+  "label": "Tailwind Component",
+  "description": "Tailwind-styled UI primitives and cookie consents.",
+  "domainId": "D5",
+  "itemCount": 62
+ },
+ {
+  "id": "C152",
+  "label": "Navbar",
+  "description": "E-commerce store navigation bars with menus, cart, and announcements.",
+  "domainId": "D9",
+  "itemCount": 62
+ },
+ {
+  "id": "C309",
+  "label": "List",
+  "description": "Sortable, swipeable, and panel list layouts.",
+  "domainId": "D5",
+  "itemCount": 62
+ },
+ {
+  "id": "C374",
+  "label": "Typewriter",
+  "description": "Typewriter typing text effects.",
+  "domainId": "D1",
+  "itemCount": 62
+ },
+ {
+  "id": "C395",
+  "label": "Shopping Cart",
+  "description": "Shopping cart components listing items and totals.",
+  "domainId": "D10",
+  "itemCount": 62
+ },
+ {
+  "id": "C414",
+  "label": "Product Reviews",
+  "description": "E-commerce review, rating, and social-proof sections.",
+  "domainId": "D10",
+  "itemCount": 62
+ },
+ {
+  "id": "C434",
+  "label": "About Section",
+  "description": "About sections with founder letters, stats, and company facts.",
+  "domainId": "D2",
+  "itemCount": 62
+ },
+ {
+  "id": "C446",
+  "label": "Article / Blog Post",
+  "description": "News, article, and editorial content posts.",
+  "domainId": "D2",
+  "itemCount": 62
+ },
+ {
+  "id": "C83",
+  "label": "Breadcrumb",
+  "description": "Breadcrumb navigation components indicating page hierarchy.",
+  "domainId": "D9",
   "itemCount": 61
  },
  {
-  "id": "C90",
-  "label": "Button Group",
-  "description": "Numbered button and button-group component variants (c-button-group set).",
-  "domainId": "D11",
-  "itemCount": 60
+  "id": "C381",
+  "label": "Modal",
+  "description": "Modal dialog components with animated and responsive variants.",
+  "domainId": "D12",
+  "itemCount": 61
  },
  {
-  "id": "C320",
-  "label": "Input Field",
-  "description": "Input and textarea demos including phone, mask, tags and segmented inputs.",
-  "domainId": "D8",
-  "itemCount": 60
+  "id": "C417",
+  "label": "Button",
+  "description": "Numbered button variants including social buttons.",
+  "domainId": "D3",
+  "itemCount": 61
  },
  {
-  "id": "C334",
-  "label": "File Tree / Tree View",
-  "description": "File trees, tree views, and JSON viewers.",
-  "domainId": "D4",
-  "itemCount": 60
- },
- {
-  "id": "C122",
-  "label": "Mouse / Image Trail",
-  "description": "Cursor and image trail effects that follow the pointer.",
+  "id": "C421",
+  "label": "Awards Section",
+  "description": "Awards, badges, and analyst-mention sections.",
   "domainId": "D2",
+  "itemCount": 61
+ },
+ {
+  "id": "C172",
+  "label": "Context Menu",
+  "description": "Right-click and radial context menus with checkboxes and actions.",
+  "domainId": "D9",
+  "itemCount": 60
+ },
+ {
+  "id": "C176",
+  "label": "Magnetic Button",
+  "description": "Magnetic-effect buttons and cursor interactions.",
+  "domainId": "D3",
+  "itemCount": 60
+ },
+ {
+  "id": "C226",
+  "label": "Toggle Group",
+  "description": "Segmented controls and toggle-group selectors.",
+  "domainId": "D3",
+  "itemCount": 60
+ },
+ {
+  "id": "C254",
+  "label": "FAQ",
+  "description": "FAQ sections, including grid layouts.",
+  "domainId": "D2",
+  "itemCount": 60
+ },
+ {
+  "id": "C319",
+  "label": "Orb / Orbit",
+  "description": "Orbital and glowing orb animations.",
+  "domainId": "D1",
+  "itemCount": 60
+ },
+ {
+  "id": "C324",
+  "label": "Text Highlight",
+  "description": "Inline text highlight effects.",
+  "domainId": "D1",
+  "itemCount": 60
+ },
+ {
+  "id": "C401",
+  "label": "Rotating Text",
+  "description": "Rotating, flipping, and spinning text effects.",
+  "domainId": "D1",
+  "itemCount": 60
+ },
+ {
+  "id": "C27",
+  "label": "Pagination",
+  "description": "Pagination controls for navigating multi-page lists and tables.",
+  "domainId": "D9",
   "itemCount": 59
  },
  {
-  "id": "C153",
-  "label": "Select",
-  "description": "Numbered select dropdown variants.",
+  "id": "C167",
+  "label": "Number Field",
+  "description": "Numeric input fields with steppers.",
   "domainId": "D6",
   "itemCount": 59
  },
  {
-  "id": "C190",
-  "label": "Search / Filters",
-  "description": "Search bars, filter panels, and searchable dropdowns.",
-  "domainId": "D0",
+  "id": "C219",
+  "label": "Field",
+  "description": "Form field and fieldset wrappers for input composition.",
+  "domainId": "D6",
   "itemCount": 59
  },
  {
-  "id": "C194",
-  "label": "404 / Error Page",
-  "description": "Not-found and error state pages.",
-  "domainId": "D0",
+  "id": "C275",
+  "label": "Product List",
+  "description": "Product listing grids and lists for catalogs.",
+  "domainId": "D10",
   "itemCount": 59
  },
  {
-  "id": "C232",
-  "label": "Bento Grid",
-  "description": "Bento-style feature grids.",
-  "domainId": "D0",
-  "itemCount": 59
- },
- {
-  "id": "C256",
-  "label": "Card",
-  "description": "General-purpose cards in many numbered variants.",
-  "domainId": "D0",
-  "itemCount": 59
- },
- {
-  "id": "C23",
-  "label": "Sonner Toast",
-  "description": "Sonner toast notification variants.",
-  "domainId": "D1",
+  "id": "C29",
+  "label": "Social Login Button",
+  "description": "Social sign-in buttons for auth flows.",
+  "domainId": "D3",
   "itemCount": 58
  },
  {
-  "id": "C51",
-  "label": "Pagination",
-  "description": "Numbered pagination component variants.",
-  "domainId": "D7",
-  "itemCount": 58
- },
- {
-  "id": "C89",
-  "label": "Spinner (Variant Set)",
-  "description": "Spinner variations demoing color, size, and custom states.",
+  "id": "C216",
+  "label": "Legal / Cookie Consent",
+  "description": "Legal notice and cookie-consent sections.",
   "domainId": "D2",
   "itemCount": 58
  },
  {
-  "id": "C136",
-  "label": "Switch",
-  "description": "Sequentially numbered switch component variants.",
-  "domainId": "D11",
-  "itemCount": 58
- },
- {
-  "id": "C162",
-  "label": "Checkbox",
-  "description": "Numbered checkbox and checkbox-group component variants (p-checkbox set).",
-  "domainId": "D11",
-  "itemCount": 58
- },
- {
-  "id": "C180",
-  "label": "Reviews / Social Proof",
-  "description": "Social-proof, reviews, and feedback panels.",
-  "domainId": "D0",
-  "itemCount": 58
- },
- {
-  "id": "C195",
-  "label": "Marketing Section",
-  "description": "Mixed marketing blocks: showcases, stats, workflows, and testimonials.",
-  "domainId": "D5",
-  "itemCount": 58
- },
- {
-  "id": "C375",
-  "label": "Typewriter / Streaming Text",
-  "description": "Typewriter, typing-indicator, and streaming text effects.",
-  "domainId": "D2",
-  "itemCount": 58
- },
- {
-  "id": "C210",
-  "label": "Keyboard (Kbd)",
-  "description": "Keyboard key and illustrated keyboard components including Mac layouts.",
+  "id": "C238",
+  "label": "Select",
+  "description": "Numbered select input component variants.",
   "domainId": "D13",
+  "itemCount": 58
+ },
+ {
+  "id": "C241",
+  "label": "Button Group",
+  "description": "Grouped button component variants.",
+  "domainId": "D6",
+  "itemCount": 58
+ },
+ {
+  "id": "C53",
+  "label": "Sound Effect",
+  "description": "Foley sound effects such as book flips and page turns.",
+  "domainId": "D7",
   "itemCount": 57
  },
  {
-  "id": "C254",
-  "label": "Settings Page",
-  "description": "Settings screens (profile, privacy, security, SSO, integrations).",
-  "domainId": "D4",
+  "id": "C102",
+  "label": "Accordion",
+  "description": "Expandable accordion panels for collapsible content sections.",
+  "domainId": "D9",
   "itemCount": 57
  },
  {
-  "id": "C342",
-  "label": "Carousel (Numbered Set)",
-  "description": "Numbered carousel variants from a component set.",
-  "domainId": "D2",
+  "id": "C453",
+  "label": "Message Icon",
+  "description": "Message and chat bubble icon variants.",
+  "domainId": "D11",
   "itemCount": 57
  },
  {
-  "id": "C10",
-  "label": "US State / Region Data",
-  "description": "Per-US-state and North America data files.",
+  "id": "C11",
+  "label": "Sonner Toast",
+  "description": "Sonner-based toast notification components.",
+  "domainId": "D12",
+  "itemCount": 56
+ },
+ {
+  "id": "C81",
+  "label": "Empty State",
+  "description": "Empty-state screens for 404, inbox, and feeds.",
+  "domainId": "D5",
+  "itemCount": 56
+ },
+ {
+  "id": "C306",
+  "label": "Button (Destructive)",
+  "description": "Destructive and bar button variants.",
   "domainId": "D3",
   "itemCount": 56
  },
  {
-  "id": "C46",
-  "label": "Skeleton Loader",
-  "description": "Numbered skeleton loading placeholders.",
-  "domainId": "D0",
-  "itemCount": 56
- },
- {
-  "id": "C264",
-  "label": "Alert Dialog",
-  "description": "Confirmation alert dialogs and action sheets.",
-  "domainId": "D1",
-  "itemCount": 56
- },
- {
-  "id": "C348",
-  "label": "Spotlight Card",
-  "description": "Cards with spotlight, glare, and hover-glow effects.",
+  "id": "C75",
+  "label": "404 / Error Page",
+  "description": "Not-found and error page layouts.",
   "domainId": "D2",
-  "itemCount": 56
- },
- {
-  "id": "C244",
-  "label": "Bento Grid",
-  "description": "Numbered bento grid layouts.",
-  "domainId": "D0",
   "itemCount": 55
  },
  {
-  "id": "C5",
-  "label": "Mist Landing Blocks",
-  "description": "Mist-themed marketing blocks (CTAs, comparators, contact, content).",
-  "domainId": "D0",
-  "itemCount": 54
- },
- {
-  "id": "C84",
-  "label": "Magnetic Effect",
-  "description": "Magnetic buttons and elements that attract toward the cursor.",
+  "id": "C200",
+  "label": "Bento Grid",
+  "description": "Numbered bento-grid layout sections.",
   "domainId": "D2",
-  "itemCount": 54
+  "itemCount": 55
  },
  {
-  "id": "C130",
-  "label": "Textarea",
-  "description": "Numbered textarea input variants.",
-  "domainId": "D6",
-  "itemCount": 54
+  "id": "C290",
+  "label": "Light Effect",
+  "description": "Light ray and lighting visual effects.",
+  "domainId": "D1",
+  "itemCount": 55
  },
  {
-  "id": "C131",
-  "label": "Textarea",
-  "description": "Textarea and text-field components in various styles.",
-  "domainId": "D6",
-  "itemCount": 54
- },
- {
-  "id": "C133",
-  "label": "Editor Sample (Multi-Framework)",
-  "description": "Editor doc samples across React, Preact, Vue, and Lit.",
+  "id": "C120",
+  "label": "Popover",
+  "description": "Popover and popup variants.",
   "domainId": "D4",
   "itemCount": 54
  },
  {
-  "id": "C164",
-  "label": "Radio Group",
-  "description": "Radio and radio-group primitives across Radix and Base libraries.",
-  "domainId": "D11",
+  "id": "C228",
+  "label": "Workflow",
+  "description": "Workflow canvas and pipeline builder components.",
+  "domainId": "D0",
   "itemCount": 54
  },
  {
-  "id": "C197",
-  "label": "Terminal",
-  "description": "Terminal UIs and simulators, plus ASCII art effects.",
-  "domainId": "D2",
+  "id": "C233",
+  "label": "Tabs",
+  "description": "Tabbed interface components for organizing content into views.",
+  "domainId": "D9",
   "itemCount": 54
  },
  {
-  "id": "C225",
-  "label": "Button Group",
-  "description": "Button groups with dropdown, input, and popover combinations.",
+  "id": "C259",
+  "label": "Spotlight Card",
+  "description": "Spotlight hover effect cards.",
+  "domainId": "D1",
+  "itemCount": 54
+ },
+ {
+  "id": "C297",
+  "label": "Input Button Group",
+  "description": "Combined input-and-button group compositions.",
   "domainId": "D6",
   "itemCount": 54
  },
  {
-  "id": "C236",
-  "label": "Call to Action",
-  "description": "Marketing-pro CTA banners with avatars, charts, and dual buttons.",
-  "domainId": "D5",
+  "id": "C308",
+  "label": "Demo / Example",
+  "description": "Scroll animation demo examples.",
+  "domainId": "D1",
   "itemCount": 54
  },
  {
-  "id": "C277",
-  "label": "How It Works Section",
-  "description": "Step-by-step how-it-works marketing sections.",
-  "domainId": "D0",
+  "id": "C332",
+  "label": "Scroll Animation",
+  "description": "Scroll-driven parallax and velocity animations.",
+  "domainId": "D1",
   "itemCount": 54
  },
  {
-  "id": "C284",
-  "label": "Two-Factor Auth",
-  "description": "Two-factor authentication and MFA management screens.",
-  "domainId": "D0",
+  "id": "C335",
+  "label": "Pixel Effect",
+  "description": "Pixelated canvas and image effects.",
+  "domainId": "D1",
   "itemCount": 54
  },
  {
-  "id": "C323",
-  "label": "Portfolio Showcase",
-  "description": "Numbered portfolio showcase sections.",
-  "domainId": "D5",
+  "id": "C337",
+  "label": "Ecommerce / Promo Section",
+  "description": "Ecommerce and promotional marketing sections.",
+  "domainId": "D2",
   "itemCount": 54
  },
  {
-  "id": "C63",
-  "label": "Header",
-  "description": "Page header sections in many variants.",
-  "domainId": "D5",
-  "itemCount": 53
+  "id": "C428",
+  "label": "Blog Section",
+  "description": "Editorial and blog content sections with author and category layouts.",
+  "domainId": "D2",
+  "itemCount": 54
  },
  {
-  "id": "C78",
-  "label": "Sheet",
-  "description": "Sheet overlays including bottom and side variants.",
-  "domainId": "D7",
-  "itemCount": 53
- },
- {
-  "id": "C82",
-  "label": "Menu",
-  "description": "Menu variants including main, pause, command and context menus.",
-  "domainId": "D13",
+  "id": "C160",
+  "label": "Spinner",
+  "description": "Loading spinner components, including badge- and input-group-embedded variants.",
+  "domainId": "D1",
   "itemCount": 53
  },
  {
   "id": "C163",
-  "label": "Checkbox",
-  "description": "Sequentially numbered checkbox component variants.",
-  "domainId": "D11",
+  "label": "Countdown Timer",
+  "description": "Countdown, timer, and flip-clock components for time-based displays.",
+  "domainId": "D1",
   "itemCount": 53
  },
  {
-  "id": "C216",
-  "label": "Testimonial",
-  "description": "Numbered testimonial sections.",
+  "id": "C186",
+  "label": "List Item",
+  "description": "List items and variant selectors.",
   "domainId": "D5",
   "itemCount": 53
  },
  {
-  "id": "C308",
-  "label": "Case Study Section",
-  "description": "Portfolio case-study sections: covers, heroes, and before/after panels.",
-  "domainId": "D5",
+  "id": "C198",
+  "label": "Navigation Menu",
+  "description": "Navigation menus including mobile, share, and store variants.",
+  "domainId": "D9",
   "itemCount": 53
  },
  {
-  "id": "C351",
-  "label": "Animated Border",
-  "description": "Animated and glowing borders (beam, shine, trail, moving).",
+  "id": "C213",
+  "label": "Bento Grid",
+  "description": "Bento-grid layouts, including animated and multi-column variants.",
   "domainId": "D2",
   "itemCount": 53
  },
  {
-  "id": "C85",
-  "label": "Date Picker",
-  "description": "Sequentially numbered date-picker component variants (p-date-picker set).",
-  "domainId": "D14",
-  "itemCount": 52
- },
- {
-  "id": "C106",
-  "label": "Word Counter Sample",
-  "description": "Word-counter editor samples across multiple frameworks.",
+  "id": "C285",
+  "label": "Card",
+  "description": "Card component variants.",
   "domainId": "D4",
+  "itemCount": 53
+ },
+ {
+  "id": "C292",
+  "label": "Task List",
+  "description": "Task and to-do list components with cards.",
+  "domainId": "D0",
+  "itemCount": 53
+ },
+ {
+  "id": "C372",
+  "label": "Hover Card",
+  "description": "Hover-card components with profile previews.",
+  "domainId": "D4",
+  "itemCount": 53
+ },
+ {
+  "id": "C386",
+  "label": "Contact Section",
+  "description": "Contact and callback-request form sections.",
+  "domainId": "D2",
+  "itemCount": 53
+ },
+ {
+  "id": "C406",
+  "label": "Content Section",
+  "description": "Multi-column content blocks with images and paragraphs.",
+  "domainId": "D2",
+  "itemCount": 53
+ },
+ {
+  "id": "C41",
+  "label": "Background Pattern",
+  "description": "Decorative background pattern presets.",
+  "domainId": "D1",
   "itemCount": 52
  },
  {
-  "id": "C147",
-  "label": "Textarea",
-  "description": "Numbered p-prefixed textarea variants.",
+  "id": "C80",
+  "label": "Keyboard / Keycap",
+  "description": "Keyboard and keycap visuals for displaying keys and shortcuts.",
+  "domainId": "D5",
+  "itemCount": 52
+ },
+ {
+  "id": "C107",
+  "label": "Combobox",
+  "description": "Combobox component variants.",
+  "domainId": "D13",
+  "itemCount": 52
+ },
+ {
+  "id": "C159",
+  "label": "Form",
+  "description": "Form components including TanStack-based form builders.",
   "domainId": "D6",
   "itemCount": 52
  },
  {
-  "id": "C318",
-  "label": "Tabs",
-  "description": "Numbered tab component variants.",
-  "domainId": "D7",
+  "id": "C205",
+  "label": "Animated Tabs",
+  "description": "Animated tab components built on various headless UI primitives.",
+  "domainId": "D9",
   "itemCount": 52
  },
  {
-  "id": "C359",
-  "label": "Grid Layout",
-  "description": "Grid and layout-grid components for lists, teams, and visualizers.",
+  "id": "C251",
+  "label": "Services Section",
+  "description": "Services and offering feature sections.",
   "domainId": "D2",
   "itemCount": 52
  },
  {
-  "id": "C39",
-  "label": "Combobox",
-  "description": "Sequentially numbered combobox component variants (p-combobox set).",
-  "domainId": "D13",
-  "itemCount": 51
- },
- {
-  "id": "C56",
+  "id": "C23",
   "label": "Dock",
-  "description": "macOS-style docks in varied styles (floating, glass, magnetic).",
-  "domainId": "D2",
+  "description": "macOS-style docks including floating, glass, and magnetic variants.",
+  "domainId": "D5",
   "itemCount": 51
  },
  {
-  "id": "C112",
-  "label": "Realtime Collaboration",
-  "description": "Collaborative and real-time cursors plus presence indicators.",
-  "domainId": "D4",
+  "id": "C116",
+  "label": "Context Menu",
+  "description": "Context menus and radial toolbars triggered by user interaction.",
+  "domainId": "D9",
   "itemCount": 51
  },
  {
-  "id": "C138",
-  "label": "Color Picker",
-  "description": "Color and gradient pickers, swatches, and palettes.",
-  "domainId": "D2",
-  "itemCount": 51
- },
- {
-  "id": "C157",
-  "label": "Call to Action / Content",
-  "description": "Call-to-action and content marketing blocks.",
+  "id": "C128",
+  "label": "Status Indicator",
+  "description": "Status dots, markers, and state indicators.",
   "domainId": "D0",
   "itemCount": 51
  },
  {
-  "id": "C119",
-  "label": "Number / Numeric Input",
-  "description": "Numeric field inputs including phone, currency, and amount.",
+  "id": "C20",
+  "label": "Brand Logo",
+  "description": "AWS service icons and logos.",
   "domainId": "D2",
   "itemCount": 50
  },
  {
-  "id": "C125",
-  "label": "Sheet",
-  "description": "Sheet demos and controlled-example variants.",
-  "domainId": "D7",
-  "itemCount": 50
- },
- {
-  "id": "C296",
-  "label": "Checkbox / Radio Group",
-  "description": "Checkbox and radio-group demos with animation, layout and validation variants.",
-  "domainId": "D8",
-  "itemCount": 50
- },
- {
-  "id": "C363",
-  "label": "Font / Typeface",
-  "description": "Monospace typefaces (Azeret Mono, Cascadia Mono, Fira Mono).",
+  "id": "C130",
+  "label": "Expandable Card",
+  "description": "Expandable cards and tabs that reveal more content on interaction.",
   "domainId": "D9",
   "itemCount": 50
  },
  {
-  "id": "C13",
-  "label": "Social Login Button",
-  "description": "Social auth buttons for providers like Apple and Discord in many styles.",
-  "domainId": "D11",
-  "itemCount": 49
+  "id": "C133",
+  "label": "Particle Effect",
+  "description": "Sparkle, confetti, firework, and bubble particle animations.",
+  "domainId": "D1",
+  "itemCount": 50
  },
  {
-  "id": "C93",
-  "label": "Button",
-  "description": "Sequentially numbered button component variants.",
-  "domainId": "D11",
-  "itemCount": 49
+  "id": "C211",
+  "label": "Form Layout",
+  "description": "Prebuilt form layout templates and arrangements.",
+  "domainId": "D6",
+  "itemCount": 50
  },
  {
-  "id": "C141",
+  "id": "C217",
+  "label": "Animated List",
+  "description": "Animated notification and pinned list components with entrance effects.",
+  "domainId": "D1",
+  "itemCount": 50
+ },
+ {
+  "id": "C249",
+  "label": "Product Detail",
+  "description": "Product detail pages showing full item information.",
+  "domainId": "D10",
+  "itemCount": 50
+ },
+ {
+  "id": "C437",
+  "label": "Case Study",
+  "description": "Case-study sections with challenge-solution-result layouts.",
+  "domainId": "D2",
+  "itemCount": 50
+ },
+ {
+  "id": "C443",
+  "label": "Experience Timeline",
+  "description": "Work-experience and career timeline sections.",
+  "domainId": "D2",
+  "itemCount": 50
+ },
+ {
+  "id": "C129",
   "label": "Multi-Select",
-  "description": "Multi-select, poll, and option-list pickers.",
+  "description": "Multi-select, tag-select, and poll selection components.",
+  "domainId": "D13",
+  "itemCount": 49
+ },
+ {
+  "id": "C190",
+  "label": "Switch",
+  "description": "Toggle switch control variants.",
+  "domainId": "D3",
+  "itemCount": 49
+ },
+ {
+  "id": "C204",
+  "label": "Image Comparison",
+  "description": "Before/after image comparison, cropper, and diff viewer widgets.",
+  "domainId": "D1",
+  "itemCount": 49
+ },
+ {
+  "id": "C247",
+  "label": "Text Field / Search",
+  "description": "Text and search field inputs with search bars.",
   "domainId": "D6",
   "itemCount": 49
  },
  {
-  "id": "C281",
-  "label": "Popover / Tooltip",
-  "description": "Hover cards, popovers, tooltips, badges and selection toolbars.",
-  "domainId": "D8",
+  "id": "C260",
+  "label": "Kanban Board",
+  "description": "Drag-and-drop kanban task boards.",
+  "domainId": "D0",
   "itemCount": 49
  },
  {
-  "id": "C290",
-  "label": "Awards Section",
-  "description": "Awards and recognition showcase sections.",
-  "domainId": "D5",
+  "id": "C312",
+  "label": "Scramble Text Effect",
+  "description": "Text scramble, decode, and encrypted reveal animations.",
+  "domainId": "D1",
   "itemCount": 49
  },
  {
-  "id": "C28",
-  "label": "AWS Service Icons",
-  "description": "AWS service icons (Amplify, API Gateway, Bedrock, Athena).",
+  "id": "C329",
+  "label": "Alert",
+  "description": "Alert message component variants.",
+  "domainId": "D12",
+  "itemCount": 49
+ },
+ {
+  "id": "C430",
+  "label": "AI Tool / Artifact",
+  "description": "AI tool-call, artifact, and canvas components.",
+  "domainId": "D0",
+  "itemCount": 49
+ },
+ {
+  "id": "C445",
+  "label": "Weather Icon",
+  "description": "Cloud, sun, and weather-condition icons.",
+  "domainId": "D11",
+  "itemCount": 49
+ },
+ {
+  "id": "C18",
+  "label": "Logo Carousel",
+  "description": "Animated logo carousels, marquees, and timelines.",
   "domainId": "D1",
   "itemCount": 48
  },
  {
-  "id": "C34",
-  "label": "Theme / UI Style",
-  "description": "Named minimal UI theme styles (amber-minimal, amethyst-haze, bubblegum).",
-  "domainId": "D10",
+  "id": "C71",
+  "label": "OG Image",
+  "description": "Assorted Open Graph and social preview templates.",
+  "domainId": "D2",
   "itemCount": 48
  },
  {
-  "id": "C53",
-  "label": "Rating",
-  "description": "Star ratings and feedback rating controls.",
+  "id": "C76",
+  "label": "Next.js Auth Snippet",
+  "description": "Next.js Clerk authentication integration snippets.",
   "domainId": "D0",
   "itemCount": 48
- },
- {
-  "id": "C139",
-  "label": "Autocomplete",
-  "description": "Autocomplete and searchable input fields.",
-  "domainId": "D0",
-  "itemCount": 48
- },
- {
-  "id": "C166",
-  "label": "Usage Dashboard",
-  "description": "Usage metering tables and analytics dashboards.",
-  "domainId": "D0",
-  "itemCount": 48
- },
- {
-  "id": "C183",
-  "label": "App Layout / Panels",
-  "description": "App layouts, threads, side panels, and focus-mode rails.",
-  "domainId": "D4",
-  "itemCount": 48
- },
- {
-  "id": "C267",
-  "label": "Workflow / Agent Builder",
-  "description": "Workflow canvas, agent, and approval-node builder components.",
-  "domainId": "D0",
-  "itemCount": 48
- },
- {
-  "id": "C384",
-  "label": "Notification / Message",
-  "description": "Messages, notifications, and error screens plus notify hooks.",
-  "domainId": "D4",
-  "itemCount": 48
- },
- {
-  "id": "C165",
-  "label": "Radio Group",
-  "description": "Sequentially numbered radio-group component variants.",
-  "domainId": "D11",
-  "itemCount": 47
- },
- {
-  "id": "C171",
-  "label": "Heatmap / Contribution Graph",
-  "description": "Heatmaps, contribution graphs, and choropleth calendars.",
-  "domainId": "D4",
-  "itemCount": 47
- },
- {
-  "id": "C208",
-  "label": "Kanban Board",
-  "description": "Kanban and task-board layouts with drag overlays.",
-  "domainId": "D0",
-  "itemCount": 47
- },
- {
-  "id": "C218",
-  "label": "Popover (Numbered Set)",
-  "description": "Numbered popover variants plus a feedback widget.",
-  "domainId": "D4",
-  "itemCount": 47
- },
- {
-  "id": "C227",
-  "label": "FAQ",
-  "description": "Marketing-pro FAQ accordions across many page types.",
-  "domainId": "D5",
-  "itemCount": 47
- },
- {
-  "id": "C251",
-  "label": "Chart / KPI Card",
-  "description": "Charts, KPI grids, and crypto/wallet metric cards.",
-  "domainId": "D0",
-  "itemCount": 47
  },
  {
   "id": "C298",
-  "label": "Item / Content Block",
-  "description": "Numbered item and content list blocks.",
+  "label": "Input Group",
+  "description": "Input groups pairing inputs with icons, text, and dropdowns.",
+  "domainId": "D6",
+  "itemCount": 48
+ },
+ {
+  "id": "C433",
+  "label": "E-commerce Section",
+  "description": "E-commerce buying-advice, comparison, and category sections.",
+  "domainId": "D10",
+  "itemCount": 48
+ },
+ {
+  "id": "C451",
+  "label": "Portfolio Section",
+  "description": "Portfolio project index, gallery, and developer showcase sections.",
+  "domainId": "D2",
+  "itemCount": 48
+ },
+ {
+  "id": "C455",
+  "label": "Prompt Input",
+  "description": "AI prompt input fields and composer forms.",
+  "domainId": "D0",
+  "itemCount": 48
+ },
+ {
+  "id": "C8",
+  "label": "Aspect Ratio",
+  "description": "Aspect-ratio containers for constraining media to fixed proportions.",
+  "domainId": "D5",
+  "itemCount": 47
+ },
+ {
+  "id": "C46",
+  "label": "Rating",
+  "description": "Star and feedback rating widgets for capturing user scores.",
+  "domainId": "D5",
+  "itemCount": 47
+ },
+ {
+  "id": "C146",
+  "label": "Menu / Action Bar",
+  "description": "Menu and partition/action bar demo components for toolbars.",
+  "domainId": "D9",
+  "itemCount": 47
+ },
+ {
+  "id": "C149",
+  "label": "Tag Input",
+  "description": "Tag and editable inputs for managing multiple tokens.",
+  "domainId": "D6",
+  "itemCount": 47
+ },
+ {
+  "id": "C168",
+  "label": "Textarea",
+  "description": "Textarea input examples with autocomplete and controlled variants.",
+  "domainId": "D13",
+  "itemCount": 47
+ },
+ {
+  "id": "C289",
+  "label": "Status Page",
+  "description": "Uptime, monitoring, and maintenance status pages.",
   "domainId": "D0",
   "itemCount": 47
  },
  {
-  "id": "C25",
-  "label": "Aspect Ratio",
-  "description": "Aspect-ratio containers and image crop utilities.",
-  "domainId": "D2",
-  "itemCount": 46
+  "id": "C299",
+  "label": "Checkout",
+  "description": "Checkout flows and payment forms for e-commerce.",
+  "domainId": "D10",
+  "itemCount": 47
  },
  {
-  "id": "C273",
-  "label": "Services Section",
-  "description": "Services and offerings listing sections.",
+  "id": "C314",
+  "label": "List",
+  "description": "General-purpose list components including description and data lists.",
   "domainId": "D5",
-  "itemCount": 46
+  "itemCount": 47
  },
  {
-  "id": "C383",
-  "label": "Scramble / Decode Text",
-  "description": "Text scramble, encrypt, and matrix-decode animation effects.",
-  "domainId": "D2",
-  "itemCount": 46
- },
- {
-  "id": "C207",
-  "label": "Task / Todo List",
-  "description": "Task lists, task detail, and project todo components.",
-  "domainId": "D0",
-  "itemCount": 45
- },
- {
-  "id": "C222",
-  "label": "Data Grid",
-  "description": "Base data grid and comparison table components.",
-  "domainId": "D0",
-  "itemCount": 45
- },
- {
-  "id": "C245",
-  "label": "App Download Section",
-  "description": "App download sections with device mockups and store links.",
-  "domainId": "D5",
-  "itemCount": 45
- },
- {
-  "id": "C279",
-  "label": "Hover Effect / Link",
-  "description": "Interactive hover buttons, links, and text hover effects.",
+  "id": "C323",
+  "label": "Demo / Example",
+  "description": "Card demo and example wrappers.",
   "domainId": "D4",
-  "itemCount": 45
+  "itemCount": 47
  },
  {
-  "id": "C382",
-  "label": "Glitch / Pixel Text",
-  "description": "Glitch and pixelated text and button effects.",
+  "id": "C346",
+  "label": "Wave Animation",
+  "description": "Animated wave, wavy line, and moving-line background effects.",
+  "domainId": "D1",
+  "itemCount": 47
+ },
+ {
+  "id": "C347",
+  "label": "Animated Background",
+  "description": "Strands and Ribbons animated backgrounds across JS/TS and CSS/Tailwind variants.",
+  "domainId": "D1",
+  "itemCount": 47
+ },
+ {
+  "id": "C400",
+  "label": "Text Animation",
+  "description": "Per-character and letter entrance text animations.",
+  "domainId": "D1",
+  "itemCount": 47
+ },
+ {
+  "id": "C432",
+  "label": "Portfolio / Coaching Section",
+  "description": "Portfolio availability and coaching/mentoring sections.",
   "domainId": "D2",
+  "itemCount": 47
+ },
+ {
+  "id": "C47",
+  "label": "Impact Sound Effect",
+  "description": "Metal impact and collision sound effects.",
+  "domainId": "D7",
+  "itemCount": 46
+ },
+ {
+  "id": "C93",
+  "label": "Autocomplete",
+  "description": "Autocomplete and autofill input components.",
+  "domainId": "D6",
+  "itemCount": 46
+ },
+ {
+  "id": "C295",
+  "label": "Devtools",
+  "description": "Developer tooling panels and inspectors.",
+  "domainId": "D0",
+  "itemCount": 46
+ },
+ {
+  "id": "C326",
+  "label": "Announcement Banner",
+  "description": "Announcement bars and system banner components.",
+  "domainId": "D2",
+  "itemCount": 46
+ },
+ {
+  "id": "C369",
+  "label": "Comments",
+  "description": "Comment threads and inline discussion sections.",
+  "domainId": "D0",
+  "itemCount": 46
+ },
+ {
+  "id": "C148",
+  "label": "Chevron Icon",
+  "description": "Directional chevron icons for navigation and toggles.",
+  "domainId": "D11",
   "itemCount": 45
  },
  {
-  "id": "C129",
-  "label": "Coming Soon",
-  "description": "Coming-soon and pre-launch placeholder sections.",
+  "id": "C164",
+  "label": "Form Controls",
+  "description": "Assorted form control variants (inputs, checkboxes, selects).",
+  "domainId": "D6",
+  "itemCount": 44
+ },
+ {
+  "id": "C166",
+  "label": "Command Palette",
+  "description": "Searchable command palettes for quick keyboard-driven navigation.",
   "domainId": "D5",
   "itemCount": 44
  },
  {
-  "id": "C241",
-  "label": "Logo Cloud / Carousel",
-  "description": "Logo clouds, carousels, and animated logo timelines.",
-  "domainId": "D2",
+  "id": "C184",
+  "label": "Widget",
+  "description": "Assorted dashboard, feedback, and web3 widgets.",
+  "domainId": "D0",
   "itemCount": 44
  },
  {
-  "id": "C275",
-  "label": "Listbox",
-  "description": "Listbox components in grid, group and horizontal demo layouts.",
-  "domainId": "D8",
+  "id": "C240",
+  "label": "Button Group",
+  "description": "Grouped button action components.",
+  "domainId": "D6",
   "itemCount": 44
  },
  {
-  "id": "C80",
-  "label": "Drawer",
-  "description": "Numbered drawer and overflow-action variants.",
-  "domainId": "D7",
-  "itemCount": 43
- },
- {
-  "id": "C220",
-  "label": "Card",
-  "description": "Sequentially numbered card component variants (p-card set).",
+  "id": "C12",
+  "label": "Sonner Toast",
+  "description": "Sonner toast notification component variants.",
   "domainId": "D12",
   "itemCount": 43
  },
  {
-  "id": "C270",
-  "label": "Client Logos / Testimonials",
-  "description": "Portfolio client-logo rows paired with quotes and testimonials.",
+  "id": "C67",
+  "label": "Drawer",
+  "description": "Drawer and slide-out navigation panel components.",
+  "domainId": "D9",
+  "itemCount": 43
+ },
+ {
+  "id": "C74",
+  "label": "File Upload / Dropzone",
+  "description": "Drag-and-drop dropzones for uploading files.",
   "domainId": "D5",
   "itemCount": 43
  },
  {
-  "id": "C271",
-  "label": "Tooltip (Numbered Set)",
-  "description": "Numbered tooltip variants from a component set.",
-  "domainId": "D4",
+  "id": "C96",
+  "label": "Combobox",
+  "description": "Combobox components with custom actions and form fields.",
+  "domainId": "D13",
   "itemCount": 43
  },
  {
-  "id": "C282",
-  "label": "Forgot Password",
-  "description": "Forgot-password, verify-email, and change-password flows.",
-  "domainId": "D0",
+  "id": "C134",
+  "label": "Product Overview",
+  "description": "Product previews, category previews, and shopping cart panels.",
+  "domainId": "D10",
   "itemCount": 43
  },
  {
-  "id": "C292",
-  "label": "Map",
-  "description": "Interactive Mapbox map components with pointers, themes, and zoom controls.",
-  "domainId": "D4",
+  "id": "C156",
+  "label": "Time Field",
+  "description": "Time field and date-range picker input examples.",
+  "domainId": "D13",
   "itemCount": 43
  },
  {
-  "id": "C324",
-  "label": "Button Group",
-  "description": "Button-group demos varying orientation, size, nesting and separators.",
-  "domainId": "D8",
-  "itemCount": 43
- },
- {
-  "id": "C332",
-  "label": "User Profile",
-  "description": "User profile and social profile cards.",
-  "domainId": "D0",
-  "itemCount": 43
- },
- {
-  "id": "C391",
-  "label": "App Icon Set",
-  "description": "Software/app icons such as Illustrator, Photoshop, Acrobat, and PDF viewer.",
-  "domainId": "D4",
-  "itemCount": 43
- },
- {
-  "id": "C146",
-  "label": "Hero Section",
-  "description": "Sequentially numbered hero sections.",
+  "id": "C222",
+  "label": "Globe",
+  "description": "Interactive 3D globe visualizations.",
   "domainId": "D5",
-  "itemCount": 42
+  "itemCount": 43
  },
  {
-  "id": "C202",
-  "label": "Pill / Badge",
-  "description": "Pill and badge indicators including delta and composition variants.",
+  "id": "C273",
+  "label": "Copy Button",
+  "description": "Copy-to-clipboard buttons.",
+  "domainId": "D3",
+  "itemCount": 43
+ },
+ {
+  "id": "C280",
+  "label": "Loading Button",
+  "description": "Stateful buttons with loading, async, and status feedback.",
   "domainId": "D1",
+  "itemCount": 43
+ },
+ {
+  "id": "C397",
+  "label": "Testimonial / Quotes",
+  "description": "Quote and partner-testimonial card sections.",
+  "domainId": "D2",
+  "itemCount": 43
+ },
+ {
+  "id": "C136",
+  "label": "Tooltip",
+  "description": "Tooltip component variants.",
+  "domainId": "D4",
   "itemCount": 42
  },
  {
-  "id": "C242",
-  "label": "Checkout",
-  "description": "Checkout and express-checkout flows.",
+  "id": "C235",
+  "label": "Data Table",
+  "description": "Advanced data tables with columns and filtering.",
   "domainId": "D0",
   "itemCount": 42
  },
  {
-  "id": "C248",
-  "label": "Logo Cloud",
-  "description": "Logo strips and content blocks featuring brand logos.",
-  "domainId": "D5",
+  "id": "C250",
+  "label": "Order Summary",
+  "description": "Order summary, details, history, and tracking components.",
+  "domainId": "D10",
   "itemCount": 42
  },
  {
-  "id": "C8",
-  "label": "Andromeda UI Kit",
-  "description": "Andromeda-branded component set (button, alert, avatar, badge, card, checkbox).",
-  "domainId": "D4",
+  "id": "C304",
+  "label": "Scheduling / Availability",
+  "description": "Calendar availability and meeting scheduling UI.",
+  "domainId": "D0",
+  "itemCount": 42
+ },
+ {
+  "id": "C35",
+  "label": "Device Illustration",
+  "description": "Device mockup illustrations for MacBook, iPhone, and iPad.",
+  "domainId": "D2",
   "itemCount": 41
  },
  {
-  "id": "C154",
-  "label": "Radio Group",
-  "description": "Numbered radio-group variants plus field radio and choice-card components.",
+  "id": "C65",
+  "label": "Terminal",
+  "description": "Terminal and console UI simulators.",
+  "domainId": "D5",
+  "itemCount": 41
+ },
+ {
+  "id": "C95",
+  "label": "Disclosure",
+  "description": "Disclosure and show-more components that toggle hidden content.",
+  "domainId": "D9",
+  "itemCount": 41
+ },
+ {
+  "id": "C119",
+  "label": "Reviews / Social Proof",
+  "description": "Marketing blocks showcasing reviews, testimonials, and social proof.",
+  "domainId": "D5",
+  "itemCount": 41
+ },
+ {
+  "id": "C142",
+  "label": "Currency Icon",
+  "description": "Currency and money icons for multiple denominations.",
   "domainId": "D11",
   "itemCount": 41
  },
  {
-  "id": "C286",
-  "label": "Font / Typeface",
-  "description": "Font tokens and families (Geist, Karla, Inter, Mona Sans, Roboto).",
-  "domainId": "D10",
+  "id": "C321",
+  "label": "Clock Icon",
+  "description": "Clock, alarm, and calendar time icons.",
+  "domainId": "D11",
   "itemCount": 41
  },
  {
-  "id": "C291",
-  "label": "Select",
-  "description": "Select examples for controlled, multiple, searchable and native variants.",
-  "domainId": "D8",
-  "itemCount": 41
- },
- {
-  "id": "C303",
-  "label": "App Dialogs / File Manager",
-  "description": "Application-pro dialogs, version history, and file manager blocks.",
-  "domainId": "D0",
-  "itemCount": 41
- },
- {
-  "id": "C380",
-  "label": "Grid Distortion Effect",
-  "description": "Canvas and shader grid effects (distortion, fractal, chroma, cursor).",
+  "id": "C60",
+  "label": "Logo Cloud",
+  "description": "Animated logo cloud sections with blur and swap effects.",
   "domainId": "D2",
-  "itemCount": 41
- },
- {
-  "id": "C9",
-  "label": "Sound Effect",
-  "description": "Engine and computer-noise looped sound effects.",
-  "domainId": "D15",
   "itemCount": 40
  },
  {
-  "id": "C32",
-  "label": "Mobile App UI",
-  "description": "Mobile app UI kits for media and social brands (Apple Music, Discord, Disney).",
-  "domainId": "D10",
-  "itemCount": 40
- },
- {
-  "id": "C38",
-  "label": "OTP Field",
-  "description": "One-time-password field components.",
-  "domainId": "D0",
-  "itemCount": 40
- },
- {
-  "id": "C43",
-  "label": "Navbar",
-  "description": "Marketing-pro navbars: mega-menu, dark, centered, and compact variants.",
+  "id": "C112",
+  "label": "Command Menu",
+  "description": "Command and slash menus for inline action selection.",
   "domainId": "D5",
   "itemCount": 40
  },
  {
-  "id": "C61",
-  "label": "Card",
-  "description": "Purpose-specific cards (profile, plan, report, tweet, login, blog).",
-  "domainId": "D12",
+  "id": "C158",
+  "label": "Chart Icon",
+  "description": "Bar, column, line, and pie chart icons.",
+  "domainId": "D11",
   "itemCount": 40
  },
  {
-  "id": "C72",
-  "label": "Empty State",
-  "description": "Named empty states (inbox zero, 404, no files, maintenance).",
-  "domainId": "D0",
+  "id": "C279",
+  "label": "Animated Button",
+  "description": "Slide, rotate, skew, and underline animated buttons.",
+  "domainId": "D3",
   "itemCount": 40
  },
  {
-  "id": "C114",
-  "label": "Leaderboard",
-  "description": "Leaderboards, streaks, and progress trackers.",
-  "domainId": "D0",
+  "id": "C301",
+  "label": "Media",
+  "description": "Media provider and player components for images and background media.",
+  "domainId": "D5",
   "itemCount": 40
  },
  {
-  "id": "C321",
-  "label": "Context Menu",
-  "description": "Context and radial menu components with dropdown menu items.",
-  "domainId": "D13",
-  "itemCount": 40
- },
- {
-  "id": "C366",
-  "label": "AI Chat / Agent UI",
-  "description": "AI assistant workspace pieces like artifacts, agents, canvas, checkpoints, and commits.",
-  "domainId": "D4",
-  "itemCount": 40
- },
- {
-  "id": "C21",
-  "label": "Sonner Toast",
-  "description": "Numbered sonner toast component variants.",
+  "id": "C354",
+  "label": "Morphing Text",
+  "description": "Text and dialog morphing transition effects.",
   "domainId": "D1",
+  "itemCount": 40
+ },
+ {
+  "id": "C370",
+  "label": "KPI Card",
+  "description": "KPI metric cards and performance overviews.",
+  "domainId": "D0",
+  "itemCount": 40
+ },
+ {
+  "id": "C393",
+  "label": "Check Icon",
+  "description": "Checkmark and confirmation icons in various styles.",
+  "domainId": "D11",
+  "itemCount": 40
+ },
+ {
+  "id": "C416",
+  "label": "Profile",
+  "description": "User profile cards and social profile layouts.",
+  "domainId": "D0",
+  "itemCount": 40
+ },
+ {
+  "id": "C4",
+  "label": "Game Voiceover",
+  "description": "Fantasy character voiceover lines (dwarf, orc, elf, gnome).",
+  "domainId": "D7",
   "itemCount": 39
  },
  {
-  "id": "C73",
-  "label": "GitHub Stars Button",
-  "description": "Animated GitHub star count buttons and widgets.",
+  "id": "C37",
+  "label": "Skeleton",
+  "description": "Skeleton placeholders shown while content is loading.",
+  "domainId": "D5",
+  "itemCount": 39
+ },
+ {
+  "id": "C52",
+  "label": "OTP Field",
+  "description": "One-time-password entry field variants.",
+  "domainId": "D6",
+  "itemCount": 39
+ },
+ {
+  "id": "C122",
+  "label": "Data Grid",
+  "description": "CRUD data grid components.",
   "domainId": "D0",
   "itemCount": 39
  },
  {
-  "id": "C137",
-  "label": "Demo / Example",
-  "description": "Demo wrappers for color pickers, swatches, and gauges.",
-  "domainId": "D2",
+  "id": "C132",
+  "label": "Navbar",
+  "description": "Floating, resizable, and radial navigation bar components.",
+  "domainId": "D9",
+  "itemCount": 39
+ },
+ {
+  "id": "C185",
+  "label": "Item",
+  "description": "Generic item and content-block components for structured layouts.",
+  "domainId": "D5",
   "itemCount": 39
  },
  {
   "id": "C191",
-  "label": "Form (TanStack)",
-  "description": "TanStack form demos wiring inputs, selects, checkboxes and switches.",
-  "domainId": "D8",
+  "label": "Toggle",
+  "description": "Toggle control variants.",
+  "domainId": "D3",
   "itemCount": 39
  },
  {
-  "id": "C285",
-  "label": "Auth",
-  "description": "Numbered authentication screens.",
-  "domainId": "D0",
+  "id": "C389",
+  "label": "Hero Section",
+  "description": "Portfolio hero and intro sections.",
+  "domainId": "D2",
   "itemCount": 39
  },
  {
-  "id": "C295",
-  "label": "Heading / Description List",
-  "description": "Heading, description-list and menu-triggered examples.",
-  "domainId": "D13",
+  "id": "C440",
+  "label": "Case Study",
+  "description": "Case-study cover, hero, and split-layout sections.",
+  "domainId": "D2",
   "itemCount": 39
  },
  {
-  "id": "C360",
-  "label": "AI Reasoning / Chain-of-Thought",
-  "description": "Chain-of-thought, reasoning, and tool-call inspection UI for AI agents.",
-  "domainId": "D4",
-  "itemCount": 39
- },
- {
-  "id": "C26",
-  "label": "Game Voiceover",
-  "description": "Fantasy-race NPC voice lines (dwarf, gnome, night elf, orc).",
-  "domainId": "D15",
-  "itemCount": 38
- },
- {
-  "id": "C66",
-  "label": "Navbar",
-  "description": "Navigation bars with hover effects, children, and classic styles.",
+  "id": "C49",
+  "label": "Andromeda UI Kit",
+  "description": "Themed Andromeda design-system component set (buttons, cards, alerts, etc.).",
   "domainId": "D5",
   "itemCount": 38
  },
  {
-  "id": "C107",
-  "label": "Typography",
-  "description": "Typography demos including headings, blockquotes and typewriter text effects.",
-  "domainId": "D10",
-  "itemCount": 38
- },
- {
-  "id": "C108",
-  "label": "Typography",
-  "description": "Typography primitives covering text, font weight and global styles.",
-  "domainId": "D10",
-  "itemCount": 38
- },
- {
-  "id": "C155",
-  "label": "Switch",
-  "description": "Sequentially numbered switch component variants.",
-  "domainId": "D11",
-  "itemCount": 38
- },
- {
-  "id": "C175",
-  "label": "Chart Example",
-  "description": "Chart examples across area, bar, line, scatter, gauge, and radar.",
-  "domainId": "D3",
-  "itemCount": 38
- },
- {
-  "id": "C186",
-  "label": "Context Menu / Dropdown",
-  "description": "Context menus and dropdowns with icons, radios, and checkboxes.",
+  "id": "C210",
+  "label": "Field",
+  "description": "Form field wrapper component variants.",
   "domainId": "D6",
   "itemCount": 38
  },
  {
   "id": "C230",
-  "label": "Navigation / Context Menu",
-  "description": "Navigation, breadcrumb dropdown and context-menu demos.",
+  "label": "Cursor Effect",
+  "description": "Blob, crosshair, and eye-tracking custom cursor effects.",
+  "domainId": "D1",
+  "itemCount": 38
+ },
+ {
+  "id": "C318",
+  "label": "Staggered Animation",
+  "description": "Staggered fade, reveal, and split-text entrance animations.",
+  "domainId": "D1",
+  "itemCount": 38
+ },
+ {
+  "id": "C396",
+  "label": "Quote / Pull Quote",
+  "description": "Pull-quote and reviewer-quote break sections.",
+  "domainId": "D2",
+  "itemCount": 38
+ },
+ {
+  "id": "C405",
+  "label": "Voice / Model Selector",
+  "description": "Model, microphone, and voice selector controls for audio input.",
   "domainId": "D13",
   "itemCount": 38
  },
  {
-  "id": "C276",
-  "label": "Email / Inbox",
-  "description": "Email composer, mailbox, and notification inbox shells.",
+  "id": "C419",
+  "label": "Stats / Metrics",
+  "description": "Sales and revenue statistic cards.",
   "domainId": "D0",
   "itemCount": 38
  },
  {
-  "id": "C75",
-  "label": "File Upload",
-  "description": "File upload widgets with progress, cropping, and chat/form variants.",
-  "domainId": "D4",
+  "id": "C110",
+  "label": "Navigation Menu",
+  "description": "Complex navigation menus and row-action menus for apps.",
+  "domainId": "D9",
   "itemCount": 37
  },
  {
-  "id": "C115",
-  "label": "Login / Auth",
-  "description": "Authentication flows: sign-in, sign-up, OTP verify, and password reset.",
-  "domainId": "D4",
+  "id": "C202",
+  "label": "GitHub Stars Button",
+  "description": "Animated GitHub stars counter buttons.",
+  "domainId": "D0",
   "itemCount": 37
  },
  {
-  "id": "C120",
-  "label": "Animated Border Button",
-  "description": "Buttons with animated moving-border effects in many variations.",
+  "id": "C256",
+  "label": "Pill / Badge",
+  "description": "Pill and badge elements for statuses, tags, and indicators.",
+  "domainId": "D5",
+  "itemCount": 37
+ },
+ {
+  "id": "C267",
+  "label": "Layout / Alignment Icon",
+  "description": "Layout, gallery, and horizontal/vertical alignment icons.",
   "domainId": "D11",
   "itemCount": 37
  },
  {
-  "id": "C257",
-  "label": "Device Mockup",
-  "description": "Device frames and mockups (Safari, iPhone, MacBook, browser window).",
+  "id": "C269",
+  "label": "Waveform / Audio Visualizer",
+  "description": "Live audio waveform and visualizer components.",
+  "domainId": "D5",
+  "itemCount": 37
+ },
+ {
+  "id": "C444",
+  "label": "Gallery",
+  "description": "Portfolio gallery sections with album, filmstrip, and contact-sheet layouts.",
   "domainId": "D2",
   "itemCount": 37
  },
  {
-  "id": "C128",
-  "label": "Animated Button",
-  "description": "Buttons with border-corner, morph-expand and marquee text animations.",
-  "domainId": "D11",
+  "id": "C99",
+  "label": "Game Audio",
+  "description": "Retro game sound effects like jumps, coins, and battle cues.",
+  "domainId": "D7",
   "itemCount": 36
  },
  {
-  "id": "C170",
-  "label": "Meter / Gauge",
-  "description": "Meters and gauges for usage, price ranges, and other metrics.",
-  "domainId": "D4",
+  "id": "C111",
+  "label": "Download CTA",
+  "description": "App download and software purchase CTA sections.",
+  "domainId": "D2",
   "itemCount": 36
  },
  {
-  "id": "C178",
-  "label": "Icon Set",
-  "description": "Message and circle-status icon variants.",
-  "domainId": "D1",
-  "itemCount": 36
- },
- {
-  "id": "C189",
-  "label": "Alert (Demo)",
-  "description": "Uiable alert and alert-dialog demo variants.",
-  "domainId": "D1",
-  "itemCount": 36
- },
- {
-  "id": "C243",
-  "label": "Bento Grid",
-  "description": "Bento grid marketing layouts.",
+  "id": "C113",
+  "label": "Progress Bar",
+  "description": "Progress bar component variants.",
   "domainId": "D0",
   "itemCount": 36
  },
  {
-  "id": "C356",
-  "label": "Tilt Card",
-  "description": "3D tilt and parallax card hover-effect components.",
-  "domainId": "D12",
+  "id": "C169",
+  "label": "Password Input",
+  "description": "Password entry inputs with masking and validation.",
+  "domainId": "D6",
   "itemCount": 36
  },
  {
-  "id": "C361",
-  "label": "3D Image Effect",
-  "description": "3D image and orbit effects (cubes, orbit images, croppers).",
+  "id": "C195",
+  "label": "Skiper UI Component",
+  "description": "Skiper UI animated components and skip-navigation helpers.",
+  "domainId": "D1",
+  "itemCount": 36
+ },
+ {
+  "id": "C203",
+  "label": "Animated Beam",
+  "description": "Animated beam and tracing-beam background connector effects.",
+  "domainId": "D1",
+  "itemCount": 36
+ },
+ {
+  "id": "C390",
+  "label": "Notifications",
+  "description": "Notification lists and notification settings.",
+  "domainId": "D0",
+  "itemCount": 36
+ },
+ {
+  "id": "C441",
+  "label": "Feature Section",
+  "description": "Numbered feature and showcase sections.",
   "domainId": "D2",
   "itemCount": 36
  },
  {
-  "id": "C3",
-  "label": "Sound Effect",
-  "description": "Numbered footstep audio clips.",
-  "domainId": "D15",
+  "id": "C6",
+  "label": "Footstep Sound Effect",
+  "description": "Footstep sound effect sequences.",
+  "domainId": "D7",
   "itemCount": 35
  },
  {
-  "id": "C60",
-  "label": "Sound Effect",
-  "description": "Notification and confirmation UI sound cues (chime, pop, bong).",
-  "domainId": "D15",
-  "itemCount": 35
- },
- {
-  "id": "C104",
-  "label": "Skiper UI Blocks",
-  "description": "Numbered Skiper UI component blocks.",
+  "id": "C32",
+  "label": "Logo Cloud",
+  "description": "Logo strip and multi-row logo sections.",
   "domainId": "D2",
   "itemCount": 35
  },
  {
-  "id": "C160",
-  "label": "Promo Banner",
-  "description": "Promotional and sales banners across ecommerce and pricing pages.",
-  "domainId": "D5",
-  "itemCount": 35
- },
- {
-  "id": "C182",
-  "label": "Case Study Section",
-  "description": "Marketing-pro case studies with challenge-solution-results panels.",
-  "domainId": "D5",
+  "id": "C123",
+  "label": "Data Grid",
+  "description": "Base data grid with column filters.",
+  "domainId": "D0",
   "itemCount": 35
  },
  {
   "id": "C193",
-  "label": "CSS Component Kit",
-  "description": "CSS-prefixed primitives like buttons, color fields, and command palettes.",
+  "label": "React Hook Form Fields",
+  "description": "React Hook Form field and validation-rule examples.",
+  "domainId": "D6",
+  "itemCount": 35
+ },
+ {
+  "id": "C194",
+  "label": "Heatmap",
+  "description": "Heatmap charts and calendar heatmaps.",
+  "domainId": "D0",
+  "itemCount": 35
+ },
+ {
+  "id": "C246",
+  "label": "Social Post",
+  "description": "X, Instagram, and LinkedIn social post cards.",
+  "domainId": "D2",
+  "itemCount": 35
+ },
+ {
+  "id": "C286",
+  "label": "Email / Inbox",
+  "description": "Email inbox, mailbox, and messaging application UI.",
+  "domainId": "D0",
+  "itemCount": 35
+ },
+ {
+  "id": "C340",
+  "label": "Card",
+  "description": "Card variants including cutout and borderless styles.",
   "domainId": "D4",
   "itemCount": 35
  },
  {
-  "id": "C336",
-  "label": "Hover Card",
-  "description": "Hover cards, glow and notification-stack card variants.",
-  "domainId": "D12",
+  "id": "C375",
+  "label": "Gradient Text",
+  "description": "Animated gradient text and gradient heading effects.",
+  "domainId": "D1",
   "itemCount": 35
  },
  {
-  "id": "C353",
-  "label": "Card (Interactive)",
-  "description": "Interactive card decks and moving-card carousels for demos and games.",
-  "domainId": "D12",
-  "itemCount": 35
- },
- {
-  "id": "C113",
-  "label": "JSON Forms / Schema Form",
-  "description": "JSONForms schema-driven controls and JSON viewers.",
-  "domainId": "D6",
+  "id": "C145",
+  "label": "Dashboard",
+  "description": "Analytics dashboard page layouts.",
+  "domainId": "D0",
   "itemCount": 34
  },
  {
-  "id": "C173",
-  "label": "Pie / Line Chart Example",
-  "description": "Pie and line chart examples with donuts, gaps, and custom colors.",
+  "id": "C179",
+  "label": "Toggle Group",
+  "description": "Toggle-group selector variants.",
   "domainId": "D3",
   "itemCount": 34
  },
  {
-  "id": "C199",
-  "label": "Command / Empty State",
-  "description": "Command palettes and empty-state placeholder components.",
-  "domainId": "D6",
-  "itemCount": 34
- },
- {
-  "id": "C350",
-  "label": "Animated Beam",
-  "description": "Animated connecting beams and background beam effects.",
+  "id": "C215",
+  "label": "CTA Section",
+  "description": "Call-to-action bands with booking and event prompts.",
   "domainId": "D2",
   "itemCount": 34
  },
  {
-  "id": "C371",
-  "label": "Copy Button",
-  "description": "Copy-to-clipboard buttons, including animated and icon variants.",
-  "domainId": "D4",
-  "itemCount": 34
- },
- {
-  "id": "C388",
-  "label": "Demo / Example",
-  "description": "Video-player demo wrappers showing control and sizing variants.",
-  "domainId": "D2",
-  "itemCount": 34
- },
- {
-  "id": "C49",
-  "label": "Separator",
-  "description": "Horizontal and vertical divider/separator components in various orientations.",
-  "domainId": "D7",
-  "itemCount": 33
- },
- {
-  "id": "C69",
-  "label": "Navbar",
-  "description": "Numbered navigation bar variants.",
-  "domainId": "D5",
-  "itemCount": 33
- },
- {
-  "id": "C15",
-  "label": "Page Section",
-  "description": "Reusable page sections (auth, team, and related blocks).",
+  "id": "C303",
+  "label": "Booking",
+  "description": "Booking and reservation flow components.",
   "domainId": "D0",
-  "itemCount": 32
+  "itemCount": 34
  },
  {
-  "id": "C16",
-  "label": "OG Image",
-  "description": "Numbered Open Graph image templates.",
-  "domainId": "D1",
-  "itemCount": 32
+  "id": "C355",
+  "label": "Ripple Button",
+  "description": "Ripple-effect buttons and backgrounds.",
+  "domainId": "D3",
+  "itemCount": 34
  },
  {
-  "id": "C240",
-  "label": "FAQ",
-  "description": "FAQ sections in card, grid, and CTA layouts.",
-  "domainId": "D5",
-  "itemCount": 32
- },
- {
-  "id": "C347",
-  "label": "Globe",
-  "description": "3D interactive globes and world-map illustrations.",
+  "id": "C391",
+  "label": "Pricing Table",
+  "description": "Pricing plan and tier comparison sections.",
   "domainId": "D2",
-  "itemCount": 32
+  "itemCount": 34
  },
  {
-  "id": "C22",
-  "label": "Sound Effect",
-  "description": "Named SFX pack clips (boom, click, drone, error, glitch).",
-  "domainId": "D15",
-  "itemCount": 31
- },
- {
-  "id": "C57",
-  "label": "Progress",
-  "description": "Progress bar component variants.",
-  "domainId": "D0",
-  "itemCount": 31
- },
- {
-  "id": "C68",
-  "label": "Shader Effects",
-  "description": "Assorted shader-driven visuals (dot distortion, spotlight, morphing blob).",
-  "domainId": "D2",
-  "itemCount": 31
- },
- {
-  "id": "C127",
-  "label": "Password Input",
-  "description": "Password entry fields with masking and form variants.",
-  "domainId": "D6",
-  "itemCount": 31
- },
- {
-  "id": "C274",
-  "label": "Combobox",
-  "description": "Combobox demos with filtering, debounce, grouping and virtualization.",
+  "id": "C43",
+  "label": "Context Menu",
+  "description": "Context menu, modal, and breadcrumb-menu interaction examples.",
   "domainId": "D13",
-  "itemCount": 31
+  "itemCount": 33
  },
  {
-  "id": "C335",
-  "label": "File Tree",
-  "description": "File/folder tree views with selection, drag, and infinite scroll.",
-  "domainId": "D4",
-  "itemCount": 31
+  "id": "C94",
+  "label": "JSON Forms",
+  "description": "Schema-driven JSON Forms controls and cells.",
+  "domainId": "D6",
+  "itemCount": 33
  },
  {
-  "id": "C1",
-  "label": "MUI Treasury Components",
-  "description": "Material UI Treasury component set (accordion, alert, avatar, badge).",
+  "id": "C218",
+  "label": "Form",
+  "description": "Form components with inputs, errors, and settings flows.",
+  "domainId": "D6",
+  "itemCount": 33
+ },
+ {
+  "id": "C270",
+  "label": "Wishlist",
+  "description": "Wishlist and saved-items components for e-commerce.",
   "domainId": "D10",
-  "itemCount": 30
+  "itemCount": 33
  },
  {
-  "id": "C200",
-  "label": "Avatar (Demo)",
-  "description": "Avatar and avatar-group demo examples.",
-  "domainId": "D1",
-  "itemCount": 30
- },
- {
-  "id": "C17",
-  "label": "Theme Toggle Icon",
-  "description": "Animated theme-toggle icon button variations.",
-  "domainId": "D11",
-  "itemCount": 29
- },
- {
-  "id": "C30",
-  "label": "Bento Tile",
-  "description": "Individual bento grid tiles with counters and content.",
+  "id": "C283",
+  "label": "File Manager",
+  "description": "File manager, browser, and version history UI.",
   "domainId": "D0",
-  "itemCount": 29
+  "itemCount": 33
+ },
+ {
+  "id": "C338",
+  "label": "Promo Banner",
+  "description": "Promotional announcement and sales banners.",
+  "domainId": "D2",
+  "itemCount": 33
+ },
+ {
+  "id": "C366",
+  "label": "Dialog",
+  "description": "Dialog and dialogue box component variants.",
+  "domainId": "D12",
+  "itemCount": 33
+ },
+ {
+  "id": "C407",
+  "label": "AI Reasoning",
+  "description": "AI reasoning and chain-of-thought step displays.",
+  "domainId": "D0",
+  "itemCount": 33
+ },
+ {
+  "id": "C177",
+  "label": "Native Select",
+  "description": "Native HTML select input component variants.",
+  "domainId": "D13",
+  "itemCount": 32
+ },
+ {
+  "id": "C327",
+  "label": "Alert",
+  "description": "Alert and callout components with icons, titles, and actions.",
+  "domainId": "D12",
+  "itemCount": 32
+ },
+ {
+  "id": "C331",
+  "label": "Scroll Progress",
+  "description": "Scroll progress bars, scroll-spy, and pull-to-refresh controls.",
+  "domainId": "D1",
+  "itemCount": 32
+ },
+ {
+  "id": "C349",
+  "label": "Profile Card",
+  "description": "Profile and persona cards.",
+  "domainId": "D0",
+  "itemCount": 32
  },
  {
   "id": "C7",
   "label": "Font / Typeface",
-  "description": "Rubik font family and its distressed/decorative display variants.",
+  "description": "Rubik font family and its stylistic variants.",
+  "domainId": "D8",
+  "itemCount": 31
+ },
+ {
+  "id": "C58",
+  "label": "Device Mockup",
+  "description": "Device and browser frames (iPhone, iPad, MacBook, Safari) for showcasing UIs.",
+  "domainId": "D5",
+  "itemCount": 31
+ },
+ {
+  "id": "C127",
+  "label": "Date Picker",
+  "description": "Date picker component variants.",
+  "domainId": "D13",
+  "itemCount": 31
+ },
+ {
+  "id": "C209",
+  "label": "Mouse Trail Effect",
+  "description": "Cursor, image, and mouse trail follow animations.",
+  "domainId": "D1",
+  "itemCount": 31
+ },
+ {
+  "id": "C212",
+  "label": "Bento Grid",
+  "description": "Bento-style feature and showcase grid layouts.",
+  "domainId": "D2",
+  "itemCount": 31
+ },
+ {
+  "id": "C232",
+  "label": "Tilt Card",
+  "description": "3D tilt-effect cards and grids.",
+  "domainId": "D4",
+  "itemCount": 31
+ },
+ {
+  "id": "C281",
+  "label": "Leaderboard",
+  "description": "Ranked leaderboard components.",
+  "domainId": "D0",
+  "itemCount": 31
+ },
+ {
+  "id": "C296",
+  "label": "Card",
+  "description": "Animated and specialized card components.",
+  "domainId": "D4",
+  "itemCount": 31
+ },
+ {
+  "id": "C415",
+  "label": "Account Settings",
+  "description": "Account and profile settings forms.",
+  "domainId": "D0",
+  "itemCount": 31
+ },
+ {
+  "id": "C448",
+  "label": "Skills Section",
+  "description": "Portfolio skills, tech-stack, and capability showcases.",
+  "domainId": "D2",
+  "itemCount": 31
+ },
+ {
+  "id": "C9",
+  "label": "Engine Sound Effect",
+  "description": "Engine, computer noise, and machinery ambience.",
+  "domainId": "D7",
+  "itemCount": 30
+ },
+ {
+  "id": "C22",
+  "label": "Frame",
+  "description": "Frame and image-frame wrappers for containing content.",
+  "domainId": "D5",
+  "itemCount": 30
+ },
+ {
+  "id": "C38",
+  "label": "Dot Matrix (Hexagon)",
+  "description": "Hexagonal dot-matrix pattern variants.",
+  "domainId": "D1",
+  "itemCount": 30
+ },
+ {
+  "id": "C115",
+  "label": "Menu",
+  "description": "Main, pause, and app menu components for navigation.",
+  "domainId": "D9",
+  "itemCount": 30
+ },
+ {
+  "id": "C171",
+  "label": "Menubar",
+  "description": "Menubar components with checkboxes, radios, icons, and submenus.",
+  "domainId": "D9",
+  "itemCount": 30
+ },
+ {
+  "id": "C178",
+  "label": "Feature Section",
+  "description": "Marketing feature highlight and benefit sections.",
+  "domainId": "D2",
+  "itemCount": 30
+ },
+ {
+  "id": "C274",
+  "label": "Product Category",
+  "description": "Product category cards and browsing sections.",
+  "domainId": "D10",
+  "itemCount": 30
+ },
+ {
+  "id": "C277",
+  "label": "Ecommerce Hero",
+  "description": "Storefront and ecommerce landing hero sections.",
+  "domainId": "D2",
+  "itemCount": 30
+ },
+ {
+  "id": "C344",
+  "label": "Aurora Background",
+  "description": "Aurora, snowfall, and glassy ambient background effects.",
+  "domainId": "D1",
+  "itemCount": 30
+ },
+ {
+  "id": "C373",
+  "label": "Hover Card",
+  "description": "Hover-card component variants.",
+  "domainId": "D4",
+  "itemCount": 30
+ },
+ {
+  "id": "C431",
+  "label": "Process Section",
+  "description": "Step-by-step process and workflow walkthroughs.",
+  "domainId": "D2",
+  "itemCount": 30
+ },
+ {
+  "id": "C435",
+  "label": "Product Overview",
+  "description": "E-commerce product overview sections with galleries and bundles.",
+  "domainId": "D10",
+  "itemCount": 30
+ },
+ {
+  "id": "C92",
+  "label": "Autocomplete",
+  "description": "Autocomplete inputs with contextual suggestions.",
+  "domainId": "D6",
+  "itemCount": 29
+ },
+ {
+  "id": "C147",
+  "label": "Demo / Example",
+  "description": "Pending-state demo and example wrappers.",
+  "domainId": "D3",
+  "itemCount": 29
+ },
+ {
+  "id": "C261",
+  "label": "Link",
+  "description": "Text link and link-button components.",
+  "domainId": "D3",
+  "itemCount": 29
+ },
+ {
+  "id": "C272",
+  "label": "Drag & Drop Cursor",
+  "description": "Editor drop/gap cursors and drag-and-drop indicators.",
+  "domainId": "D1",
+  "itemCount": 29
+ },
+ {
+  "id": "C13",
+  "label": "Theme Toggle",
+  "description": "Animated theme-toggle icon variants.",
+  "domainId": "D3",
+  "itemCount": 28
+ },
+ {
+  "id": "C31",
+  "label": "Laser Sound Effect",
+  "description": "Sci-fi laser blast sound effects.",
+  "domainId": "D7",
+  "itemCount": 28
+ },
+ {
+  "id": "C34",
+  "label": "Separator / Divider",
+  "description": "Separator and divider primitives for spacing content.",
   "domainId": "D9",
   "itemCount": 28
  },
  {
-  "id": "C212",
-  "label": "Showcase Section",
-  "description": "Product showcase and feature spotlight sections.",
-  "domainId": "D0",
-  "itemCount": 28
- },
- {
-  "id": "C213",
-  "label": "FAQ / Accordion",
-  "description": "Collapsible FAQ disclosure components.",
+  "id": "C42",
+  "label": "MUI Treasury Components",
+  "description": "Material-UI Treasury styled component variants.",
   "domainId": "D5",
   "itemCount": 28
  },
  {
-  "id": "C246",
-  "label": "Hero with Form",
-  "description": "Hero sections featuring signup, contact, or booking forms.",
-  "domainId": "D5",
-  "itemCount": 28
- },
- {
-  "id": "C261",
-  "label": "Localization / i18n",
-  "description": "Localization tools: language switchers, glossaries, locale settings.",
+  "id": "C265",
+  "label": "AI Agent Management",
+  "description": "Agent management dashboards, lists, and detail views.",
   "domainId": "D0",
   "itemCount": 28
  },
  {
-  "id": "C83",
-  "label": "Context Menu",
-  "description": "Context menus for canvas and file interactions in numbered variants.",
-  "domainId": "D13",
+  "id": "C282",
+  "label": "Input",
+  "description": "Numbered input and field control variants.",
+  "domainId": "D6",
+  "itemCount": 28
+ },
+ {
+  "id": "C316",
+  "label": "Card",
+  "description": "Numbered card variants.",
+  "domainId": "D4",
+  "itemCount": 28
+ },
+ {
+  "id": "C153",
+  "label": "Meter",
+  "description": "Usage meters in linear and circular styles.",
+  "domainId": "D0",
   "itemCount": 27
  },
  {
-  "id": "C14",
-  "label": "Illustration",
-  "description": "Decorative illustration assets.",
+  "id": "C201",
+  "label": "Contribution Graph",
+  "description": "GitHub-style contribution and activity calendars.",
+  "domainId": "D0",
+  "itemCount": 27
+ },
+ {
+  "id": "C220",
+  "label": "Product Overview",
+  "description": "Product and customer overview page sections.",
+  "domainId": "D10",
+  "itemCount": 27
+ },
+ {
+  "id": "C305",
+  "label": "Button (Ghost)",
+  "description": "Ghost-style button variants.",
+  "domainId": "D3",
+  "itemCount": 27
+ },
+ {
+  "id": "C5",
+  "label": "Font / Typeface",
+  "description": "Educational handwriting fonts with cursive and guide styles.",
+  "domainId": "D8",
+  "itemCount": 26
+ },
+ {
+  "id": "C174",
+  "label": "Form Section",
+  "description": "Contact, signup, and request form layouts.",
+  "domainId": "D2",
+  "itemCount": 26
+ },
+ {
+  "id": "C276",
+  "label": "Waitlist",
+  "description": "Waitlist signup sections and forms.",
   "domainId": "D0",
   "itemCount": 26
  },
  {
-  "id": "C209",
-  "label": "Chart (Numbered Set)",
-  "description": "Numbered chart variants from a component set.",
-  "domainId": "D3",
+  "id": "C330",
+  "label": "Alert",
+  "description": "Alert components for error and info states.",
+  "domainId": "D12",
+  "itemCount": 26
+ },
+ {
+  "id": "C352",
+  "label": "Shader Background",
+  "description": "WebGL shader and dot-distortion background effects.",
+  "domainId": "D1",
+  "itemCount": 26
+ },
+ {
+  "id": "C356",
+  "label": "Trust & Security",
+  "description": "Compliance, security, and trust-signal panels.",
+  "domainId": "D2",
+  "itemCount": 26
+ },
+ {
+  "id": "C358",
+  "label": "API Docs",
+  "description": "API reference and documentation pages.",
+  "domainId": "D5",
+  "itemCount": 26
+ },
+ {
+  "id": "C422",
+  "label": "News Section",
+  "description": "News article and press listing blocks.",
+  "domainId": "D2",
+  "itemCount": 26
+ },
+ {
+  "id": "C28",
+  "label": "Login / Auth",
+  "description": "Email login buttons and auth entry points.",
+  "domainId": "D2",
   "itemCount": 25
+ },
+ {
+  "id": "C91",
+  "label": "Demo / Example",
+  "description": "Popover demo and example wrappers.",
+  "domainId": "D4",
+  "itemCount": 25
+ },
+ {
+  "id": "C143",
+  "label": "Combobox",
+  "description": "Combobox demos with filtering, grouping, and virtualization.",
+  "domainId": "D13",
+  "itemCount": 25
+ },
+ {
+  "id": "C293",
+  "label": "Input",
+  "description": "Numbered text input variants.",
+  "domainId": "D6",
+  "itemCount": 25
+ },
+ {
+  "id": "C311",
+  "label": "Glitch Effect",
+  "description": "Glitch button, text, and RGB distortion effects.",
+  "domainId": "D1",
+  "itemCount": 25
+ },
+ {
+  "id": "C368",
+  "label": "Client Logos",
+  "description": "Client and partner logo rows and grids.",
+  "domainId": "D2",
+  "itemCount": 25
+ },
+ {
+  "id": "C87",
+  "label": "Showcase",
+  "description": "Feature showcase and highlight sections.",
+  "domainId": "D0",
+  "itemCount": 24
+ },
+ {
+  "id": "C88",
+  "label": "Spinner",
+  "description": "Numbered loading spinner variants.",
+  "domainId": "D1",
+  "itemCount": 24
+ },
+ {
+  "id": "C207",
+  "label": "How It Works",
+  "description": "How-it-works explainer sections.",
+  "domainId": "D0",
+  "itemCount": 24
+ },
+ {
+  "id": "C242",
+  "label": "Size & Fit Guide",
+  "description": "Size recommendation and fit-guide components for products.",
+  "domainId": "D10",
+  "itemCount": 24
+ },
+ {
+  "id": "C262",
+  "label": "QR Code",
+  "description": "QR code generators and display components.",
+  "domainId": "D5",
+  "itemCount": 24
+ },
+ {
+  "id": "C307",
+  "label": "Localization Settings",
+  "description": "Locale switchers and localization management controls.",
+  "domainId": "D2",
+  "itemCount": 24
+ },
+ {
+  "id": "C333",
+  "label": "Animated Border Button",
+  "description": "Moving and traced border-animation buttons.",
+  "domainId": "D3",
+  "itemCount": 24
+ },
+ {
+  "id": "C54",
+  "label": "Card Sound Effect",
+  "description": "Playing-card handling sound effects (fan, place, shove).",
+  "domainId": "D7",
+  "itemCount": 23
+ },
+ {
+  "id": "C55",
+  "label": "Casino Chip Sound Effect",
+  "description": "Poker chip laying and colliding sound effects.",
+  "domainId": "D7",
+  "itemCount": 23
+ },
+ {
+  "id": "C59",
+  "label": "Coming Soon",
+  "description": "Coming soon and launch teaser pages.",
+  "domainId": "D0",
+  "itemCount": 23
+ },
+ {
+  "id": "C62",
+  "label": "Impact Sound Effect",
+  "description": "Wood and plank impact sound effects.",
+  "domainId": "D7",
+  "itemCount": 23
+ },
+ {
+  "id": "C73",
+  "label": "FAQ",
+  "description": "Frequently-asked-questions accordions and disclosures.",
+  "domainId": "D2",
+  "itemCount": 23
+ },
+ {
+  "id": "C278",
+  "label": "Storefront Hero",
+  "description": "Shop landing hero and header sections.",
+  "domainId": "D2",
+  "itemCount": 23
+ },
+ {
+  "id": "C376",
+  "label": "Attachment",
+  "description": "File attachment chips, groups, and previews.",
+  "domainId": "D5",
+  "itemCount": 23
+ },
+ {
+  "id": "C426",
+  "label": "Bio Link / Social Links",
+  "description": "Link-in-bio pages and social link lists.",
+  "domainId": "D2",
+  "itemCount": 23
+ },
+ {
+  "id": "C90",
+  "label": "Popover",
+  "description": "Popover and portal primitives.",
+  "domainId": "D4",
+  "itemCount": 22
+ },
+ {
+  "id": "C106",
+  "label": "Group",
+  "description": "Generic grouping container components.",
+  "domainId": "D6",
+  "itemCount": 22
+ },
+ {
+  "id": "C108",
+  "label": "List Box",
+  "description": "Selectable listbox components with grid and grouped variants.",
+  "domainId": "D5",
+  "itemCount": 22
+ },
+ {
+  "id": "C118",
+  "label": "Glassmorphism Block",
+  "description": "Glassmorphism hero, CTA, and timeline section blocks.",
+  "domainId": "D1",
+  "itemCount": 22
+ },
+ {
+  "id": "C154",
+  "label": "Gauge",
+  "description": "Gauge charts and dial indicators.",
+  "domainId": "D0",
+  "itemCount": 22
+ },
+ {
+  "id": "C371",
+  "label": "Glow Button",
+  "description": "Glow, pulse, and aurora buttons.",
+  "domainId": "D3",
+  "itemCount": 22
+ },
+ {
+  "id": "C377",
+  "label": "Battery Icon",
+  "description": "Battery level and charging status icons.",
+  "domainId": "D11",
+  "itemCount": 22
+ },
+ {
+  "id": "C412",
+  "label": "Button",
+  "description": "Numbered button variants.",
+  "domainId": "D3",
+  "itemCount": 22
+ },
+ {
+  "id": "C2",
+  "label": "Stripe Integration",
+  "description": "Stripe payment integration code snippets.",
+  "domainId": "D0",
+  "itemCount": 21
+ },
+ {
+  "id": "C173",
+  "label": "Dropdown Menu",
+  "description": "Dropdown menu variants with color and state options.",
+  "domainId": "D9",
+  "itemCount": 21
+ },
+ {
+  "id": "C264",
+  "label": "Input Group",
+  "description": "Input group composition variants.",
+  "domainId": "D6",
+  "itemCount": 21
+ },
+ {
+  "id": "C25",
+  "label": "Game Voiceover",
+  "description": "Fighter character voiceover pack clips.",
+  "domainId": "D7",
+  "itemCount": 20
+ },
+ {
+  "id": "C44",
+  "label": "Dot Matrix (Square)",
+  "description": "Square dot-matrix pattern variants.",
+  "domainId": "D1",
+  "itemCount": 20
+ },
+ {
+  "id": "C68",
+  "label": "Dot Matrix (Triangle)",
+  "description": "Triangular dot-matrix pattern variants.",
+  "domainId": "D1",
+  "itemCount": 20
+ },
+ {
+  "id": "C104",
+  "label": "Dot Matrix (Circular)",
+  "description": "Circular dot-matrix pattern variants.",
+  "domainId": "D1",
+  "itemCount": 20
  }
 ]

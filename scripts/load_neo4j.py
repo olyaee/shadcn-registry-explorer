@@ -18,7 +18,7 @@ from neo4j import GraphDatabase
 
 load_dotenv()
 URI = os.getenv("NEO4J_URI"); USER = os.getenv("NEO4J_USERNAME", "neo4j")
-PWD = os.getenv("NEO4J_PASSWORD"); DIM = 1024
+PWD = os.getenv("NEO4J_PASSWORD"); DIM = 3072
 
 def install_dns_fallback(uri):
     """If the local resolver can't resolve the Aura host (router DNS-rebind
@@ -80,7 +80,7 @@ def main():
     categories = json.load(open("data/graph/categories.json"))
     registries = json.load(open("data/graph/registries.json"))
     items = [json.loads(l) for l in open("data/graph/items.jsonl")]
-    vecs = np.load("data/graph/item_vectors_1024.npy")
+    vecs = np.load("data/graph/item_vectors.npy")
     assert len(items) == len(vecs)
 
     with drv.session() as s:
@@ -124,7 +124,8 @@ def main():
             s.run("""UNWIND $rows AS it
                      MERGE (n:Item {id:it.id})
                      SET n.name=it.name, n.type=it.type, n.description=it.description,
-                         n.handle=it.handle
+                         n.handle=it.handle, n.kind=it.kind, n.tags=it.tags,
+                         n.useCases=it.useCases
                      WITH n, it
                      CALL db.create.setNodeVectorProperty(n, 'embedding', it.embedding)
                      WITH n, it MATCH (c:Category {id:it.categoryId}) MERGE (c)-[:HAS_ITEM]->(n)

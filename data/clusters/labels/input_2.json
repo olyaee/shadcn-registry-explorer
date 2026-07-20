@@ -1,649 +1,121 @@
 [
  {
-  "cluster": 377,
-  "domain": 2,
-  "guess": "ts",
-  "n": 546,
+  "cluster": 160,
+  "domain": 1,
+  "guess": "c spinner",
+  "n": 53,
   "samples": [
-   "particles",
-   "meteors",
-   "background",
-   "liquid-chrome",
-   "confetti",
-   "background-gradient",
-   "aurora-background",
-   "waves"
+   "p-spinner-1",
+   "BadgeSpinner",
+   "InputGroupSpinner",
+   "SpinnerBadge",
+   "c-spinner-1",
+   "c-spinner-10",
+   "c-spinner-11",
+   "c-spinner-12"
   ]
  },
  {
-  "cluster": 387,
-  "domain": 2,
-  "guess": "text",
-  "n": 443,
+  "cluster": 163,
+  "domain": 1,
+  "guess": "clock sm",
+  "n": 53,
   "samples": [
-   "text-reveal",
-   "progressive-blur",
-   "blur-reveal",
-   "reveal-text",
-   "text-loop",
-   "text-animate",
-   "text-morph",
-   "primitives-texts-gradient"
+   "countdown",
+   "timer",
+   "flip-clock",
+   "countdown-timer",
+   "flip-clock-demo",
+   "flip-clock-size-demo",
+   "flip-clock-variants-demo",
+   "flip-clock-countdown-demo"
   ]
  },
  {
-  "cluster": 374,
-  "domain": 2,
-  "guess": "scroll area",
-  "n": 182,
+  "cluster": 41,
+  "domain": 1,
+  "guess": "background pattern",
+  "n": 52,
   "samples": [
-   "scroll-area",
-   "scroll-progress",
-   "primitives-animate-scroll-progress",
-   "scroll-text",
-   "smooth-scroll",
-   "scroll-based-velocity",
-   "scroll-fade-effect",
-   "scroll-float"
+   "background-pattern1",
+   "background-pattern10",
+   "background-pattern100",
+   "background-pattern11",
+   "background-pattern111",
+   "background-pattern112",
+   "background-pattern113",
+   "background-pattern115"
   ]
  },
  {
-  "cluster": 301,
-  "domain": 2,
-  "guess": "demo",
-  "n": 168,
+  "cluster": 133,
+  "domain": 1,
+  "guess": "sparkles",
+  "n": 50,
   "samples": [
-   "demo-components-animate-code",
-   "demo-components-animate-code-tabs",
-   "demo-components-animate-tabs",
-   "demo-components-community-notification-list",
-   "demo-components-community-playful-todolist",
-   "demo-components-radix-checkbox",
-   "demo-primitives-animate-scroll-progress",
-   "demo-primitives-animate-tabs"
+   "sparkles",
+   "bubble-field",
+   "danger-stripes",
+   "icons-sparkle",
+   "icons-sparkles",
+   "fireworks",
+   "sparkle-icon",
+   "success-confetti"
   ]
  },
  {
-  "cluster": 326,
-  "domain": 2,
-  "guess": "slider",
-  "n": 152,
-  "samples": [
-   "slider",
-   "infinite-slider",
-   "glass-slider",
-   "image-comparison",
-   "circular-slider",
-   "elastic-slider",
-   "slider-01",
-   "slider-02"
-  ]
- },
- {
-  "cluster": 297,
-  "domain": 2,
-  "guess": "spinner",
-  "n": 148,
-  "samples": [
-   "spinner",
-   "loader",
-   "thinking-indicator",
-   "icons-loader",
-   "braille-loader",
-   "spinner-01",
-   "spinner-02",
-   "spinner-03"
-  ]
- },
- {
-  "cluster": 370,
-  "domain": 2,
-  "guess": "primitives",
-  "n": 122,
-  "samples": [
-   "highlight-text",
-   "highlight",
-   "primitives-animate-spring",
-   "primitives-effects-blur",
-   "primitives-effects-click",
-   "primitives-effects-effect",
-   "primitives-effects-fade",
-   "primitives-effects-image-zoom"
-  ]
- },
- {
-  "cluster": 258,
-  "domain": 2,
-  "guess": "demo",
-  "n": 104,
-  "samples": [
-   "dynamic-island-demo",
-   "family-button-demo",
-   "tweet-grid-demo",
-   "sortable-list-demo",
-   "lightboard-demo",
-   "floating-panel-demo",
-   "expandable-demo",
-   "choice-poll-demo"
-  ]
- },
- {
-  "cluster": 341,
-  "domain": 2,
-  "guess": "carousel",
-  "n": 99,
-  "samples": [
-   "carousel",
-   "feature-carousel",
-   "Carousel",
-   "apple-cards-carousel",
-   "cube-carousel",
-   "components-community-motion-carousel",
-   "demo-components-community-motion-carousel",
-   "specials-linear-carousel"
-  ]
- },
- {
-  "cluster": 12,
-  "domain": 2,
-  "guess": "dotm square",
-  "n": 97,
-  "samples": [
-   "dotm-square-1",
-   "dotm-square-2",
-   "dotm-square-3",
-   "dotm-square-4",
-   "dotm-square-5",
-   "dotm-square-6",
-   "dotm-square-7",
-   "dotm-square-8"
-  ]
- },
- {
-  "cluster": 362,
-  "domain": 2,
-  "guess": "orb",
-  "n": 92,
-  "samples": [
-   "spinning-text",
-   "data-flow-pipes",
-   "shader-dot-orbit",
-   "shader-spiral",
-   "shader-swirl",
-   "agent-audio-visualizer-radial",
-   "curious-ai",
-   "halo-type"
-  ]
- },
- {
-  "cluster": 192,
-  "domain": 2,
-  "guess": "glass",
-  "n": 81,
-  "samples": [
-   "glass-card",
-   "glass-progress",
-   "liquid-glass",
-   "glass-notification",
-   "glass-badge",
-   "glass-button",
-   "glass-input",
-   "glass-select"
-  ]
- },
- {
-  "cluster": 300,
-  "domain": 2,
-  "guess": "css",
-  "n": 81,
-  "samples": [
-   "dynamic-island",
-   "components-community-radial-nav",
-   "shared-layout-bg",
-   "bloom-menu",
-   "expandable-screen",
-   "magic-genie-tabs",
-   "select-base",
-   "notification-center"
-  ]
- },
- {
-  "cluster": 369,
-  "domain": 2,
+  "cluster": 217,
+  "domain": 1,
   "guess": "animated list",
-  "n": 81,
+  "n": 50,
   "samples": [
    "animated-list",
    "primitives-animate-pinned-list",
-   "primitives-animate-slot",
    "animated-list-demo",
    "components-community-notification-list",
-   "components-community-playful-todolist",
    "demo-primitives-animate-pinned-list",
-   "shake-demo"
+   "components-community-pin-list",
+   "demo-components-community-notification-list",
+   "demo-components-community-pin-list"
   ]
  },
  {
-  "cluster": 381,
-  "domain": 2,
-  "guess": "grid",
-  "n": 81,
+  "cluster": 204,
+  "domain": 1,
+  "guess": "image",
+  "n": 49,
   "samples": [
-   "animated-grid-pattern",
-   "primitives-animate-motion-grid",
-   "animated-grid-pattern-demo",
-   "dot-grid",
-   "x-grid",
-   "components-backgrounds-hexagon",
-   "demo-primitives-animate-motion-grid",
-   "interactive-grid-background"
-  ]
- },
- {
-  "cluster": 181,
-  "domain": 2,
-  "guess": "number ticker",
-  "n": 80,
-  "samples": [
-   "animated-number",
-   "primitives-texts-counting-number",
-   "primitives-texts-scrolling-number",
-   "primitives-texts-sliding-number",
-   "number-ticker",
-   "sliding-number",
-   "demo-primitives-texts-counting-number",
-   "demo-primitives-texts-scrolling-number"
-  ]
- },
- {
-  "cluster": 167,
-  "domain": 2,
-  "guess": "demo",
-  "n": 78,
-  "samples": [
-   "stepper-demo",
-   "carousel-demo",
-   "slider-demo",
-   "spinner-demo",
-   "cambio-image-grid-demo",
-   "tabs-entrance-animation-demo",
-   "angle-slider-demo",
-   "angle-slider-controlled-demo"
-  ]
- },
- {
-  "cluster": 54,
-  "domain": 2,
-  "guess": "p slider",
-  "n": 77,
-  "samples": [
+   "compare",
+   "image-comparison",
+   "comparison",
+   "image-cropper",
+   "images-slider",
+   "diff-viewer",
    "cta46",
-   "p-slider-1",
-   "p-slider-2",
-   "p-slider-3",
-   "p-slider-4",
-   "p-slider-5",
-   "p-slider-6",
-   "p-slider-7"
+   "reveal1"
   ]
  },
  {
-  "cluster": 364,
-  "domain": 2,
-  "guess": "demo",
-  "n": 72,
-  "samples": [
-   "cambio-image-dismiss-on-scroll-demo",
-   "tabs-in-scroll-area-demo",
-   "scroll-fade-effect-demo",
-   "scroll-fade-effect-slider-demo",
-   "scroller-demo",
-   "scroller-hidden-demo",
-   "scroller-horizontal-demo",
-   "scroller-navigation-demo"
-  ]
- },
- {
-  "cluster": 121,
-  "domain": 2,
-  "guess": "cursor",
-  "n": 71,
-  "samples": [
-   "cursor",
-   "primitives-animate-cursor",
-   "components-animate-cursor",
-   "demo-components-animate-cursor",
-   "demo-primitives-animate-cursor",
-   "simulated-cursor",
-   "custom-cursor",
-   "example-demo-cursor"
-  ]
- },
- {
-  "cluster": 389,
-  "domain": 2,
-  "guess": "player",
-  "n": 71,
-  "samples": [
-   "video-player",
-   "audio-player",
-   "media-player",
-   "media-provider",
-   "youtube",
-   "audio",
-   "video",
-   "audio-settings"
-  ]
- },
- {
-  "cluster": 386,
-  "domain": 2,
-  "guess": "text shimmer",
-  "n": 69,
-  "samples": [
-   "text-shimmer",
-   "shimmer-text",
-   "shimmering-text",
-   "shimmer",
-   "primitives-texts-shimmering",
-   "shimmer-sweep",
-   "demo-primitives-texts-shimmering",
-   "text-shimmer-wave"
-  ]
- },
- {
-  "cluster": 67,
-  "domain": 2,
-  "guess": "background pattern",
-  "n": 67,
-  "samples": [
-   "background-lines",
-   "background-with-shooting-stars",
-   "background-dots",
-   "background-dots-masked",
-   "background-dots-masked-vertical",
-   "background-grid-with-dots",
-   "background-grid-with-dots-and-animations",
-   "background-with-skewed-rectangles"
-  ]
- },
- {
-  "cluster": 376,
-  "domain": 2,
-  "guess": "tw",
-  "n": 66,
-  "samples": [
-   "light-rays",
-   "shader-god-rays",
-   "lightning",
-   "electric-mist",
-   "lightboard",
-   "light",
-   "light-rays-demo",
-   "ClickSpark-JS-CSS"
-  ]
- },
- {
-  "cluster": 355,
-  "domain": 2,
-  "guess": "marquee",
-  "n": 64,
-  "samples": [
-   "marquee",
-   "marquee-demo",
-   "3d-marquee",
-   "infinite-marquee",
-   "perspective-marquee",
-   "marquee-grayscale-demo",
-   "marquee-reverse-demo",
-   "banner-13"
-  ]
- },
- {
-  "cluster": 122,
-  "domain": 2,
-  "guess": "trail",
-  "n": 59,
-  "samples": [
-   "image-trail",
-   "mouse-trail",
-   "image-reveal",
-   "vanishing-mouse-trail",
-   "cursor-trail",
-   "text-outline-glow",
-   "fluid-cursor-trail",
-   "BlobCursor-JS-CSS"
-  ]
- },
- {
-  "cluster": 89,
-  "domain": 2,
-  "guess": "c spinner",
-  "n": 58,
-  "samples": [
-   "p-spinner-1",
-   "spinner-color-demo",
-   "spinner-size-demo",
-   "InputGroupSpinner",
-   "SpinnerCustom",
-   "SpinnerEmpty",
-   "c-spinner-1",
-   "c-spinner-10"
-  ]
- },
- {
-  "cluster": 375,
-  "domain": 2,
-  "guess": "typewriter",
-  "n": 58,
-  "samples": [
-   "typewriter",
-   "streaming-text",
-   "typewriter-effect",
-   "demo-primitives-texts-typing",
-   "typing-indicator",
-   "text-animation-typewriter-effect-demo",
-   "text-generate-typewriter",
-   "use-streaming"
-  ]
- },
- {
-  "cluster": 342,
-  "domain": 2,
-  "guess": "carousel",
-  "n": 57,
-  "samples": [
-   "carousel-01",
-   "carousel-02",
-   "carousel-03",
-   "carousel",
-   "carousel-04",
-   "carousel-05",
-   "carousel-06",
-   "flipping-images-with-bar"
-  ]
- },
- {
-  "cluster": 348,
-  "domain": 2,
-  "guess": "spotlight card",
-  "n": 56,
-  "samples": [
-   "spotlight-card",
-   "spotlight",
-   "glare-card",
-   "spotlight-new",
-   "specials-spotlight-card",
-   "specials-spotlight-card-demo",
-   "faq63",
-   "not-found-spotlight"
-  ]
- },
- {
-  "cluster": 84,
-  "domain": 2,
-  "guess": "magnetic button",
-  "n": 54,
-  "samples": [
-   "magnetic-button",
-   "magnetic",
-   "primitives-effects-magnetic",
-   "demo-primitives-effects-magnetic",
-   "magnet-lines",
-   "magnetic-dots",
-   "buttons-magnetic",
-   "button-magnetic"
-  ]
- },
- {
-  "cluster": 197,
-  "domain": 2,
-  "guess": "terminal",
-  "n": 54,
-  "samples": [
-   "terminal",
-   "terminal-demo",
-   "terminal-simulator",
-   "advanced1",
-   "ascii-art",
-   "ascii-wave",
-   "faq59",
-   "feature167"
-  ]
- },
- {
-  "cluster": 351,
-  "domain": 2,
-  "guess": "border",
-  "n": 53,
-  "samples": [
-   "border-beam",
-   "shader-pulsing-border",
-   "shine-border",
-   "border-trail",
-   "moving-border",
-   "specials-border-beam",
-   "specials-border-beam-demo",
-   "error-boundary"
-  ]
- },
- {
-  "cluster": 359,
-  "domain": 2,
-  "guess": "grid",
-  "n": 52,
-  "samples": [
-   "grid",
-   "layout-grid",
-   "grid-list",
-   "webcam-pixel-grid",
-   "agent-audio-visualizer-grid",
-   "tweet-grid",
-   "grid-beam-demo",
-   "profile-team-grid"
-  ]
- },
- {
-  "cluster": 56,
-  "domain": 2,
-  "guess": "dock",
-  "n": 51,
-  "samples": [
-   "dock",
-   "dock-demo",
-   "floating-dock",
-   "glass-dock",
-   "specials-reaction-dock",
-   "specials-reaction-dock-demo",
-   "magnetic-dock",
-   "dock-text"
-  ]
- },
- {
-  "cluster": 138,
-  "domain": 2,
-  "guess": "color picker",
-  "n": 51,
-  "samples": [
-   "color-picker",
-   "color-swatch",
-   "color-palette",
-   "color-swatch-selector",
-   "gradient-picker",
-   "fill-picker",
-   "color-picker-radix",
-   "gradient-picker-radix"
-  ]
- },
- {
-  "cluster": 119,
-  "domain": 2,
-  "guess": "number field",
-  "n": 50,
-  "samples": [
-   "number-field",
-   "number-input",
-   "phone-input",
-   "currency-input",
-   "amount-input",
-   "number-field-01",
-   "number-field-02",
-   "use-number-input"
-  ]
- },
- {
-  "cluster": 25,
-  "domain": 2,
-  "guess": "aspect ratio",
-  "n": 46,
-  "samples": [
-   "aspect-ratio",
-   "canvas-2d",
-   "aspect-ratio-demo",
-   "aspect-ratio-square",
-   "aspect-ratio-portrait",
-   "image-crop",
-   "AspectRatio",
-   "AspectRatioPortrait"
-  ]
- },
- {
-  "cluster": 383,
-  "domain": 2,
+  "cluster": 312,
+  "domain": 1,
   "guess": "text",
-  "n": 46,
+  "n": 49,
   "samples": [
    "scramble-text",
    "text-scramble",
    "encrypted-text",
    "matrix-decode",
    "scramble",
-   "action-swap-cascade",
-   "loader-terminal-decode",
+   "squiggly-text",
+   "good-vibes",
    "caption-matrix-decode"
   ]
  },
  {
-  "cluster": 382,
-  "domain": 2,
-  "guess": "glitch",
-  "n": 45,
-  "samples": [
-   "glitch-text",
-   "glitch-button",
-   "rgb-glitch-text",
-   "good-vibes",
-   "responsive-letters",
-   "pixel-heading-character",
-   "pixel-heading-word",
-   "loader-glitch-text"
-  ]
- },
- {
-  "cluster": 241,
-  "domain": 2,
-  "guess": "components logoclouds logocloud",
-  "n": 44,
+  "cluster": 18,
+  "domain": 1,
+  "guess": "logos",
+  "n": 48,
   "samples": [
    "logo-carousel",
    "logo-timeline",
@@ -652,94 +124,142 @@
    "logo-enter",
    "logo-loop",
    "logos-carousel",
-   "showreel"
+   "logo-carousel-demo"
   ]
  },
  {
-  "cluster": 380,
-  "domain": 2,
-  "guess": "tw",
-  "n": 41,
+  "cluster": 346,
+  "domain": 1,
+  "guess": "wave",
+  "n": 47,
   "samples": [
-   "distortion-grid",
-   "grid-lines",
-   "canvas-fractal-grid",
-   "dot-grid-spotlight",
-   "dot-grid-hero",
-   "ChromaGrid-JS-TW",
-   "ChromaGrid-TS-TW",
-   "CursorGrid-JS-CSS"
+   "waves",
+   "moving-line",
+   "wavy-background",
+   "sphere-lines",
+   "wave-lines",
+   "ascii-wave",
+   "wavy-icon",
+   "wave-path"
   ]
  },
  {
-  "cluster": 137,
-  "domain": 2,
-  "guess": "color",
-  "n": 39,
+  "cluster": 347,
+  "domain": 1,
+  "guess": "ts",
+  "n": 47,
   "samples": [
-   "color-picker-demo",
-   "color-picker-controlled-demo",
-   "color-picker-form-demo",
-   "color-picker-inline-demo",
-   "color-swatch-demo",
-   "color-swatch-sizes-demo",
-   "color-swatch-transparency-demo",
-   "gauge-colors-demo"
+   "Strands-JS-CSS",
+   "Strands-JS-TW",
+   "Strands-TS-CSS",
+   "Strands-TS-TW",
+   "Ribbons-JS-CSS",
+   "Ribbons-JS-TW",
+   "Ribbons-TS-CSS",
+   "Ribbons-TS-TW"
   ]
  },
  {
-  "cluster": 257,
-  "domain": 2,
-  "guess": "safari demo",
-  "n": 37,
+  "cluster": 400,
+  "domain": 1,
+  "guess": "text",
+  "n": 47,
   "samples": [
-   "safari",
-   "iphone",
-   "macbook-illustration",
-   "iphone-illustration",
-   "mock-browser-window",
-   "mock-browser-window-demo",
-   "safari-browser",
-   "macbook-pro"
+   "top-down-letters",
+   "per-character-rise",
+   "text-roll",
+   "falling-text",
+   "bottom-up-letters",
+   "spring-scale-in",
+   "short-slide-down",
+   "responsive-letters"
   ]
  },
  {
-  "cluster": 361,
-  "domain": 2,
+  "cluster": 280,
+  "domain": 1,
+  "guess": "button",
+  "n": 43,
+  "samples": [
+   "stateful-button",
+   "button-loading",
+   "status-button",
+   "async-button",
+   "button-stateful",
+   "button-loading-with-icon",
+   "p-button-18",
+   "morph-status-button"
+  ]
+ },
+ {
+  "cluster": 354,
+  "domain": 1,
+  "guess": "text morph",
+  "n": 40,
+  "samples": [
+   "text-morph",
+   "primitives-texts-morphing",
+   "morphing-dialog",
+   "demo-primitives-texts-morphing",
+   "morphing-text",
+   "wild-morph",
+   "motion-core",
+   "motion-react"
+  ]
+ },
+ {
+  "cluster": 230,
+  "domain": 1,
   "guess": "js",
+  "n": 38,
+  "samples": [
+   "eye-tracking",
+   "BlobCursor-JS-CSS",
+   "BlobCursor-JS-TW",
+   "BlobCursor-TS-CSS",
+   "BlobCursor-TS-TW",
+   "Crosshair-JS-CSS",
+   "Crosshair-JS-TW",
+   "Crosshair-TS-CSS"
+  ]
+ },
+ {
+  "cluster": 318,
+  "domain": 1,
+  "guess": "stagger",
+  "n": 38,
+  "samples": [
+   "staggered-fade-up",
+   "lists-stagger-fade",
+   "staggered-entrance",
+   "stagger-on-scroll",
+   "stagger-reveal-grid",
+   "SplitText-JS-CSS",
+   "SplitText-TS-CSS",
+   "StaggeredMenu-JS-CSS"
+  ]
+ },
+ {
+  "cluster": 195,
+  "domain": 1,
+  "guess": "skiper",
   "n": 36,
   "samples": [
-   "image-cropper",
-   "Cubes-JS-CSS",
-   "Cubes-JS-TW",
-   "Cubes-TS-CSS",
-   "Cubes-TS-TW",
-   "OrbitImages-JS-CSS",
-   "OrbitImages-JS-TW",
-   "OrbitImages-TS-CSS"
-  ]
- },
- {
-  "cluster": 104,
-  "domain": 2,
-  "guess": "skiper",
-  "n": 35,
-  "samples": [
+   "skip-nav",
    "skiper3",
    "skiper16",
    "skiper17",
    "skiper19",
    "skiper25",
    "skiper28",
-   "skiper30",
-   "skiper31"
+   "skiper30"
   ]
  },
  {
-  "cluster": 350,
-  "domain": 2,
+  "cluster": 203,
+  "domain": 1,
   "guess": "animated beam",
-  "n": 34,
+  "n": 36,
   "samples": [
    "animated-beam",
    "background-beams",
@@ -752,835 +272,1203 @@
   ]
  },
  {
-  "cluster": 388,
-  "domain": 2,
-  "guess": "demo",
-  "n": 34,
+  "cluster": 375,
+  "domain": 1,
+  "guess": "gradient",
+  "n": 35,
   "samples": [
-   "video-player-demo",
-   "video-player-minimal-controls-demo",
-   "video-player-fit-demo",
-   "video-player-sizing-demo",
-   "video-player-repeat-demo",
-   "video-player-auto-demo",
-   "video-player-visible-controls-demo",
-   "video-player-hide-center-controls-demo"
+   "primitives-texts-gradient",
+   "text-gradient",
+   "demo-primitives-texts-gradient",
+   "animated-gradient-text",
+   "animated-gradient",
+   "text-gradient-scroll",
+   "gradient-heading",
+   "gradient-heading-demo"
   ]
  },
  {
-  "cluster": 347,
-  "domain": 2,
-  "guess": "globe",
+  "cluster": 331,
+  "domain": 1,
+  "guess": "scroll progress",
   "n": 32,
   "samples": [
-   "globe",
-   "globe-demo",
-   "3d-globe",
-   "world-map-illustration",
-   "globe-icon",
-   "cobe-globe",
-   "cobe-globe-demo",
-   "cobe-globe-demo-2"
-  ]
- },
- {
-  "cluster": 68,
-  "domain": 2,
-  "guess": "shader",
-  "n": 31,
-  "samples": [
-   "chapter-intro",
-   "premium-auth-split",
-   "dot-distortion-shader",
-   "lines-gradient-shader",
-   "spotlight-shader",
-   "cta61",
-   "loader-morphing-blob",
-   "pong-01"
-  ]
- },
- {
-  "cluster": 203,
-  "domain": 3,
-  "guess": "chart",
-  "n": 145,
-  "samples": [
-   "interactive-logs-chart",
-   "traffic-logs-chart",
-   "interactive-sales-chart",
-   "channel-sales-chart",
-   "chart",
-   "charts-1",
-   "charts-2",
-   "charts-3"
-  ]
- },
- {
-  "cluster": 11,
-  "domain": 3,
-  "guess": "data",
-  "n": 124,
-  "samples": [
-   "africa-data",
-   "algeria-data",
-   "angola-data",
-   "argentina-data",
-   "asia-data",
-   "australia-data",
-   "austria-data",
-   "azerbaijan-data"
-  ]
- },
- {
-  "cluster": 233,
-  "domain": 3,
-  "guess": "chart",
-  "n": 106,
-  "samples": [
-   "ex-area-chart",
-   "ex-gradient-colors-area-chart",
-   "ex-gradient-colors-bump-area-chart",
-   "ex-loading-state-area-chart",
-   "ex-default-type-area-chart",
-   "ex-stacked-type-area-chart",
-   "ex-expanded-type-area-chart",
-   "ex-bump-curve-type-area-chart"
-  ]
- },
- {
-  "cluster": 234,
-  "domain": 3,
-  "guess": "chart",
-  "n": 96,
-  "samples": [
-   "chart-area-step",
-   "chart",
-   "chart-bar",
-   "area-chart-gradient",
-   "bar-chart-example",
-   "card-charts-example-1",
-   "card-charts-example-2",
-   "combo-chart-target"
-  ]
- },
- {
-  "cluster": 62,
-  "domain": 3,
-  "guess": "chart",
-  "n": 70,
-  "samples": [
-   "chart-chart-area-axes",
-   "chart-chart-area-default",
-   "chart-chart-area-gradient",
-   "chart-chart-area-icons",
-   "chart-chart-area-interactive",
-   "chart-chart-area-legend",
-   "chart-chart-area-linear",
-   "chart-chart-area-stacked-expand"
-  ]
- },
- {
-  "cluster": 10,
-  "domain": 3,
-  "guess": "data",
-  "n": 56,
-  "samples": [
-   "usa-data",
-   "alabama-data",
-   "alaska-data",
-   "arizona-data",
-   "arkansas-data",
-   "california-data",
-   "colorado-data",
-   "canada-data"
-  ]
- },
- {
-  "cluster": 175,
-  "domain": 3,
-  "guess": "chart",
-  "n": 38,
-  "samples": [
-   "chart-tooltip",
-   "chart-bar-demo",
-   "area-chart-example",
-   "bar-chart-example",
-   "line-chart-example",
-   "scatter-chart-example",
-   "gauge-chart-example",
-   "radar-chart-example"
-  ]
- },
- {
-  "cluster": 173,
-  "domain": 3,
-  "guess": "example",
-  "n": 34,
-  "samples": [
-   "pie-chart-example",
-   "pie-chart-custom-colors-example",
-   "pie-chart-donut-custom-label-example",
-   "pie-chart-donut-example",
-   "pie-chart-gap-example",
-   "pie-chart-interactive-example",
-   "line-chart-controlled-example",
-   "line-chart-custom-colors-example"
+   "scroll-progress",
+   "primitives-animate-scroll-progress",
+   "refresh-control",
+   "pull-to-refresh",
+   "scroll-to",
+   "scroll-progress-bar-01",
+   "scroll-progress-bar-02",
+   "scroll-spy"
   ]
  },
  {
   "cluster": 209,
-  "domain": 3,
-  "guess": "c chart",
-  "n": 25,
+  "domain": 1,
+  "guess": "image trail",
+  "n": 31,
   "samples": [
-   "c-chart-1",
-   "c-chart-10",
-   "c-chart-11",
-   "c-chart-12",
-   "c-chart-13",
-   "c-chart-14",
-   "c-chart-15",
-   "c-chart-16"
+   "image-trail",
+   "mouse-trail",
+   "vanishing-mouse-trail",
+   "cursor-trail",
+   "text-outline-glow",
+   "fluid-cursor-trail",
+   "ImageTrail-JS-CSS",
+   "ImageTrail-JS-TW"
   ]
  },
  {
-  "cluster": 392,
-  "domain": 4,
-  "guess": "sm",
-  "n": 1203,
+  "cluster": 38,
+  "domain": 1,
+  "guess": "dotm 3x",
+  "n": 30,
   "samples": [
-   "label",
-   "field",
-   "item",
-   "command",
-   "form",
-   "sparkles",
-   "frame",
-   "arc"
+   "dotm-hex-1",
+   "dotm-hex-2",
+   "dotm-hex-3",
+   "dotm-hex-4",
+   "dotm-hex-5",
+   "dotm-hex-6",
+   "dotm-hex-7",
+   "dotm-hex-8"
   ]
  },
  {
-  "cluster": 372,
-  "domain": 4,
-  "guess": "button",
-  "n": 470,
+  "cluster": 344,
+  "domain": 1,
+  "guess": "aurora",
+  "n": 30,
   "samples": [
-   "button",
-   "shimmer-button",
-   "shiny-button",
-   "primitives-buttons-button",
-   "primitives-buttons-flip",
-   "primitives-buttons-liquid",
-   "primitives-buttons-ripple",
-   "social-button"
-  ]
- },
- {
-  "cluster": 174,
-  "domain": 4,
-  "guess": "chart",
-  "n": 215,
-  "samples": [
-   "chart",
-   "area-chart",
-   "bar-chart",
-   "line-chart",
-   "pie-chart",
-   "radar-chart",
-   "sankey-chart",
-   "radial-chart"
-  ]
- },
- {
-  "cluster": 349,
-  "domain": 4,
-  "guess": "use",
-  "n": 204,
-  "samples": [
-   "use-mobile",
-   "hooks-use-auto-height",
-   "hooks-use-controlled-state",
-   "use-media-query",
-   "use-copy-to-clipboard",
-   "hooks-use-data-state",
-   "hooks-use-is-in-view",
-   "hooks-use-motion-value-state"
-  ]
- },
- {
-  "cluster": 367,
-  "domain": 4,
-  "guess": "ai",
-  "n": 183,
-  "samples": [
-   "prompt-input",
-   "message",
-   "model-selector",
-   "chat",
-   "open-in-chat",
-   "ai-input",
-   "chat-bubble",
-   "chat-input"
-  ]
- },
- {
-  "cluster": 6,
-  "domain": 4,
-  "guess": "new",
-  "n": 181,
-  "samples": [
-   "usa",
-   "africa",
-   "alabama",
-   "alaska",
-   "algeria",
-   "angola",
-   "argentina",
-   "arizona"
-  ]
- },
- {
-  "cluster": 365,
-  "domain": 4,
-  "guess": "chat",
-  "n": 178,
-  "samples": [
-   "chat-conversation",
-   "chat",
-   "ai-chat-1",
-   "ai-chat-2",
-   "ai-chat-3",
-   "chat-1",
-   "chat-2",
-   "chat-3"
-  ]
- },
- {
-  "cluster": 103,
-  "domain": 4,
-  "guess": "ui",
-  "n": 153,
-  "samples": [
-   "all",
-   "search",
-   "error-boundary-ui",
-   "slash-command-dropdown",
-   "anywidget-view",
-   "widget-view",
-   "adapter-inertia",
-   "oui-react-router-index"
-  ]
- },
- {
-  "cluster": 345,
-  "domain": 4,
-  "guess": "hover card",
-  "n": 132,
-  "samples": [
-   "hover-card",
-   "link-preview",
-   "preview-card",
-   "components-radix-hover-card",
-   "demo-components-radix-hover-card",
-   "demo-primitives-base-preview-card",
-   "primitives-base-preview-card",
-   "primitives-radix-hover-card"
+   "aurora-background",
+   "snowfall-animation",
+   "silk-aurora",
+   "velora",
+   "auralis",
+   "nebulore",
+   "noctylis",
+   "aurora-glass"
   ]
  },
  {
   "cluster": 272,
-  "domain": 4,
-  "guess": "tooltip",
-  "n": 127,
+  "domain": 1,
+  "guess": "cursor",
+  "n": 29,
   "samples": [
-   "tooltip",
-   "animated-tooltip",
-   "primitives-animate-tooltip",
-   "tooltip-01",
-   "tooltip-02",
-   "tooltip-03",
-   "tooltip-04",
-   "tooltip-05"
-  ]
- },
- {
-  "cluster": 217,
-  "domain": 4,
-  "guess": "popover",
-  "n": 115,
-  "samples": [
-   "popover",
-   "floating-panel",
-   "primitives-base-popover",
-   "primitives-headless-popover",
-   "primitives-radix-popover",
-   "popover-10",
-   "popover-11",
-   "popover-14"
-  ]
- },
- {
-  "cluster": 134,
-  "domain": 4,
-  "guess": "sample",
-  "n": 110,
-  "samples": [
-   "react-sample-define-atom-block",
-   "react-sample-katex",
-   "react-sample-sample-doc-block-handle",
-   "react-sample-sample-doc-bold",
-   "react-sample-sample-doc-code",
-   "react-sample-sample-doc-code-block",
+   "cursor-rule-react-optimization",
+   "dnd-docs",
+   "examples-collaboration-example-docs",
+   "react-example-drop-cursor",
+   "react-example-gap-cursor",
    "react-sample-sample-doc-drop-cursor",
-   "react-sample-sample-doc-font-family"
+   "react-sample-sample-doc-gap-cursor",
+   "react-ui-drop-indicator"
   ]
  },
  {
-  "cluster": 385,
-  "domain": 4,
-  "guess": "arrow",
-  "n": 98,
+  "cluster": 352,
+  "domain": 1,
+  "guess": "shader",
+  "n": 26,
   "samples": [
-   "a-arrow-down",
-   "a-arrow-up",
-   "chess-bishop",
-   "moving-line",
-   "following-pointer",
-   "3d-pin",
-   "squiggle-arrow-demo",
-   "direction-provider"
+   "dot-distortion-shader",
+   "shader1",
+   "shader10",
+   "shader11",
+   "shader12",
+   "shader13",
+   "shader14",
+   "shader15"
   ]
  },
  {
-  "cluster": 263,
-  "domain": 4,
-  "guess": "dialog",
-  "n": 97,
+  "cluster": 311,
+  "domain": 1,
+  "guess": "glitch button",
+  "n": 25,
   "samples": [
-   "dialog",
-   "primitives-base-dialog",
-   "primitives-headless-dialog",
-   "primitives-radix-dialog",
-   "components-base-dialog",
-   "components-headless-dialog",
-   "components-radix-dialog",
-   "divider-01"
+   "glitch-button",
+   "glitch-text",
+   "rgb-glitch-text",
+   "not-found-glitch",
+   "loader-glitch-text",
+   "loader-terminal-decode",
+   "caption-glitch-rgb",
+   "glitch-text-demo"
   ]
  },
  {
-  "cluster": 379,
-  "domain": 4,
-  "guess": "kit",
-  "n": 96,
+  "cluster": 88,
+  "domain": 1,
+  "guess": "spinner",
+  "n": 24,
   "samples": [
-   "editor",
-   "background-boxes",
-   "follow-up-suggestions",
-   "all",
-   "content-renderer",
-   "generic-pack",
-   "astro-content-renderer",
-   "astro-pack"
+   "spinner10",
+   "spinner11",
+   "spinner12",
+   "spinner13",
+   "spinner14",
+   "spinner7",
+   "spinner8",
+   "spinner9"
   ]
  },
  {
-  "cluster": 101,
-  "domain": 4,
-  "guess": "file upload",
-  "n": 94,
+  "cluster": 118,
+  "domain": 1,
+  "guess": "glassmorphism",
+  "n": 22,
   "samples": [
-   "file-upload-01",
-   "file-upload-1",
-   "file-upload-2",
-   "file-upload-3",
-   "folder-with-files",
-   "file-upload",
-   "file-upload-02",
-   "file-upload-03"
+   "foundation",
+   "about-us-page-shadcnui",
+   "glassmorphism-cta-block-baseui",
+   "glassmorphism-cta-block-shadcnui",
+   "glassmorphism-hero-block-baseui",
+   "glassmorphism-hero-block-shadcnui",
+   "glassmorphism-launch-timeline-block-baseui",
+   "glassmorphism-launch-timeline-block-shadcnui"
   ]
  },
  {
-  "cluster": 36,
-  "domain": 4,
-  "guess": "agent",
-  "n": 84,
+  "cluster": 44,
+  "domain": 1,
+  "guess": "dotm square",
+  "n": 20,
   "samples": [
-   "eve/ai-seo-audit",
-   "eve/browser-agent",
-   "eve/chat-with-pdf",
-   "eve/chat-with-youtube",
-   "eve/claw",
-   "eve/company-knowledge",
-   "eve/csv-to-questions",
-   "eve/deep-search"
+   "dotm-square-1",
+   "dotm-square-2",
+   "dotm-square-3",
+   "dotm-square-4",
+   "dotm-square-5",
+   "dotm-square-6",
+   "dotm-square-7",
+   "dotm-square-8"
   ]
  },
  {
-  "cluster": 59,
-  "domain": 4,
-  "guess": "nextjs",
-  "n": 80,
+  "cluster": 68,
+  "domain": 1,
+  "guess": "dotm triangle",
+  "n": 20,
   "samples": [
-   "supabase",
-   "agw-provider",
-   "claude-config",
-   "nextjs-api-token-route",
-   "oauth-domain-auth",
-   "nextjs-clerk-provider",
-   "nextjs-middleware",
-   "nextjs-header"
+   "dotm-triangle-1",
+   "dotm-triangle-2",
+   "dotm-triangle-3",
+   "dotm-triangle-4",
+   "dotm-triangle-5",
+   "dotm-triangle-6",
+   "dotm-triangle-7",
+   "dotm-triangle-8"
   ]
  },
  {
-  "cluster": 373,
-  "domain": 4,
-  "guess": "utils",
-  "n": 78,
+  "cluster": 104,
+  "domain": 1,
+  "guess": "dotm circular",
+  "n": 20,
   "samples": [
-   "utils",
-   "elevated",
-   "sound-types",
-   "abstract-contracts",
-   "variants",
-   "use-render",
-   "merge-props",
-   "csp-provider"
+   "dotm-circular-1",
+   "dotm-circular-2",
+   "dotm-circular-3",
+   "dotm-circular-4",
+   "dotm-circular-5",
+   "dotm-circular-6",
+   "dotm-circular-7",
+   "dotm-circular-8"
   ]
  },
  {
-  "cluster": 64,
-  "domain": 4,
-  "guess": "sections",
-  "n": 76,
+  "cluster": 21,
+  "domain": 2,
+  "guess": "logo",
+  "n": 874,
   "samples": [
-   "hero-sections-01",
-   "hero-sections-02",
-   "hero-sections-03",
-   "hero-sections-04",
-   "hero-sections-05",
-   "cta-sections-01",
-   "cta-sections-02",
-   "cta-sections-03"
+   "logo",
+   "arc",
+   "c",
+   "github",
+   "instagram",
+   "youtube",
+   "jetbrains",
+   "illustrator"
   ]
  },
  {
-  "cluster": 91,
-  "domain": 4,
-  "guess": "timeline",
-  "n": 75,
+  "cluster": 175,
+  "domain": 2,
+  "guess": "hero",
+  "n": 713,
   "samples": [
-   "timeline",
-   "timeline-demo",
-   "timeline-hollow-demo",
-   "timeline-nocards-demo",
-   "timeline-not-alternating-demo",
-   "timeline-vertical-demo",
-   "timeline-steps",
-   "timelines-activity-feed"
+   "hero-01",
+   "hero-02",
+   "hero-03",
+   "hero-04",
+   "hero-05",
+   "hero-06",
+   "hero-07",
+   "hero-08"
   ]
  },
  {
-  "cluster": 176,
-  "domain": 4,
-  "guess": "toolbar",
-  "n": 71,
+  "cluster": 442,
+  "domain": 2,
+  "guess": "feature",
+  "n": 482,
   "samples": [
-   "toolbar",
-   "floating-toolbar",
-   "toolbar-expandable",
-   "action-bar",
-   "radial-toolbar",
-   "components-community-management-bar",
-   "p-toolbar-1",
-   "filters-toolbar"
+   "features-3",
+   "feature1",
+   "feature2",
+   "feature3",
+   "features-1",
+   "features-4",
+   "feature4",
+   "feature5"
   ]
  },
  {
-  "cluster": 100,
-  "domain": 4,
-  "guess": "file upload",
-  "n": 69,
+  "cluster": 77,
+  "domain": 2,
+  "guess": "auth",
+  "n": 474,
   "samples": [
-   "file-upload",
-   "dropzone",
-   "file-dropzone",
-   "upload-progress",
-   "use-file-upload",
-   "file-picker",
-   "upload-button",
-   "upload-dropzone"
+   "login-01",
+   "login-02",
+   "login-03",
+   "auth-1",
+   "auth-2",
+   "auth-3",
+   "auth-4",
+   "auth-5"
   ]
  },
  {
-  "cluster": 322,
-  "domain": 4,
-  "guess": "markdown",
-  "n": 69,
+  "cluster": 392,
+  "domain": 2,
+  "guess": "pricing",
+  "n": 431,
   "samples": [
-   "markdown",
-   "table-of-contents",
-   "heading",
-   "toc",
-   "description-list",
-   "page-header",
-   "markdown-text",
-   "hook-session-summary"
+   "pricing-1",
+   "pricing-2",
+   "pricing-01",
+   "pricing-02",
+   "pricing-3",
+   "pricing-4",
+   "pricing-03",
+   "pricing-card"
   ]
  },
  {
-  "cluster": 35,
-  "domain": 4,
-  "guess": "docs",
-  "n": 68,
+  "cluster": 214,
+  "domain": 2,
+  "guess": "cta",
+  "n": 306,
   "samples": [
-   "plate",
-   "copilot-api",
-   "docs-meta",
-   "docs",
-   "fumadocs",
-   "debugging-docs",
-   "editing-behavior-docs",
-   "editor-methods-docs"
+   "cta-01",
+   "cta-2",
+   "cta-3",
+   "cta-02",
+   "cta-03",
+   "cta-1",
+   "cta-04",
+   "cta-05"
   ]
  },
  {
-  "cluster": 92,
-  "domain": 4,
-  "guess": "clock sm",
-  "n": 68,
+  "cluster": 30,
+  "domain": 2,
+  "guess": "tile",
+  "n": 231,
   "samples": [
-   "timer",
-   "flip-clock",
-   "countdown",
-   "alarm-clock",
-   "alarm-clock-check",
-   "alarm-clock-minus",
-   "alarm-smoke",
-   "countdown-timer"
+   "bento-23",
+   "bento-tile-bento-tile-countup-1",
+   "bento-tile-bento10-tile1",
+   "bento-tile-bento10-tile2",
+   "bento-tile-bento10-tile3",
+   "bento-tile-bento10-tile4",
+   "bento-tile-bento11-tile1",
+   "bento-tile-bento11-tile2"
   ]
  },
  {
-  "cluster": 52,
-  "domain": 4,
-  "guess": "tailwind",
-  "n": 64,
+  "cluster": 388,
+  "domain": 2,
+  "guess": "testimonial",
+  "n": 222,
   "samples": [
-   "tailwindcss-buttons",
-   "tailwind-alertdialog",
-   "tailwind-breadcrumbs",
-   "tailwind-button",
-   "tailwind-calendar",
-   "tailwind-checkbox",
-   "tailwind-checkboxgroup",
-   "tailwind-colorarea"
+   "testimonials-1",
+   "testimonials-2",
+   "animated-testimonials",
+   "testimonials-3",
+   "testimonials-01",
+   "testimonials",
+   "testimonial1",
+   "testimonial6"
   ]
  },
  {
-  "cluster": 262,
-  "domain": 4,
-  "guess": "modals",
-  "n": 64,
+  "cluster": 447,
+  "domain": 2,
+  "guess": "blog",
+  "n": 198,
   "samples": [
-   "modal",
-   "morphing-dialog",
-   "morphing-modal",
-   "portal",
-   "responsive-modal",
-   "animated-modal",
-   "glass-modal",
-   "transitions-shared-modal"
-  ]
- },
- {
-  "cluster": 346,
-  "domain": 4,
-  "guess": "map",
-  "n": 62,
-  "samples": [
-   "map",
-   "world-map",
-   "markers",
-   "mapbox-pointer",
-   "map-demo",
-   "flight",
-   "minesweeper",
-   "location-map"
+   "blog-01",
+   "blog-02",
+   "blog-1",
+   "blog-2",
+   "blog-03",
+   "blog-04",
+   "blog-05",
+   "blog-06"
   ]
  },
  {
   "cluster": 334,
-  "domain": 4,
-  "guess": "file tree",
-  "n": 60,
+  "domain": 2,
+  "guess": "team",
+  "n": 189,
   "samples": [
-   "file-tree",
-   "tree",
-   "tree-view",
-   "primitives-base-files",
-   "primitives-radix-files",
-   "json-viewer",
-   "folder-tree",
-   "components-base-files"
+   "team-01",
+   "team-1",
+   "team-2",
+   "team-02",
+   "team-03",
+   "team-04",
+   "team-05",
+   "team1"
+  ]
+ },
+ {
+  "cluster": 253,
+  "domain": 2,
+  "guess": "faq",
+  "n": 170,
+  "samples": [
+   "faqs-4",
+   "faqs-2",
+   "faqs-3",
+   "faqs-1",
+   "faqs-5",
+   "faq1",
+   "faq3",
+   "faq7"
+  ]
+ },
+ {
+  "cluster": 155,
+  "domain": 2,
+  "guess": "integrations",
+  "n": 153,
+  "samples": [
+   "integrations-2",
+   "integrations-3",
+   "integrations-4",
+   "integrations-1",
+   "integrations-01",
+   "integrations-11",
+   "integrations-6",
+   "integrations-7"
+  ]
+ },
+ {
+  "cluster": 411,
+  "domain": 2,
+  "guess": "about",
+  "n": 144,
+  "samples": [
+   "about1",
+   "about2",
+   "about3",
+   "about4",
+   "about5",
+   "about6",
+   "about8",
+   "about9"
+  ]
+ },
+ {
+  "cluster": 385,
+  "domain": 2,
+  "guess": "contact",
+  "n": 142,
+  "samples": [
+   "contact-1",
+   "contact-2",
+   "contact-3",
+   "contact-01",
+   "contact-02",
+   "contact-11",
+   "contact-03",
+   "contact-4"
+  ]
+ },
+ {
+  "cluster": 61,
+  "domain": 2,
+  "guess": "logo cloud",
+  "n": 114,
+  "samples": [
+   "logo-cloud-01",
+   "logo-cloud-1",
+   "logo-cloud-2",
+   "logo-cloud-4",
+   "logo-cloud-02",
+   "logo-cloud-04",
+   "logo-cloud-05",
+   "logo-cloud-06"
+  ]
+ },
+ {
+  "cluster": 423,
+  "domain": 2,
+  "guess": "feature",
+  "n": 112,
+  "samples": [
+   "features-08",
+   "feature-10",
+   "features-10",
+   "features-11",
+   "features-section-demo-1",
+   "features-section-demo-2",
+   "feature-section-with-horizontal-skeletons",
+   "feature-section-with-terminal"
+  ]
+ },
+ {
+  "cluster": 348,
+  "domain": 2,
+  "guess": "pro",
+  "n": 107,
+  "samples": [
+   "event53",
+   "source-sales-meter",
+   "social-proof-07",
+   "ecommerce-pro-brand-story-sections-made-in-numbers",
+   "marketing-pro-about-sections-how-we-make-money",
+   "marketing-pro-affiliate-sections-payout-stats-band",
+   "marketing-pro-affiliate-sections-program-rules-split",
+   "marketing-pro-ai-sections-ai-outcomes-stats"
+  ]
+ },
+ {
+  "cluster": 410,
+  "domain": 2,
+  "guess": "gallery",
+  "n": 103,
+  "samples": [
+   "gallery-2",
+   "gallery-01",
+   "gallery-02",
+   "gallery-03",
+   "gallery-04",
+   "gallery-10",
+   "gallery-11",
+   "gallery-1"
+  ]
+ },
+ {
+  "cluster": 64,
+  "domain": 2,
+  "guess": "og",
+  "n": 96,
+  "samples": [
+   "og-image-explorer",
+   "og-image-agenda",
+   "og-image-annual-report",
+   "og-image-api-endpoint",
+   "og-image-article-dark",
+   "og-image-award-win",
+   "og-image-back-in-stock",
+   "og-image-benchmark"
+  ]
+ },
+ {
+  "cluster": 450,
+  "domain": 2,
+  "guess": "portfolio",
+  "n": 94,
+  "samples": [
+   "portfolio-01",
+   "agency10",
+   "portfolio70",
+   "portfolio79",
+   "portfolio97",
+   "portfolio101",
+   "portfolio102",
+   "portfolio103"
+  ]
+ },
+ {
+  "cluster": 399,
+  "domain": 2,
+  "guess": "marketing",
+  "n": 93,
+  "samples": [
+   "saas-landing",
+   "food44",
+   "product9",
+   "showcase38",
+   "features-25",
+   "pages/landing-page-04",
+   "social-proof-01",
+   "ecommerce-product-features-3d-feature-carousel"
+  ]
+ },
+ {
+  "cluster": 70,
+  "domain": 2,
+  "guess": "newsletter",
+  "n": 86,
+  "samples": [
+   "newsletter-01",
+   "newsletter-1",
+   "newsletter-2",
+   "newsletter-3",
+   "newsletter-4",
+   "advanced3",
+   "news24",
+   "news34"
+  ]
+ },
+ {
+  "cluster": 353,
+  "domain": 2,
+  "guess": "careers",
+  "n": 85,
+  "samples": [
+   "careers1",
+   "careers2",
+   "careers3",
+   "careers4",
+   "careers5",
+   "careers6",
+   "careers7",
+   "careers8"
+  ]
+ },
+ {
+  "cluster": 325,
+  "domain": 2,
+  "guess": "banner",
+  "n": 84,
+  "samples": [
+   "banner-01",
+   "banner-02",
+   "banner-03",
+   "banner-04",
+   "banner-06",
+   "banner-07",
+   "banner-11",
+   "banner-12"
+  ]
+ },
+ {
+  "cluster": 357,
+  "domain": 2,
+  "guess": "marketing",
+  "n": 84,
+  "samples": [
+   "careers10",
+   "careers15",
+   "careers24",
+   "features-12",
+   "ecommerce-pro-brand-story-sections-making-process-steps",
+   "ecommerce-pro-seconds-sections-rail-timeline",
+   "marketing-pro-about-sections-story-timeline",
+   "marketing-pro-affiliate-sections-how-referrals-work-steps"
+  ]
+ },
+ {
+  "cluster": 398,
+  "domain": 2,
+  "guess": "event",
+  "n": 74,
+  "samples": [
+   "education22",
+   "education86",
+   "education101",
+   "event10",
+   "event13",
+   "event14",
+   "event15",
+   "event16"
+  ]
+ },
+ {
+  "cluster": 409,
+  "domain": 2,
+  "guess": "projects",
+  "n": 74,
+  "samples": [
+   "agency15",
+   "agency17",
+   "portfolio88",
+   "portfolio104",
+   "post82",
+   "showcase1",
+   "showcase6",
+   "showcase10"
+  ]
+ },
+ {
+  "cluster": 387,
+  "domain": 2,
+  "guess": "testimonials",
+  "n": 70,
+  "samples": [
+   "testimonials-02",
+   "testimonials-01",
+   "testimonials-03",
+   "testimonials-04",
+   "testimonials-05",
+   "testimonials-06",
+   "testimonials-07",
+   "testimonials-08"
+  ]
+ },
+ {
+  "cluster": 157,
+  "domain": 2,
+  "guess": "faq",
+  "n": 69,
+  "samples": [
+   "faq-02",
+   "faq-03",
+   "faq-04",
+   "faq-05",
+   "game-faq1",
+   "related-questions",
+   "faq8",
+   "faq16"
+  ]
+ },
+ {
+  "cluster": 420,
+  "domain": 2,
+  "guess": "portfolio",
+  "n": 63,
+  "samples": [
+   "pages/landing-page-01",
+   "pages/landing-page-03",
+   "pages/landing-page-05",
+   "portfolio-pro-availability-sections-hire-me-card",
+   "portfolio-pro-availability-sections-retainer-days",
+   "portfolio-pro-collaborations-collab-split",
+   "portfolio-pro-cta-sections-download-resume-cta",
+   "portfolio-pro-developer-portfolio-code-snippet"
+  ]
+ },
+ {
+  "cluster": 434,
+  "domain": 2,
+  "guess": "about",
+  "n": 62,
+  "samples": [
+   "food41",
+   "biography",
+   "marketing-pro-about-sections-about-split-with-quote",
+   "marketing-pro-about-sections-about-with-stats",
+   "marketing-pro-about-sections-backers-and-angels",
+   "marketing-pro-about-sections-company-fact-sheet",
+   "marketing-pro-about-sections-founder-letter",
+   "marketing-pro-about-sections-founders-qa"
+  ]
+ },
+ {
+  "cluster": 446,
+  "domain": 2,
+  "guess": "post",
+  "n": 62,
+  "samples": [
+   "article-1",
+   "article-2",
+   "article-3",
+   "education13",
+   "food11",
+   "news20",
+   "news26",
+   "news30"
+  ]
+ },
+ {
+  "cluster": 421,
+  "domain": 2,
+  "guess": "awards",
+  "n": 61,
+  "samples": [
+   "about17",
+   "portfolio90",
+   "portfolio116",
+   "saas34",
+   "marketing-pro-awards-sections-analyst-mentions-list",
+   "marketing-pro-awards-sections-award-spotlight",
+   "marketing-pro-awards-sections-awards-timeline",
+   "marketing-pro-awards-sections-badge-criteria"
   ]
  },
  {
   "cluster": 254,
-  "domain": 4,
-  "guess": "settings",
-  "n": 57,
+  "domain": 2,
+  "guess": "faq",
+  "n": 60,
   "samples": [
-   "settings-integrations",
-   "settings-privacy",
-   "settings-profile",
-   "settings-security",
-   "settings-sso",
-   "settings-webhooks",
-   "session-keys",
-   "devtools8"
+   "faq15",
+   "faq17",
+   "faq2",
+   "faqs-with-grid",
+   "faq9",
+   "faq18",
+   "faq21",
+   "faq22"
   ]
  },
  {
-  "cluster": 133,
-  "domain": 4,
-  "guess": "sample",
+  "cluster": 216,
+  "domain": 2,
+  "guess": "legal",
+  "n": 58,
+  "samples": [
+   "cookie-consent-1",
+   "cookie-consent-2",
+   "legal1",
+   "legal2",
+   "legal3",
+   "legal4",
+   "legal5",
+   "legal6"
+  ]
+ },
+ {
+  "cluster": 75,
+  "domain": 2,
+  "guess": "not found",
+  "n": 55,
+  "samples": [
+   "not-found-1",
+   "not-found-2",
+   "not-found-01",
+   "error-1",
+   "error-2",
+   "error-3",
+   "not-found1",
+   "not-found2"
+  ]
+ },
+ {
+  "cluster": 200,
+  "domain": 2,
+  "guess": "bento",
+  "n": 55,
+  "samples": [
+   "bento-08",
+   "bento-21",
+   "bento10",
+   "bento11",
+   "bento13",
+   "bento14",
+   "bento15",
+   "bento16"
+  ]
+ },
+ {
+  "cluster": 337,
+  "domain": 2,
+  "guess": "ecommerce",
   "n": 54,
   "samples": [
-   "react-sample-sample-uploader",
-   "preact-sample-define-atom-block",
-   "preact-sample-sample-uploader",
-   "vue-sample-sample-uploader",
-   "lit-sample-sample-doc-block-handle",
-   "lit-sample-sample-doc-code-block",
-   "lit-sample-sample-doc-full",
-   "lit-sample-sample-doc-inline-menu"
+   "ecommerce23",
+   "ecommerce29",
+   "ecommerce38",
+   "ecommerce44",
+   "pricing47",
+   "promotional-01",
+   "promo-sections-01",
+   "promo-sections-02"
   ]
  },
  {
-  "cluster": 106,
-  "domain": 4,
-  "guess": "sample",
+  "cluster": 428,
+  "domain": 2,
+  "guess": "blog",
+  "n": 54,
+  "samples": [
+   "lists",
+   "blog-content-sections",
+   "marketing-pro-blog-sections-author-spotlight-row",
+   "marketing-pro-blog-sections-category-filter-grid",
+   "marketing-pro-blog-sections-curated-reading-path",
+   "marketing-pro-blog-sections-editorial-feature-row",
+   "marketing-pro-blog-sections-editorial-list",
+   "marketing-pro-blog-sections-featured-post-split"
+  ]
+ },
+ {
+  "cluster": 213,
+  "domain": 2,
+  "guess": "bento grid",
+  "n": 53,
+  "samples": [
+   "bento-grid",
+   "bento-grid-1",
+   "infinite-bento-pan",
+   "bento-grid-2",
+   "bento-grid-3",
+   "bento-grid-4",
+   "three-column-bento-grid",
+   "bento-grid-example-three"
+  ]
+ },
+ {
+  "cluster": 386,
+  "domain": 2,
+  "guess": "contact",
+  "n": 53,
+  "samples": [
+   "portfolio100",
+   "contact-agency-brief",
+   "contact-agency-split",
+   "pages/contact-page-02",
+   "marketing-pro-contact-sections-callback-request-form",
+   "marketing-pro-contact-sections-centered-email-cta",
+   "marketing-pro-contact-sections-channel-cards",
+   "marketing-pro-contact-sections-contact-split-form"
+  ]
+ },
+ {
+  "cluster": 406,
+  "domain": 2,
+  "guess": "content",
+  "n": 53,
+  "samples": [
+   "two-column-with-image",
+   "three-columns-with-images",
+   "health6",
+   "podcast1",
+   "terminal2",
+   "content-block-with-image-filter",
+   "content-block-with-images",
+   "content-block-with-paragraphs"
+  ]
+ },
+ {
+  "cluster": 251,
+  "domain": 2,
+  "guess": "services",
   "n": 52,
   "samples": [
-   "react-example-word-counter",
-   "react-sample-sample-doc-word-counter",
-   "react-ui-word-counter",
-   "preact-example-word-counter",
-   "preact-sample-sample-doc-word-counter",
-   "preact-ui-word-counter",
-   "vue-example-word-counter",
-   "vue-sample-sample-doc-word-counter"
+   "agency23",
+   "feature144",
+   "feature204",
+   "feature206",
+   "feature208",
+   "feature210",
+   "health5",
+   "services-01"
   ]
  },
  {
-  "cluster": 112,
-  "domain": 4,
-  "guess": "realtime",
-  "n": 51,
+  "cluster": 20,
+  "domain": 2,
+  "guess": "aws",
+  "n": 50,
   "samples": [
-   "cursor-ai-config",
-   "collaborative-cursors",
-   "discord-online",
-   "discord-online-react",
-   "real-time-cursors",
-   "isolated-renderer",
-   "cursor-rule-back-end",
-   "cursor-rule-bulk-processing"
+   "aws-all",
+   "aws-amplify",
+   "aws-analytics",
+   "aws-api-gateway",
+   "aws-appsync",
+   "aws-athena",
+   "aws-bedrock",
+   "aws-cloudformation"
   ]
  },
  {
-  "cluster": 183,
-  "domain": 4,
-  "guess": "layouts",
+  "cluster": 437,
+  "domain": 2,
+  "guess": "case studies",
+  "n": 50,
+  "samples": [
+   "post26",
+   "testimonials-06",
+   "marketing-pro-affiliate-sections-partner-case-study",
+   "marketing-pro-case-studies-anonymous-results-compact",
+   "marketing-pro-case-studies-before-after-panels",
+   "marketing-pro-case-studies-challenge-solution-results",
+   "marketing-pro-case-studies-dark-panel-feature",
+   "marketing-pro-case-studies-featured-story"
+  ]
+ },
+ {
+  "cluster": 443,
+  "domain": 2,
+  "guess": "portfolio",
+  "n": 50,
+  "samples": [
+   "work-experience",
+   "experience-01",
+   "portfolio-pro-about-sections-timeline-about",
+   "portfolio-pro-availability-sections-capacity-note",
+   "portfolio-pro-clients-and-logos-client-timeline",
+   "portfolio-pro-collaborations-collab-timeline",
+   "portfolio-pro-design-portfolio-iteration-timeline",
+   "portfolio-pro-developer-portfolio-career-timeline"
+  ]
+ },
+ {
+  "cluster": 71,
+  "domain": 2,
+  "guess": "og",
   "n": 48,
   "samples": [
-   "canvas-text",
-   "thread",
-   "thread-list",
-   "threadlist-sidebar",
-   "side-panel-demo",
-   "layouts-canvas-tools",
-   "layouts-focus-mode",
-   "layouts-inbox-rail"
+   "game-over",
+   "magazine-oversized-words",
+   "simple",
+   "blog",
+   "shadcn-registry-1",
+   "shadcn-registry-2",
+   "shadcn-registry-3",
+   "shadcn-registry-4"
   ]
  },
  {
-  "cluster": 384,
-  "domain": 4,
-  "guess": "message",
+  "cluster": 451,
+  "domain": 2,
+  "guess": "portfolio",
   "n": 48,
   "samples": [
-   "message",
-   "message-timing",
-   "forms-notifications",
-   "tours-checklist",
-   "hook-notify-telegram",
-   "error-screen",
-   "bot-message-square",
-   "check-check"
+   "portfolio-pro-collaborations-collab-formats",
+   "portfolio-pro-collaborations-collab-gallery",
+   "portfolio-pro-design-portfolio-featured-project",
+   "portfolio-pro-design-portfolio-project-index",
+   "portfolio-pro-developer-portfolio-adr-log",
+   "portfolio-pro-developer-portfolio-api-project-card",
+   "portfolio-pro-developer-portfolio-now-building",
+   "portfolio-pro-developer-portfolio-open-source-list"
   ]
  },
  {
-  "cluster": 171,
-  "domain": 4,
-  "guess": "contribution graph",
+  "cluster": 432,
+  "domain": 2,
+  "guess": "portfolio",
   "n": 47,
   "samples": [
-   "contribution-graph",
-   "heatmap",
-   "heatmap-chart",
-   "github-contributions",
-   "calendar-heatmap",
-   "choropleth",
-   "heatmap-demo",
-   "heatmap-interpolate-demo"
+   "portfolio-pro-availability-sections-capacity-breakdown",
+   "portfolio-pro-availability-sections-engagement-matrix",
+   "portfolio-pro-availability-sections-project-slots",
+   "portfolio-pro-coaching-mentoring-between-sessions",
+   "portfolio-pro-coaching-mentoring-book-session",
+   "portfolio-pro-coaching-mentoring-coaching-offerings",
+   "portfolio-pro-coaching-mentoring-coaching-packages",
+   "portfolio-pro-coaching-mentoring-coaching-principles"
   ]
  },
  {
-  "cluster": 218,
-  "domain": 4,
-  "guess": "popover popover standard",
-  "n": 47,
+  "cluster": 326,
+  "domain": 2,
+  "guess": "banner",
+  "n": 46,
   "samples": [
-   "feedback-widget",
-   "p-popover-1",
-   "p-popover-2",
-   "p-popover-3",
-   "p-popover-4",
-   "popover-01",
-   "popover-02",
-   "popover-03"
+   "banner",
+   "announcement-bar",
+   "announcement",
+   "download-banner",
+   "empty-banner",
+   "mutual-banner",
+   "announcement-3",
+   "system-banner"
   ]
  },
  {
-  "cluster": 279,
-  "domain": 4,
-  "guess": "link",
-  "n": 45,
-  "samples": [
-   "link",
-   "interactive-hover-button",
-   "card-hover-effect",
-   "direction-aware-hover",
-   "text-hover-effect",
-   "fancy-text-hover",
-   "link-hover",
-   "hover-preview"
-  ]
- },
- {
-  "cluster": 271,
-  "domain": 4,
-  "guess": "c tooltip",
+  "cluster": 397,
+  "domain": 2,
+  "guess": "portfolio",
   "n": 43,
   "samples": [
-   "p-tooltip-1",
-   "p-tooltip-2",
-   "p-tooltip-3",
-   "p-tooltip-4",
-   "command-10",
-   "tooltip-01",
-   "tooltip-02",
-   "tooltip-03"
+   "marketing-pro-affiliate-sections-partner-quotes-grid",
+   "marketing-pro-careers-sections-employee-quotes",
+   "marketing-pro-team-sections-team-voices",
+   "marketing-pro-testimonials-social-cards",
+   "marketing-pro-video-sections-testimonial-video-cards",
+   "portfolio-pro-case-study-sections-testimonial-in-case",
+   "portfolio-pro-clients-and-logos-logos-and-testimonial",
+   "portfolio-pro-collaborations-partner-quotes"
+  ]
+ },
+ {
+  "cluster": 35,
+  "domain": 2,
+  "guess": "illustration",
+  "n": 41,
+  "samples": [
+   "dynamic-island",
+   "isometric-box",
+   "macbook-illustration",
+   "iphone-illustration",
+   "ipad-illustration",
+   "keyboard-illustration",
+   "box-illustration",
+   "macbook-illustration-with-icons"
+  ]
+ },
+ {
+  "cluster": 60,
+  "domain": 2,
+  "guess": "logo cloud",
+  "n": 40,
+  "samples": [
+   "logo-cloud-3",
+   "logo-cloud-marquee",
+   "logo-cloud-03",
+   "logo-cloud-11",
+   "logos-with-blur-flip",
+   "logo-cloud-with-blur-animation",
+   "logo-cloud-with-swap-animation",
+   "single-row-logo-cloud"
+  ]
+ },
+ {
+  "cluster": 389,
+  "domain": 2,
+  "guess": "hero",
+  "n": 39,
+  "samples": [
+   "portfolio-pro-coaching-mentoring-coaching-hero",
+   "portfolio-pro-developer-portfolio-terminal-intro",
+   "portfolio-pro-hero-sections-availability-hero",
+   "portfolio-pro-hero-sections-awards-hero",
+   "portfolio-pro-hero-sections-big-type-hero",
+   "portfolio-pro-hero-sections-career-timeline-hero",
+   "portfolio-pro-hero-sections-centered-statement-hero",
+   "portfolio-pro-hero-sections-client-quote-hero"
+  ]
+ },
+ {
+  "cluster": 440,
+  "domain": 2,
+  "guess": "case",
+  "n": 39,
+  "samples": [
+   "post62",
+   "portfolio-pro-case-study-sections-annotated-screen-case",
+   "portfolio-pro-case-study-sections-before-after-case",
+   "portfolio-pro-case-study-sections-case-study-cover",
+   "portfolio-pro-case-study-sections-case-study-hero",
+   "portfolio-pro-case-study-sections-case-study-index",
+   "portfolio-pro-case-study-sections-case-study-pager",
+   "portfolio-pro-case-study-sections-case-study-split"
+  ]
+ },
+ {
+  "cluster": 396,
+  "domain": 2,
+  "guess": "marketing",
+  "n": 38,
+  "samples": [
+   "stats30",
+   "quote",
+   "ecommerce-product-features-features-testimonial-combo",
+   "marketing-pro-awards-sections-reviewer-quotes-grid",
+   "marketing-pro-blog-sections-pull-quote-cards",
+   "marketing-pro-community-sections-community-quote-band",
+   "marketing-pro-content-sections-pull-quote-break",
+   "marketing-pro-enterprise-sections-ciso-quote-stats"
+  ]
+ },
+ {
+  "cluster": 444,
+  "domain": 2,
+  "guess": "pro",
+  "n": 37,
+  "samples": [
+   "ecommerce-pro-lookbook-sections-contact-sheet-selects",
+   "portfolio-pro-gallery-sections-album-grid",
+   "portfolio-pro-gallery-sections-alternating-gallery",
+   "portfolio-pro-gallery-sections-before-after-gallery",
+   "portfolio-pro-gallery-sections-captioned-gallery",
+   "portfolio-pro-gallery-sections-columns-gallery",
+   "portfolio-pro-gallery-sections-contact-sheet",
+   "portfolio-pro-gallery-sections-filmstrip-gallery"
+  ]
+ },
+ {
+  "cluster": 111,
+  "domain": 2,
+  "guess": "download",
+  "n": 36,
+  "samples": [
+   "cta-18",
+   "software-purchase-01",
+   "download-with-columnlines",
+   "download-with-iphone",
+   "download-01",
+   "download-02",
+   "download-03",
+   "cta-section-01"
+  ]
+ },
+ {
+  "cluster": 441,
+  "domain": 2,
+  "guess": "feature",
+  "n": 36,
+  "samples": [
+   "feature213",
+   "feature24",
+   "feature112",
+   "feature214",
+   "feature223",
+   "feature231",
+   "showcase39",
+   "showcase46"
+  ]
+ },
+ {
+  "cluster": 32,
+  "domain": 2,
+  "guess": "logos",
+  "n": 35,
+  "samples": [
+   "logos7",
+   "logos9",
+   "logos11",
+   "feature135",
+   "logos6",
+   "logos10",
+   "gallery-12",
+   "two-rows-logos"
+  ]
+ },
+ {
+  "cluster": 246,
+  "domain": 2,
+  "guess": "social media trending",
+  "n": 35,
+  "samples": [
+   "x-post",
+   "instagram-post",
+   "linkedin-post",
+   "podcast42",
+   "social2",
+   "social11",
+   "social47",
+   "slide-agency-closing"
+  ]
+ },
+ {
+  "cluster": 215,
+  "domain": 2,
+  "guess": "cta",
+  "n": 34,
+  "samples": [
+   "event19",
+   "cta-11",
+   "cta-5",
+   "cta-1",
+   "ecommerce-pro-social-proof-sections-customer-photos-cta",
+   "marketing-pro-benchmarks-sections-benchmark-cta-band",
+   "marketing-pro-ctas-with-booking-slots",
+   "marketing-pro-events-sections-conference-cta-band"
   ]
  }
 ]

@@ -1,0 +1,4438 @@
+{
+ "@7ovr": [
+  {
+   "label": "Blocks",
+   "url": "https://7ovr.com/blocks",
+   "status": 200,
+   "finalUrl": "https://7ovr.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Templates",
+   "url": "https://7ovr.com/templates",
+   "status": 200,
+   "finalUrl": "https://7ovr.com/templates",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@aceternity": [
+  {
+   "label": "Components",
+   "url": "https://ui.aceternity.com/components",
+   "status": 200,
+   "finalUrl": "https://ui.aceternity.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://ui.aceternity.com/blocks",
+   "status": 200,
+   "finalUrl": "https://ui.aceternity.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@abui": [
+  {
+   "label": "Components",
+   "url": "https://www.abui.io/components/breakpoint-display",
+   "status": 200,
+   "finalUrl": "https://www.abui.io/components/breakpoint-display",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://www.abui.io/blocks/timeline",
+   "status": 200,
+   "finalUrl": "https://www.abui.io/blocks/timeline",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@agents-ui": [
+  {
+   "label": "UI",
+   "url": "https://livekit.com/products/agents-ui",
+   "status": 200,
+   "finalUrl": "https://livekit.com/products/agents-ui",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Icons",
+   "url": "https://livekit.com/products/agent-platform",
+   "status": 200,
+   "finalUrl": "https://livekit.com/products/agent-platform",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@ai-elements": [
+  {
+   "label": "Components",
+   "url": "https://elements.ai-sdk.dev/components/attachments",
+   "status": 200,
+   "finalUrl": "https://elements.ai-sdk.dev/components/attachments",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Docs",
+   "url": "https://elements.ai-sdk.dev/docs",
+   "status": 200,
+   "finalUrl": "https://elements.ai-sdk.dev/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@animate-ui": [
+  {
+   "label": "Docs",
+   "url": "https://animate-ui.com/docs",
+   "status": 200,
+   "finalUrl": "https://animate-ui.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://animate-ui.com/docs/components",
+   "status": 200,
+   "finalUrl": "https://animate-ui.com/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@8bitcn": [
+  {
+   "label": "Blocks",
+   "url": "https://www.8bitcn.com/v2",
+   "status": 200,
+   "finalUrl": "https://www.8bitcn.com/v2",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://www.8bitcn.com/docs/components",
+   "status": 200,
+   "finalUrl": "https://www.8bitcn.com/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@aniui": [
+  {
+   "label": "Components",
+   "url": "https://www.aniui.dev/docs/accordion",
+   "status": 200,
+   "finalUrl": "https://www.aniui.dev/docs/accordion",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Charts",
+   "url": "https://www.aniui.dev/charts",
+   "status": 200,
+   "finalUrl": "https://www.aniui.dev/charts",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@8starlabs-ui": [
+  {
+   "label": "Components",
+   "url": "https://ui.8starlabs.com/docs/components",
+   "status": 200,
+   "finalUrl": "https://ui.8starlabs.com/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Docs",
+   "url": "https://ui.8starlabs.com/docs",
+   "status": 200,
+   "finalUrl": "https://ui.8starlabs.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@abstract": [
+  {
+   "label": "Docs",
+   "url": "https://build.abs.xyz/docs",
+   "status": 200,
+   "finalUrl": "https://build.abs.xyz/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@animbits": [
+  {
+   "label": "Docs",
+   "url": "https://www.animbits.dev/docs",
+   "status": 200,
+   "finalUrl": "https://www.animbits.dev/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@agentcn": [
+  {
+   "label": "Docs",
+   "url": "https://www.agentcn.run/docs",
+   "status": 200,
+   "finalUrl": "https://www.agentcn.run/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@arc": [
+  {
+   "label": "Components",
+   "url": "https://www.witharc.co/components",
+   "status": 200,
+   "finalUrl": "https://www.witharc.co/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@ai-blocks": [
+  {
+   "label": "Components",
+   "url": "https://www.webllm.org/blocks/components",
+   "status": 200,
+   "finalUrl": "https://www.webllm.org/blocks/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://www.webllm.org/blocks",
+   "status": 200,
+   "finalUrl": "https://www.webllm.org/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@approvals-ui": [
+  {
+   "label": "Components",
+   "url": "https://approvals-ui.vercel.app/",
+   "status": 200,
+   "finalUrl": "https://approvals-ui.vercel.app/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@asanshay": [
+  {
+   "label": "Components",
+   "url": "https://ds.asanshay.com/chat-message",
+   "status": 200,
+   "finalUrl": "https://ds.asanshay.com/chat-message",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://ds.asanshay.com/code-block",
+   "status": 200,
+   "finalUrl": "https://ds.asanshay.com/code-block",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@better-upload": [
+  {
+   "label": "Docs",
+   "url": "https://better-upload.com/docs",
+   "status": 200,
+   "finalUrl": "https://better-upload.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@baraile-loader": [
+  {
+   "label": "Components",
+   "url": "https://shadcn-braille-loader.vercel.app/",
+   "status": 200,
+   "finalUrl": "https://shadcn-braille-loader.vercel.app/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@assistant-ui": [
+  {
+   "label": "Docs",
+   "url": "https://www.assistant-ui.com/docs",
+   "status": 200,
+   "finalUrl": "https://www.assistant-ui.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@basecn": [
+  {
+   "label": "Components",
+   "url": "https://basecn.dev/docs/components/accordion",
+   "status": 200,
+   "finalUrl": "https://basecn.dev/docs/components/accordion",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@billingsdk": [
+  {
+   "label": "Components",
+   "url": "https://billingsdk.com/docs/components",
+   "status": 200,
+   "finalUrl": "https://billingsdk.com/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Docs",
+   "url": "https://billingsdk.com/docs",
+   "status": 200,
+   "finalUrl": "https://billingsdk.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@aicanvas": [
+  {
+   "label": "Icons",
+   "url": "https://aicanvas.me/design-systems/andromeda/icon-button",
+   "status": 200,
+   "finalUrl": "https://aicanvas.me/design-systems/andromeda/icon-button",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://aicanvas.me/components",
+   "status": 200,
+   "finalUrl": "https://aicanvas.me/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@auth0": [
+  {
+   "label": "Docs",
+   "url": "https://auth0.com/docs",
+   "status": 200,
+   "finalUrl": "https://auth0.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@baselayer": [
+  {
+   "label": "Docs",
+   "url": "https://www.baselayer.dev/docs",
+   "status": 200,
+   "finalUrl": "https://www.baselayer.dev/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@cardcn": [
+  {
+   "label": "Components",
+   "url": "https://cardcn.dev/",
+   "status": 200,
+   "finalUrl": "https://cardcn.dev/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@amplo": [
+  {
+   "label": "Docs",
+   "url": "https://amplo.ale.design/docs",
+   "status": 200,
+   "finalUrl": "https://amplo.ale.design/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@channel3": [
+  {
+   "label": "UI",
+   "url": "https://trychannel3.com/developers/ui",
+   "status": 200,
+   "finalUrl": "https://trychannel3.com/developers/ui",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@boldkit": [
+  {
+   "label": "Blocks",
+   "url": "https://boldkit.dev/blocks",
+   "status": 200,
+   "finalUrl": "https://boldkit.dev/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://boldkit.dev/components",
+   "status": 200,
+   "finalUrl": "https://boldkit.dev/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@bklit": [
+  {
+   "label": "Components",
+   "url": "https://bklit.com/docs/components",
+   "status": 200,
+   "finalUrl": "https://bklit.com/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://bklit.com/blocks",
+   "status": 200,
+   "finalUrl": "https://bklit.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@chamaac": [
+  {
+   "label": "Components",
+   "url": "https://www.chamaac.com/components",
+   "status": 200,
+   "finalUrl": "https://www.chamaac.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@clerk": [
+  {
+   "label": "Icons",
+   "url": "https://clerk.com/docs/reference/nextjs/clerk-middleware",
+   "status": 200,
+   "finalUrl": "https://clerk.com/docs/reference/nextjs/clerk-middleware",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://clerk.com/docs/guides/development/shadcn-cli",
+   "status": 200,
+   "finalUrl": "https://clerk.com/docs/guides/development/shadcn-cli",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@blocks-so": [
+  {
+   "label": "Components",
+   "url": "https://blocks.so/ai",
+   "status": 200,
+   "finalUrl": "https://blocks.so/ai",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@bundui": [
+  {
+   "label": "Components",
+   "url": "https://bundui.io/components/accordion",
+   "status": 200,
+   "finalUrl": "https://bundui.io/components/accordion",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://bundui.io/blocks/marketing/hero-sections",
+   "status": 200,
+   "finalUrl": "https://bundui.io/blocks/marketing/hero-sections",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@beui": [
+  {
+   "label": "Components",
+   "url": "https://beui.dev/components/motion",
+   "status": 200,
+   "finalUrl": "https://beui.dev/components/motion",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://beui.dev/components/blocks",
+   "status": 200,
+   "finalUrl": "https://beui.dev/components/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@cognicatch": [
+  {
+   "label": "Components",
+   "url": "https://cognicatch.dev/components",
+   "status": 200,
+   "finalUrl": "https://cognicatch.dev/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://cognicatch.dev/blocks",
+   "status": 200,
+   "finalUrl": "https://cognicatch.dev/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@componentry": [
+  {
+   "label": "Blocks",
+   "url": "https://componentry.dev/blocks",
+   "status": 200,
+   "finalUrl": "https://componentry.dev/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Docs",
+   "url": "https://componentry.dev/docs",
+   "status": 200,
+   "finalUrl": "https://componentry.dev/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@corr": [
+  {
+   "label": "Components",
+   "url": "https://ui.corr.sh/components",
+   "status": 200,
+   "finalUrl": "https://ui.corr.sh/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://ui.corr.sh/blocks",
+   "status": 200,
+   "finalUrl": "https://ui.corr.sh/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@coss": [
+  {
+   "label": "UI",
+   "url": "https://coss.com/ui",
+   "status": 200,
+   "finalUrl": "https://coss.com/ui",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://coss.com/ui/docs/components/accordion",
+   "status": 200,
+   "finalUrl": "https://coss.com/ui/docs/components/accordion",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@creative-tim": [
+  {
+   "label": "Blocks",
+   "url": "https://www.creative-tim.com/ui",
+   "status": 200,
+   "finalUrl": "https://www.creative-tim.com/ui",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://www.creative-tim.com/twcomponents",
+   "status": 200,
+   "finalUrl": "https://www.creative-tim.com/twcomponents",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@contentbit": [
+  {
+   "label": "Blocks",
+   "url": "https://contentbit.dev/blocks",
+   "status": 200,
+   "finalUrl": "https://contentbit.dev/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Templates",
+   "url": "https://contentbit.dev/docs/guides/production-astro/",
+   "status": 200,
+   "finalUrl": "https://contentbit.dev/docs/guides/production-astro/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@darx": [
+  {
+   "label": "Components",
+   "url": "https://darshitdev.in/arts/components/magic-genie-tabs",
+   "status": 200,
+   "finalUrl": "https://darshitdev.in/arts/components/magic-genie-tabs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@algolia": [
+  {
+   "label": "Components",
+   "url": "https://sitesearch.algolia.com/docs",
+   "status": 200,
+   "finalUrl": "https://sitesearch.algolia.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@cubby-ui": [
+  {
+   "label": "Components",
+   "url": "https://www.cubby-ui.dev/docs/components/button",
+   "status": 200,
+   "finalUrl": "https://www.cubby-ui.dev/docs/components/button",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@delta": [
+  {
+   "label": "Blocks",
+   "url": "https://deltacomponents.dev/blocks",
+   "status": 200,
+   "finalUrl": "https://deltacomponents.dev/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://deltacomponents.dev/docs/components",
+   "status": 200,
+   "finalUrl": "https://deltacomponents.dev/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@doras-ui": [
+  {
+   "label": "Blocks",
+   "url": "https://ui.doras.to/blocks",
+   "status": 200,
+   "finalUrl": "https://ui.doras.to/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@beste-ui": [
+  {
+   "label": "Blocks",
+   "url": "https://ui.beste.co/blocks",
+   "status": 200,
+   "finalUrl": "https://ui.beste.co/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://ui.beste.co/components",
+   "status": 200,
+   "finalUrl": "https://ui.beste.co/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@diceui": [
+  {
+   "label": "Docs",
+   "url": "https://diceui.com/docs/introduction",
+   "status": 200,
+   "finalUrl": "https://diceui.com/docs/introduction",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://diceui.com/docs/components",
+   "status": 200,
+   "finalUrl": "https://diceui.com/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@cult-ui": [
+  {
+   "label": "Docs",
+   "url": "https://www.cult-ui.com/docs",
+   "status": 200,
+   "finalUrl": "https://www.cult-ui.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://www.cult-ui.com/docs/components/hero-color-panels",
+   "status": 200,
+   "finalUrl": "https://www.cult-ui.com/docs/components/hero-color-panels",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@dotmatrix": [
+  {
+   "label": "Browse",
+   "url": "https://dotmatrix.zzzzshawn.cloud/showcase",
+   "status": 200,
+   "finalUrl": "https://dotmatrix.zzzzshawn.cloud/showcase",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@efferd": [
+  {
+   "label": "Blocks",
+   "url": "https://efferd.com/blocks",
+   "status": 200,
+   "finalUrl": "https://efferd.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Docs",
+   "url": "https://efferd.com/docs",
+   "status": 200,
+   "finalUrl": "https://efferd.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@devl": [
+  {
+   "label": "Icons",
+   "url": "https://www.devl.dev/c/layouts/mini-rail",
+   "status": 200,
+   "finalUrl": "https://www.devl.dev/c/layouts/mini-rail",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Charts",
+   "url": "https://www.devl.dev/c/charts",
+   "status": 200,
+   "finalUrl": "https://www.devl.dev/c/charts",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@elevenlabs-ui": [
+  {
+   "label": "Components",
+   "url": "https://ui.elevenlabs.io/",
+   "status": 200,
+   "finalUrl": "https://ui.elevenlabs.io/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@eldoraui": [
+  {
+   "label": "Components",
+   "url": "https://www.eldoraui.site/docs/components",
+   "status": 200,
+   "finalUrl": "https://www.eldoraui.site/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://www.eldoraui.site/blocks",
+   "status": 200,
+   "finalUrl": "https://www.eldoraui.site/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@evilbuttons": [
+  {
+   "label": "Docs",
+   "url": "https://www.evilbuttons.com/docs",
+   "status": 200,
+   "finalUrl": "https://www.evilbuttons.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@evilcharts": [
+  {
+   "label": "Charts",
+   "url": "https://evilcharts.com/docs",
+   "status": 200,
+   "finalUrl": "https://evilcharts.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://evilcharts.com/docs/components",
+   "status": 200,
+   "finalUrl": "https://evilcharts.com/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@elements": [
+  {
+   "label": "Icons",
+   "url": "https://www.tryelements.dev/sponsor",
+   "status": 200,
+   "finalUrl": "https://www.tryelements.dev/sponsor",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Elements",
+   "url": "https://www.tryelements.dev/docs/ai-elements",
+   "status": 200,
+   "finalUrl": "https://www.tryelements.dev/docs/ai-elements",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@blockus": [
+  {
+   "label": "Docs",
+   "url": "https://blockus.lndevui.com/docs",
+   "status": 200,
+   "finalUrl": "https://blockus.lndevui.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://blockus.lndevui.com/blocks",
+   "status": 200,
+   "finalUrl": "https://blockus.lndevui.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@dominik-ui": [
+  {
+   "label": "Icons",
+   "url": "https://dominikkoch.dev/ui/expandable-tabs",
+   "status": 200,
+   "finalUrl": "https://dominikkoch.dev/ui/expandable-tabs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://dominikkoch.dev/ui",
+   "status": 200,
+   "finalUrl": "https://dominikkoch.dev/ui",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@fab-ui": [
+  {
+   "label": "Docs",
+   "url": "https://www.fab-ui.com/docs",
+   "status": 200,
+   "finalUrl": "https://www.fab-ui.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@flightcn": [
+  {
+   "label": "Docs",
+   "url": "https://flightcn.yencheng.dev/docs",
+   "status": 200,
+   "finalUrl": "https://flightcn.yencheng.dev/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@ericts": [
+  {
+   "label": "Blocks",
+   "url": "https://ui.ericts.com/blocks",
+   "status": 200,
+   "finalUrl": "https://ui.ericts.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://ui.ericts.com/components",
+   "status": 200,
+   "finalUrl": "https://ui.ericts.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@delego": [
+  {
+   "label": "Components",
+   "url": "https://github.com/topics/ui-components",
+   "status": 200,
+   "finalUrl": "https://github.com/topics/ui-components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@evex": [
+  {
+   "label": "Docs",
+   "url": "https://www.evex.sh/docs",
+   "status": 200,
+   "finalUrl": "https://www.evex.sh/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@extend": [
+  {
+   "label": "Blocks",
+   "url": "https://ui.extend.ai/ui/blocks",
+   "status": 200,
+   "finalUrl": "https://ui.extend.ai/ui/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://ui.extend.ai/ui/docs/components",
+   "status": 200,
+   "finalUrl": "https://ui.extend.ai/ui/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@formcn": [
+  {
+   "label": "Templates",
+   "url": "https://formcn.dev/form-templates/",
+   "status": 200,
+   "finalUrl": "https://formcn.dev/form-templates/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@flowkit-ui": [
+  {
+   "label": "Components",
+   "url": "https://flowkit-ui.vzkiss.com/docs/components/creatable-combobox",
+   "status": 200,
+   "finalUrl": "https://flowkit-ui.vzkiss.com/docs/components/creatable-combobox",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Docs",
+   "url": "https://flowkit-ui.vzkiss.com/docs",
+   "status": 200,
+   "finalUrl": "https://flowkit-ui.vzkiss.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@forgeui": [
+  {
+   "label": "Components",
+   "url": "https://forgeui.in/components",
+   "status": 200,
+   "finalUrl": "https://forgeui.in/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Docs",
+   "url": "https://forgeui.in/docs",
+   "status": 200,
+   "finalUrl": "https://forgeui.in/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@fluid": [
+  {
+   "label": "Docs",
+   "url": "https://www.fluidfunctionalism.com/docs",
+   "status": 200,
+   "finalUrl": "https://www.fluidfunctionalism.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@flx": [
+  {
+   "label": "Blocks",
+   "url": "https://ui.flexnative.com/blocks",
+   "status": 200,
+   "finalUrl": "https://ui.flexnative.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@dsikeres1": [
+  {
+   "label": "Components",
+   "url": "https://dsikeres1.github.io/react-date-range-picker/",
+   "status": 200,
+   "finalUrl": "https://dsikeres1.github.io/react-date-range-picker/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@fonttrio": [
+  {
+   "label": "Gallery",
+   "url": "https://www.fonttrio.xyz/",
+   "status": 200,
+   "finalUrl": "https://www.fonttrio.xyz/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@gamifykit": [
+  {
+   "label": "Docs",
+   "url": "https://gamifykit.com/docs",
+   "status": 200,
+   "finalUrl": "https://gamifykit.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@glass-ui": [
+  {
+   "label": "Blocks",
+   "url": "https://glass-ui.crenspire.com/blocks",
+   "status": 200,
+   "finalUrl": "https://glass-ui.crenspire.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://glass-ui.crenspire.com/components",
+   "status": 200,
+   "finalUrl": "https://glass-ui.crenspire.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@gaia": [
+  {
+   "label": "Components",
+   "url": "https://ui.heygaia.io/docs",
+   "status": 200,
+   "finalUrl": "https://ui.heygaia.io/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://ui.heygaia.io/docs/components/code-block",
+   "status": 200,
+   "finalUrl": "https://ui.heygaia.io/docs/components/code-block",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@gamekitui": [
+  {
+   "label": "Docs",
+   "url": "https://www.gamekitui.com/docs",
+   "status": 200,
+   "finalUrl": "https://www.gamekitui.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@glasscn": [
+  {
+   "label": "Blocks",
+   "url": "https://glasscn-components.vercel.app/components/glass-code-block-command",
+   "status": 200,
+   "finalUrl": "https://glasscn-components.vercel.app/components/glass-code-block-command",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://glasscn-components.vercel.app/components",
+   "status": 200,
+   "finalUrl": "https://glasscn-components.vercel.app/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@gammaui": [
+  {
+   "label": "Components",
+   "url": "https://www.gammaui.com/docs/components",
+   "status": 200,
+   "finalUrl": "https://www.gammaui.com/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@gymnopedies": [
+  {
+   "label": "Components",
+   "url": "https://gymnopedies.shoota.work/",
+   "status": 200,
+   "finalUrl": "https://gymnopedies.shoota.work/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@grainly-icons": [
+  {
+   "label": "Icons",
+   "url": "https://grainlyicons.abhii.space/",
+   "status": 200,
+   "finalUrl": "https://grainlyicons.abhii.space/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@heatmap": [
+  {
+   "label": "Components",
+   "url": "https://heatmap.chingru.com/components",
+   "status": 200,
+   "finalUrl": "https://heatmap.chingru.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://heatmap.chingru.com/blocks",
+   "status": 200,
+   "finalUrl": "https://heatmap.chingru.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@ha-components": [
+  {
+   "label": "Docs",
+   "url": "https://hacomponents.keshuac.com/docs",
+   "status": 200,
+   "finalUrl": "https://hacomponents.keshuac.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@einui": [
+  {
+   "label": "Docs",
+   "url": "https://ui.eindev.ir/docs",
+   "status": 200,
+   "finalUrl": "https://ui.eindev.ir/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://ui.eindev.ir/docs/components/glass-avatar",
+   "status": 200,
+   "finalUrl": "https://ui.eindev.ir/docs/components/glass-avatar",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@heroicons-animated": [
+  {
+   "label": "Components",
+   "url": "https://www.heroicons-animated.com/",
+   "status": 200,
+   "finalUrl": "https://www.heroicons-animated.com/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@hirael": [
+  {
+   "label": "Blocks",
+   "url": "https://hirael.com/blocks",
+   "status": 200,
+   "finalUrl": "https://hirael.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://hirael.com/components",
+   "status": 200,
+   "finalUrl": "https://hirael.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@grootstudio": [
+  {
+   "label": "Components",
+   "url": "https://grootstudio.dev/components",
+   "status": 200,
+   "finalUrl": "https://grootstudio.dev/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://grootstudio.dev/blocks",
+   "status": 200,
+   "finalUrl": "https://grootstudio.dev/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@indiacn": [
+  {
+   "label": "Components",
+   "url": "https://indiacn.in/docs",
+   "status": 200,
+   "finalUrl": "https://indiacn.in/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@inferencesh": [
+  {
+   "label": "Blocks",
+   "url": "https://ui.inference.sh/blocks/agent",
+   "status": 200,
+   "finalUrl": "https://ui.inference.sh/blocks/agent",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@framecn": [
+  {
+   "label": "Components",
+   "url": "https://www.framecn.dev/docs/components",
+   "status": 200,
+   "finalUrl": "https://www.framecn.dev/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Docs",
+   "url": "https://www.framecn.dev/docs",
+   "status": 200,
+   "finalUrl": "https://www.framecn.dev/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@gooseui": [
+  {
+   "label": "Components",
+   "url": "https://gooseui.pro/docs/components",
+   "status": 200,
+   "finalUrl": "https://gooseui.pro/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://gooseui.pro/docs/blocks",
+   "status": 200,
+   "finalUrl": "https://gooseui.pro/docs/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@jolyui": [
+  {
+   "label": "Components",
+   "url": "https://www.jolyui.dev/docs/components",
+   "status": 200,
+   "finalUrl": "https://www.jolyui.dev/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Docs",
+   "url": "https://www.jolyui.dev/docs",
+   "status": 200,
+   "finalUrl": "https://www.jolyui.dev/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@jalco": [
+  {
+   "label": "Components",
+   "url": "https://ui.justinlevine.me/docs",
+   "status": 200,
+   "finalUrl": "https://ui.justinlevine.me/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://ui.justinlevine.me/docs/components/code-block",
+   "status": 200,
+   "finalUrl": "https://ui.justinlevine.me/docs/components/code-block",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@intentui": [
+  {
+   "label": "Components",
+   "url": "https://intentui.com/components",
+   "status": 200,
+   "finalUrl": "https://intentui.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://intentui.com/blocks",
+   "status": 200,
+   "finalUrl": "https://intentui.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@kaui": [
+  {
+   "label": "Components",
+   "url": "https://kaui-shadcn-registry.vercel.app/contribution/component-request",
+   "status": 200,
+   "finalUrl": "https://kaui-shadcn-registry.vercel.app/contribution/component-request",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@kanpeki": [
+  {
+   "label": "Components",
+   "url": "https://kanpeki.vercel.app/docs/components/accordion",
+   "status": 200,
+   "finalUrl": "https://kanpeki.vercel.app/docs/components/accordion",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Docs",
+   "url": "https://kanpeki.vercel.app/docs/introduction",
+   "status": 200,
+   "finalUrl": "https://kanpeki.vercel.app/docs/introduction",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@hextaui": [
+  {
+   "label": "Components",
+   "url": "https://www.hextaui.com/components",
+   "status": 200,
+   "finalUrl": "https://www.hextaui.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://www.hextaui.com/blocks",
+   "status": 200,
+   "finalUrl": "https://www.hextaui.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@kibo-ui": [
+  {
+   "label": "Blocks",
+   "url": "https://www.kibo-ui.com/blocks/collaborative-canvas",
+   "status": 200,
+   "finalUrl": "https://www.kibo-ui.com/blocks/collaborative-canvas",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://www.kibo-ui.com/components/avatar-stack",
+   "status": 200,
+   "finalUrl": "https://www.kibo-ui.com/components/avatar-stack",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@kapwa": [
+  {
+   "label": "Components",
+   "url": "https://kapwa-two.vercel.app/storybook/",
+   "status": 200,
+   "finalUrl": "https://kapwa-two.vercel.app/storybook/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@kokonutui": [
+  {
+   "label": "Docs",
+   "url": "https://kokonutui.com/docs",
+   "status": 200,
+   "finalUrl": "https://kokonutui.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://kokonutui.com/docs/navigation/action-search-bar",
+   "status": 200,
+   "finalUrl": "https://kokonutui.com/docs/navigation/action-search-bar",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@launchui": [
+  {
+   "label": "Components",
+   "url": "https://www.launchuicomponents.com/docs/components/badge",
+   "status": 200,
+   "finalUrl": "https://www.launchuicomponents.com/docs/components/badge",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://www.launchuicomponents.com/blocks",
+   "status": 200,
+   "finalUrl": "https://www.launchuicomponents.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@lens-blocks": [
+  {
+   "label": "Blocks",
+   "url": "https://lensblocks.com/blocks",
+   "status": 200,
+   "finalUrl": "https://lensblocks.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://lensblocks.com/components",
+   "status": 200,
+   "finalUrl": "https://lensblocks.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@limeplay": [
+  {
+   "label": "Blocks",
+   "url": "https://limeplay.winoffrg.dev/blocks/video-player",
+   "status": 200,
+   "finalUrl": "https://limeplay.winoffrg.dev/blocks/video-player",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://limeplay.winoffrg.dev/docs/components",
+   "status": 200,
+   "finalUrl": "https://limeplay.winoffrg.dev/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@exabase": [
+  {
+   "label": "Components",
+   "url": "https://exawizards.com/exabase/design/docs/components/accordion/",
+   "status": 200,
+   "finalUrl": "https://exawizards.com/exabase/design/docs/components/accordion/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Icons",
+   "url": "https://exawizards.com/exabase/design/icons/",
+   "status": 200,
+   "finalUrl": "https://exawizards.com/exabase/design/icons/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@lmscn": [
+  {
+   "label": "Docs",
+   "url": "https://lmscn.vercel.app/docs",
+   "status": 200,
+   "finalUrl": "https://lmscn.vercel.app/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@magicui": [
+  {
+   "label": "Docs",
+   "url": "https://magicui.design/docs",
+   "status": 200,
+   "finalUrl": "https://magicui.design/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://magicui.design/docs/components",
+   "status": 200,
+   "finalUrl": "https://magicui.design/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@lumiui": [
+  {
+   "label": "Components",
+   "url": "https://www.lumiui.dev/widgets",
+   "status": 200,
+   "finalUrl": "https://www.lumiui.dev/widgets",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://www.lumiui.dev/blocks",
+   "status": 200,
+   "finalUrl": "https://www.lumiui.dev/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@manifest": [
+  {
+   "label": "Blocks",
+   "url": "https://ui.manifest.build/blocks",
+   "status": 200,
+   "finalUrl": "https://ui.manifest.build/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@mozaika": [
+  {
+   "label": "Components",
+   "url": "https://mozaika.design/components",
+   "status": 200,
+   "finalUrl": "https://mozaika.design/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://mozaika.design/blocks",
+   "status": 200,
+   "finalUrl": "https://mozaika.design/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@mksingh": [
+  {
+   "label": "Components",
+   "url": "https://mksingh.dev/docs/components/typography",
+   "status": 200,
+   "finalUrl": "https://mksingh.dev/docs/components/typography",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Docs",
+   "url": "https://mksingh.dev/docs",
+   "status": 200,
+   "finalUrl": "https://mksingh.dev/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@motion-primitives": [
+  {
+   "label": "Components",
+   "url": "https://www.motion-primitives.com/",
+   "status": 200,
+   "finalUrl": "https://motion-primitives.com/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@joyco": [
+  {
+   "label": "Components",
+   "url": "https://hub.joyco.studio/components",
+   "status": 200,
+   "finalUrl": "https://hub.joyco.studio/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@mapcn": [
+  {
+   "label": "Components",
+   "url": "https://www.mapcn.dev/docs/basic-map",
+   "status": 200,
+   "finalUrl": "https://www.mapcn.dev/docs/basic-map",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://www.mapcn.dev/blocks",
+   "status": 200,
+   "finalUrl": "https://www.mapcn.dev/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@ncdai": [
+  {
+   "label": "Components",
+   "url": "https://chanhdai.com/components",
+   "status": 200,
+   "finalUrl": "https://chanhdai.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://chanhdai.com/blocks",
+   "status": 200,
+   "finalUrl": "https://chanhdai.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@neobrutalism": [
+  {
+   "label": "Components",
+   "url": "https://www.neobrutalism.dev/docs/accordion",
+   "status": 200,
+   "finalUrl": "https://www.neobrutalism.dev/docs/accordion",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Charts",
+   "url": "https://www.neobrutalism.dev/charts",
+   "status": 200,
+   "finalUrl": "https://www.neobrutalism.dev/charts",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@lucide-animated": [
+  {
+   "label": "Components",
+   "url": "https://lucide-animated.com/",
+   "status": 200,
+   "finalUrl": "https://lucide-animated.com/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@nessra-ui": [
+  {
+   "label": "Blocks",
+   "url": "https://nessra-ui.vercel.app/docs/blocks",
+   "status": 200,
+   "finalUrl": "https://nessra-ui.vercel.app/docs/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://nessra-ui.vercel.app/docs/components",
+   "status": 200,
+   "finalUrl": "https://nessra-ui.vercel.app/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@loading-ui": [
+  {
+   "label": "Docs",
+   "url": "https://loading-ui.com/docs",
+   "status": 200,
+   "finalUrl": "https://loading-ui.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://loading-ui.com/docs/components",
+   "status": 200,
+   "finalUrl": "https://loading-ui.com/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@headcodecms": [
+  {
+   "label": "Docs",
+   "url": "https://headcodecms.com/docs",
+   "status": 200,
+   "finalUrl": "https://headcodecms.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@nexus-ui": [
+  {
+   "label": "Docs",
+   "url": "https://nexus-ui.dev/docs",
+   "status": 200,
+   "finalUrl": "https://nexus-ui.dev/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://nexus-ui.dev/docs/components/attachments",
+   "status": 200,
+   "finalUrl": "https://nexus-ui.dev/docs/components/attachments",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@nordaun": [
+  {
+   "label": "Components",
+   "url": "https://ui.nordaun.com/components",
+   "status": 200,
+   "finalUrl": "https://ui.nordaun.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@emerald-ui": [
+  {
+   "label": "Docs",
+   "url": "https://www.emerald-ui.com/docs",
+   "status": 200,
+   "finalUrl": "https://www.emerald-ui.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://www.emerald-ui.com/docs/gsap",
+   "status": 200,
+   "finalUrl": "https://www.emerald-ui.com/docs/gsap",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@nteract": [
+  {
+   "label": "Components",
+   "url": "https://nteract-elements.vercel.app/docs/cell/cell-container",
+   "status": 200,
+   "finalUrl": "https://nteract-elements.vercel.app/docs/cell/cell-container",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Elements",
+   "url": "https://nteract-elements.vercel.app/docs",
+   "status": 200,
+   "finalUrl": "https://nteract-elements.vercel.app/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@nuqs": [
+  {
+   "label": "Components",
+   "url": "https://nuqs.dev/registry",
+   "status": 200,
+   "finalUrl": "https://nuqs.dev/registry",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@odysseyui": [
+  {
+   "label": "Docs",
+   "url": "https://www.odysseyui.com/docs",
+   "status": 200,
+   "finalUrl": "https://www.odysseyui.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://www.odysseyui.com/docs/components",
+   "status": 200,
+   "finalUrl": "https://www.odysseyui.com/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@gc-solid": [
+  {
+   "label": "Components",
+   "url": "https://binnodon.github.io/gc-solid-ui",
+   "status": 200,
+   "finalUrl": "https://binnodon.github.io/gc-solid-ui/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@oui": [
+  {
+   "label": "Components",
+   "url": "https://oui.mw10013.workers.dev/",
+   "status": 200,
+   "finalUrl": "https://oui.mw10013.workers.dev/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@pacekit": [
+  {
+   "label": "Components",
+   "url": "https://paceui.com/components",
+   "status": 200,
+   "finalUrl": "https://paceui.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://paceui.com/blocks",
+   "status": 200,
+   "finalUrl": "https://paceui.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@lytenyte": [
+  {
+   "label": "Components",
+   "url": "https://www.1771technologies.com/",
+   "status": 200,
+   "finalUrl": "https://www.1771technologies.com/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@paceui": [
+  {
+   "label": "Components",
+   "url": "https://paceui.com/components",
+   "status": 200,
+   "finalUrl": "https://paceui.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://paceui.com/blocks",
+   "status": 200,
+   "finalUrl": "https://paceui.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@pacekit-gsap": [
+  {
+   "label": "Docs",
+   "url": "https://gsap.paceui.com/docs",
+   "status": 200,
+   "finalUrl": "https://gsap.paceui.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@nexus-elements": [
+  {
+   "label": "Components",
+   "url": "https://widgets.availproject.org/docs/view-components",
+   "status": 200,
+   "finalUrl": "https://widgets.availproject.org/docs/view-components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@pastecn": [
+  {
+   "label": "Gallery",
+   "url": "https://pastecn.com/",
+   "status": 200,
+   "finalUrl": "https://pastecn.com/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@paddle": [
+  {
+   "label": "Components",
+   "url": "https://developer.paddle.com/",
+   "status": 200,
+   "finalUrl": "https://developer.paddle.com/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@mui-treasury": [
+  {
+   "label": "Blocks",
+   "url": "https://www.mui-treasury.com/block",
+   "status": 200,
+   "finalUrl": "https://www.mui-treasury.com/block",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Primitives",
+   "url": "https://www.mui-treasury.com/primitive",
+   "status": 200,
+   "finalUrl": "https://www.mui-treasury.com/primitive",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@openstatus": [
+  {
+   "label": "Components",
+   "url": "https://www.openstatus.dev/registry",
+   "status": 200,
+   "finalUrl": "https://www.openstatus.dev/registry",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@pixelact-ui": [
+  {
+   "label": "Blocks",
+   "url": "https://www.pixelactui.com/blocks",
+   "status": 200,
+   "finalUrl": "https://www.pixelactui.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://www.pixelactui.com/components",
+   "status": 200,
+   "finalUrl": "https://www.pixelactui.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@plate": [
+  {
+   "label": "Components",
+   "url": "https://platejs.org/docs/components",
+   "status": 200,
+   "finalUrl": "https://platejs.org/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Docs",
+   "url": "https://platejs.org/docs",
+   "status": 200,
+   "finalUrl": "https://platejs.org/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@prompt-kit": [
+  {
+   "label": "Blocks",
+   "url": "https://www.prompt-kit.com/blocks",
+   "status": 200,
+   "finalUrl": "https://www.prompt-kit.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Primitives",
+   "url": "https://www.prompt-kit.com/primitives",
+   "status": 200,
+   "finalUrl": "https://www.prompt-kit.com/primitives",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@ogimagecn": [
+  {
+   "label": "Docs",
+   "url": "https://www.ogimagecn.com/docs",
+   "status": 200,
+   "finalUrl": "https://www.ogimagecn.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://www.ogimagecn.com/docs/components",
+   "status": 200,
+   "finalUrl": "https://www.ogimagecn.com/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@iconiq": [
+  {
+   "label": "Blocks",
+   "url": "https://iconiqui.com/blocks/ai-input",
+   "status": 200,
+   "finalUrl": "https://iconiqui.com/blocks/ai-input",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://iconiqui.com/buttons-and-actions/button",
+   "status": 200,
+   "finalUrl": "https://iconiqui.com/buttons-and-actions/button",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@prosekit": [
+  {
+   "label": "Components",
+   "url": "https://prosekit.dev/components/",
+   "status": 200,
+   "finalUrl": "https://prosekit.dev/components/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@paletteui": [
+  {
+   "label": "Themes",
+   "url": "https://paletteui.xyz/",
+   "status": 200,
+   "finalUrl": "https://www.paletteui.xyz/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@pulld": [
+  {
+   "label": "Components",
+   "url": "https://pulld.pages.dev/components",
+   "status": 200,
+   "finalUrl": "https://pulld.pages.dev/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://pulld.pages.dev/blocks",
+   "status": 200,
+   "finalUrl": "https://pulld.pages.dev/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@ramonclaudio-coderabbit": [
+  {
+   "label": "Utilities",
+   "url": "https://ramonclaudio.com/registries/coderabbit",
+   "status": 404,
+   "finalUrl": null,
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": false,
+   "err": "HTTP 404"
+  }
+ ],
+ "@nusaiba": [
+  {
+   "label": "Blocks",
+   "url": "https://nusaiba.dev/blocks",
+   "status": 200,
+   "finalUrl": "https://nusaiba.dev/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Docs",
+   "url": "https://nusaiba.dev/docs",
+   "status": 200,
+   "finalUrl": "https://nusaiba.dev/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@react-bits": [
+  {
+   "label": "Blocks",
+   "url": "https://reactbits.dev/blocks",
+   "status": 200,
+   "finalUrl": "https://reactbits.dev/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://reactbits.dev/components",
+   "status": 200,
+   "finalUrl": "https://reactbits.dev/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@react-slot": [
+  {
+   "label": "Components",
+   "url": "https://react-slot.vercel.app/",
+   "status": 200,
+   "finalUrl": "https://react-slot.vercel.app/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@react-easy-modals": [
+  {
+   "label": "Components",
+   "url": "https://react-easy-modals-docs.vercel.app/",
+   "status": 200,
+   "finalUrl": "https://react-easy-modals-docs.vercel.app/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@retroui": [
+  {
+   "label": "Blocks",
+   "url": "https://retroui.dev/blocks",
+   "status": 200,
+   "finalUrl": "https://retroui.dev/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://retroui.dev/components",
+   "status": 200,
+   "finalUrl": "https://retroui.dev/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@rescript-shadcn": [
+  {
+   "label": "Components",
+   "url": "https://rescript-shadcn.miriad.studio/components",
+   "status": 200,
+   "finalUrl": "https://rescript-shadcn.miriad.studio/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@roiui": [
+  {
+   "label": "Blocks",
+   "url": "https://www.roiui.com/blocks",
+   "status": 200,
+   "finalUrl": "https://www.roiui.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://www.roiui.com/docs/components",
+   "status": 200,
+   "finalUrl": "https://www.roiui.com/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@payload-components": [
+  {
+   "label": "Docs",
+   "url": "https://www.payload-components.xyz/docs",
+   "status": 200,
+   "finalUrl": "https://www.payload-components.xyz/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://www.payload-components.xyz/components",
+   "status": 200,
+   "finalUrl": "https://www.payload-components.xyz/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@remocn": [
+  {
+   "label": "Components",
+   "url": "https://www.remocn.dev/docs/typography",
+   "status": 200,
+   "finalUrl": "https://www.remocn.dev/docs/typography",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Icons",
+   "url": "https://www.remocn.dev/docs/icons/gallery",
+   "status": 200,
+   "finalUrl": "https://www.remocn.dev/docs/icons/gallery",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@react-aria": [
+  {
+   "label": "Components",
+   "url": "https://react-aria.adobe.com/",
+   "status": 200,
+   "finalUrl": "https://react-aria.adobe.com/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@paykit-sdk": [
+  {
+   "label": "Docs",
+   "url": "https://docs.usepaykit.dev/introduction",
+   "status": 200,
+   "finalUrl": "https://docs.usepaykit.dev/introduction",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@scrollxui": [
+  {
+   "label": "Components",
+   "url": "https://scrollxui.dev/docs/components",
+   "status": 200,
+   "finalUrl": "https://scrollxui.dev/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://scrollxui.dev/blocks",
+   "status": 200,
+   "finalUrl": "https://scrollxui.dev/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@satoriui": [
+  {
+   "label": "Components",
+   "url": "https://www.satoriui.site/components",
+   "status": 200,
+   "finalUrl": "https://www.satoriui.site/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@shadcn-editor": [
+  {
+   "label": "Blocks",
+   "url": "https://shadcn-editor.vercel.app/blocks",
+   "status": 200,
+   "finalUrl": "https://shadcn-editor.vercel.app/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://shadcn-editor.vercel.app/components",
+   "status": 200,
+   "finalUrl": "https://shadcn-editor.vercel.app/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@saaskit": [
+  {
+   "label": "Components",
+   "url": "https://saaskit-theta.vercel.app/components",
+   "status": 200,
+   "finalUrl": "https://saaskit-theta.vercel.app/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://saaskit-theta.vercel.app/blocks",
+   "status": 200,
+   "finalUrl": "https://saaskit-theta.vercel.app/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@reui": [
+  {
+   "label": "Components",
+   "url": "https://reui.io/components",
+   "status": 200,
+   "finalUrl": "https://reui.io/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://reui.io/blocks",
+   "status": 200,
+   "finalUrl": "https://reui.io/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@shadcn-studio": [
+  {
+   "label": "Components",
+   "url": "https://shadcnstudio.com/components",
+   "status": 200,
+   "finalUrl": "https://shadcnstudio.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://shadcnstudio.com/blocks",
+   "status": 200,
+   "finalUrl": "https://shadcnstudio.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@shadcn-ui-blocks": [
+  {
+   "label": "Templates",
+   "url": "https://www.shadcn-ui-blocks.com/templates",
+   "status": 200,
+   "finalUrl": "https://www.shadcn-ui-blocks.com/templates",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://www.shadcn-ui-blocks.com/blocks",
+   "status": 200,
+   "finalUrl": "https://www.shadcn-ui-blocks.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@shadcn-space": [
+  {
+   "label": "Components",
+   "url": "https://shadcnspace.com/components",
+   "status": 200,
+   "finalUrl": "https://shadcnspace.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://shadcnspace.com/blocks",
+   "status": 200,
+   "finalUrl": "https://shadcnspace.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@pulkitxm": [
+  {
+   "label": "Blocks",
+   "url": "https://www.pulkit.blog/blocks",
+   "status": 200,
+   "finalUrl": "https://www.pulkit.blog/blocks",
+   "redirectHome": false,
+   "soft404": true,
+   "keywordKept": true,
+   "ok": false,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://www.pulkit.page/components",
+   "status": 200,
+   "finalUrl": "https://www.pulkit.page/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@shadcncraft": [
+  {
+   "label": "Blocks",
+   "url": "https://shadcncraft.com/blocks",
+   "status": 200,
+   "finalUrl": "https://shadcncraft.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://shadcncraft.com/components",
+   "status": 200,
+   "finalUrl": "https://shadcncraft.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@shadcndesign": [
+  {
+   "label": "Icons",
+   "url": "https://www.shadcndesign.com/icons",
+   "status": 200,
+   "finalUrl": "https://www.shadcndesign.com/icons",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://www.shadcndesign.com/components",
+   "status": 200,
+   "finalUrl": "https://www.shadcndesign.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@shadcnhooks": [
+  {
+   "label": "Docs",
+   "url": "https://shadcn-hooks.com/docs/introduction",
+   "status": 200,
+   "finalUrl": "https://shadcn-hooks.com/docs/introduction",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@shadcn-map": [
+  {
+   "label": "Docs",
+   "url": "https://shadcn-map.vercel.app/docs",
+   "status": 200,
+   "finalUrl": "https://shadcn-map.vercel.app/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@shadcnui-blocks": [
+  {
+   "label": "Blocks",
+   "url": "https://www.shadcnui-blocks.com/blocks",
+   "status": 200,
+   "finalUrl": "https://www.shadcnui-blocks.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://www.shadcnui-blocks.com/components/accordion",
+   "status": 200,
+   "finalUrl": "https://www.shadcnui-blocks.com/components/accordion",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@shark": [
+  {
+   "label": "Components",
+   "url": "https://shark.vini.one/docs/components",
+   "status": 200,
+   "finalUrl": "https://shark.vini.one/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Docs",
+   "url": "https://shark.vini.one/docs",
+   "status": 200,
+   "finalUrl": "https://shark.vini.one/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@nexus-labs": [
+  {
+   "label": "Templates",
+   "url": "https://www.nexus-ui.com/templates",
+   "status": 200,
+   "finalUrl": "https://www.nexus-ui.com/templates",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://www.nexus-ui.com/components",
+   "status": 200,
+   "finalUrl": "https://www.nexus-ui.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@optics": [
+  {
+   "label": "Icons",
+   "url": "https://optics.agusmayol.com.ar/core/iconography",
+   "status": 200,
+   "finalUrl": "https://optics.agusmayol.com.ar/core/iconography",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://optics.agusmayol.com.ar/components",
+   "status": 200,
+   "finalUrl": "https://optics.agusmayol.com.ar/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@shadcnblocks": [
+  {
+   "label": "Components",
+   "url": "https://www.shadcnblocks.com/components",
+   "status": 200,
+   "finalUrl": "https://www.shadcnblocks.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://www.shadcnblocks.com/blocks",
+   "status": 200,
+   "finalUrl": "https://www.shadcnblocks.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@skiper-ui": [
+  {
+   "label": "Components",
+   "url": "https://skiper-ui.com/components",
+   "status": 200,
+   "finalUrl": "https://skiper-ui.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@smoothui": [
+  {
+   "label": "Components",
+   "url": "https://smoothui.dev/docs/components",
+   "status": 200,
+   "finalUrl": "https://smoothui.dev/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://smoothui.dev/docs/blocks",
+   "status": 200,
+   "finalUrl": "https://smoothui.dev/docs/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@solaceui": [
+  {
+   "label": "Components",
+   "url": "https://www.solaceui.com/components",
+   "status": 200,
+   "finalUrl": "https://www.solaceui.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://www.solaceui.com/blocks",
+   "status": 200,
+   "finalUrl": "https://www.solaceui.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@slide-cn": [
+  {
+   "label": "Docs",
+   "url": "https://www.slide-cn.com/docs",
+   "status": 200,
+   "finalUrl": "https://www.slide-cn.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://www.slide-cn.com/docs/components",
+   "status": 200,
+   "finalUrl": "https://www.slide-cn.com/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@shieldcn": [
+  {
+   "label": "Components",
+   "url": "https://shieldcn.dev/components",
+   "status": 200,
+   "finalUrl": "https://shieldcn.dev/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Charts",
+   "url": "https://shieldcn.dev/docs/charts",
+   "status": 200,
+   "finalUrl": "https://shieldcn.dev/docs/charts",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@shadcnmaps": [
+  {
+   "label": "Components",
+   "url": "https://shadcnmaps.com/",
+   "status": 200,
+   "finalUrl": "https://www.shadcnmaps.com/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@spell": [
+  {
+   "label": "Docs",
+   "url": "https://spell.sh/docs/introduction",
+   "status": 200,
+   "finalUrl": "https://spell.sh/docs/introduction",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://spell.sh/docs/components",
+   "status": 200,
+   "finalUrl": "https://spell.sh/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@soundcn": [
+  {
+   "label": "Blocks",
+   "url": "https://soundcn.xyz/",
+   "status": 200,
+   "finalUrl": "https://soundcn.xyz/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@sabraman": [
+  {
+   "label": "Components",
+   "url": "https://sabraman.ru/components",
+   "status": 200,
+   "finalUrl": "https://sabraman.ru/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@svelte-bits": [
+  {
+   "label": "Components",
+   "url": "https://sveltebits.xyz/backgrounds/dot-field",
+   "status": 200,
+   "finalUrl": "https://sveltebits.xyz/backgrounds/dot-field",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://sveltebits.xyz/docs/blocks",
+   "status": 200,
+   "finalUrl": "https://sveltebits.xyz/docs/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@stepper": [
+  {
+   "label": "Blocks",
+   "url": "https://francozeta-stepper.vercel.app/docs/blocks",
+   "status": 200,
+   "finalUrl": "https://francozeta-stepper.vercel.app/docs/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Docs",
+   "url": "https://francozeta-stepper.vercel.app/docs",
+   "status": 200,
+   "finalUrl": "https://francozeta-stepper.vercel.app/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@shadcnuikit": [
+  {
+   "label": "Components",
+   "url": "https://shadcnuikit.com/components",
+   "status": 200,
+   "finalUrl": "https://shadcnuikit.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://shadcnuikit.com/blocks",
+   "status": 200,
+   "finalUrl": "https://shadcnuikit.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@supabase": [
+  {
+   "label": "Blocks",
+   "url": "https://supabase.com/ui/docs/nextjs/password-based-auth",
+   "status": 200,
+   "finalUrl": "https://supabase.com/ui/docs/nextjs/password-based-auth",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "UI",
+   "url": "https://supabase.com/ui",
+   "status": 200,
+   "finalUrl": "https://supabase.com/ui",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@svgl": [
+  {
+   "label": "Components",
+   "url": "https://svgl.app/",
+   "status": 200,
+   "finalUrl": "https://svgl.app/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@tailark": [
+  {
+   "label": "Blocks",
+   "url": "https://tailark.com/blocks",
+   "status": 200,
+   "finalUrl": "https://tailark.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Docs",
+   "url": "https://tailark.com/docs",
+   "status": 200,
+   "finalUrl": "https://tailark.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@tailgrids": [
+  {
+   "label": "Components",
+   "url": "https://tailgrids.com/figma",
+   "status": 200,
+   "finalUrl": "https://tailgrids.com/figma",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://tailgrids.com/blocks",
+   "status": 200,
+   "finalUrl": "https://tailgrids.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@systaliko-ui": [
+  {
+   "label": "Templates",
+   "url": "https://systaliko-ui.vercel.app/docs/templates",
+   "status": 200,
+   "finalUrl": "https://systaliko-ui.vercel.app/docs/templates",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Docs",
+   "url": "https://systaliko-ui.vercel.app/docs",
+   "status": 200,
+   "finalUrl": "https://systaliko-ui.vercel.app/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@spectrumui": [
+  {
+   "label": "Components",
+   "url": "https://ui.spectrumhq.in/docs",
+   "status": 200,
+   "finalUrl": "https://ui.spectrumhq.in/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Charts",
+   "url": "https://ui.spectrumhq.in/docs/animatedchart",
+   "status": 200,
+   "finalUrl": "https://ui.spectrumhq.in/docs/animatedchart",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@shadcnstore": [
+  {
+   "label": "Blocks",
+   "url": "https://shadcnstore.com/blocks",
+   "status": 200,
+   "finalUrl": "https://shadcnstore.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Templates",
+   "url": "https://shadcnstore.com/templates",
+   "status": 200,
+   "finalUrl": "https://shadcnstore.com/templates",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@tailwind-admin": [
+  {
+   "label": "Blocks",
+   "url": "https://tailwind-admin.com/ui-blocks",
+   "status": 200,
+   "finalUrl": "https://tailwind-admin.com/ui-blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://tailwind-admin.com/animated-components",
+   "status": 200,
+   "finalUrl": "https://tailwind-admin.com/animated-components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@tailwind-builder": [
+  {
+   "label": "Blocks",
+   "url": "https://tailwindbuilder.ai/blocks",
+   "status": 200,
+   "finalUrl": "https://tailwindbuilder.ai/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Charts",
+   "url": "https://tailwindbuilder.ai/chart-builder",
+   "status": 200,
+   "finalUrl": "https://tailwindbuilder.ai/chart-builder",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@taki": [
+  {
+   "label": "Components",
+   "url": "https://taki-ui.com/docs/components/",
+   "status": 200,
+   "finalUrl": "https://taki-ui.com/docs/components/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Elements",
+   "url": "https://taki-ui.com/docs/ai-elements/",
+   "status": 200,
+   "finalUrl": "https://taki-ui.com/docs/ai-elements/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@threecn": [
+  {
+   "label": "Docs",
+   "url": "https://threecn.dev/docs",
+   "status": 200,
+   "finalUrl": "https://threecn.dev/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://threecn.dev/docs/scenes",
+   "status": 200,
+   "finalUrl": "https://threecn.dev/docs/scenes",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@tetra-ui": [
+  {
+   "label": "Docs",
+   "url": "https://www.tetra-ui.com/docs",
+   "status": 200,
+   "finalUrl": "https://www.tetra-ui.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://www.tetra-ui.com/docs/components",
+   "status": 200,
+   "finalUrl": "https://www.tetra-ui.com/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@thegridcn": [
+  {
+   "label": "Components",
+   "url": "https://thegridcn.com/components",
+   "status": 200,
+   "finalUrl": "https://thegridcn.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Templates",
+   "url": "https://thegridcn.com/templates",
+   "status": 200,
+   "finalUrl": "https://thegridcn.com/templates",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@tokenui": [
+  {
+   "label": "Components",
+   "url": "https://www.tokenui.dev/docs/components/token",
+   "status": 200,
+   "finalUrl": "https://www.tokenui.dev/docs/components/token",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@termcn": [
+  {
+   "label": "Components",
+   "url": "https://www.termcn.dev/docs/components",
+   "status": 200,
+   "finalUrl": "https://www.termcn.dev/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Docs",
+   "url": "https://www.termcn.dev/docs",
+   "status": 200,
+   "finalUrl": "https://www.termcn.dev/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@trophy-ui": [
+  {
+   "label": "Components",
+   "url": "https://ui.trophy.so/docs/components",
+   "status": 200,
+   "finalUrl": "https://ui.trophy.so/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Docs",
+   "url": "https://ui.trophy.so/docs",
+   "status": 200,
+   "finalUrl": "https://ui.trophy.so/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@terrae": [
+  {
+   "label": "Blocks",
+   "url": "https://www.terrae.dev/blocks",
+   "status": 200,
+   "finalUrl": "https://www.terrae.dev/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://www.terrae.dev/docs/components",
+   "status": 200,
+   "finalUrl": "https://www.terrae.dev/docs/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@toc-cn": [
+  {
+   "label": "Blocks",
+   "url": "https://tocn.vercel.app/",
+   "status": 200,
+   "finalUrl": "https://tocn.vercel.app/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@tour": [
+  {
+   "label": "Docs",
+   "url": "https://onboarding-tour.vercel.app/docs",
+   "status": 200,
+   "finalUrl": "https://onboarding-tour.vercel.app/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@turbopills-ui": [
+  {
+   "label": "Docs",
+   "url": "https://www.turbopills.com/ui/docs",
+   "status": 200,
+   "finalUrl": "https://www.turbopills.com/ui/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://www.turbopills.com/ui/docs/components/input",
+   "status": 200,
+   "finalUrl": "https://www.turbopills.com/ui/docs/components/input",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@ui-layouts": [
+  {
+   "label": "Blocks",
+   "url": "https://www.ui-layouts.com/blocks",
+   "status": 200,
+   "finalUrl": "https://www.ui-layouts.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://www.ui-layouts.com/components",
+   "status": 200,
+   "finalUrl": "https://www.ui-layouts.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@unlumen-ui": [
+  {
+   "label": "Components",
+   "url": "https://ui.unlumen.com/components",
+   "status": 200,
+   "finalUrl": "https://ui.unlumen.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Primitives",
+   "url": "https://unlumen-ui-docs.vercel.app/docs/ui",
+   "status": 200,
+   "finalUrl": "https://unlumen-ui-docs.vercel.app/docs/ui",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@uicapsule": [
+  {
+   "label": "Templates",
+   "url": "https://www.uicapsule.com/ui/emerald-template",
+   "status": 200,
+   "finalUrl": "https://www.uicapsule.com/ui/emerald-template",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Charts",
+   "url": "https://www.uicapsule.com/ui/line-chart",
+   "status": 200,
+   "finalUrl": "https://www.uicapsule.com/ui/line-chart",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@tool-ui": [
+  {
+   "label": "Blocks",
+   "url": "https://www.tool-ui.com/",
+   "status": 200,
+   "finalUrl": "https://www.tool-ui.com/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@uselayouts": [
+  {
+   "label": "Components",
+   "url": "https://uselayouts.com/docs/components/3d-book",
+   "status": 200,
+   "finalUrl": "https://uselayouts.com/docs/components/3d-book",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@vue-bits": [
+  {
+   "label": "Components",
+   "url": "https://vue-bits.dev/components",
+   "status": 200,
+   "finalUrl": "https://vue-bits.dev/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://vue-bits.dev/blocks",
+   "status": 200,
+   "finalUrl": "https://vue-bits.dev/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@text-ui": [
+  {
+   "label": "Docs",
+   "url": "https://joelachance.github.io/text-ui/docs/",
+   "status": 200,
+   "finalUrl": "https://joelachance.github.io/text-ui/docs/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@utilcn": [
+  {
+   "label": "Docs",
+   "url": "https://www.utilcn.dev/docs",
+   "status": 200,
+   "finalUrl": "https://www.utilcn.dev/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@waves-cn": [
+  {
+   "label": "Components",
+   "url": "https://waves-cn.vercel.app/docs",
+   "status": 200,
+   "finalUrl": "https://waves-cn.vercel.app/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@uitripled": [
+  {
+   "label": "Components",
+   "url": "https://ui.tripled.work/components",
+   "status": 200,
+   "finalUrl": "https://ui.tripled.work/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@soralabs": [
+  {
+   "label": "Blocks",
+   "url": "https://ui.soralabs.io.vn/components",
+   "status": 200,
+   "finalUrl": "https://ui.soralabs.io.vn/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Primitives",
+   "url": "https://ui.soralabs.io.vn/docs/primitives/text-scramble",
+   "status": 200,
+   "finalUrl": "https://ui.soralabs.io.vn/docs/primitives/text-scramble",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@uiable": [
+  {
+   "label": "Components",
+   "url": "https://uiable.com/components",
+   "status": 200,
+   "finalUrl": "https://uiable.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://uiable.com/blocks",
+   "status": 200,
+   "finalUrl": "https://uiable.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@zippystarter": [
+  {
+   "label": "Blocks",
+   "url": "https://zippystarter.com/blocks",
+   "status": 200,
+   "finalUrl": "https://zippystarter.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://zippystarter.com/components",
+   "status": 200,
+   "finalUrl": "https://zippystarter.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@wigggle-ui": [
+  {
+   "label": "Docs",
+   "url": "https://wigggle-ui.vercel.app/docs",
+   "status": 200,
+   "finalUrl": "https://wigggle-ui.vercel.app/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@wds": [
+  {
+   "label": "Components",
+   "url": "https://wds-shadcn-registry.netlify.app/components/",
+   "status": 200,
+   "finalUrl": "https://wds-shadcn-registry.netlify.app/components/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@wensity": [
+  {
+   "label": "Blocks",
+   "url": "https://wensity.com/",
+   "status": 200,
+   "finalUrl": "https://wensity.com/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@vllnt-ui": [
+  {
+   "label": "Templates",
+   "url": "https://ui.vllnt.com/templates",
+   "status": 200,
+   "finalUrl": "https://ui.vllnt.com/templates",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Components",
+   "url": "https://ui.vllnt.com/components",
+   "status": 200,
+   "finalUrl": "https://ui.vllnt.com/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@typedora-ui": [
+  {
+   "label": "Docs",
+   "url": "https://typedora-ui.netlify.app/docs/",
+   "status": 200,
+   "finalUrl": "https://typedora-ui.netlify.app/docs/",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@xcn": [
+  {
+   "label": "Templates",
+   "url": "https://ui.radiumcoders.com/templates",
+   "status": 200,
+   "finalUrl": "https://ui.radiumcoders.com/templates",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  },
+  {
+   "label": "Blocks",
+   "url": "https://ui.radiumcoders.com/blocks",
+   "status": 200,
+   "finalUrl": "https://ui.radiumcoders.com/blocks",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@untld": [
+  {
+   "label": "Docs",
+   "url": "https://ui.untldlabs.com/docs",
+   "status": 200,
+   "finalUrl": "https://ui.untldlabs.com/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@uui": [
+  {
+   "label": "Components",
+   "url": "https://uui.app/discover/components",
+   "status": 200,
+   "finalUrl": "https://uui.app/discover/components",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": true,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@sona-ui": [
+  {
+   "label": "Components",
+   "url": "https://sona-ui.vercel.app/docs/accordion",
+   "status": 200,
+   "finalUrl": "https://sona-ui.vercel.app/docs/accordion",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ],
+ "@gpt-vis": [
+  {
+   "label": "Docs",
+   "url": "https://gpt-vis.antv.vision/docs",
+   "status": 200,
+   "finalUrl": "https://gpt-vis.antv.vision/docs",
+   "redirectHome": false,
+   "soft404": false,
+   "keywordKept": null,
+   "ok": true,
+   "err": null
+  }
+ ]
+}

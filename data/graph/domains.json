@@ -1,114 +1,100 @@
 [
  {
+  "id": "D2",
+  "label": "Marketing & Landing Sections",
+  "description": "Hero, features, pricing, CTA, testimonials, blog, team sections and brand logos.",
+  "itemCount": 8101,
+  "nCategories": 78
+ },
+ {
   "id": "D0",
-  "label": "Commerce & App Blocks",
-  "description": "E-commerce, pricing, auth, dashboards, stat cards and full application sections.",
-  "itemCount": 7448,
-  "nCategories": 75
+  "label": "Data, Dashboards & AI",
+  "description": "Charts, stats, tables, code blocks, chat/AI tools, timelines and activity feeds.",
+  "itemCount": 4517,
+  "nCategories": 60
  },
  {
   "id": "D5",
-  "label": "Marketing & Landing Sections",
-  "description": "Hero, features, blog, footer, portfolio, CTA, testimonial and FAQ page sections.",
-  "itemCount": 5858,
-  "nCategories": 51
- },
- {
-  "id": "D4",
-  "label": "AI & Miscellaneous UI",
-  "description": "AI chat/agents plus assorted interactive UI (tooltips, hover cards, misc).",
-  "itemCount": 5552,
-  "nCategories": 51
- },
- {
-  "id": "D2",
-  "label": "Animations & Effects",
-  "description": "Text effects, backgrounds, particles, sliders, carousels and animated primitives.",
-  "itemCount": 4345,
-  "nCategories": 50
+  "label": "Media, Utilities & Misc",
+  "description": "Avatars, badges, media players, typography, hooks, editor plugins and utilities.",
+  "itemCount": 4438,
+  "nCategories": 52
  },
  {
   "id": "D1",
-  "label": "Icons, Badges & Feedback",
-  "description": "Icon sets, badges, avatars, dialogs, alerts and toasts.",
-  "itemCount": 2500,
-  "nCategories": 24
+  "label": "Animations & Visual Effects",
+  "description": "Sliders, carousels, backgrounds, shaders, animated text and reveal effects.",
+  "itemCount": 3970,
+  "nCategories": 62
+ },
+ {
+  "id": "D8",
+  "label": "Fonts & Themes",
+  "description": "Google fonts, typefaces, color themes and mobile app UI kits.",
+  "itemCount": 3091,
+  "nCategories": 9
  },
  {
   "id": "D9",
-  "label": "Fonts & Typefaces",
-  "description": "Google fonts, typefaces and font pairings.",
-  "itemCount": 1931,
-  "nCategories": 11
- },
- {
-  "id": "D7",
-  "label": "Layout & Navigation",
-  "description": "Accordions, tables, tabs, sidebars, pagination and breadcrumbs.",
-  "itemCount": 1859,
-  "nCategories": 20
- },
- {
-  "id": "D11",
-  "label": "Buttons & Toggles",
-  "description": "Buttons, toggles, checkboxes, switches and button groups.",
-  "itemCount": 1309,
-  "nCategories": 21
- },
- {
-  "id": "D10",
-  "label": "Themes & Templates",
-  "description": "Color themes, typography systems and full-page templates.",
-  "itemCount": 1270,
-  "nCategories": 12
+  "label": "Navigation & Layout",
+  "description": "Navbars, footers, sidebars, tabs, accordions, pagination and app shells.",
+  "itemCount": 2914,
+  "nCategories": 36
  },
  {
   "id": "D6",
   "label": "Form Inputs",
-  "description": "Text inputs, selects, labels, textareas and calendars.",
-  "itemCount": 1186,
-  "nCategories": 18
- },
- {
-  "id": "D13",
-  "label": "Menus & Command",
-  "description": "Dropdown, context and navigation menus, comboboxes and command palettes.",
-  "itemCount": 917,
-  "nCategories": 15
- },
- {
-  "id": "D8",
-  "label": "Demos & Examples",
-  "description": "Demo and example wrappers shipped alongside components.",
-  "itemCount": 898,
-  "nCategories": 12
- },
- {
-  "id": "D15",
-  "label": "Game Audio & Assets",
-  "description": "Sound effects, voiceovers and game audio assets.",
-  "itemCount": 840,
-  "nCategories": 11
+  "description": "Inputs, textareas, checkboxes, radio groups, OTP and labels.",
+  "itemCount": 2214,
+  "nCategories": 33
  },
  {
   "id": "D3",
-  "label": "Charts & Data",
-  "description": "Charts, data grids and maps.",
-  "itemCount": 694,
-  "nCategories": 9
+  "label": "Buttons & Toggles",
+  "description": "Buttons, toggles, switches, toolbars and theme toggles.",
+  "itemCount": 1747,
+  "nCategories": 29
+ },
+ {
+  "id": "D10",
+  "label": "E-commerce",
+  "description": "Product cards, carts, checkout, billing, order tracking and reviews.",
+  "itemCount": 1484,
+  "nCategories": 20
+ },
+ {
+  "id": "D4",
+  "label": "Cards & Popovers",
+  "description": "Cards (hover, tilt, stacked), tooltips, popovers and link previews.",
+  "itemCount": 1244,
+  "nCategories": 19
+ },
+ {
+  "id": "D13",
+  "label": "Selects & Date Pickers",
+  "description": "Selects, comboboxes, calendars and date/time pickers.",
+  "itemCount": 1236,
+  "nCategories": 19
+ },
+ {
+  "id": "D11",
+  "label": "Icons",
+  "description": "Icon sets — arrows, actions, files, weather, currency and more.",
+  "itemCount": 1176,
+  "nCategories": 13
  },
  {
   "id": "D12",
-  "label": "Cards",
-  "description": "Card components — hover, tilt, spotlight and stacked cards.",
-  "itemCount": 690,
-  "nCategories": 10
+  "label": "Dialogs & Notifications",
+  "description": "Dialogs, modals, alerts, alert-dialogs and toasts.",
+  "itemCount": 869,
+  "nCategories": 13
  },
  {
-  "id": "D14",
-  "label": "Date & Calendar",
-  "description": "Calendars, date pickers and booking widgets.",
-  "itemCount": 540,
-  "nCategories": 6
+  "id": "D7",
+  "label": "Game Audio & Sound",
+  "description": "Sound effects, voiceovers and game audio assets.",
+  "itemCount": 836,
+  "nCategories": 16
  }
 ]

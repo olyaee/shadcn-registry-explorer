@@ -1,249 +1,121 @@
 [
  {
-  "cluster": 99,
+  "cluster": 192,
   "domain": 0,
-  "guess": "ecommerce",
-  "n": 1333,
+  "guess": "chart",
+  "n": 738,
   "samples": [
-   "product-card2",
-   "product-list",
-   "product-card",
-   "product-card-1",
-   "product-card-2",
-   "product-card-3",
-   "product-card-4",
-   "product-card-5"
+   "chart",
+   "line-chart",
+   "area-chart",
+   "bar-chart",
+   "pie-chart",
+   "radar-chart",
+   "sankey-chart",
+   "radar"
   ]
  },
  {
-  "cluster": 343,
+  "cluster": 425,
   "domain": 0,
-  "guess": "pricing",
-  "n": 354,
+  "guess": "stats",
+  "n": 210,
   "samples": [
-   "pricing-1",
-   "pricing-2",
-   "pricing-4",
-   "pricing1",
-   "pricing2",
-   "pricing6",
-   "pricing7",
-   "pricing-01"
+   "stats-1",
+   "stats-2",
+   "stats-01",
+   "stats-02",
+   "stats-03",
+   "stats-04",
+   "stats-05",
+   "stats-07"
   ]
  },
  {
-  "cluster": 283,
+  "cluster": 181,
   "domain": 0,
-  "guess": "login",
-  "n": 274,
-  "samples": [
-   "login-01",
-   "login-02",
-   "login-03",
-   "auth-1",
-   "auth-2",
-   "auth-3",
-   "auth-4",
-   "auth-5"
-  ]
- },
- {
-  "cluster": 105,
-  "domain": 0,
-  "guess": "example",
-  "n": 218,
-  "samples": [
-   "example-jsx-preview",
-   "blockquote-node",
-   "controlled-docs",
-   "plugin-input-rules-docs",
-   "comment-docs",
-   "discussion-docs",
-   "suggestion-docs",
-   "basic-blocks-docs"
-  ]
- },
- {
-  "cluster": 333,
-  "domain": 0,
-  "guess": "application",
-  "n": 203,
-  "samples": [
-   "settings-2",
-   "settings-3",
-   "dialog-11",
-   "simple-users-table",
-   "new-project-modal",
-   "settings",
-   "my-organization/organization-details-edit",
-   "my-organization/domain-table"
-  ]
- },
- {
-  "cluster": 31,
-  "domain": 0,
-  "guess": "tile",
+  "guess": "table",
   "n": 202,
   "samples": [
-   "tile",
-   "bento-tile-bento10-tile1",
-   "bento-tile-bento10-tile2",
-   "bento-tile-bento10-tile3",
-   "bento-tile-bento10-tile4",
-   "bento-tile-bento11-tile1",
-   "bento-tile-bento11-tile3",
-   "bento-tile-bento11-tile4"
+   "table-01",
+   "table-02",
+   "table-03",
+   "table-04",
+   "table-05",
+   "table",
+   "table-06",
+   "table-07"
   ]
  },
  {
-  "cluster": 144,
-  "domain": 0,
-  "guess": "p field",
-  "n": 170,
-  "samples": [
-   "form-layout-01",
-   "form-layout-02",
-   "prompt-form",
-   "form-parser",
-   "form-layout-03",
-   "form-layout-04",
-   "form-layout-05",
-   "p-field-1"
-  ]
- },
- {
-  "cluster": 223,
-  "domain": 0,
-  "guess": "features",
-  "n": 156,
-  "samples": [
-   "features-section-demo-2",
-   "features-with-sticky-scroll",
-   "recipe-from-ingredients",
-   "account-basic-info-01",
-   "account-notifications-01",
-   "account-sessions-01",
-   "agent-management-detail-01",
-   "blog-content-block-with-cta-button"
-  ]
- },
- {
-  "cluster": 255,
-  "domain": 0,
-  "guess": "stat card",
-  "n": 153,
-  "samples": [
-   "stat-card",
-   "stat-card1",
-   "stat-card2",
-   "stat-card3",
-   "stat-card4",
-   "stats-3",
-   "team3",
-   "advanced2"
-  ]
- },
- {
-  "cluster": 185,
-  "domain": 0,
-  "guess": "c input group",
-  "n": 141,
-  "samples": [
-   "p-group-1",
-   "p-group-2",
-   "p-group-3",
-   "p-group-4",
-   "p-group-5",
-   "p-group-6",
-   "p-group-7",
-   "p-group-8"
-  ]
- },
- {
-  "cluster": 58,
+  "cluster": 114,
   "domain": 0,
   "guess": "progress",
-  "n": 140,
+  "n": 153,
   "samples": [
    "progress",
    "progress-bar",
    "circular-progress",
+   "demo-primitives-base-progress",
+   "demo-primitives-radix-progress",
    "primitives-base-progress",
    "primitives-radix-progress",
-   "progress-ring",
-   "progress-01",
-   "progress-02"
+   "progress-tracker"
   ]
  },
  {
-  "cluster": 140,
-  "domain": 0,
-  "guess": "c select",
-  "n": 138,
-  "samples": [
-   "difficulty-select",
-   "p-select-1",
-   "p-select-2",
-   "p-select-3",
-   "p-select-4",
-   "p-select-5",
-   "p-select-6",
-   "p-select-7"
-  ]
- },
- {
-  "cluster": 368,
+  "cluster": 403,
   "domain": 0,
   "guess": "code block",
-  "n": 130,
+  "n": 146,
   "samples": [
    "code-block",
    "code-block-demo",
+   "snippet",
    "primitives-animate-code-block",
    "code-block-command",
-   "demo-primitives-animate-code-block",
-   "glass-code-block",
-   "live-code-compilation",
-   "snippet"
+   "components-animate-code",
+   "demo-components-animate-code",
+   "demo-primitives-animate-code-block"
   ]
  },
  {
-  "cluster": 204,
+  "cluster": 456,
   "domain": 0,
-  "guess": "dashboard",
-  "n": 127,
+  "guess": "chat",
+  "n": 140,
   "samples": [
-   "dashboard-1",
-   "dashboard-2",
-   "dashboard-3",
-   "dashboard-01",
-   "dashboard1",
-   "dashboard3",
-   "dashboard4",
-   "dashboard5"
+   "message",
+   "chat",
+   "open-in-chat",
+   "conversation",
+   "chat-input",
+   "message-bubble",
+   "open-in-chat-demo",
+   "chat-bubble"
   ]
  },
  {
-  "cluster": 278,
+  "cluster": 245,
   "domain": 0,
   "guess": "timeline",
-  "n": 126,
+  "n": 127,
   "samples": [
+   "timeline",
    "timeline-01",
+   "timeline-02",
    "timeline-03",
    "timeline-1",
    "timeline-2",
-   "timeline2",
-   "timeline",
-   "timeline-04",
-   "timeline-05"
+   "timeline-3",
+   "timeline1"
   ]
  },
  {
-  "cluster": 306,
+  "cluster": 284,
   "domain": 0,
   "guess": "onboarding",
-  "n": 121,
+  "n": 122,
   "samples": [
    "onboarding-1",
    "onboarding-2",
@@ -252,78 +124,110 @@
    "onboarding",
    "onboarding1",
    "onboarding2",
-   "tour"
+   "onboarding3"
   ]
  },
  {
-  "cluster": 71,
+  "cluster": 365,
   "domain": 0,
-  "guess": "c empty",
+  "guess": "application",
+  "n": 119,
+  "samples": [
+   "audit-log",
+   "activity-feed",
+   "live-logs-feed",
+   "activity-1",
+   "activity-2",
+   "activity-3",
+   "product-feedback-panel",
+   "approvals-core"
+  ]
+ },
+ {
+  "cluster": 457,
+  "domain": 0,
+  "guess": "ai",
   "n": 117,
   "samples": [
-   "empty-state-01",
-   "empty-states-1",
-   "empty-states-2",
-   "empty-states-3",
-   "empty-states-4",
-   "empty-state-vertical-grid",
-   "empty-state-with-cards",
-   "empty-state-with-pictures"
+   "duel-block",
+   "alt-text-generator",
+   "simplify-text",
+   "screen-reader-prep",
+   "dyslexia-mode",
+   "audio-summary",
+   "bedtime-story",
+   "podcast-generator"
   ]
  },
  {
-  "cluster": 252,
+  "cluster": 413,
   "domain": 0,
-  "guess": "billing",
-  "n": 111,
+  "guess": "settings",
+  "n": 109,
   "samples": [
-   "billing-1",
-   "billing-2",
-   "billing-3",
-   "booking23",
-   "settings59",
-   "settings64",
-   "settings65",
-   "index"
+   "settings-3",
+   "settings-1",
+   "settings-privacy",
+   "settings-security",
+   "settings-sso",
+   "settings-webhooks",
+   "settings-2",
+   "settings-4"
   ]
  },
  {
-  "cluster": 37,
+  "cluster": 236,
   "domain": 0,
-  "guess": "input otp",
-  "n": 106,
+  "guess": "table",
+  "n": 108,
   "samples": [
-   "input-otp",
-   "otp-input",
-   "otp-field",
-   "input-otp-demo",
-   "input-otp-01",
-   "input-otp-02",
-   "input-otp-03",
-   "input-otp-04"
+   "table",
+   "table-demo",
+   "table-01",
+   "table-02",
+   "table-03",
+   "table-04",
+   "table-06",
+   "table-07"
   ]
  },
  {
-  "cluster": 228,
+  "cluster": 183,
   "domain": 0,
-  "guess": "stats",
-  "n": 104,
+  "guess": "dashboard",
+  "n": 107,
   "samples": [
-   "stats1",
-   "stats2",
-   "stats5",
-   "stats6",
-   "stats7",
-   "stats8",
-   "stats9",
-   "stats10"
+   "dashboard-1",
+   "dashboard-2",
+   "dashboard-3",
+   "dashboard-01",
+   "dashboard1",
+   "dashboard2",
+   "dashboard3",
+   "dashboard4"
   ]
  },
  {
-  "cluster": 172,
+  "cluster": 424,
+  "domain": 0,
+  "guess": "stat card",
+  "n": 105,
+  "samples": [
+   "stat-card",
+   "stat",
+   "stat-card1",
+   "stat-card2",
+   "stat-card3",
+   "stat-card4",
+   "stats31",
+   "stat-card-area-01"
+  ]
+ },
+ {
+  "cluster": 244,
   "domain": 0,
   "guess": "changelog",
-  "n": 102,
+  "n": 99,
   "samples": [
    "changelog2",
    "changelog3",
@@ -336,522 +240,154 @@
   ]
  },
  {
-  "cluster": 344,
+  "cluster": 287,
   "domain": 0,
-  "guess": "pricing",
-  "n": 99,
+  "guess": "filters",
+  "n": 86,
   "samples": [
-   "price",
-   "pricing-card",
-   "pricing-1",
-   "pricing-comparison-table",
-   "pricing-01",
-   "pricing-02",
-   "pricing-section-1",
-   "pricing-2"
+   "chip",
+   "search",
+   "filters",
+   "filter-bar",
+   "search-1",
+   "search-2",
+   "product-search-nl",
+   "search-filters"
   ]
  },
  {
-  "cluster": 224,
+  "cluster": 17,
   "domain": 0,
-  "guess": "app shell",
-  "n": 98,
+  "guess": "agent",
+  "n": 84,
   "samples": [
-   "app-shell-1",
-   "app-shell-3",
-   "app-shell-2",
-   "app-shell-4",
-   "app-shell-5",
-   "app-shell-6",
-   "app-shell-7",
-   "app-shell-8"
+   "eve/ai-seo-audit",
+   "eve/browser-agent",
+   "eve/chat-with-pdf",
+   "eve/chat-with-youtube",
+   "eve/claw",
+   "eve/company-knowledge",
+   "eve/csv-to-questions",
+   "eve/deep-search"
   ]
  },
  {
-  "cluster": 231,
+  "cluster": 97,
+  "domain": 0,
+  "guess": "timeline",
+  "n": 83,
+  "samples": [
+   "timeline",
+   "timeline-demo",
+   "timeline-hollow-demo",
+   "timeline-nocards-demo",
+   "timeline-not-alternating-demo",
+   "timeline-vertical-demo",
+   "timeline-steps",
+   "timelines-activity-feed"
+  ]
+ },
+ {
+  "cluster": 271,
   "domain": 0,
   "guess": "stepper",
-  "n": 88,
+  "n": 78,
   "samples": [
    "stepper",
-   "progress-steps",
    "steps",
-   "quiz",
+   "progress-steps",
+   "stepper-demo",
    "steps-1",
    "steps-2",
-   "practice-problems",
-   "socratic-tutor"
+   "multi-step-loader",
+   "glass-stepper"
   ]
  },
  {
-  "cluster": 299,
+  "cluster": 458,
   "domain": 0,
-  "guess": "list",
-  "n": 85,
-  "samples": [
-   "sortable",
-   "friend-list",
-   "swipeable-list",
-   "member-list-table",
-   "sortable-list",
-   "item-11",
-   "list",
-   "lists"
-  ]
- },
- {
-  "cluster": 47,
-  "domain": 0,
-  "guess": "skeleton",
+  "guess": "chat",
   "n": 76,
   "samples": [
-   "skeleton",
-   "shimmer-skeleton",
-   "skeleton-demo",
-   "loaders-skeleton",
-   "glass-skeleton",
-   "skeleton-dynamic-content-example",
-   "skeleton-example",
-   "skeleton-card-demo"
+   "chat-conversation",
+   "streaming-text",
+   "chat",
+   "ai-chat-1",
+   "ai-chat-2",
+   "ai-chat-3",
+   "chat-1",
+   "chat-2"
   ]
  },
  {
-  "cluster": 184,
-  "domain": 0,
-  "guess": "c input",
-  "n": 75,
-  "samples": [
-   "p-form-1",
-   "p-input-1",
-   "p-input-2",
-   "p-input-3",
-   "p-input-4",
-   "p-input-5",
-   "p-input-6",
-   "p-input-13"
-  ]
- },
- {
-  "cluster": 253,
-  "domain": 0,
-  "guess": "order history",
-  "n": 75,
-  "samples": [
-   "payment-methods1",
-   "payment-methods2",
-   "booking2",
-   "booking15",
-   "payment-method-selector",
-   "payment-details",
-   "payment-details-two",
-   "payment-card"
-  ]
- },
- {
-  "cluster": 158,
-  "domain": 0,
-  "guess": "hero section",
-  "n": 73,
-  "samples": [
-   "isometric-box",
-   "foundation",
-   "hero-section-1",
-   "hero-section-2",
-   "hero-section-3",
-   "hero-section-4",
-   "hero-section-5",
-   "hero-section-6"
-  ]
- },
- {
-  "cluster": 268,
-  "domain": 0,
-  "guess": "devtools",
-  "n": 73,
-  "samples": [
-   "diff-viewer",
-   "api-response-designer",
-   "devtools1",
-   "devtools2",
-   "devtools4",
-   "devtools5",
-   "devtools6",
-   "devtools7"
-  ]
- },
- {
-  "cluster": 354,
+  "cluster": 454,
   "domain": 0,
   "guess": "example",
-  "n": 70,
+  "n": 68,
   "samples": [
+   "availability-behavior",
    "example-agent",
    "example-artifact",
    "example-attachments-inline",
    "example-attachments-list",
    "example-attachments",
-   "example-checkpoint",
-   "example-code-block-dark",
-   "example-code-block"
+   "example-audio-player-remote",
+   "example-audio-player"
   ]
  },
  {
-  "cluster": 109,
+  "cluster": 228,
+  "domain": 0,
+  "guess": "workflow",
+  "n": 54,
+  "samples": [
+   "workflow-canvas",
+   "portfolio84",
+   "workflow1",
+   "workflow2",
+   "workflow3",
+   "workflow4",
+   "workflow5",
+   "workflow6"
+  ]
+ },
+ {
+  "cluster": 292,
+  "domain": 0,
+  "guess": "todo",
+  "n": 53,
+  "samples": [
+   "task",
+   "task-list",
+   "components-community-playful-todolist",
+   "quest-log",
+   "example-task",
+   "task-cards",
+   "cards-task",
+   "team-projects"
+  ]
+ },
+ {
+  "cluster": 128,
   "domain": 0,
   "guess": "status",
-  "n": 68,
-  "samples": [
-   "status-1",
-   "status-2",
-   "status-3",
-   "uptime-status-illustration",
-   "inventory-narrator",
-   "legal30",
-   "workflow20",
-   "workflow22"
-  ]
- },
- {
-  "cluster": 259,
-  "domain": 0,
-  "guess": "application",
-  "n": 67,
-  "samples": [
-   "notifications-1",
-   "notifications-3",
-   "example-confirmation-accepted",
-   "example-confirmation-rejected",
-   "example-confirmation-request",
-   "example-confirmation",
-   "notifications",
-   "social3"
-  ]
- },
- {
-  "cluster": 329,
-  "domain": 0,
-  "guess": "pro",
-  "n": 66,
-  "samples": [
-   "timeline-3",
-   "audit-log",
-   "activity-feed",
-   "live-logs-feed",
-   "activity-1",
-   "activity-2",
-   "activity-3",
-   "social4"
-  ]
- },
- {
-  "cluster": 229,
-  "domain": 0,
-  "guess": "stats",
-  "n": 65,
-  "samples": [
-   "stats-03",
-   "stats-1",
-   "stats-01",
-   "stats-02",
-   "stats-04",
-   "stats-05",
-   "stats-06",
-   "stats-07"
-  ]
- },
- {
-  "cluster": 27,
-  "domain": 0,
-  "guess": "c data grid",
-  "n": 63,
-  "samples": [
-   "p-frame-1",
-   "p-frame-3",
-   "p-frame-4",
-   "p-frame-2",
-   "c-data-grid-1",
-   "c-data-grid-10",
-   "c-data-grid-11",
-   "c-data-grid-12"
-  ]
- },
- {
-  "cluster": 250,
-  "domain": 0,
-  "guess": "team",
-  "n": 63,
-  "samples": [
-   "team-07",
-   "team-01",
-   "team-02",
-   "team-03",
-   "team-04",
-   "team-05",
-   "team-06",
-   "team-08"
-  ]
- },
- {
-  "cluster": 2,
-  "domain": 0,
-  "guess": "veil",
-  "n": 62,
-  "samples": [
-   "veil-bolt",
-   "veil-clerk",
-   "veil-twilio",
-   "veil-logo",
-   "veil-card",
-   "veil-call-to-action-1",
-   "veil-call-to-action-2",
-   "veil-call-to-action-3"
-  ]
- },
- {
-  "cluster": 190,
-  "domain": 0,
-  "guess": "application",
-  "n": 59,
-  "samples": [
-   "search",
-   "search-1",
-   "search-2",
-   "search-3",
-   "search-filters",
-   "features-16",
-   "dropdown-with-filter-with-search",
-   "filters"
-  ]
- },
- {
-  "cluster": 194,
-  "domain": 0,
-  "guess": "not found",
-  "n": 59,
-  "samples": [
-   "not-found-1",
-   "not-found-2",
-   "not-found-01",
-   "error-1",
-   "error-2",
-   "error-3",
-   "not-found1",
-   "not-found2"
-  ]
- },
- {
-  "cluster": 232,
-  "domain": 0,
-  "guess": "bento grid",
-  "n": 59,
-  "samples": [
-   "bento-grid",
-   "bento-grid-1",
-   "infinite-bento-pan",
-   "feature-bento",
-   "bento-grid-2",
-   "bento-grid-3",
-   "bento-grid-4",
-   "features-section-demo-3"
-  ]
- },
- {
-  "cluster": 256,
-  "domain": 0,
-  "guess": "card",
-  "n": 59,
-  "samples": [
-   "stats47",
-   "item-17",
-   "skeleton-10",
-   "card-1",
-   "card-10",
-   "card-11",
-   "card-12",
-   "card-13"
-  ]
- },
- {
-  "cluster": 180,
-  "domain": 0,
-  "guess": "reviews",
-  "n": 58,
-  "samples": [
-   "social-proof1",
-   "social-proof3",
-   "review-summarizer",
-   "product-feedback-panel",
-   "education79",
-   "feature121",
-   "feature150",
-   "post42"
-  ]
- },
- {
-  "cluster": 46,
-  "domain": 0,
-  "guess": "skeleton",
-  "n": 56,
-  "samples": [
-   "p-skeleton-1",
-   "p-skeleton-2",
-   "skeleton-01",
-   "skeleton-02",
-   "skeleton-03",
-   "skeleton-04",
-   "skeleton-05",
-   "skeleton-06"
-  ]
- },
- {
-  "cluster": 244,
-  "domain": 0,
-  "guess": "bento",
-  "n": 55,
-  "samples": [
-   "food15",
-   "bento-05",
-   "bento10",
-   "bento11",
-   "bento12",
-   "bento13",
-   "bento14",
-   "bento15"
-  ]
- },
- {
-  "cluster": 5,
-  "domain": 0,
-  "guess": "mist features",
-  "n": 54,
-  "samples": [
-   "mist-call-to-action-1",
-   "mist-call-to-action-2",
-   "mist-call-to-action-3",
-   "mist-comparator-1",
-   "mist-contact-1",
-   "mist-content-1",
-   "mist-content-2",
-   "mist-content-3"
-  ]
- },
- {
-  "cluster": 277,
-  "domain": 0,
-  "guess": "how it works",
-  "n": 54,
-  "samples": [
-   "how-it-works-1",
-   "how-it-works-2",
-   "how-it-works-3",
-   "about27",
-   "cta19",
-   "feature28",
-   "feature136",
-   "feature162"
-  ]
- },
- {
-  "cluster": 284,
-  "domain": 0,
-  "guess": "auth",
-  "n": 54,
-  "samples": [
-   "two-factor-authentication-01",
-   "my-account/user-mfa-management",
-   "auth19",
-   "auth22",
-   "auth41",
-   "register-19",
-   "account-2fa-01",
-   "authentication-01"
-  ]
- },
- {
-  "cluster": 157,
-  "domain": 0,
-  "guess": "features",
   "n": 51,
   "samples": [
-   "social-media-post4",
-   "call-to-action-1",
-   "call-to-action-2",
-   "call-to-action-3",
-   "content-1",
-   "content-2",
-   "content-3",
-   "content-4"
+   "status-indicator",
+   "status",
+   "marker",
+   "status-indicator-demo",
+   "markers",
+   "status-demo",
+   "status-variants-demo",
+   "status-text-only-demo"
   ]
  },
  {
-  "cluster": 53,
-  "domain": 0,
-  "guess": "rating",
-  "n": 48,
-  "samples": [
-   "rating",
-   "star-rating",
-   "rating-demo",
-   "feedback-bar",
-   "c-rating-1",
-   "c-rating-2",
-   "c-rating-3",
-   "c-rating-4"
-  ]
- },
- {
-  "cluster": 139,
-  "domain": 0,
-  "guess": "p autocomplete",
-  "n": 48,
-  "samples": [
-   "form-autofill",
-   "autocomplete",
-   "autocomplete-context",
-   "magic-fill-form",
-   "dropdown-search",
-   "p-autocomplete-1",
-   "p-autocomplete-2",
-   "p-autocomplete-3"
-  ]
- },
- {
-  "cluster": 166,
-  "domain": 0,
-  "guess": "dashboard sm",
-  "n": 48,
-  "samples": [
-   "usage-logs-meter",
-   "detailed-usage-table",
-   "usage-table",
-   "usage-limits-dashboard",
-   "dashboards-analytics",
-   "dashboards-engineering",
-   "dashboards-home",
-   "dashboards-market"
-  ]
- },
- {
-  "cluster": 267,
-  "domain": 0,
-  "guess": "solution agents",
-  "n": 48,
-  "samples": [
-   "approvals-core",
-   "approval-node",
-   "terminal-node",
-   "workflow-canvas",
-   "validation-panel",
-   "nl-edit-panel",
-   "agent-context",
-   "agent-roster"
-  ]
- },
- {
-  "cluster": 208,
+  "cluster": 260,
   "domain": 0,
   "guess": "kanban board",
-  "n": 47,
+  "n": 49,
   "samples": [
    "kanban",
    "kanban-board",
@@ -864,90 +400,170 @@
   ]
  },
  {
-  "cluster": 251,
+  "cluster": 430,
+  "domain": 0,
+  "guess": "tool",
+  "n": 49,
+  "samples": [
+   "tool",
+   "artifact",
+   "confirmation",
+   "ai-artifact",
+   "canvas",
+   "context",
+   "edge",
+   "environment-variables"
+  ]
+ },
+ {
+  "cluster": 76,
+  "domain": 0,
+  "guess": "nextjs",
+  "n": 48,
+  "samples": [
+   "nextjs-api-token-route",
+   "nextjs-clerk-provider",
+   "nextjs-middleware",
+   "nextjs-header",
+   "nextjs-layout-with-header",
+   "nextjs-quickstart",
+   "nextjs-quickstart-sign-in-or-up",
+   "nextjs-sign-in-page"
+  ]
+ },
+ {
+  "cluster": 455,
+  "domain": 0,
+  "guess": "prompt input",
+  "n": 48,
+  "samples": [
+   "prompt-input",
+   "ai-input",
+   "ai-prompt-input",
+   "prompt-form",
+   "quick-actions",
+   "example-prompt-input-cursor",
+   "example-prompt-input-tooltip",
+   "example-prompt-input"
+  ]
+ },
+ {
+  "cluster": 289,
+  "domain": 0,
+  "guess": "status",
+  "n": 47,
+  "samples": [
+   "status-1",
+   "status-2",
+   "status-3",
+   "uptime-status-illustration",
+   "social23",
+   "status-page",
+   "simple-maintenance-block",
+   "uptime-monitor"
+  ]
+ },
+ {
+  "cluster": 295,
+  "domain": 0,
+  "guess": "devtools",
+  "n": 46,
+  "samples": [
+   "api-response-designer",
+   "devtools1",
+   "devtools2",
+   "devtools3",
+   "devtools4",
+   "devtools5",
+   "devtools6",
+   "devtools7"
+  ]
+ },
+ {
+  "cluster": 369,
+  "domain": 0,
+  "guess": "application",
+  "n": 46,
+  "samples": [
+   "social3",
+   "comments-section",
+   "threads-comment-row",
+   "threads-resolved",
+   "github-inline-comments",
+   "github-inline-comments-demo",
+   "page-comments",
+   "comment-thread-1"
+  ]
+ },
+ {
+  "cluster": 184,
+  "domain": 0,
+  "guess": "widget",
+  "n": 44,
+  "samples": [
+   "swap",
+   "feedback-widget",
+   "web3-01",
+   "web3-05",
+   "widgets-01",
+   "widgets-02",
+   "widgets-03",
+   "widgets-04"
+  ]
+ },
+ {
+  "cluster": 235,
+  "domain": 0,
+  "guess": "data table",
+  "n": 42,
+  "samples": [
+   "data-table",
+   "data-table-01",
+   "data-table-02",
+   "data-table-demo",
+   "table-10",
+   "data-table-03",
+   "table-with-autocomplete-example",
+   "DataTableColumnHeader"
+  ]
+ },
+ {
+  "cluster": 304,
+  "domain": 0,
+  "guess": "schedule",
+  "n": 42,
+  "samples": [
+   "calendar-2",
+   "save-slots",
+   "availability",
+   "meeting-illustration",
+   "food38",
+   "availability-scheduler",
+   "p-switch-7",
+   "p-switch-8"
+  ]
+ },
+ {
+  "cluster": 370,
   "domain": 0,
   "guess": "chart",
-  "n": 47,
+  "n": 40,
   "samples": [
-   "crypto1",
-   "wallet-card",
-   "kpi-grid",
-   "card-19",
-   "card-25",
-   "chart-1",
-   "chart-10",
-   "chart-11"
+   "team3",
+   "advanced2",
+   "health2",
+   "health7",
+   "portfolio99",
+   "complex-kpi-cards",
+   "kpi-agency-minimal",
+   "kpi-agency-spotlight"
   ]
  },
  {
-  "cluster": 298,
-  "domain": 0,
-  "guess": "item",
-  "n": 47,
-  "samples": [
-   "content-01",
-   "avatar-08",
-   "card-08",
-   "command-09",
-   "dropdown-09",
-   "item-02",
-   "item-03",
-   "item-04"
-  ]
- },
- {
-  "cluster": 207,
-  "domain": 0,
-  "guess": "todo",
-  "n": 45,
-  "samples": [
-   "task-list",
-   "task-create",
-   "task-detail",
-   "task-filters",
-   "project-list",
-   "task",
-   "list",
-   "card-task-tailwind"
-  ]
- },
- {
-  "cluster": 222,
-  "domain": 0,
-  "guess": "data grid base",
-  "n": 45,
-  "samples": [
-   "dashboard2",
-   "comparison-1",
-   "data-grid-base-1",
-   "data-grid-base-2",
-   "data-grid-base-3",
-   "data-grid-base-4",
-   "data-grid-base-5",
-   "data-grid-base-6"
-  ]
- },
- {
-  "cluster": 282,
-  "domain": 0,
-  "guess": "forgot password",
-  "n": 43,
-  "samples": [
-   "forgot-password-01",
-   "verify-email-01",
-   "forgot-password",
-   "login-22",
-   "account-change-password-01",
-   "forgot-password-page",
-   "banner-11",
-   "rhf-rules-01"
-  ]
- },
- {
-  "cluster": 332,
+  "cluster": 416,
   "domain": 0,
   "guess": "user profile",
-  "n": 43,
+  "n": 40,
   "samples": [
    "profile-1",
    "profile-2",
@@ -960,90 +576,42 @@
   ]
  },
  {
-  "cluster": 242,
+  "cluster": 122,
   "domain": 0,
-  "guess": "checkout",
-  "n": 42,
+  "guess": "c data grid",
+  "n": 39,
   "samples": [
-   "checkout1",
-   "checkout2",
-   "checkout3",
-   "checkout4",
-   "checkout5",
-   "event36",
-   "how-it-works-03",
-   "express-checkout"
+   "cruds-01",
+   "cruds-02",
+   "cruds-03",
+   "c-data-grid-1",
+   "c-data-grid-10",
+   "c-data-grid-11",
+   "c-data-grid-12",
+   "c-data-grid-13"
   ]
  },
  {
-  "cluster": 303,
+  "cluster": 419,
   "domain": 0,
-  "guess": "application",
-  "n": 41,
+  "guess": "statistics",
+  "n": 38,
   "samples": [
-   "file-manager",
-   "file-system-block",
-   "c-table-13",
-   "application-pro-activity-edit-history-diff",
-   "application-pro-activity-version-history-list",
-   "application-pro-dialogs-archive-project-dialog",
-   "application-pro-dialogs-bulk-edit-dialog",
-   "application-pro-dialogs-edit-conflict-dialog"
+   "rich-sales-stat",
+   "health16",
+   "stats39",
+   "stats43",
+   "stats45",
+   "polar-revenue-card",
+   "chart-17",
+   "chart-18"
   ]
  },
  {
-  "cluster": 38,
-  "domain": 0,
-  "guess": "p otp field",
-  "n": 40,
-  "samples": [
-   "login-18",
-   "p-otp-field-1",
-   "p-otp-field-2",
-   "p-otp-field-3",
-   "p-otp-field-4",
-   "p-otp-field-6",
-   "p-otp-field-7",
-   "p-otp-field-8"
-  ]
- },
- {
-  "cluster": 72,
-  "domain": 0,
-  "guess": "empty",
-  "n": 40,
-  "samples": [
-   "empty",
-   "empty-state",
-   "empty-states-404",
-   "empty-states-end-of-feed",
-   "empty-states-first-project",
-   "empty-states-inbox-zero",
-   "empty-states-maintenance",
-   "empty-states-no-files"
-  ]
- },
- {
-  "cluster": 114,
-  "domain": 0,
-  "guess": "leaderboard",
-  "n": 40,
-  "samples": [
-   "leaderboard",
-   "progress-tracker",
-   "education25",
-   "education26",
-   "social27",
-   "upstash-leaderboard",
-   "daily-streak",
-   "leaderboard-controlled-example"
-  ]
- },
- {
-  "cluster": 73,
+  "cluster": 202,
   "domain": 0,
   "guess": "github stars github stars basic",
-  "n": 39,
+  "n": 37,
   "samples": [
    "github-stars",
    "primitives-animate-github-stars",
@@ -1056,531 +624,851 @@
   ]
  },
  {
-  "cluster": 285,
+  "cluster": 113,
   "domain": 0,
-  "guess": "auth",
-  "n": 39,
+  "guess": "c progress",
+  "n": 36,
   "samples": [
-   "auth1",
-   "auth3",
-   "auth4",
-   "auth5",
-   "auth6",
-   "auth7",
-   "auth8",
-   "auth10"
+   "banner-16",
+   "p-progress-1",
+   "p-progress-2",
+   "p-progress-3",
+   "uploadthing-progress",
+   "upstash-ratelimit",
+   "c-progress-1",
+   "c-progress-2"
+  ]
+ },
+ {
+  "cluster": 390,
+  "domain": 0,
+  "guess": "notifications",
+  "n": 36,
+  "samples": [
+   "notifications-1",
+   "notifications-3",
+   "notifications",
+   "social4",
+   "account-notifications-01",
+   "switch-08",
+   "notifications-2",
+   "settings-notifications"
+  ]
+ },
+ {
+  "cluster": 123,
+  "domain": 0,
+  "guess": "data grid base",
+  "n": 35,
+  "samples": [
+   "data-grid-base-1",
+   "data-grid-base-2",
+   "data-grid-base-3",
+   "data-grid-base-4",
+   "data-grid-base-5",
+   "data-grid-base-6",
+   "data-grid-base-7",
+   "data-grid-column-filter"
+  ]
+ },
+ {
+  "cluster": 194,
+  "domain": 0,
+  "guess": "heatmap",
+  "n": 35,
+  "samples": [
+   "heatmap",
+   "heatmap-chart",
+   "calendar-heatmap",
+   "heatmap-demo",
+   "heatmap-interpolate-demo",
+   "heatmap-display-style-demo",
+   "heatmap-days-of-week-demo",
+   "heatmap-size-demo"
+  ]
+ },
+ {
+  "cluster": 286,
+  "domain": 0,
+  "guess": "application",
+  "n": 35,
+  "samples": [
+   "email-composer",
+   "mailbox",
+   "notification-inbox",
+   "application-pro-chat-messaging-conversation-list",
+   "application-pro-chat-messaging-search-messages-results",
+   "application-pro-developer-tools-error-inbox",
+   "application-pro-help-support-canned-responses-blueprint",
+   "application-pro-inbox-email-attachment-gallery"
+  ]
+ },
+ {
+  "cluster": 145,
+  "domain": 0,
+  "guess": "dashboard sm",
+  "n": 34,
+  "samples": [
+   "page-layouts-02",
+   "usage-limits-dashboard",
+   "dashboards-analytics",
+   "dashboards-engineering",
+   "dashboards-home",
+   "dashboards-market",
+   "dashboards-metrics-overview",
+   "dashboards-revenue"
+  ]
+ },
+ {
+  "cluster": 303,
+  "domain": 0,
+  "guess": "booking",
+  "n": 34,
+  "samples": [
+   "booking1",
+   "booking2",
+   "booking3",
+   "booking4",
+   "booking5",
+   "booking6",
+   "booking7",
+   "booking8"
+  ]
+ },
+ {
+  "cluster": 283,
+  "domain": 0,
+  "guess": "application",
+  "n": 33,
+  "samples": [
+   "file-manager",
+   "folder-with-files",
+   "file-system-block",
+   "application-pro-accessibility-media-captions-audit",
+   "application-pro-activity-edit-history-diff",
+   "application-pro-activity-version-history-list",
+   "application-pro-dialogs-restore-version-dialog",
+   "application-pro-file-manager-file-browser-table"
+  ]
+ },
+ {
+  "cluster": 407,
+  "domain": 0,
+  "guess": "reasoning",
+  "n": 33,
+  "samples": [
+   "reasoning",
+   "chain-of-thought",
+   "plan",
+   "example-chain-of-thought",
+   "example-reasoning",
+   "handoff-chain",
+   "thinking-steps",
+   "thinking-steps-base"
+  ]
+ },
+ {
+  "cluster": 349,
+  "domain": 0,
+  "guess": "profile",
+  "n": 32,
+  "samples": [
+   "profile-card",
+   "player-profile-card",
+   "abstract-profile",
+   "persona",
+   "cards-profile",
+   "profile-compact-card",
+   "profile-credentials",
+   "profile-directory"
+  ]
+ },
+ {
+  "cluster": 281,
+  "domain": 0,
+  "guess": "list",
+  "n": 31,
+  "samples": [
+   "leaderboard",
+   "education25",
+   "social27",
+   "upstash-leaderboard",
+   "leaderboard-controlled-example",
+   "leaderboard-currency-example",
+   "leaderboard-example",
+   "leaderboard-header-example"
+  ]
+ },
+ {
+  "cluster": 415,
+  "domain": 0,
+  "guess": "settings profile",
+  "n": 31,
+  "samples": [
+   "settings-2",
+   "p-drawer-10",
+   "account-basic-info-01",
+   "tabs-11",
+   "settings-profile",
+   "form-1",
+   "form-4",
+   "profile-1"
+  ]
+ },
+ {
+  "cluster": 265,
+  "domain": 0,
+  "guess": "solution agents",
+  "n": 28,
+  "samples": [
+   "agent-management-analytics-01",
+   "agent-management-create-01",
+   "agent-management-detail-01",
+   "agent-management-list-01",
+   "agent-management-tasks-01",
+   "solution-agents-1",
+   "solution-agents-10",
+   "solution-agents-2"
+  ]
+ },
+ {
+  "cluster": 153,
+  "domain": 0,
+  "guess": "meter",
+  "n": 27,
+  "samples": [
+   "meter",
+   "usage-logs-meter",
+   "usage-meter-linear",
+   "usage-meter-circle",
+   "p-meter-1",
+   "p-meter-2",
+   "p-meter-3",
+   "p-meter-4"
+  ]
+ },
+ {
+  "cluster": 201,
+  "domain": 0,
+  "guess": "contribution graph",
+  "n": 27,
+  "samples": [
+   "contribution-graph",
+   "github-calendar",
+   "github-contributions",
+   "portfolio92",
+   "github-activity-calendar",
+   "github-languages",
+   "github-repo-card",
+   "knowledge-graph"
   ]
  },
  {
   "cluster": 276,
   "domain": 0,
-  "guess": "application",
-  "n": 38,
+  "guess": "waitlist",
+  "n": 26,
   "samples": [
-   "email-composer",
-   "dashboard10",
-   "workflow8",
-   "mailbox",
-   "notification-inbox",
-   "app-shell-03",
-   "app-shell-20",
-   "application-pro-app-shells-inbox-shell"
+   "startup",
+   "event38",
+   "social26",
+   "auth-waitlist",
+   "clerk-waitlist",
+   "waitlist-with-iphone",
+   "waitlist-with-layers",
+   "ecommerce-pro-restock-sections-waitlist-position-card"
   ]
  },
  {
-  "cluster": 243,
-  "domain": 0,
-  "guess": "bento",
-  "n": 36,
-  "samples": [
-   "bento-1",
-   "bento-2",
-   "bento-4",
-   "bento-3",
-   "multi-illustration-bento",
-   "bento1",
-   "cta63",
-   "portfolio103"
-  ]
- },
- {
-  "cluster": 15,
-  "domain": 0,
-  "guess": "hero section",
-  "n": 32,
-  "samples": [
-   "auth-section-1",
-   "auth-section-2",
-   "auth-section-3",
-   "team-section-1",
-   "team-section-2",
-   "team-section-3",
-   "team-section-4",
-   "team-section-5"
-  ]
- },
- {
-  "cluster": 57,
-  "domain": 0,
-  "guess": "c progress",
-  "n": 31,
-  "samples": [
-   "p-progress-1",
-   "p-progress-2",
-   "p-progress-3",
-   "c-progress-1",
-   "c-progress-2",
-   "c-progress-3",
-   "c-progress-4",
-   "c-progress-6"
-  ]
- },
- {
-  "cluster": 30,
-  "domain": 0,
-  "guess": "bento tile bento33 tile",
-  "n": 29,
-  "samples": [
-   "bento-tile-bento-tile-countup-1",
-   "bento-tile-bento11-tile2",
-   "bento-tile-bento15-tile1",
-   "bento-tile-bento16-tile3",
-   "bento-tile-bento17-tile2",
-   "bento-tile-bento18-tile2",
-   "bento-tile-bento21-tile4",
-   "bento-tile-bento22-tile3"
-  ]
- },
- {
-  "cluster": 212,
+  "cluster": 87,
   "domain": 0,
   "guess": "showcase",
-  "n": 28,
+  "n": 24,
   "samples": [
-   "crypto35",
    "feature174",
-   "showcase13",
    "showcase14",
    "showcase15",
    "showcase16",
    "showcase17",
-   "showcase18"
+   "showcase18",
+   "showcase19",
+   "showcase20"
   ]
  },
  {
-  "cluster": 261,
+  "cluster": 207,
   "domain": 0,
-  "guess": "pro",
-  "n": 28,
+  "guess": "how it works",
+  "n": 24,
   "samples": [
-   "translate-on-demand",
-   "direction-provider",
-   "application-pro-help-support-product-glossary",
-   "application-pro-localization-format-settings",
-   "application-pro-localization-glossary-manager",
-   "application-pro-localization-language-switcher-blueprint",
-   "application-pro-localization-locale-coverage-matrix",
-   "application-pro-localization-locale-fallback-chain"
+   "how-it-works-1",
+   "how-it-works-2",
+   "how-it-works-3",
+   "usecase3",
+   "how-it-works-01",
+   "how-it-works-02",
+   "how-it-works-03",
+   "how-it-works-04"
   ]
  },
  {
-  "cluster": 14,
+  "cluster": 59,
   "domain": 0,
-  "guess": "illustration",
-  "n": 26,
+  "guess": "comingsoon",
+  "n": 23,
   "samples": [
-   "illustration1",
-   "illustration10",
-   "illustration11",
-   "illustration12",
-   "illustration13",
-   "illustration14",
-   "illustration15",
-   "illustration16"
+   "coming-soon-1",
+   "coming-soon-2",
+   "coming-soon-3",
+   "comingsoon1",
+   "comingsoon2",
+   "comingsoon3",
+   "comingsoon4",
+   "comingsoon5"
   ]
  },
  {
-  "cluster": 102,
+  "cluster": 154,
+  "domain": 0,
+  "guess": "gauge",
+  "n": 22,
+  "samples": [
+   "gauge",
+   "gauge-chart",
+   "scales",
+   "price-range-gauge",
+   "charts-gauges",
+   "fps",
+   "gauge-demo",
+   "gauge-sizes-demo"
+  ]
+ },
+ {
+  "cluster": 2,
+  "domain": 0,
+  "guess": "stripe",
+  "n": 21,
+  "samples": [
+   "stripe-nextjs",
+   "stripe-hono",
+   "stripe-express",
+   "stripe-nextjs-hooks",
+   "stripe-nextjs-prisma",
+   "stripe-nextjs-drizzle",
+   "stripe-nextjs-typeorm",
+   "stripe-nextjs-mongoose"
+  ]
+ },
+ {
+  "cluster": 69,
   "domain": 1,
-  "guess": "arrow",
-  "n": 323,
+  "guess": "slider",
+  "n": 241,
   "samples": [
-   "icons-heartbeat",
+   "slider",
+   "glass-slider",
+   "circular-slider",
+   "slider-demo",
+   "elastic-slider",
+   "slider-01",
+   "slider-02",
+   "slider-03"
+  ]
+ },
+ {
+  "cluster": 98,
+  "domain": 1,
+  "guess": "carousel",
+  "n": 189,
+  "samples": [
+   "carousel",
+   "carousel-01",
+   "carousel-02",
+   "carousel-03",
+   "image-gallery",
+   "product-carousel",
+   "feature-carousel",
+   "carousel-demo"
+  ]
+ },
+ {
+  "cluster": 382,
+  "domain": 1,
+  "guess": "background",
+  "n": 147,
+  "samples": [
+   "background",
+   "animated-grid-pattern",
+   "dot-pattern",
+   "background-boxes",
+   "background-gradient",
+   "background-lines",
+   "primitives-animate-motion-grid",
+   "animated-grid-pattern-demo"
+  ]
+ },
+ {
+  "cluster": 351,
+  "domain": 1,
+  "guess": "shader",
+  "n": 137,
+  "samples": [
+   "noise-texture",
+   "shader-color-panels",
+   "shader-dithering",
+   "shader-grain-gradient",
+   "shader-mesh-gradient",
+   "shader-neuro-noise",
+   "shader-perlin-noise",
+   "shader-simplex-noise"
+  ]
+ },
+ {
+  "cluster": 221,
+  "domain": 1,
+  "guess": "glass",
+  "n": 133,
+  "samples": [
+   "glass-card",
+   "glass-progress",
+   "liquid-glass",
+   "glass-notification",
+   "glass-sidebar",
+   "glass-button",
+   "glass-input",
+   "glass-select"
+  ]
+ },
+ {
+  "cluster": 394,
+  "domain": 1,
+  "guess": "text",
+  "n": 133,
+  "samples": [
+   "text-animate",
+   "text-loop",
+   "text-effect",
+   "text-generate-effect",
+   "demo-primitives-texts-splitting",
+   "demo-primitives-texts-splitting-example",
+   "animated-text",
+   "text-animate-demo"
+  ]
+ },
+ {
+  "cluster": 379,
+  "domain": 1,
+  "guess": "blur",
+  "n": 106,
+  "samples": [
+   "progressive-blur",
+   "blur-reveal",
+   "blur-out-up",
+   "focus-blur-resolve",
+   "scale-down-fade",
+   "soft-blur-in",
+   "micro-scale-fade",
+   "per-word-crossfade"
+  ]
+ },
+ {
+  "cluster": 384,
+  "domain": 1,
+  "guess": "reveal",
+  "n": 101,
+  "samples": [
+   "text-reveal",
+   "reveal-text",
+   "scroll-reveal",
+   "dia-text-reveal",
+   "reveal",
+   "image-reveal",
+   "reel",
+   "mask-reveal-up"
+  ]
+ },
+ {
+  "cluster": 161,
+  "domain": 1,
+  "guess": "spinner",
+  "n": 99,
+  "samples": [
+   "spinner",
+   "spinner-demo",
+   "spinner-01",
+   "spinner-02",
+   "spinner-03",
+   "spinner-04",
+   "spinner-05",
+   "spinner-06"
+  ]
+ },
+ {
+  "cluster": 320,
+  "domain": 1,
+  "guess": "scroll area",
+  "n": 92,
+  "samples": [
+   "scroll-area",
    "safe-area",
-   "squiggle-arrow",
-   "academic-cap",
-   "adjustments-horizontal",
-   "adjustments-vertical",
-   "archive-box-arrow-down",
-   "archive-box-x-mark"
+   "p-scroll-area-1",
+   "p-scroll-area-2",
+   "p-scroll-area-3",
+   "p-scroll-area-4",
+   "p-scroll-area-5",
+   "x-scrollable"
   ]
  },
  {
-  "cluster": 177,
+  "cluster": 362,
   "domain": 1,
-  "guess": "icons",
-  "n": 254,
+  "guess": "primitives",
+  "n": 92,
   "samples": [
-   "icons",
-   "status-indicator",
-   "icons-alarm-clock",
-   "icons-audio-lines",
-   "icons-battery-full",
-   "icons-bell-ring",
-   "icons-clock",
-   "icons-disc-3"
+   "primitives-animate-spring",
+   "primitives-effects-auto-height",
+   "primitives-effects-blur",
+   "primitives-effects-click",
+   "primitives-effects-effect",
+   "primitives-effects-fade",
+   "primitives-effects-image-zoom",
+   "primitives-effects-particles"
   ]
  },
  {
-  "cluster": 188,
+  "cluster": 105,
   "domain": 1,
-  "guess": "badge",
-  "n": 224,
+  "guess": "loader",
+  "n": 87,
   "samples": [
-   "badge",
-   "status-badge",
-   "badge-05",
-   "badge-07",
-   "badge-08",
-   "badge-10",
-   "badge-12",
-   "badge-demo"
+   "loader",
+   "thinking-indicator",
+   "icons-loader",
+   "braille-loader",
+   "loading-screen",
+   "runway-loader",
+   "icons-loader-circle",
+   "icons-loader-pinwheel"
   ]
  },
  {
-  "cluster": 238,
+  "cluster": 341,
   "domain": 1,
-  "guess": "avatar",
-  "n": 200,
-  "samples": [
-   "avatar",
-   "avatar-group",
-   "avatar-04",
-   "avatar-stack",
-   "primitives-animate-avatar-group",
-   "avatar-09",
-   "avatar-10",
-   "avatar-11"
-  ]
- },
- {
-  "cluster": 179,
-  "domain": 1,
-  "guess": "dialog",
-  "n": 196,
-  "samples": [
-   "dialog-01",
-   "dialog-02",
-   "dialog-03",
-   "dialog-04",
-   "dialog-05",
-   "dialog-06",
-   "dialog-08",
-   "dialog-12"
-  ]
- },
- {
-  "cluster": 265,
-  "domain": 1,
-  "guess": "alert",
-  "n": 173,
-  "samples": [
-   "alert",
-   "alert-dialog",
-   "callout",
-   "alert-01",
-   "alert-02",
-   "alert-03",
-   "alert-04",
-   "alert-05"
-  ]
- },
- {
-  "cluster": 168,
-  "domain": 1,
-  "guess": "icon",
-  "n": 120,
-  "samples": [
-   "icons-wiggle",
-   "icons-shake",
-   "icons-fade-in",
-   "icons-scale-in",
-   "icons-stroke-draw",
-   "scan-icon",
-   "star-icon",
-   "lightbulb-icon"
-  ]
- },
- {
-  "cluster": 40,
-  "domain": 1,
-  "guess": "og",
-  "n": 97,
-  "samples": [
-   "og-image-explorer",
-   "og-image-agenda",
-   "og-image-annual-report",
-   "og-image-api-endpoint",
-   "og-image-article-dark",
-   "og-image-award-win",
-   "og-image-back-in-stock",
-   "og-image-benchmark"
-  ]
- },
- {
-  "cluster": 24,
-  "domain": 1,
-  "guess": "toast",
-  "n": 95,
-  "samples": [
-   "toast",
-   "sonner",
-   "glass-toast",
-   "specials-animated-toast",
-   "animated-toast-stack",
-   "adaptive-toast",
-   "adaptive-error-boundary",
-   "toast-action"
-  ]
- },
- {
-  "cluster": 237,
-  "domain": 1,
-  "guess": "c avatar",
+  "guess": "tw",
   "n": 85,
   "samples": [
-   "avatar-12",
-   "p-avatar-1",
-   "p-avatar-2",
-   "p-avatar-3",
-   "p-avatar-4",
-   "p-avatar-6",
-   "p-avatar-7",
-   "p-avatar-8"
+   "particles",
+   "meteors",
+   "data-flow-pipes",
+   "confetti",
+   "shooting-stars",
+   "particle-constellation",
+   "particle-sphere",
+   "meteor-shower-animation"
   ]
  },
  {
-  "cluster": 187,
+  "cluster": 162,
   "domain": 1,
-  "guess": "c badge",
+  "guess": "number",
   "n": 84,
   "samples": [
-   "availability-badge",
-   "p-badge-1",
-   "p-badge-2",
-   "p-badge-3",
-   "p-badge-4",
-   "p-badge-5",
-   "p-badge-6",
-   "p-badge-7"
+   "animated-number",
+   "primitives-texts-counting-number",
+   "primitives-texts-scrolling-number",
+   "primitives-texts-sliding-number",
+   "number-ticker",
+   "sliding-number",
+   "demo-primitives-texts-counting-number",
+   "demo-primitives-texts-scrolling-number"
   ]
  },
  {
-  "cluster": 116,
-  "domain": 1,
-  "guess": "logo",
-  "n": 82,
-  "samples": [
-   "logo",
-   "qr-code",
-   "anthropic-logo",
-   "apple-logo",
-   "bash-logo",
-   "better-auth-logo",
-   "biome-logo",
-   "claude-logo"
-  ]
- },
- {
-  "cluster": 169,
-  "domain": 1,
-  "guess": "icon",
-  "n": 68,
-  "samples": [
-   "icons-arrow-right",
-   "icons-arrow-down",
-   "icons-arrow-left",
-   "icons-arrow-up",
-   "icons-arrow-up-down",
-   "icons-chevron-down",
-   "icons-chevron-left",
-   "icons-chevron-left-right"
-  ]
- },
- {
-  "cluster": 117,
-  "domain": 1,
-  "guess": "logo",
-  "n": 61,
-  "samples": [
-   "ably-logo",
-   "agentmail-logo",
-   "algolia-logo",
-   "auth0-logo",
-   "axiom-logo",
-   "braintrust-logo",
-   "browser-use-logo",
-   "cloudflare-logo"
-  ]
- },
- {
-  "cluster": 118,
-  "domain": 1,
-  "guess": "logo",
-  "n": 61,
-  "samples": [
-   "dithered-logo",
-   "amp-logo",
-   "antigravity-logo",
-   "astro-logo",
-   "beincrypto-logo",
-   "browserbase-logo",
-   "bun-logo",
-   "bytedance-logo"
-  ]
- },
- {
-  "cluster": 23,
-  "domain": 1,
-  "guess": "sonner",
-  "n": 58,
-  "samples": [
-   "sonner",
-   "sonner-01",
-   "sonner-02",
-   "sonner-03",
-   "sonner-04",
-   "sonner-05",
-   "sonner-06",
-   "sonner-07"
-  ]
- },
- {
-  "cluster": 264,
-  "domain": 1,
-  "guess": "alert dialog",
-  "n": 56,
-  "samples": [
-   "alert-dialog",
-   "primitives-base-alert-dialog",
-   "primitives-radix-alert-dialog",
-   "components-base-alert-dialog",
-   "components-radix-alert-dialog",
-   "action-sheet",
-   "limited-offer-dialog",
-   "action-dialog"
-  ]
- },
- {
-  "cluster": 28,
-  "domain": 1,
-  "guess": "aws",
-  "n": 48,
-  "samples": [
-   "aws-all",
-   "aws-amplify",
-   "aws-analytics",
-   "aws-api-gateway",
-   "aws-appsync",
-   "aws-athena",
-   "aws-bedrock",
-   "aws-cloudformation"
-  ]
- },
- {
-  "cluster": 202,
-  "domain": 1,
-  "guess": "uiable",
-  "n": 42,
-  "samples": [
-   "pill",
-   "BadgeVariants",
-   "pill-pill-composition-1",
-   "pill-pill-delta-1",
-   "pill-pill-indicator-1",
-   "pill-pill-standard-1",
-   "uiable-avatar-badge",
-   "uiable-avatar-badge-icon"
-  ]
- },
- {
-  "cluster": 21,
-  "domain": 1,
-  "guess": "c sonner",
-  "n": 39,
-  "samples": [
-   "c-sonner-1",
-   "c-sonner-10",
-   "c-sonner-11",
-   "c-sonner-12",
-   "c-sonner-13",
-   "c-sonner-14",
-   "c-sonner-15",
-   "c-sonner-16"
-  ]
- },
- {
-  "cluster": 178,
+  "cluster": 317,
   "domain": 1,
   "guess": "icons",
-  "n": 36,
+  "n": 83,
   "samples": [
-   "icons-bot-message-square",
-   "icons-circle-check-big",
-   "icons-circle-plus",
-   "icons-circle-x",
-   "icons-message-circle",
-   "icons-message-circle-code",
-   "icons-message-circle-dashed",
-   "icons-message-circle-heart"
+   "icons",
+   "icons-audio-lines",
+   "icons-icon",
+   "icons-party-popper",
+   "icons-trash-2",
+   "icons-user",
+   "icons-wifi",
+   "decor-icon"
   ]
  },
  {
-  "cluster": 189,
+  "cluster": 229,
   "domain": 1,
-  "guess": "uiable",
-  "n": 36,
+  "guess": "cursor",
+  "n": 73,
   "samples": [
-   "uiable-alert-action",
-   "uiable-alert-basic",
-   "uiable-alert-colors",
-   "uiable-alert-destructive",
-   "uiable-alert-dialog-basic",
-   "uiable-alert-dialog-media",
-   "uiable-alert-dialog-small",
-   "uiable-alert-dialog-small-media"
+   "cursor",
+   "primitives-animate-cursor",
+   "components-animate-cursor",
+   "demo-components-animate-cursor",
+   "demo-primitives-animate-cursor",
+   "pointer",
+   "simulated-cursor",
+   "custom-cursor"
+  ]
+ },
+ {
+  "cluster": 383,
+  "domain": 1,
+  "guess": "ts",
+  "n": 67,
+  "samples": [
+   "dot-grid",
+   "distortion-grid",
+   "grid-lines",
+   "x-grid",
+   "glyph-matrix",
+   "glyph-matrix-demo",
+   "dot-grid-spotlight",
+   "dot-grid-hero"
   ]
  },
  {
   "cluster": 16,
   "domain": 1,
-  "guess": "og",
-  "n": 32,
+  "guess": "marquee",
+  "n": 66,
   "samples": [
-   "og-01",
-   "og-02",
-   "og-03",
-   "og-04",
-   "og-05",
-   "og-06",
-   "og-07",
-   "og-08"
+   "marquee",
+   "marquee-demo",
+   "3d-marquee",
+   "infinite-marquee",
+   "perspective-marquee",
+   "marquee-grayscale-demo",
+   "marquee-reverse-demo",
+   "marquee-effect"
   ]
  },
  {
-  "cluster": 200,
+  "cluster": 255,
   "domain": 1,
-  "guess": "avatar",
-  "n": 30,
+  "guess": "text shimmer",
+  "n": 65,
   "samples": [
-   "avatar-group-demo",
-   "avatar-demo",
-   "avatar-group-truncation-demo",
-   "avatar-group-rtl-demo",
-   "avatar-group-icons-demo",
-   "avatar-group-custom-overflow-demo",
-   "select-with-avatar-example",
-   "avatar-basic-example"
+   "text-shimmer",
+   "shimmer-text",
+   "shimmering-text",
+   "shimmer",
+   "primitives-texts-shimmering",
+   "shimmer-sweep",
+   "demo-primitives-texts-shimmering",
+   "text-shimmer-wave"
+  ]
+ },
+ {
+  "cluster": 336,
+  "domain": 1,
+  "guess": "css",
+  "n": 65,
+  "samples": [
+   "liquid-chrome",
+   "shader-liquid-metal",
+   "shader-metaballs",
+   "shader-water",
+   "electric-mist",
+   "water-caustic",
+   "webgl-liquid",
+   "hero-liquid-metal-demo"
+  ]
+ },
+ {
+  "cluster": 170,
+  "domain": 1,
+  "guess": "infinite",
+  "n": 64,
+  "samples": [
+   "masonry",
+   "infinite-slider",
+   "infinite-moving-cards",
+   "infinite-list",
+   "infinite-scroll-demo",
+   "infinite-masonry",
+   "use-product-recommendations",
+   "use-infinite-scroll"
+  ]
+ },
+ {
+  "cluster": 243,
+  "domain": 1,
+  "guess": "grid",
+  "n": 64,
+  "samples": [
+   "grid",
+   "layout-grid",
+   "grid-list",
+   "grid-list-01",
+   "grid-list-02",
+   "grid-list-03",
+   "tweet-grid",
+   "tweet-grid-demo"
+  ]
+ },
+ {
+  "cluster": 252,
+  "domain": 1,
+  "guess": "border",
+  "n": 64,
+  "samples": [
+   "border-beam",
+   "shader-pulsing-border",
+   "shine-border",
+   "border-trail",
+   "glowing-stars",
+   "moving-border",
+   "hover-border-gradient",
+   "glowing-effect"
+  ]
+ },
+ {
+  "cluster": 374,
+  "domain": 1,
+  "guess": "typewriter",
+  "n": 62,
+  "samples": [
+   "typewriter",
+   "primitives-texts-typing",
+   "typewriter-effect",
+   "demo-primitives-texts-typing",
+   "typing-indicator",
+   "text-animation-typewriter-effect-demo",
+   "text-generate-typewriter",
+   "text-typewriter"
+  ]
+ },
+ {
+  "cluster": 319,
+  "domain": 1,
+  "guess": "orb",
+  "n": 60,
+  "samples": [
+   "orb",
+   "ecosystem-constellation",
+   "shader-dot-orbit",
+   "curious-ai",
+   "orbit",
+   "components-community-radial-intro",
+   "demo-components-community-radial-intro",
+   "orbit-rotation"
+  ]
+ },
+ {
+  "cluster": 324,
+  "domain": 1,
+  "guess": "highlight",
+  "n": 60,
+  "samples": [
+   "highlight-text",
+   "highlight",
+   "primitives-texts-highlight",
+   "demo-primitives-effects-highlight",
+   "demo-primitives-texts-highlight",
+   "primitives-effects-highlight",
+   "inline-highlight",
+   "marker-highlight"
+  ]
+ },
+ {
+  "cluster": 401,
+  "domain": 1,
+  "guess": "text",
+  "n": 60,
+  "samples": [
+   "spinning-text",
+   "primitives-texts-rolling",
+   "primitives-texts-rotating",
+   "demo-primitives-texts-rolling",
+   "demo-primitives-texts-rotating",
+   "text-flip",
+   "primitives-texts-splitting",
+   "flip-words"
+  ]
+ },
+ {
+  "cluster": 290,
+  "domain": 1,
+  "guess": "js",
+  "n": 55,
+  "samples": [
+   "light-rays",
+   "shader-god-rays",
+   "lightboard",
+   "lightboard-demo",
+   "voxel-wall",
+   "cloud-flow-demo",
+   "voxel-wall-demo",
+   "light"
+  ]
+ },
+ {
+  "cluster": 259,
+  "domain": 1,
+  "guess": "spotlight card",
+  "n": 54,
+  "samples": [
+   "spotlight-card",
+   "spotlight",
+   "card-spotlight",
+   "spotlight-new",
+   "spotlight-shader",
+   "specials-spotlight-card",
+   "specials-spotlight-card-demo",
+   "not-found-spotlight"
+  ]
+ },
+ {
+  "cluster": 308,
+  "domain": 1,
+  "guess": "demo",
+  "n": 54,
+  "samples": [
+   "demo-primitives-animate-scroll-progress",
+   "demo-primitives-animate-spring",
+   "cambio-image-dismiss-on-scroll-demo",
+   "scroll-fade-effect-slider-demo",
+   "hitbox-positions-demo",
+   "scroller-demo",
+   "scroller-hidden-demo",
+   "scroller-horizontal-demo"
+  ]
+ },
+ {
+  "cluster": 332,
+  "domain": 1,
+  "guess": "scroll",
+  "n": 54,
+  "samples": [
+   "scroll-text",
+   "scroll-based-velocity",
+   "scroll-fade-effect",
+   "slot-machine-roll",
+   "parallax-scroll",
+   "parallax-scroll-2",
+   "container-scroll-animation",
+   "macbook-scroll"
+  ]
+ },
+ {
+  "cluster": 335,
+  "domain": 1,
+  "guess": "pixel",
+  "n": 54,
+  "samples": [
+   "pixel",
+   "pixel-background",
+   "pixelated-canvas",
+   "webcam-pixel-grid",
+   "pixel-canvas",
+   "pixel-heading-character",
+   "pixel-heading-word",
+   "pixel-paragraph-words-inverse"
   ]
  }
 ]
