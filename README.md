@@ -11,15 +11,7 @@ Then tell your coding agent: *"Look in ./shadcn-registry-explorer for components
 
 ## How it works
 
-```mermaid
-flowchart LR
-  A[394 registries] -->|shadcn MCP| B[76k items]
-  B -->|LLM descriptions| C[embeddings]
-  C --> D[search: meaning + keywords]
-  C -->|clustering| E[graph: 711 categories]
-  D --> F[shortlist + install commands]
-  E --> F
-```
+![How it works](docs/architecture.png)
 
 - **Search** ranks items by meaning and keywords. The OpenAI key is optional: it embeds your query (fraction of a cent) so "billing toggle" also finds a "monthly/annual switch"; without it, search matches keywords only.
 - **Graph** groups equivalent components across libraries, so `find graph` lists every version of one.
