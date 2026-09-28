@@ -8,7 +8,6 @@
 set -euo pipefail
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PY="$ROOT/.venv/bin/python"
-S="$ROOT/.claude/skills/find-shadcn-components/scripts"
 case "${1:-}" in ""|-h|--help) sed -n '2,7p' "$0" | sed 's/^# \{0,1\}//'; exit 0 ;; esac
 
 if [ ! -x "$PY" ] || ! "$PY" -c "import numpy, openai, dotenv" 2>/dev/null; then
@@ -16,13 +15,6 @@ if [ ! -x "$PY" ] || ! "$PY" -c "import numpy, openai, dotenv" 2>/dev/null; then
   python3 -m venv "$ROOT/.venv" >&2
   "$PY" -m pip install -q -r "$ROOT/requirements.txt" >&2
 fi
-if { [ ! -f "$ROOT/data/registries.enriched.json" ] || [ ! -f "$ROOT/data/embeddings/search_vectors_1024.npy" ]; } \
-   && [ "${1:-}" != "update" ]; then
-  "$PY" "$ROOT/scripts/fetch_data.py" >&2 || echo "(search index unavailable: keyword-only results)" >&2
-fi
-
-case "${1:-}" in
-  graph)  shift; exec "$PY" "$S/graph.py" "$@" ;;
-  update) git -C "$ROOT" pull --ff-only && exec "$PY" "$ROOT/scripts/fetch_data.py" ;;
-  *)      exec "$PY" "$S/hybrid_search.py" "$@" ;;
-esac
+[ "${1:-}" = "update" ] && git -C "$ROOT" pull --ff-only >&2
+export PYTHONPATH="$ROOT${PYTHONPATH:+:$PYTHONPATH}"
+exec "$PY" -m shadcn_explorer.cli "$@"

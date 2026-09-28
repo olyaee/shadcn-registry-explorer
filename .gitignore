@@ -28,3 +28,5 @@ data/graph/items.jsonl
 # Claude Code tooling / worktrees
 .claude/
 node_modules/
+dist/
+*.egg-info/
