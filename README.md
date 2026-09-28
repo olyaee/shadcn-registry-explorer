@@ -13,16 +13,18 @@ Give your coding agent this repo's path and the feature you're building — or s
 
 ## How it works
 
-Every registry in the shadcn directory is harvested through the shadcn MCP, each item gets an LLM-written description and tags, and everything is embedded into a search index. Your agent splits the feature into UI pieces and `./find` ranks the catalogue for each piece by meaning *and* keywords.
+Every registry in the shadcn directory is harvested through the shadcn MCP, each item gets an LLM-written description and tags, and everything is embedded into a search index. Your agent splits the feature into UI pieces and `./find` ranks the catalogue for each piece by meaning *and* keywords. The embeddings are also clustered into a graph (18 domains → 711 categories of equivalent components), so `./find graph category "Kanban Board"` lists every library's version of a component.
 
 ```mermaid
 flowchart LR
   A[shadcn directory<br/>394 registries] -->|shadcn MCP| B[76k items]
   B -->|LLM: descriptions, tags| C[catalogue]
   C -->|embeddings| D[search index]
+  D -->|clustering| H[graph: domains → categories]
   E[your agent + feature brief] -->|./find| F[hybrid search<br/>meaning + keywords]
   D --> F
   F --> G[shortlist: install command + doc link]
+  H -->|find graph| G
 ```
 
 **Why an OpenAI key:** your search text is embedded (`text-embedding-3-large`, a fraction of a cent per search) so it can be matched by meaning — "billing toggle" finds a "monthly/annual switch". Put `OPENAI_API_KEY=...` in `.env`; without it, search falls back to keyword matching.
