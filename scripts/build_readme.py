@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate README.md with links to every registry catalogued from the shadcn directory."""
+"""Generate README.md (concise) and REGISTRIES.md (every registry with browse links)."""
 import json, os
 os.chdir(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -28,35 +28,35 @@ REASON = {
     "mirror": "aggregator mirroring other registries (items not catalogued)",
 }
 
+R = [
+    "# shadcn Registry Explorer\n",
+    f"Find shadcn/ui components for what you're building — {e['totalComponents']:,} items from "
+    f"{e['count']} community registries (updated {e['capturedAt']}).\n",
+    "```bash\ngit clone https://github.com/olyaee/shadcn-registry-explorer\n"
+    "echo \"OPENAI_API_KEY=sk-...\" > shadcn-registry-explorer/.env\n```\n",
+    "Then tell your coding agent: *\"Look in ./shadcn-registry-explorer for components to build a fairness "
+    "dashboard.\"* It returns install commands and doc links for every UI piece "
+    "([`AGENTS.md`](AGENTS.md)). Or search yourself: `./find \"grouped bar chart\"`, "
+    "`./find graph category \"Kanban Board\"`.\n",
+    "## How it works\n",
+    "```mermaid\nflowchart LR\n"
+    "  A[394 registries] -->|shadcn MCP| B[76k items]\n"
+    "  B -->|LLM descriptions| C[embeddings]\n"
+    "  C --> D[search: meaning + keywords]\n"
+    "  C -->|clustering| E[graph: 711 categories]\n"
+    "  D --> F[shortlist + install commands]\n"
+    "  E --> F\n```\n",
+    "- **Search** ranks items by meaning and keywords. The OpenAI key embeds your query "
+    "(fraction of a cent); without it, keywords only.\n"
+    "- **Graph** groups equivalent components across libraries, so `find graph` lists every version of one.\n",
+    "[All registries](REGISTRIES.md) · [MIT](LICENSE) — components belong to their authors.\n",
+]
+open("README.md", "w").write("\n".join(R) + "\n")
+
 L = []
-L.append("# shadcn/ui Community Registry Explorer\n")
-L.append("> **AI agents:** follow [`AGENTS.md`](AGENTS.md).\n")
-L.append(f"{e['totalComponents']:,} components from {e['componentsFound']} of the {e['count']} registries in the "
-         f"[shadcn directory](https://ui.shadcn.com/docs/directory) (captured {e['capturedAt']}).\n")
-L.append("Give your coding agent this repo's path and the feature you're building — or search yourself:\n")
-L.append("```bash\n./find \"grouped bar chart comparing a metric across groups\"\n./find graph category \"Kanban Board\"\n```\n")
-L.append("## How it works\n")
-L.append("Every registry in the shadcn directory is harvested through the shadcn MCP, each item gets an "
-         "LLM-written description and tags, and everything is embedded into a search index. Your agent splits "
-         "the feature into UI pieces and `./find` ranks the catalogue for each piece by meaning *and* keywords. "
-         "The embeddings are also clustered into a graph (18 domains → 711 categories of equivalent components), "
-         "so `./find graph category \"Kanban Board\"` lists every library's version of a component.\n")
-L.append("```mermaid\nflowchart LR\n"
-         "  A[shadcn directory<br/>394 registries] -->|shadcn MCP| B[76k items]\n"
-         "  B -->|LLM: descriptions, tags| C[catalogue]\n"
-         "  C -->|embeddings| D[search index]\n"
-         "  D -->|clustering| H[graph: domains → categories]\n"
-         "  E[your agent + feature brief] -->|./find| F[hybrid search<br/>meaning + keywords]\n"
-         "  D --> F\n"
-         "  F --> G[shortlist: install command + doc link]\n"
-         "  H -->|find graph| G\n```\n")
-L.append("**Why an OpenAI key:** your search text is embedded (`text-embedding-3-large`, a fraction of a cent "
-         "per search) so it can be matched by meaning — \"billing toggle\" finds a \"monthly/annual switch\". "
-         "Put `OPENAI_API_KEY=...` in `.env`; without it, search falls back to keyword matching.\n")
-L.append("Data: `data/registries.enriched.json` (downloaded by `./find` / `scripts/fetch_data.py`) · "
-         "last refresh: [`MCP_REFRESH_REPORT.md`](MCP_REFRESH_REPORT.md).\n")
-L.append("Code: [MIT](LICENSE). Components and their metadata belong to each registry's authors.\n")
-L.append("---\n")
+L.append("# Registries\n")
+L.append(f"{e['count']} registries from the [shadcn directory](https://ui.shadcn.com/docs/directory) · "
+         f"last refresh: [`MCP_REFRESH_REPORT.md`](MCP_REFRESH_REPORT.md).\n")
 L.append(f"## Registries with components ({len(found)})\n")
 L.append("| # | Registry | Browse components / blocks | Type | Components | Exact links |")
 L.append("|---:|---|---|---|---:|---:|")
@@ -77,5 +77,5 @@ for r in notfound:
     reason = REASON.get(r["components"].get("reason"), r["components"].get("reason") or "unresolved")
     L.append(f'| `{r["handle"]}` | [{r["homepage"]}]({r["homepage"]}) | {reason} |')
 
-open("README.md", "w").write("\n".join(L) + "\n")
-print(f"wrote README.md — {len(found)} found + {len(notfound)} not-found = {len(regs)} registries linked")
+open("REGISTRIES.md", "w").write("\n".join(L) + "\n")
+print(f"wrote README.md + REGISTRIES.md — {len(found)} found + {len(notfound)} not-found = {len(regs)} registries linked")
