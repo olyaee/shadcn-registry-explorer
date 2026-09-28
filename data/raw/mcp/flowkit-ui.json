@@ -1,0 +1,8 @@
+{
+ "handle": "@flowkit-ui",
+ "ok": true,
+ "error": null,
+ "total": 1,
+ "rawText": "Found 1 items in registries @flowkit-ui:\n\nShowing items 1-1 of 1:\n\n- creatable-combobox (registry:component) - Combobox with creatable items, built on Base UI and shadcn-style primitives (combobox, input group, button). [@flowkit-ui] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:00:58.176Z"
+}

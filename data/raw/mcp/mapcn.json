@@ -1,0 +1,8 @@
+{
+ "handle": "@mapcn",
+ "ok": true,
+ "error": null,
+ "total": 9,
+ "rawText": "Found 9 items in registries @mapcn:\n\nShowing items 1-9 of 9:\n\n- map (registry:ui) - A MapLibre-powered map component with markers, popups, tooltips, routes, and controls. [@mapcn] \n  Add command: `[object Promise]`\n\n- analytics-map (registry:block) - Real-time analytics overview with a world map, breakdown cards, and device stats. [@mapcn] \n  Add command: `[object Promise]`\n\n- choropleth (registry:block) - World choropleth map shading countries by a metric, with a hover tooltip and legend. [@mapcn] \n  Add command: `[object Promise]`\n\n- analytics-card (registry:block) - Compact analytics card with a headline metric over a world map. [@mapcn] \n  Add command: `[object Promise]`\n\n- delivery-tracker (registry:block) - Live order tracking with route progress, courier position, and order details. [@mapcn] \n  Add command: `[object Promise]`\n\n- uptime-monitor (registry:block) - Status-page style map of edge network locations with live health, latency, and uptime. [@mapcn] \n  Add command: `[object Promise]`\n\n- heatmap (registry:block) - Globe-projected heatmap visualizing earthquake density with zoom-dependent styling. [@mapcn] \n  Add command: `[object Promise]`\n\n- logistics-network (registry:block) - Domestic logistics map with a sidebar of stats. [@mapcn] \n  Add command: `[object Promise]`\n\n- store-locator (registry:block) - Searchable store list synced with map markers. [@mapcn] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:01:04.041Z"
+}

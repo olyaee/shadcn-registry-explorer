@@ -1,0 +1,8 @@
+{
+ "handle": "@amap",
+ "ok": true,
+ "error": null,
+ "total": 1,
+ "rawText": "Found 1 items in registries @amap:\n\nShowing items 1-1 of 1:\n\n- amap (registry:ui) - An AMap (高德地图)-powered map component with markers, popups, tooltips, routes, and controls. [@amap] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:00:51.974Z"
+}

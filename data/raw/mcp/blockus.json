@@ -1,0 +1,8 @@
+{
+ "handle": "@blockus",
+ "ok": false,
+ "error": "Error: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+ "total": null,
+ "rawText": "Error: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+ "fetchedAt": "2026-09-28T14:01:42.276Z"
+}

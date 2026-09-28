@@ -1,0 +1,8 @@
+{
+ "handle": "@nexus-labs",
+ "ok": false,
+ "error": "Error (PARSE_ERROR): Failed to parse registry catalog: @nexus-labs/registry\n- items.0.font: Required\n\n💡 The registry catalog may be corrupted or have an invalid format. Please make sure it returns a valid registry.json object. See https://ui.shadcn.com/schema/registry.json.\n\nContext: {\n\"item\": \"@nexus-labs/registry\"\n}",
+ "total": null,
+ "rawText": "Error (PARSE_ERROR): Failed to parse registry catalog: @nexus-labs/registry\n- items.0.font: Required\n\n💡 The registry catalog may be corrupted or have an invalid format. Please make sure it returns a valid registry.json object. See https://ui.shadcn.com/schema/registry.json.\n\nContext: {\n\"item\": \"@nexus-labs/registry\"\n}",
+ "fetchedAt": "2026-09-28T14:01:47.611Z"
+}

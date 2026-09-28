@@ -1,0 +1,67 @@
+{
+ "handle": "@saaskit",
+ "ok": true,
+ "indexUrl": "https://saaskit-theta.vercel.app/registry.json",
+ "items": [
+  {
+   "name": "pricing-table",
+   "type": "registry:component",
+   "title": "PricingTable",
+   "description": "Plans, toggle mensuel/annuel, highlight plan recommandé"
+  },
+  {
+   "name": "trial-banner",
+   "type": "registry:component",
+   "title": "TrialBanner",
+   "description": "Bandeau J jours restants avec CTA upgrade"
+  },
+  {
+   "name": "usage-meter",
+   "type": "registry:component",
+   "title": "UsageMeter",
+   "description": "Barre de quota avec seuils d'alerte (warn / danger)"
+  },
+  {
+   "name": "onboarding-steps",
+   "type": "registry:component",
+   "title": "OnboardingSteps",
+   "description": "Checklist de setup avec progression et skip"
+  },
+  {
+   "name": "upgrade-modal",
+   "type": "registry:component",
+   "title": "UpgradeModal",
+   "description": "Modal de passage au plan supérieur, avec feature gate"
+  },
+  {
+   "name": "team-invite",
+   "type": "registry:component",
+   "title": "TeamInvite",
+   "description": "Invitation par email avec sélection de rôle"
+  },
+  {
+   "name": "invoice-row",
+   "type": "registry:component",
+   "title": "InvoiceRow",
+   "description": "Ligne de facture avec statut, montant, téléchargement"
+  },
+  {
+   "name": "plan-badge",
+   "type": "registry:component",
+   "title": "PlanBadge",
+   "description": "Badge Free / Pro / Enterprise dans le header"
+  },
+  {
+   "name": "api-key-card",
+   "type": "registry:component",
+   "title": "ApiKeyCard",
+   "description": "Affichage + rotation de clé API masquée"
+  },
+  {
+   "name": "feature-gate",
+   "type": "registry:component",
+   "title": "FeatureGate",
+   "description": "Wrapper qui bloque ou affiche un slot selon le plan"
+  }
+ ]
+}

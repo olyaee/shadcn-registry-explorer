@@ -1,0 +1,1 @@
+{"handle": "@plate", "pending": 3, "poolSize": 175, "linked": 1, "methodCounts": {"crawl": 1, "no-page": 2}, "templates": {}, "links": {"plate-ui": {"url": "https://platejs.org/docs/installation/plate-ui", "method": "crawl"}, "tailwind-scrollbar-hide": {"url": null, "method": "no-page"}, "highlight-style": {"url": null, "method": "no-page"}}}

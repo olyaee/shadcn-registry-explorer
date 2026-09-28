@@ -1,0 +1,8 @@
+{
+ "handle": "@sabraman",
+ "ok": false,
+ "error": "Error: Request to https://sabraman.ru/r/registry.json?limit=0 failed, reason: getaddrinfo ENOTFOUND sabraman.ru",
+ "total": null,
+ "rawText": "Error: Request to https://sabraman.ru/r/registry.json?limit=0 failed, reason: getaddrinfo ENOTFOUND sabraman.ru",
+ "fetchedAt": "2026-09-28T14:01:59.791Z"
+}

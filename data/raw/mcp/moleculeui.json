@@ -1,0 +1,8 @@
+{
+ "handle": "@moleculeui",
+ "ok": false,
+ "error": "Error: Request to https://www.moleculeui.design/r/registry.json?limit=0 failed, reason: getaddrinfo ENOTFOUND www.moleculeui.design",
+ "total": null,
+ "rawText": "Error: Request to https://www.moleculeui.design/r/registry.json?limit=0 failed, reason: getaddrinfo ENOTFOUND www.moleculeui.design",
+ "fetchedAt": "2026-09-28T14:01:46.474Z"
+}

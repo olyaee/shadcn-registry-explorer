@@ -1,0 +1,308 @@
+{
+ "handle": "@elevenlabs-ui",
+ "ok": true,
+ "indexUrl": "https://ui.elevenlabs.io/r/registry.json",
+ "via": "browser (HTTP 429 to non-browser clients)",
+ "items": [
+  {
+   "name": "index",
+   "type": "registry:style",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "style",
+   "type": "registry:style",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "orb",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "waveform",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "live-waveform",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "shimmering-text",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "audio-player",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "message",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "conversation",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "response",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "bar-visualizer",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "matrix",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "voice-picker",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "voice-button",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "conversation-bar",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "mic-selector",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "transcript-viewer",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "scrub-bar",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "speech-input",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "speaker-01",
+   "type": "registry:block",
+   "title": "",
+   "description": "EL-01 Speaker"
+  },
+  {
+   "name": "transcriber-01",
+   "type": "registry:block",
+   "title": "",
+   "description": "Transcriber"
+  },
+  {
+   "name": "realtime-transcriber-01",
+   "type": "registry:block",
+   "title": "",
+   "description": "Scribe V2 Realtime Transcriber"
+  },
+  {
+   "name": "voice-chat-01",
+   "type": "registry:block",
+   "title": "",
+   "description": "Voice chat 1"
+  },
+  {
+   "name": "voice-chat-02",
+   "type": "registry:block",
+   "title": "",
+   "description": "Voice chat 2"
+  },
+  {
+   "name": "voice-chat-03",
+   "type": "registry:block",
+   "title": "",
+   "description": "Voice chat 3"
+  },
+  {
+   "name": "music-player-01",
+   "type": "registry:block",
+   "title": "",
+   "description": "Music player with playlist"
+  },
+  {
+   "name": "music-player-02",
+   "type": "registry:block",
+   "title": "",
+   "description": "Simple music player"
+  },
+  {
+   "name": "voice-form-01",
+   "type": "registry:block",
+   "title": "",
+   "description": "Voice-fill form"
+  },
+  {
+   "name": "voice-nav-01",
+   "type": "registry:block",
+   "title": "",
+   "description": "Voice-nav site navigation"
+  },
+  {
+   "name": "pong-01",
+   "type": "registry:block",
+   "title": "",
+   "description": "Retro Pong game with Matrix display"
+  },
+  {
+   "name": "use-mobile",
+   "type": "registry:hook",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "use-transcript-viewer",
+   "type": "registry:hook",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "use-scribe",
+   "type": "registry:hook",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "audio-player-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "orb-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "waveform-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "live-waveform-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "bar-visualizer-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "matrix-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "message-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "response-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "shimmering-text-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "voice-picker-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "voice-button-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "conversation-bar-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "mic-selector-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "conversation-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "transcript-viewer-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "scrub-bar-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "speech-input-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  }
+ ]
+}

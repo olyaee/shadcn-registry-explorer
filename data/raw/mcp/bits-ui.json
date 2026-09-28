@@ -1,0 +1,8 @@
+{
+ "handle": "@bits-ui",
+ "ok": true,
+ "error": null,
+ "total": 6,
+ "rawText": "Found 6 items in registries @bits-ui:\n\nShowing items 1-6 of 6:\n\n- complex-component (registry:component) - A complex component showing hooks, libs and components. [@bits-ui] \n  Add command: `[object Promise]`\n\n- example-with-css (registry:component) - A login form with a CSS file. [@bits-ui] \n  Add command: `[object Promise]`\n\n- color-palette (registry:component) - Generate and copy curated color palettes for design work. [@bits-ui] \n  Add command: `[object Promise]`\n\n- json-formatter (registry:component) - A simple, fast tool to format, minify, copy, or download JSON payloads for debugging and sharing. [@bits-ui] \n  Add command: `[object Promise]`\n\n- star-rating (registry:component) - A small, accessible star rating component for reviews and feedback collection. [@bits-ui] \n  Add command: `[object Promise]`\n\n- hero-carousel (registry:component) - A 3-step hero carousel with animated step cards for landing pages. [@bits-ui] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:00:53.213Z"
+}

@@ -1,0 +1,1 @@
+{"handle": "@corr", "pending": 1, "poolSize": 9, "linked": 1, "methodCounts": {"template": 1}, "templates": {"https://ui.corr.sh/components/{name}": [1, 0]}, "links": {"resource-wiki": {"url": "https://ui.corr.sh/components/resource-wiki", "method": "template"}}}

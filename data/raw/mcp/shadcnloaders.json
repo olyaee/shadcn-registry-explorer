@@ -1,0 +1,8 @@
+{
+ "handle": "@shadcnloaders",
+ "ok": true,
+ "error": null,
+ "total": 1,
+ "rawText": "Found 1 items in registries @shadcnloaders:\n\nShowing items 1-1 of 1:\n\n- loader (registry:ui) - A single flexible loading spinner component with 42 built-in animated variants (spinner, dots, bars, skeleton, DNA, matrix, atom, solar system, radar sweep and more), Tailwind dark mode support, and configurable size. [@shadcnloaders] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:01:17.821Z"
+}

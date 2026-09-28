@@ -1,0 +1,8 @@
+{
+ "handle": "@shadcn-editor",
+ "ok": true,
+ "error": null,
+ "total": 1,
+ "rawText": "Found 1 items in registries @shadcn-editor:\n\nShowing items 1-1 of 1:\n\n- editor-x (registry:block) - A rich text editor built on Lexical extensions with shadcn/ui components: nodes, plugins, toolbars, localization, and RTL support. [@shadcn-editor] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:01:10.279Z"
+}

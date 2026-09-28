@@ -1,0 +1,8 @@
+{
+ "handle": "@w3-kit",
+ "ok": false,
+ "error": "Error (FETCH_ERROR): Failed to fetch from registry (500): https://w3-kit.com/registry/registry.json?limit=0\n\n💡 The registry server encountered an error. Try again later.\n\nContext: {\n\"url\": \"https://w3-kit.com/registry/registry.json?limit=0\",\n\"responseBody\": \"[Only HTML requests are supported here] undefined\"\n}",
+ "total": null,
+ "rawText": "Error (FETCH_ERROR): Failed to fetch from registry (500): https://w3-kit.com/registry/registry.json?limit=0\n\n💡 The registry server encountered an error. Try again later.\n\nContext: {\n\"url\": \"https://w3-kit.com/registry/registry.json?limit=0\",\n\"responseBody\": \"[Only HTML requests are supported here] undefined\"\n}",
+ "fetchedAt": "2026-09-28T14:02:01.132Z"
+}

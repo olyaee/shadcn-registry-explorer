@@ -1,0 +1,8 @@
+{
+ "handle": "@nysgpt",
+ "ok": false,
+ "error": "Error (FORBIDDEN): You are not authorized to access the item at https://gov.nysgpt.com/r/registry.json?limit=0. If this is a remote registry, you may need to authenticate.\n\n💡 Check your authentication credentials and environment variables.\n\nContext: {\n\"url\": \"https://gov.nysgpt.com/r/registry.json?limit=0\"\n}",
+ "total": null,
+ "rawText": "Error (FORBIDDEN): You are not authorized to access the item at https://gov.nysgpt.com/r/registry.json?limit=0. If this is a remote registry, you may need to authenticate.\n\n💡 Check your authentication credentials and environment variables.\n\nContext: {\n\"url\": \"https://gov.nysgpt.com/r/registry.json?limit=0\"\n}",
+ "fetchedAt": "2026-09-28T14:01:48.144Z"
+}

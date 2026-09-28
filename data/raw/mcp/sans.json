@@ -1,0 +1,8 @@
+{
+ "handle": "@sans",
+ "ok": true,
+ "error": null,
+ "total": 1,
+ "rawText": "Found 1 items in registries @sans:\n\nShowing items 1-1 of 1:\n\n- claude-spinner (registry:ui) - A reverse-engineered recreation of the Claude Code CLI's terminal spinner — animated glyph, status verb, elapsed time, and token counter. [@sans] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:01:09.613Z"
+}

@@ -1,16 +1,74 @@
 {
-  "2": {"label": "Marketing & Landing Sections", "description": "Hero, features, pricing, CTA, testimonials, blog, team sections and brand logos."},
-  "0": {"label": "Data, Dashboards & AI", "description": "Charts, stats, tables, code blocks, chat/AI tools, timelines and activity feeds."},
-  "5": {"label": "Media, Utilities & Misc", "description": "Avatars, badges, media players, typography, hooks, editor plugins and utilities."},
-  "1": {"label": "Animations & Visual Effects", "description": "Sliders, carousels, backgrounds, shaders, animated text and reveal effects."},
-  "8": {"label": "Fonts & Themes", "description": "Google fonts, typefaces, color themes and mobile app UI kits."},
-  "9": {"label": "Navigation & Layout", "description": "Navbars, footers, sidebars, tabs, accordions, pagination and app shells."},
-  "6": {"label": "Form Inputs", "description": "Inputs, textareas, checkboxes, radio groups, OTP and labels."},
-  "3": {"label": "Buttons & Toggles", "description": "Buttons, toggles, switches, toolbars and theme toggles."},
-  "10": {"label": "E-commerce", "description": "Product cards, carts, checkout, billing, order tracking and reviews."},
-  "4": {"label": "Cards & Popovers", "description": "Cards (hover, tilt, stacked), tooltips, popovers and link previews."},
-  "13": {"label": "Selects & Date Pickers", "description": "Selects, comboboxes, calendars and date/time pickers."},
-  "11": {"label": "Icons", "description": "Icon sets — arrows, actions, files, weather, currency and more."},
-  "12": {"label": "Dialogs & Notifications", "description": "Dialogs, modals, alerts, alert-dialogs and toasts."},
-  "7": {"label": "Game Audio & Sound", "description": "Sound effects, voiceovers and game audio assets."}
+ "0": {
+  "label": "Application Panels & Workflows",
+  "description": "Settings panels, app shells, data tables, grids, timelines, boards, and workflow interfaces."
+ },
+ "1": {
+  "label": "Core UI Primitives & Hooks",
+  "description": "Dialogs, tabs, tooltips, avatars, rich text editors, chat interfaces, and utilities."
+ },
+ "2": {
+  "label": "Data Visualization & Cards",
+  "description": "Charts, maps, dashboards, metrics, status badges, and content cards."
+ },
+ "3": {
+  "label": "Forms & Text Inputs",
+  "description": "Login and verification forms, text fields, textareas, OTP inputs, and form layouts."
+ },
+ "4": {
+  "label": "Selection & Toggle Controls",
+  "description": "Checkboxes, radio buttons, switches, selects, comboboxes, toggles, and input groups."
+ },
+ "5": {
+  "label": "Navigation & Menus",
+  "description": "Navbars, sidebars, footers, breadcrumbs, dropdown menus, command palettes, and toolbars."
+ },
+ "6": {
+  "label": "Marketing & Landing Sections",
+  "description": "Hero sections, feature grids, calls to action, blogs, portfolios, FAQs, and brand logos."
+ },
+ "7": {
+  "label": "Interface & Symbol Icons",
+  "description": "Arrows, chevrons, checkmarks, layout symbols, status marks, and interface icons."
+ },
+ "8": {
+  "label": "Animation & Visual Effects",
+  "description": "Animated text, backgrounds, cursors, transitions, particle effects, and scroll reveals."
+ },
+ "9": {
+  "label": "Typography & Design Themes",
+  "description": "Font pairings, display fonts, UI themes, color themes, and design tokens."
+ },
+ "10": {
+  "label": "Alerts & Notifications",
+  "description": "Alerts, toast notifications, confirmation dialogs, and status messages."
+ },
+ "11": {
+  "label": "Thematic & Object Icons",
+  "description": "Icons for technology, business, transport, food, weather, payments, and everyday objects."
+ },
+ "12": {
+  "label": "Loaders & Spinners",
+  "description": "Orbital, spiral, dot, bar, wave, and geometric loading indicators."
+ },
+ "13": {
+  "label": "Sound Effects & Audio",
+  "description": "Interface sounds, impacts, jingles, voice lines, footsteps, and ambient audio."
+ },
+ "14": {
+  "label": "Buttons & Links",
+  "description": "Action buttons, button variants, animated buttons, login buttons, and links."
+ },
+ "15": {
+  "label": "Calendars & Date Pickers",
+  "description": "Event calendars, date and time pickers, date ranges, and booking forms."
+ },
+ "16": {
+  "label": "Commerce, Pricing & Social Proof",
+  "description": "Pricing, testimonials, product listings, reviews, shopping carts, checkout, and comparisons."
+ },
+ "17": {
+  "label": "Carousels, Sliders & Progress",
+  "description": "Carousels, sliders, galleries, pagination, scroll areas, steppers, and progress indicators."
+ }
 }

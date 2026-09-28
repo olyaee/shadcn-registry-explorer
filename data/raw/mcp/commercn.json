@@ -1,0 +1,8 @@
+{
+ "handle": "@commercn",
+ "ok": true,
+ "error": null,
+ "total": 17,
+ "rawText": "Found 17 items in registries @commercn:\n\nShowing items 1-17 of 17:\n\n- cart-01 (registry:block) [@commercn] \n  Add command: `[object Promise]`\n\n- checkout-01 (registry:block) [@commercn] \n  Add command: `[object Promise]`\n\n- checkout-02 (registry:block) [@commercn] \n  Add command: `[object Promise]`\n\n- checkout-03 (registry:block) [@commercn] \n  Add command: `[object Promise]`\n\n- cart-02 (registry:block) [@commercn] \n  Add command: `[object Promise]`\n\n- category-01 (registry:block) [@commercn] \n  Add command: `[object Promise]`\n\n- category-02 (registry:block) [@commercn] \n  Add command: `[object Promise]`\n\n- category-03 (registry:block) [@commercn] \n  Add command: `[object Promise]`\n\n- category-04 (registry:block) [@commercn] \n  Add command: `[object Promise]`\n\n- order-01 (registry:block) [@commercn] \n  Add command: `[object Promise]`\n\n- product-card-01 (registry:block) [@commercn] \n  Add command: `[object Promise]`\n\n- product-card-02 (registry:block) [@commercn] \n  Add command: `[object Promise]`\n\n- product-card-03 (registry:block) [@commercn] \n  Add command: `[object Promise]`\n\n- product-detail-01 (registry:block) [@commercn] \n  Add command: `[object Promise]`\n\n- review-01 (registry:block) [@commercn] \n  Add command: `[object Promise]`\n\n- review-02 (registry:block) [@commercn] \n  Add command: `[object Promise]`\n\n- review-03 (registry:block) [@commercn] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:00:54.493Z"
+}

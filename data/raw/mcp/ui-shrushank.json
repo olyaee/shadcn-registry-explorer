@@ -1,0 +1,8 @@
+{
+ "handle": "@ui-shrushank",
+ "ok": true,
+ "error": null,
+ "total": 8,
+ "rawText": "Found 8 items in registries @ui-shrushank:\n\nShowing items 1-8 of 8:\n\n- primary-button (registry:component) - The default call to action, solid fill with hover and focus states. [@ui-shrushank] \n  Add command: `[object Promise]`\n\n- ghost-button (registry:component) - A lower-emphasis outline button for secondary actions. [@ui-shrushank] \n  Add command: `[object Promise]`\n\n- toggle-switch (registry:component) - An accessible on/off switch built on a native button. [@ui-shrushank] \n  Add command: `[object Promise]`\n\n- text-field (registry:component) - A labeled text input with clear focus and placeholder states. [@ui-shrushank] \n  Add command: `[object Promise]`\n\n- badge (registry:component) - A small status pill with neutral, success, and warning tones. [@ui-shrushank] \n  Add command: `[object Promise]`\n\n- breadcrumbs (registry:component) - A simple breadcrumb trail with an aria-current page marker. [@ui-shrushank] \n  Add command: `[object Promise]`\n\n- commit-graph (registry:component) - A contribution heatmap paged by two-week sprints, drillable to the day. [@ui-shrushank] \n  Add command: `[object Promise]`\n\n- all (registry:component) - All 7 free components in one install. Premium items are available to Pro buyers from the private registry. [@ui-shrushank] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:01:15.267Z"
+}

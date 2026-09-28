@@ -1,0 +1,8 @@
+{
+ "handle": "@turbopills-ui",
+ "ok": true,
+ "error": null,
+ "total": 10,
+ "rawText": "Found 10 items in registries @turbopills-ui:\n\nShowing items 1-10 of 10:\n\n- before-after-card (registry:block) - A before/after image card with a footer badge. [@turbopills-ui] \n  Add command: `[object Promise]`\n\n- bmi-card (registry:block) - A configurable BMI indicator ring with thresholds and tooltip. [@turbopills-ui] \n  Add command: `[object Promise]`\n\n- input (registry:component) - Input field with title, hint, suffix and error message. [@turbopills-ui] \n  Add command: `[object Promise]`\n\n- masked-input (registry:component) - Masked input with presets (tel/date) and optional calendar picker. [@turbopills-ui] \n  Add command: `[object Promise]`\n\n- multiple-choice (registry:component) - Multiple choice field with optional max selections. [@turbopills-ui] \n  Add command: `[object Promise]`\n\n- single-choice (registry:component) - Single choice field (list or cells) with optional deselect. [@turbopills-ui] \n  Add command: `[object Promise]`\n\n- progress-cells (registry:component) - Segmented progress bar with optional labels/tooltips. [@turbopills-ui] \n  Add command: `[object Promise]`\n\n- progress-stretch (registry:component) - Progress with expanding current step. [@turbopills-ui] \n  Add command: `[object Promise]`\n\n- progress-numbered (registry:component) - Numbered step progress with collapse/ellipsis. [@turbopills-ui] \n  Add command: `[object Promise]`\n\n- progress-solid (registry:component) - Simple solid progress bar. [@turbopills-ui] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:01:14.771Z"
+}

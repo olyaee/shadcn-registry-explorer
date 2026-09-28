@@ -18,7 +18,7 @@ from neo4j import GraphDatabase
 
 load_dotenv()
 URI = os.getenv("NEO4J_URI"); USER = os.getenv("NEO4J_USERNAME", "neo4j")
-PWD = os.getenv("NEO4J_PASSWORD"); DIM = 3072
+PWD = os.getenv("NEO4J_PASSWORD"); DIM = 1024
 
 def install_dns_fallback(uri):
     """If the local resolver can't resolve the Aura host (router DNS-rebind
@@ -87,6 +87,7 @@ def main():
         if args.wipe:
             print("wiping existing graph...")
             s.run("MATCH (n) CALL {WITH n DETACH DELETE n} IN TRANSACTIONS OF 10000 ROWS")
+            s.run("DROP INDEX item_embedding IF EXISTS")   # dimensions may have changed
 
         print("schema: constraints + vector index...")
         for lbl, key in [("Domain", "id"), ("Category", "id"), ("Registry", "handle"), ("Item", "id")]:
@@ -113,7 +114,9 @@ def main():
         print(f"loading {len(registries)} registries...")
         s.run("""UNWIND $rows AS r MERGE (n:Registry {handle:r.handle})
                  SET n.name=r.name, n.homepage=r.homepage, n.terminology=r.terminology,
-                     n.componentCount=r.componentCount, n.hasComponents=r.hasComponents""",
+                     n.componentCount=r.componentCount, n.hasComponents=r.hasComponents,
+                     n.description=r.description, n.listed=r.listed, n.health=r.health,
+                     n.stale=r.stale, n.active=r.active, n.browseUrl=r.browseUrl, n.links=r.links""",
               rows=registries)
 
         print(f"loading {len(items)} items (with embeddings)...")
@@ -125,7 +128,9 @@ def main():
                      MERGE (n:Item {id:it.id})
                      SET n.name=it.name, n.type=it.type, n.description=it.description,
                          n.handle=it.handle, n.kind=it.kind, n.tags=it.tags,
-                         n.useCases=it.useCases
+                         n.useCases=it.useCases, n.category=it.category, n.style=it.style,
+                         n.viewUrl=it.viewUrl, n.linkMethod=it.linkMethod,
+                         n.descriptionOriginal=it.descriptionOriginal
                      WITH n, it
                      CALL db.create.setNodeVectorProperty(n, 'embedding', it.embedding)
                      WITH n, it MATCH (c:Category {id:it.categoryId}) MERGE (c)-[:HAS_ITEM]->(n)

@@ -1,0 +1,1 @@
+{"handle": "@wxcn", "pending": 4, "poolSize": 14, "linked": 0, "methodCounts": {"no-page": 4}, "templates": {}, "links": {"weather-forecast": {"url": null, "method": "no-page"}, "moon-forecast": {"url": null, "method": "no-page"}, "tide-forecast": {"url": null, "method": "no-page"}, "forecast-dashboard": {"url": null, "method": "no-page"}}}

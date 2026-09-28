@@ -1,0 +1,8 @@
+{
+ "handle": "@delego",
+ "ok": true,
+ "error": null,
+ "total": 6,
+ "rawText": "Found 6 items in registries @delego:\n\nShowing items 1-6 of 6:\n\n- delego-theme (registry:theme) - Delego design tokens mapped onto shadcn variables (OKLCH, light + dark). Electric-indigo primary, signal-mint accent, and the protocol decision palette (allow / needs_approval / deny). Pairs Inter (sans) + JetBrains Mono (mono); load the fonts in your app — see the registry README. [@delego] \n  Add command: `[object Promise]`\n\n- button (registry:ui) - Delego button — primary (indigo glow), secondary, ghost, outline, link, plus protocol-semantic allow/deny actions. [@delego] \n  Add command: `[object Promise]`\n\n- status-badge (registry:ui) - Mono pill with leading icon + status color. Variants: allow, approval, deny, indigo (principal/audit), neutral. [@delego] \n  Add command: `[object Promise]`\n\n- decision-pill (registry:ui) - The signature Delego element: renders a Decision outcome (allow / needs_approval / deny) with its canonical icon, mono label, and color. [@delego] \n  Add command: `[object Promise]`\n\n- signed-receipt (registry:ui) - The ownable audit visual — one hash-chained, Ed25519-signed ledger record, with the signal bar, seal, and mono kv grid. [@delego] \n  Add command: `[object Promise]`\n\n- field (registry:ui) - Labeled input with optional leading icon and mono hint, lit by the indigo focus halo. Drop-in over a native input. [@delego] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:00:56.178Z"
+}

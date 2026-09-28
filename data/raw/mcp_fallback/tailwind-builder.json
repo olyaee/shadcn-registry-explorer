@@ -1,0 +1,31 @@
+{
+ "handle": "@tailwind-builder",
+ "ok": true,
+ "indexUrl": "https://tailwindbuilder.ai/api/registry",
+ "items": [
+  {
+   "name": "download-banner",
+   "type": "registry:component",
+   "title": "",
+   "description": "A banner component with optional code display for UI blocks."
+  },
+  {
+   "name": "empty-banner",
+   "type": "registry:component",
+   "title": "",
+   "description": "A banner component with optional code display for UI blocks."
+  },
+  {
+   "name": "mutual-banner",
+   "type": "registry:component",
+   "title": "",
+   "description": "A mutual banner component with optional code display for UI blocks."
+  },
+  {
+   "name": "dashboard-revenue-chart",
+   "type": "registry:component",
+   "title": "",
+   "description": "A mutual banner component with optional code display for UI blocks."
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+ "handle": "@ha-components",
+ "ok": true,
+ "error": null,
+ "total": 12,
+ "rawText": "Found 12 items in registries @ha-components:\n\nShowing items 1-12 of 12:\n\n- type-generator (registry:item) - Script to generate types [@ha-components] \n  Add command: `[object Promise]`\n\n- auth (registry:block) - A complex component used to setup Auth. [@ha-components] \n  Add command: `[object Promise]`\n\n- camera (registry:block) - A WebRTC Camera component for go2RTC [@ha-components] \n  Add command: `[object Promise]`\n\n- trigger (registry:component) - Button that with an attached Entity trigger [@ha-components] \n  Add command: `[object Promise]`\n\n- toggle (registry:component) - Switch with an attached Entity trigger [@ha-components] \n  Add command: `[object Promise]`\n\n- light (registry:component) - A component which allows full control of a light [@ha-components] \n  Add command: `[object Promise]`\n\n- weather (registry:block) [@ha-components] \n  Add command: `[object Promise]`\n\n- proxy (registry:block) - Development websocket server for camera component [@ha-components] \n  Add command: `[object Promise]`\n\n- accordion (registry:ui) [@ha-components] \n  Add command: `[object Promise]`\n\n- popover (registry:ui) [@ha-components] \n  Add command: `[object Promise]`\n\n- slider (registry:ui) [@ha-components] \n  Add command: `[object Promise]`\n\n- switch (registry:ui) [@ha-components] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:00:59.124Z"
+}

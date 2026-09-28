@@ -1,0 +1,8 @@
+{
+ "handle": "@react-slot",
+ "ok": true,
+ "error": null,
+ "total": 1,
+ "rawText": "Found 1 items in registries @react-slot:\n\nShowing items 1-1 of 1:\n\n- slot (registry:component) - Vue-style slot composition for React [@react-slot] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:01:08.747Z"
+}

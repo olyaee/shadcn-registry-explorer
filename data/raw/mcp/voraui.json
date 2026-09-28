@@ -1,0 +1,8 @@
+{
+ "handle": "@voraui",
+ "ok": true,
+ "error": null,
+ "total": 4,
+ "rawText": "Found 4 items in registries @voraui:\n\nShowing items 1-4 of 4:\n\n- fear-greed-gauge (registry:block) - Crypto Fear & Greed index dial with live data from alternative.me. [@voraui] \n  Add command: `[object Promise]`\n\n- altseason-gauge (registry:block) - Altcoin Season index gauge computed client-side from CoinPaprika data. [@voraui] \n  Add command: `[object Promise]`\n\n- btc-rainbow-chart (registry:block) - Bitcoin rainbow log-regression chart with Binance history and a bundled 2010-2017 seed. [@voraui] \n  Add command: `[object Promise]`\n\n- trading-chart (registry:block) - Candlestick chart with trade markers, clustering, and live Binance updates. [@voraui] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:01:17.762Z"
+}

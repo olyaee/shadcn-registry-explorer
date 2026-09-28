@@ -1,0 +1,8 @@
+{
+ "handle": "@emstein-ui",
+ "ok": true,
+ "error": null,
+ "total": 1,
+ "rawText": "Found 1 items in registries @emstein-ui:\n\nShowing items 1-1 of 1:\n\n- table (registry:component) - A virtualized shadcn-compatible table with sorting, resizing, and optional selection. [@emstein-ui] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:00:57.415Z"
+}

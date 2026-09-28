@@ -1,0 +1,145 @@
+{
+ "handle": "@grainly-icons",
+ "ok": true,
+ "indexUrl": "https://raw.githubusercontent.com/abhix4/grainly-icons/main/registry.json",
+ "items": [
+  {
+   "name": "a-arrow-down",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "a-arrow-up",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "accessibility",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "activity",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "air-vent",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "airplay",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "alarm-clock",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "alarm-clock-check",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "alarm-clock-minus",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "alarm-clock-off",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "alarm-smoke",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "album",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "align-end-horizontal",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "align-end-vertical",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "ambulance",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "ampersand",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "anchor",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "angry",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "annoyed",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "antenna",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "apple",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "archive",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "shell",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+ "handle": "@text-ui",
+ "ok": true,
+ "error": null,
+ "total": 1,
+ "rawText": "Found 1 items in registries @text-ui:\n\nShowing items 1-1 of 1:\n\n- echo-text (registry:component) - Layered stroke text that follows the pointer for a simple motion trail effect. [@text-ui] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:01:14.377Z"
+}

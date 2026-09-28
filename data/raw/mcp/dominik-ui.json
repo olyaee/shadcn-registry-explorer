@@ -1,0 +1,8 @@
+{
+ "handle": "@dominik-ui",
+ "ok": true,
+ "error": null,
+ "total": 4,
+ "rawText": "Found 4 items in registries @dominik-ui:\n\nShowing items 1-4 of 4:\n\n- expandable-tabs (registry:ui) - Animated icon tabs with a sliding active pill and an expanding label, built on the shadcn tooltip. [@dominik-ui] \n  Add command: `[object Promise]`\n\n- command-tabs (registry:ui) - A copyable command block with attached agent tabs and a sliding active pill — tabs can sit above or below the command. [@dominik-ui] \n  Add command: `[object Promise]`\n\n- permission-selector (registry:ui) - A composable segmented permission control with an animated sliding pill — read/write levels and deny/neutral/allow toggles. [@dominik-ui] \n  Add command: `[object Promise]`\n\n- braille-loader (registry:ui) - An animated braille loading indicator with wave, typewriter, shimmer, and pulse variants. [@dominik-ui] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:00:56.482Z"
+}

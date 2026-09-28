@@ -1,0 +1,1483 @@
+{
+ "handle": "@diceui",
+ "ok": true,
+ "indexUrl": "https://diceui.com/r/radix-nova/registry.json",
+ "items": [
+  {
+   "name": "action-bar",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "angle-slider",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "avatar-group",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "badge-overflow",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "banner",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "checkbox-group",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "circular-progress",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "color-picker",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "color-swatch",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "compare-slider",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "cropper",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "combobox",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "editable",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "file-upload",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "fps",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "gauge",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "kanban",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "key-value",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "listbox",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "marquee",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "mask-input",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "masonry",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "media-player",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "mention",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "phone-input",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "presentation",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "relative-time-card",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "responsive-dialog",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "scroller",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "scroll-spy",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "segmented-input",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "selection-toolbar",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "sortable",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "speed-dial",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "stack",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "stat",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "status",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "stepper",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "swap",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "qr-code",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "rating",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "tags-input",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "timeline",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "time-picker",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "tour",
+   "type": "registry:ui",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "action-bar-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "action-bar-position-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "angle-slider-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "angle-slider-controlled-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "angle-slider-range-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "angle-slider-themes-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "angle-slider-form-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "avatar-group-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "avatar-group-truncation-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "avatar-group-rtl-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "avatar-group-icons-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "avatar-group-custom-overflow-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "badge-overflow-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "badge-overflow-multiline-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "badge-overflow-interactive-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "banner-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "banner-stacked-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "checkbox-group-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "checkbox-group-animated-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "checkbox-group-horizontal-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "checkbox-group-multi-selection-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "checkbox-group-validation-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "circular-progress-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "circular-progress-interactive-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "circular-progress-colors-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "color-picker-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "color-picker-controlled-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "color-picker-form-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "color-picker-inline-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "color-swatch-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "color-swatch-sizes-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "color-swatch-transparency-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "combobox-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "combobox-custom-filter-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "combobox-debounced-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "combobox-groups-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "combobox-multiple-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "combobox-tags-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "combobox-virtualized-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "compare-slider-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "compare-slider-controlled-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "compare-slider-customization-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "compare-slider-vertical-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "cropper-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "cropper-controlled-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "cropper-file-upload-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "cropper-shapes-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "cropper-video-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "data-grid-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "data-table-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "editable-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "editable-autosize-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "editable-double-click-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "editable-form-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "editable-todo-list-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "file-upload-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "file-upload-chat-input-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "file-upload-circular-progress-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "file-upload-direct-upload-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "file-upload-fill-progress-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "file-upload-form-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "file-upload-uploadthing-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "file-upload-validation-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "fps-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "fps-strategy-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "gauge-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "gauge-sizes-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "gauge-colors-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "gauge-variants-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "hitbox-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "hitbox-sizes-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "hitbox-positions-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "hitbox-radii-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "hitbox-debug-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "segmented-input-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "selection-toolbar-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "selection-toolbar-info-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "segmented-input-form-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "segmented-input-rgb-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "segmented-input-vertical-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "marquee-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "marquee-logo-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "marquee-vertical-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "marquee-rtl-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "mask-input-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "mask-input-custom-pattern-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "mask-input-validation-modes-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "mask-input-card-information-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "mask-input-form-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "kanban-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "kanban-dynamic-overlay-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "key-value-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "key-value-form-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "key-value-validation-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "key-value-paste-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "listbox-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "listbox-grid-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "listbox-group-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "listbox-horizontal-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "masonry-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "masonry-linear-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "masonry-ssr-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "media-player-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "media-player-audio-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "media-player-error-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "media-player-hls-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "media-player-playlist-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "media-player-settings-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "mention-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "mention-custom-filter-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "mention-custom-trigger-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "phone-input-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "phone-input-form-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "phone-input-custom-countries-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "presentation-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "presentation-editing-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "qr-code-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "qr-code-customization-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "qr-code-formats-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "qr-code-overlay-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "rating-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "rating-themes-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "rating-controlled-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "rating-form-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "relative-time-card-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "relative-time-card-timezones-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "relative-time-card-variants-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "responsive-dialog-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "responsive-dialog-confirm-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "scroller-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "scroller-hidden-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "scroller-horizontal-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "scroller-navigation-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "scroll-spy-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "scroll-spy-controlled-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "scroll-spy-vertical-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "sortable-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "sortable-dynamic-overlay-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "sortable-handle-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "sortable-primitive-values-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "speed-dial-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "speed-dial-controlled-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "speed-dial-side-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "speed-dial-labels-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "speed-dial-hover-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "stack-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "stack-no-expand-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "stack-side-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "stat-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "stat-variants-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "stat-layout-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "pending-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "pending-wrapper-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "pending-form-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "pending-link-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "pending-switch-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "status-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "status-variants-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "status-text-only-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "status-list-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "stepper-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "swap-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "swap-animations-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "stepper-form-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "stepper-validation-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "stepper-vertical-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "tags-input-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "tags-input-editable-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "tags-input-sortable-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "tags-input-validation-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "time-picker-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "time-picker-step-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "time-picker-seconds-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "time-picker-placeholder-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "time-picker-open-on-focus-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "time-picker-input-group-click-action-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "time-picker-controlled-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "time-picker-form-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "timeline-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "timeline-horizontal-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "timeline-rtl-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "timeline-alternate-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "timeline-horizontal-alternate-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "timeline-custom-dot-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "tour-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "tour-controlled-demo",
+   "type": "registry:example",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "utils",
+   "type": "registry:lib",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "compose-refs",
+   "type": "registry:lib",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "client-only",
+   "type": "registry:component",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "direction-provider",
+   "type": "registry:component",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "hitbox",
+   "type": "registry:component",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "portal",
+   "type": "registry:component",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "pending",
+   "type": "registry:component",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "presence",
+   "type": "registry:component",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "presentation-zoom-select",
+   "type": "registry:component",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "visually-hidden",
+   "type": "registry:component",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "visually-hidden-input",
+   "type": "registry:component",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "use-as-ref",
+   "type": "registry:hook",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "use-isomorphic-layout-effect",
+   "type": "registry:hook",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "use-lazy-ref",
+   "type": "registry:hook",
+   "title": "",
+   "description": ""
+  },
+  {
+   "name": "use-mobile",
+   "type": "registry:hook",
+   "title": "",
+   "description": ""
+  }
+ ]
+}

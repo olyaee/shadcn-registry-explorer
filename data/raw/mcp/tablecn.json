@@ -1,0 +1,8 @@
+{
+ "handle": "@tablecn",
+ "ok": true,
+ "error": null,
+ "total": 2,
+ "rawText": "Found 2 items in registries @tablecn:\n\nShowing items 1-2 of 2:\n\n- filter-builder (registry:block) - A filter builder for data tables: field, operator and value rows applied to the URL, built on @querycn/filter-react. [@tablecn] \n  Add command: `[object Promise]`\n\n- data-table (registry:block) - A data table on TanStack Table v9: sorting and pages in the URL, a saved column layout, row selection and inline editing, built on @querycn/table-react. [@tablecn] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:11:51.511Z"
+}

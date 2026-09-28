@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Domain layer: cluster the 396 category centroids into top-level "big node" domains.
+Domain layer: cluster the category centroids into top-level "big node" domains.
 Count emerges from the data (HDBSCAN on centroids; noise -> nearest domain).
 Writes data/clusters/domains.json.
 """
@@ -17,6 +17,14 @@ cent = np.load("data/clusters/centroids.npy")            # 396 x 3072 (normalize
 cats = json.load(open("data/clusters/categories.json"))["clusters"]
 cids = json.load(open("data/clusters/cluster_ids.json"))
 id2cat = {c["cluster"]: c for c in cats}
+try:   # prefer LLM category labels (scripts/label_clusters.py) in the printout
+    import glob
+    for fp in glob.glob("data/clusters/labels/output_*.json"):
+        for row in json.load(open(fp)):
+            if int(row["cluster"]) in id2cat:
+                id2cat[int(row["cluster"])]["label_llm"] = row["label"]
+except Exception:
+    pass
 print(f"category centroids: {cent.shape}")
 
 # Agglomerative on centroids (cosine distance, average linkage) — stable & controllable.
@@ -38,7 +46,7 @@ for d, catlist in domains.items():
         "domain": d,
         "itemCount": sum(c["itemCount"] for c in catlist),
         "nCategories": len(catlist),
-        "topCategoryLabels": [c["label_guess"] for c in catlist[:12]],
+        "topCategoryLabels": [c.get("label_llm") or c["label_guess"] for c in catlist[:12]],
     })
 out.sort(key=lambda x: -x["itemCount"])
 json.dump({"nDomains": len(dids), "domains": out,

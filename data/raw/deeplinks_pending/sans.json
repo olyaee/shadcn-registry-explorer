@@ -1,0 +1,1 @@
+{"handle": "@sans", "pending": 1, "poolSize": 18, "linked": 1, "methodCounts": {"crawl": 1}, "templates": {}, "links": {"claude-spinner": {"url": "https://sans.sansorigin.com/components/claude-spinner", "method": "crawl"}}}

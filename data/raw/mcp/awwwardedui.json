@@ -1,0 +1,8 @@
+{
+ "handle": "@awwwardedui",
+ "ok": true,
+ "error": null,
+ "total": 5,
+ "rawText": "Found 5 items in registries @awwwardedui:\n\nShowing items 1-5 of 5:\n\n- marquee-strip (registry:component) - A responsive, pauseable content ribbon for statements, logos, and editorial details. [@awwwardedui] \n  Add command: `[object Promise]`\n\n- smoke-shader-background (registry:block) - A self-contained WebGL smoke background with cursor effects and an expansive prop surface. [@awwwardedui] \n  Add command: `[object Promise]`\n\n- caustics-shader-background (registry:block) - A self-contained WebGL caustics background with cursor effects and an expansive prop surface. [@awwwardedui] \n  Add command: `[object Promise]`\n\n- imposter-syndrome-shader (registry:block) - An atmospheric interactive sky shader with clouds, sun, moon, rain, aurora, and weather effects. [@awwwardedui] \n  Add command: `[object Promise]`\n\n- clouds-shader-background (registry:block) - A self-contained WebGL cloudscape built from the supplied Shadertoy-style noise shader. [@awwwardedui] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:00:52.848Z"
+}

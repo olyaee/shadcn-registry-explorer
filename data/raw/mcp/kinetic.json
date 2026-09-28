@@ -1,0 +1,8 @@
+{
+ "handle": "@kinetic",
+ "ok": true,
+ "error": null,
+ "total": 1,
+ "rawText": "Found 1 items in registries @kinetic:\n\nShowing items 1-1 of 1:\n\n- scrub-number-field (registry:ui) - A Figma-like scrub number input with drag-to-scrub, click-to-edit, digit animation by Calligraph, Up/Down arrow nudging, and wheel nudging. [@kinetic] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:01:01.708Z"
+}

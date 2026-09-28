@@ -1,0 +1,8 @@
+{
+ "handle": "@fonttrio",
+ "ok": false,
+ "error": "Error (NOT_FOUND): The item at https://www.fonttrio.xyz/r/registry.json?limit=0 was not found. It may not exist at the registry.\n\n💡 Check if the item name is correct and the registry URL is accessible.\n\nContext: {\n\"url\": \"https://www.fonttrio.xyz/r/registry.json?limit=0\"\n}",
+ "total": null,
+ "rawText": "Error (NOT_FOUND): The item at https://www.fonttrio.xyz/r/registry.json?limit=0 was not found. It may not exist at the registry.\n\n💡 Check if the item name is correct and the registry URL is accessible.\n\nContext: {\n\"url\": \"https://www.fonttrio.xyz/r/registry.json?limit=0\"\n}",
+ "fetchedAt": "2026-09-28T14:01:45.817Z"
+}

@@ -1,0 +1,8 @@
+{
+ "handle": "@toc-cn",
+ "ok": true,
+ "error": null,
+ "total": 1,
+ "rawText": "Found 1 items in registries @toc-cn:\n\nShowing items 1-1 of 1:\n\n- table-of-contents (registry:block) - In-page documentation table of contents with scroll-position spy, animated SVG tree indicator, and mobile sticky collapsible. [@toc-cn] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:01:14.609Z"
+}

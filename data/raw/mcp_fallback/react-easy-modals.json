@@ -1,0 +1,19 @@
+{
+ "handle": "@react-easy-modals",
+ "ok": true,
+ "indexUrl": "https://react-easy-modals-docs.vercel.app/r/registry.json",
+ "items": [
+  {
+   "name": "modal",
+   "type": "registry:ui",
+   "title": "Modal (Radix)",
+   "description": "Modal component for react-easy-modals with Radix Dialog."
+  },
+  {
+   "name": "modal-baseui",
+   "type": "registry:ui",
+   "title": "Modal (Base UI)",
+   "description": "Modal component for react-easy-modals with Base UI Dialog. Supports nested modals."
+  }
+ ]
+}

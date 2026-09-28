@@ -1,0 +1,8 @@
+{
+ "handle": "@wensity",
+ "ok": false,
+ "error": "Error (PARSE_ERROR): Failed to parse registry catalog: @wensity/registry\n- items.0.font: Required\n- items.1.font: Required\n\n💡 The registry catalog may be corrupted or have an invalid format. Please make sure it returns a valid registry.json object. See https://ui.shadcn.com/schema/registry.json.\n\nContext: {\n\"item\": \"@wensity/registry\"\n}",
+ "total": null,
+ "rawText": "Error (PARSE_ERROR): Failed to parse registry catalog: @wensity/registry\n- items.0.font: Required\n- items.1.font: Required\n\n💡 The registry catalog may be corrupted or have an invalid format. Please make sure it returns a valid registry.json object. See https://ui.shadcn.com/schema/registry.json.\n\nContext: {\n\"item\": \"@wensity/registry\"\n}",
+ "fetchedAt": "2026-09-28T14:02:01.818Z"
+}

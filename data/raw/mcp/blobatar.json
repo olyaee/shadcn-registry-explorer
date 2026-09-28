@@ -1,0 +1,8 @@
+{
+ "handle": "@blobatar",
+ "ok": true,
+ "error": null,
+ "total": 6,
+ "rawText": "Found 6 items in registries @blobatar:\n\nShowing items 1-6 of 6:\n\n- avatar (registry:ui) - An Avatar that falls back to a deterministic geometric blobatar generated from the user's name. [@blobatar] \n  Add command: `[object Promise]`\n\n- presence-avatar (registry:ui) - A blobatar with a presence dot and an unread badge. Online, away, offline, and a thinking state, on a face that blinks and breathes. [@blobatar] \n  Add command: `[object Promise]`\n\n- agent-list (registry:ui) - A sidebar group of running agents, each with a face derived from its name, a presence dot and a line of what it is doing. Drops into shadcn's Sidebar. [@blobatar] \n  Add command: `[object Promise]`\n\n- user-table (registry:ui) - A table of people with a blobatar per row, rendered as static images so that a long list stays one node per face. [@blobatar] \n  Add command: `[object Promise]`\n\n- group-chat (registry:ui) - A thread with several people in it: consecutive messages grouped under one face, an overlapping facepile, and a typing indicator. [@blobatar] \n  Add command: `[object Promise]`\n\n- password-field (registry:ui) - A password input with a face above it. It watches the caret while you type, and goes sleepy when you reveal what you typed. [@blobatar] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:00:53.494Z"
+}

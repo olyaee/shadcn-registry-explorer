@@ -1,0 +1,8 @@
+{
+ "handle": "@formcn",
+ "ok": true,
+ "error": null,
+ "total": 9,
+ "rawText": "Found 9 items in registries @formcn:\n\nShowing items 1-9 of 9:\n\n- tag-input (registry:component) - Tag input component [@formcn] \n  Add command: `[object Promise]`\n\n- password (registry:component) - Password input with show/hide toggle [@formcn] \n  Add command: `[object Promise]`\n\n- multi-select (registry:component) - Multi-select dropdown [@formcn] \n  Add command: `[object Promise]`\n\n- rating (registry:component) - Rating component [@formcn] \n  Add command: `[object Promise]`\n\n- file-upload (registry:component) - File upload component [@formcn] \n  Add command: `[object Promise]`\n\n- use-file-upload (registry:hook) - state management hook for file upload component [@formcn] \n  Add command: `[object Promise]`\n\n- use-multi-step-viewer (registry:hook) - Multi-step viewer hook [@formcn] \n  Add command: `[object Promise]`\n\n- multi-step-viewer (registry:component) - Multi-step form [@formcn] \n  Add command: `[object Promise]`\n\n- stepper (registry:component) - Stepper component [@formcn] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:00:58.459Z"
+}

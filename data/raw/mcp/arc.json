@@ -1,0 +1,8 @@
+{
+ "handle": "@arc",
+ "ok": true,
+ "error": null,
+ "total": 2,
+ "rawText": "Found 2 items in registries @arc:\n\nShowing items 1-2 of 2:\n\n- logo-carousel (registry:component) - Animated logo carousel with staggered cycling, image preloading, and reduced-motion support. [@arc] \n  Add command: `[object Promise]`\n\n- showreel (registry:component) - Interactive showreel section with animated image transitions and custom hover cursor. [@arc] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:00:52.410Z"
+}

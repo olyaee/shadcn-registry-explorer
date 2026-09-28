@@ -1,0 +1,8 @@
+{
+ "handle": "@styleui",
+ "ok": true,
+ "error": null,
+ "total": 4,
+ "rawText": "Found 4 items in registries @styleui:\n\nShowing items 1-4 of 4:\n\n- animated-list (registry:component) - An animated list component to showcase your content. [@styleui] \n  Add command: `[object Promise]`\n\n- counter (registry:component) - Animated counter that increases from 0 to a given value in a smooth animation. [@styleui] \n  Add command: `[object Promise]`\n\n- notio (registry:block) - A template block that includes a hero section, a features section, a pricing section, and a footer section. Ships StyleUI's Base UI primitives so the install matches the preview. [@styleui] \n  Add command: `[object Promise]`\n\n- axis (registry:block) - A template block that includes a hero section, feature highlights, tools, pricing, testimonials, and a footer section. Ships StyleUI's Button (Base UI) at components/ui/button so the install matches the preview. [@styleui] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:01:13.523Z"
+}

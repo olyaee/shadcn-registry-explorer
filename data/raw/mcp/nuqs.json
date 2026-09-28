@@ -1,0 +1,8 @@
+{
+ "handle": "@nuqs",
+ "ok": true,
+ "error": null,
+ "total": 6,
+ "rawText": "Found 6 items in registries @nuqs:\n\nShowing items 1-6 of 6:\n\n- adapter-inertia (registry:item) - Using nuqs in Inertia.js apps (eg: with a Laravel backend) [@nuqs] \n  Add command: `[object Promise]`\n\n- adapter-onejs (registry:item) - Using nuqs in One.js applications. [@nuqs] \n  Add command: `[object Promise]`\n\n- adapter-react-router-v5 (registry:item) - Using nuqs in React Router v5 applications. [@nuqs] \n  Add command: `[object Promise]`\n\n- adapter-waku (registry:item) - Using nuqs in ⛩️ Waku applications. [@nuqs] \n  Add command: `[object Promise]`\n\n- next-typed-links (registry:item) - Type-safe linking for Next.js (using typedRoutes + nuqs) [@nuqs] \n  Add command: `[object Promise]`\n\n- parser-uuid (registry:item) - Parse and validate UUID strings (versions 1-8) from the query string. [@nuqs] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:01:06.195Z"
+}

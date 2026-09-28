@@ -1,0 +1,43 @@
+{
+ "handle": "@xcn",
+ "ok": true,
+ "indexUrl": "https://ui.radiumcoders.com/r/index.json",
+ "items": [
+  {
+   "name": "animated-cards",
+   "type": "registry:component",
+   "title": "Animated Cards",
+   "description": "Overlapping animated cards with subtle hover zoom and per-card rotation."
+  },
+  {
+   "name": "motion-btn",
+   "type": "registry:component",
+   "title": "Motion Button",
+   "description": "A button component with a motion effect."
+  },
+  {
+   "name": "scroll-bars",
+   "type": "registry:component",
+   "title": "Scroll Bars",
+   "description": "Animated scroll bars component."
+  },
+  {
+   "name": "animated-testimonials",
+   "type": "registry:component",
+   "title": "Animated Testimonials",
+   "description": "Animated testimonials with blur effect."
+  },
+  {
+   "name": "skeuomorphic-buttons",
+   "type": "registry:component",
+   "title": "Skeuomorphic Buttons",
+   "description": "A set of skeuomorphic buttons with realistic shadows and press effects."
+  },
+  {
+   "name": "stamp",
+   "type": "registry:component",
+   "title": "Stamp",
+   "description": "A perforated edge stamp component with customizable colors."
+  }
+ ]
+}

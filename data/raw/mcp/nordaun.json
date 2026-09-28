@@ -1,0 +1,8 @@
+{
+ "handle": "@nordaun",
+ "ok": false,
+ "error": "Error: Request to https://ui.nordaun.com/r/registry.json?limit=0 failed, reason: getaddrinfo ENOTFOUND ui.nordaun.com",
+ "total": null,
+ "rawText": "Error: Request to https://ui.nordaun.com/r/registry.json?limit=0 failed, reason: getaddrinfo ENOTFOUND ui.nordaun.com",
+ "fetchedAt": "2026-09-28T14:01:48.138Z"
+}

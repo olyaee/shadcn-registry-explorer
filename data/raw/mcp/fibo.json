@@ -1,0 +1,8 @@
+{
+ "handle": "@fibo",
+ "ok": true,
+ "error": null,
+ "total": 11,
+ "rawText": "Found 11 items in registries @fibo:\n\nShowing items 1-11 of 11:\n\n- badge (registry:ui) - A short label for status, category or count. [@fibo] \n  Add command: `[object Promise]`\n\n- button (registry:ui) - Triggers an action or event with a single click. [@fibo] \n  Add command: `[object Promise]`\n\n- chapter-scrubber (registry:ui) - A rail of marks that swell under the pointer like the Dock, previewing the chapter at the crest. [@fibo] \n  Add command: `[object Promise]`\n\n- checkbox (registry:ui) - Turns a single option on or off, or picks many from a list. [@fibo] \n  Add command: `[object Promise]`\n\n- input (registry:ui) - A single line of free text. [@fibo] \n  Add command: `[object Promise]`\n\n- integration-visual (registry:ui) - A hub and the tools wired into it, with pulses along the routes. [@fibo] \n  Add command: `[object Promise]`\n\n- label (registry:ui) - Names a form control and widens its hit area. [@fibo] \n  Add command: `[object Promise]`\n\n- pixel-snail (registry:ui) - A one-colour pixel snail that crawls on a loop while something loads. [@fibo] \n  Add command: `[object Promise]`\n\n- reactions (registry:ui) - Lets people respond to content with an emoji in one tap. [@fibo] \n  Add command: `[object Promise]`\n\n- textarea (registry:ui) - Several lines of free text that grow with the content. [@fibo] \n  Add command: `[object Promise]`\n\n- token-flow (registry:ui) - Walks a colour token from raw value to primitive to semantic role. [@fibo] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:00:57.914Z"
+}

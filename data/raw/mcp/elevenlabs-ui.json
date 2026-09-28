@@ -1,0 +1,8 @@
+{
+ "handle": "@elevenlabs-ui",
+ "ok": false,
+ "error": "Error (FETCH_ERROR): Failed to fetch from registry (429): https://ui.elevenlabs.io/r/registry.json?limit=0\n\n💡 There was a client error. Check your request parameters.\n\nContext: {\n\"url\": \"https://ui.elevenlabs.io/r/registry.json?limit=0\"\n}",
+ "total": null,
+ "rawText": "Error (FETCH_ERROR): Failed to fetch from registry (429): https://ui.elevenlabs.io/r/registry.json?limit=0\n\n💡 There was a client error. Check your request parameters.\n\nContext: {\n\"url\": \"https://ui.elevenlabs.io/r/registry.json?limit=0\"\n}",
+ "fetchedAt": "2026-09-28T14:01:44.469Z"
+}

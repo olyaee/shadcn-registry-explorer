@@ -1,0 +1,8 @@
+{
+ "handle": "@wandry-ui",
+ "ok": false,
+ "error": "Error: Request to https://ui.wandry.com.ua/r/registry.json?limit=0 failed, reason: certificate has expired",
+ "total": null,
+ "rawText": "Error: Request to https://ui.wandry.com.ua/r/registry.json?limit=0 failed, reason: certificate has expired",
+ "fetchedAt": "2026-09-28T14:02:01.334Z"
+}

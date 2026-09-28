@@ -1,0 +1,4 @@
+# Search (hybrid_search.py / graph.py / fetch_data.py)
+numpy>=2.0
+openai>=2.0
+python-dotenv>=1.0

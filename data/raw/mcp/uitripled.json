@@ -1,0 +1,8 @@
+{
+ "handle": "@uitripled",
+ "ok": false,
+ "error": "Error (PARSE_ERROR): Failed to parse registry catalog: @uitripled/registry\n- name: Required\n- homepage: Required\n\n💡 The registry catalog may be corrupted or have an invalid format. Please make sure it returns a valid registry.json object. See https://ui.shadcn.com/schema/registry.json.\n\nContext: {\n\"item\": \"@uitripled/registry\"\n}",
+ "total": null,
+ "rawText": "Error (PARSE_ERROR): Failed to parse registry catalog: @uitripled/registry\n- name: Required\n- homepage: Required\n\n💡 The registry catalog may be corrupted or have an invalid format. Please make sure it returns a valid registry.json object. See https://ui.shadcn.com/schema/registry.json.\n\nContext: {\n\"item\": \"@uitripled/registry\"\n}",
+ "fetchedAt": "2026-09-28T14:02:00.857Z"
+}

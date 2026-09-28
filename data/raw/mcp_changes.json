@@ -1,0 +1,3763 @@
+{
+ "@000h-cojeev": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 174,
+  "added": 174,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@1st-pouf": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 71,
+  "added": 71,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@23rd": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 28,
+  "added": 28,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@7ovr": {
+  "source": "shadcn-mcp",
+  "old": 173,
+  "new": 248,
+  "added": 75,
+  "descChanged": 173,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@8bitcn": {
+  "source": "shadcn-mcp",
+  "old": 118,
+  "new": 121,
+  "unchanged": 118,
+  "added": 3,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@8starlabs-ui": {
+  "source": "shadcn-mcp",
+  "old": 70,
+  "new": 76,
+  "unchanged": 70,
+  "added": 6,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@abstract": {
+  "source": "registry-index-direct",
+  "old": 13,
+  "new": 13,
+  "unchanged": 13,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@abui": {
+  "source": "shadcn-mcp",
+  "old": 16,
+  "new": 20,
+  "added": 4,
+  "unchanged": 16,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@aceternity": {
+  "source": "shadcn-mcp",
+  "old": 270,
+  "new": 291,
+  "unchanged": 268,
+  "descChanged": 1,
+  "added": 22,
+  "duplicate": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@aevr": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 6,
+  "added": 6,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@afterglow": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 66,
+  "added": 66,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@agentblog": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 13,
+  "added": 13,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@agentcn": {
+  "source": "shadcn-mcp",
+  "old": 76,
+  "new": 76,
+  "unchanged": 76,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@agents-ui": {
+  "source": "shadcn-mcp",
+  "old": 17,
+  "new": 18,
+  "unchanged": 17,
+  "added": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@agentui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 21,
+  "added": 21,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@ai-elements": {
+  "source": "shadcn-mcp",
+  "old": 136,
+  "new": 136,
+  "unchanged": 136,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@ai2": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 414,
+  "added": 414,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@aicanvas": {
+  "source": "shadcn-mcp",
+  "old": 117,
+  "new": 183,
+  "descChanged": 117,
+  "added": 66,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@akoder": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 17,
+  "added": 17,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@algolia": {
+  "source": "shadcn-mcp",
+  "old": 5,
+  "new": 5,
+  "unchanged": 5,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@amap": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 1,
+  "added": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@amarjay-ui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 18,
+  "added": 18,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@amicro": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 169,
+  "added": 169,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@amplo": {
+  "source": "shadcn-mcp",
+  "old": 6,
+  "new": 9,
+  "unchanged": 2,
+  "descChanged": 4,
+  "added": 3,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@animate-ui": {
+  "source": "shadcn-mcp",
+  "old": 579,
+  "new": 580,
+  "added": 1,
+  "unchanged": 579,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@animbits": {
+  "source": "shadcn-mcp",
+  "old": 99,
+  "new": 99,
+  "unchanged": 99,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@aniui": {
+  "source": "registry-index-direct",
+  "old": 118,
+  "new": 166,
+  "unchanged": 112,
+  "added": 48,
+  "descChanged": 6,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@approvals-ui": {
+  "source": "shadcn-mcp",
+  "old": 6,
+  "new": 6,
+  "unchanged": 6,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@arc": {
+  "source": "shadcn-mcp",
+  "old": 2,
+  "new": 2,
+  "unchanged": 2,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@ark-cn": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 76,
+  "added": 76,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@asanshay": {
+  "source": "shadcn-mcp",
+  "old": 27,
+  "new": 27,
+  "unchanged": 27,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@assistant-ui": {
+  "source": "shadcn-mcp",
+  "old": 40,
+  "new": 156,
+  "added": 116,
+  "descChanged": 40,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@atelier": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 51,
+  "added": 51,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@atomloader": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 591,
+  "added": 591,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@atroui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 84,
+  "added": 84,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@auth0": {
+  "source": "shadcn-mcp",
+  "old": 6,
+  "new": 6,
+  "unchanged": 6,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@avertra-ui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 31,
+  "added": 31,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@awwwardedui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 5,
+  "added": 5,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@axicharts": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 10,
+  "added": 10,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@baraile-loader": {
+  "source": "shadcn-mcp",
+  "old": 1,
+  "new": 1,
+  "unchanged": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@basecn": {
+  "source": "shadcn-mcp",
+  "old": 56,
+  "new": 56,
+  "unchanged": 56,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@baselayer": {
+  "source": "shadcn-mcp",
+  "old": 26,
+  "new": 26,
+  "unchanged": 26,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@benday": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 1,
+  "added": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@beste-ui": {
+  "source": "shadcn-mcp",
+  "old": 1516,
+  "new": 2189,
+  "unchanged": 1510,
+  "added": 673,
+  "descChanged": 6,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@better-auth-ui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 54,
+  "added": 54,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@better-upload": {
+  "source": "shadcn-mcp",
+  "old": 4,
+  "new": 4,
+  "unchanged": 4,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@beui": {
+  "source": "shadcn-mcp",
+  "old": 71,
+  "new": 127,
+  "added": 56,
+  "unchanged": 64,
+  "descChanged": 7,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@billingsdk": {
+  "source": "shadcn-mcp",
+  "old": 35,
+  "new": 35,
+  "unchanged": 35,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@bits-ui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 6,
+  "added": 6,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@bjork-ui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 74,
+  "added": 74,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@bklit": {
+  "source": "shadcn-mcp",
+  "old": 56,
+  "new": 56,
+  "unchanged": 56,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@blobatar": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 6,
+  "added": 6,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@blockforge": {
+  "source": "registry-index-direct",
+  "old": 0,
+  "new": 131,
+  "added": 131,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@blocks-so": {
+  "source": "shadcn-mcp",
+  "old": 77,
+  "new": 81,
+  "unchanged": 76,
+  "added": 5,
+  "duplicate": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@blode": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 100,
+  "added": 100,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@boldkit": {
+  "source": "shadcn-mcp",
+  "old": 91,
+  "new": 96,
+  "unchanged": 91,
+  "added": 5,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@brainless": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 40,
+  "added": 40,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@brut-ui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 59,
+  "added": 59,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@bundui": {
+  "source": "shadcn-mcp",
+  "old": 217,
+  "new": 217,
+  "unchanged": 217,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@buzzform": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 48,
+  "added": 48,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@canvas-ui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 420,
+  "added": 420,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@cardcn": {
+  "source": "shadcn-mcp",
+  "old": 27,
+  "new": 27,
+  "unchanged": 27,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@catalogs": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 2910,
+  "added": 2910,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@chamaac": {
+  "source": "shadcn-mcp",
+  "old": 90,
+  "new": 90,
+  "unchanged": 90,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@channel3": {
+  "source": "shadcn-mcp",
+  "old": 25,
+  "new": 23,
+  "unchanged": 22,
+  "descChanged": 1,
+  "removed": 2,
+  "removedNames": [
+   "use-latest-request",
+   "use-infinite-scroll"
+  ],
+  "isNewRegistry": false
+ },
+ "@clerk": {
+  "source": "shadcn-mcp",
+  "old": 12,
+  "new": 12,
+  "unchanged": 12,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@cligentic": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 24,
+  "added": 24,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@cnippet": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 1132,
+  "added": 1132,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@cognicatch": {
+  "source": "shadcn-mcp",
+  "old": 4,
+  "new": 4,
+  "unchanged": 4,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@commercn": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 17,
+  "added": 17,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@componentry": {
+  "source": "shadcn-mcp",
+  "old": 55,
+  "new": 56,
+  "unchanged": 39,
+  "added": 17,
+  "removed": 16,
+  "removedNames": [
+   "auth-modal",
+   "border-beam",
+   "bouncy-accordion",
+   "command-menu",
+   "hyper-text",
+   "interactive-hover-button",
+   "liquid-blob",
+   "noise-texture",
+   "particle-galaxy",
+   "pulsating-button",
+   "scrub-input",
+   "shimmer-button",
+   "showcase-card",
+   "spotlight-card",
+   "testimonial-marquee",
+   "text-animate"
+  ],
+  "isNewRegistry": false
+ },
+ "@contentbit": {
+  "source": "shadcn-mcp",
+  "old": 20,
+  "new": 20,
+  "unchanged": 20,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@corecn": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 67,
+  "added": 67,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@corr": {
+  "source": "shadcn-mcp",
+  "old": 59,
+  "new": 60,
+  "unchanged": 59,
+  "added": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@corsair-ui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 109,
+  "added": 109,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@coss": {
+  "source": "shadcn-mcp",
+  "old": 565,
+  "new": 579,
+  "unchanged": 564,
+  "added": 14,
+  "descChanged": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@crafterui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 18,
+  "added": 18,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@craftui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 170,
+  "added": 170,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@cubby-ui": {
+  "source": "shadcn-mcp",
+  "old": 80,
+  "new": 79,
+  "unchanged": 78,
+  "added": 1,
+  "removed": 2,
+  "removedNames": [
+   "cropper",
+   "input-otp"
+  ],
+  "isNewRegistry": false
+ },
+ "@cult-ui": {
+  "source": "registry-index-direct",
+  "old": 157,
+  "new": 157,
+  "unchanged": 157,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@d2": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 40,
+  "added": 40,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@dashboardblocks": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 305,
+  "added": 305,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@dashboardcn": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 54,
+  "added": 54,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@data-table-filters": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 15,
+  "added": 15,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@delego": {
+  "source": "shadcn-mcp",
+  "old": 6,
+  "new": 6,
+  "unchanged": 6,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@delta": {
+  "source": "shadcn-mcp",
+  "old": 91,
+  "new": 20,
+  "added": 18,
+  "descChanged": 2,
+  "removed": 89,
+  "removedNames": [
+   "input-otp",
+   "navigation-menu",
+   "code-block-icons",
+   "code-block",
+   "copy-button",
+   "cambio-image",
+   "card-deck",
+   "admonition",
+   "x-scrollable",
+   "scroll-fade-effect",
+   "qrcode",
+   "chat",
+   "mapbox-pointer",
+   "x-card",
+   "marquee",
+   "ai-chat-sidebar",
+   "testimonials",
+   "interactive-feature-showcase",
+   "chatbot-window",
+   "bottom-mobile-nav",
+   "mapbox-grid-block",
+   "admin-inset-layout",
+   "saas-header-layout",
+   "saas-dashboard",
+   "auth-form",
+   "use-mobile",
+   "input-otp-demo",
+   "input-otp-pill-demo",
+   "input-otp-separator-demo",
+   "input-otp-form-demo",
+   "product-card-demo",
+   "product-card-inner-demo",
+   "product-card-custom-demo",
+   "product-card-size-demo",
+   "product-card-grid-demo",
+   "navigation-menu-demo",
+   "x-card-demo",
+   "x-card-basic-demo",
+   "x-card-interactive-demo",
+   "marquee-stacked-demo",
+   "marquee-cards-demo",
+   "marquee-demo",
+   "mapbox-pointer-demo",
+   "mapbox-pointer-style-demo",
+   "mapbox-pointer-theme-demo",
+   "chat-demo",
+   "chat-previous-messages-demo",
+   "chat-simple-demo",
+   "code-block-demo",
+   "code-block-package-demo",
+   "code-block-theme-demo",
+   "code-block-interactive-demo",
+   "code-block-markdown-string-demo",
+   "code-block-npx-markdown-demo",
+   "code-block-package-manager-demo",
+   "code-block-python-demo",
+   "code-block-json-demo",
+   "code-block-expand-demo",
+   "cambio-image-demo",
+   "cambio-image-grid-demo",
+   "cambio-image-dismiss-on-scroll-demo",
+   "cambio-image-motion-preset-demo",
+   "cambio-image-icons-expand-demo",
+   "cambio-image-close-button-demo",
+   "qrcode-demo",
+   "qrcode-purple-dots-demo",
+   "qrcode-demo-interactive",
+   "qrcode-logo-demo",
+   "card-deck-demo",
+   "card-deck-demo-interactive",
+   "admonition-demo",
+   "admonition-demo-interactive",
+   "admonition-custom-icon-demo",
+   "admonition-dismissible-demo",
+   "admonition-actions-demo",
+   "admonition-collapsible-demo",
+   "tabs-demo",
+   "tabs-background-demo",
+   "tabs-no-background-demo",
+   "tabs-sizes-demo",
+   "tabs-with-icons-demo",
+   "tabs-entrance-animation-demo",
+   "tabs-in-scroll-area-demo",
+   "card-deck-yugioh-demo",
+   "card-deck-balatro-demo",
+   "chat-shimmer-demo",
+   "chat-reasoning-demo",
+   "scroll-fade-effect-demo",
+   "scroll-fade-effect-slider-demo"
+  ],
+  "isNewRegistry": false
+ },
+ "@designali": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 253,
+  "added": 253,
+  "duplicate": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@dgit": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 11,
+  "added": 11,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@diarmuradi": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 119,
+  "added": 119,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@diceui": {
+  "source": "registry-index-direct",
+  "old": 242,
+  "new": 246,
+  "unchanged": 242,
+  "added": 4,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@diklein": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 3,
+  "added": 3,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@dominik-ui": {
+  "source": "shadcn-mcp",
+  "old": 3,
+  "new": 4,
+  "unchanged": 3,
+  "added": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@dotmatrix": {
+  "source": "shadcn-mcp",
+  "old": 91,
+  "new": 91,
+  "unchanged": 91,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@dsikeres1": {
+  "source": "shadcn-mcp",
+  "old": 1,
+  "new": 1,
+  "unchanged": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@easeui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 50,
+  "added": 50,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@ecomcn": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 11,
+  "added": 11,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@efferd": {
+  "source": "shadcn-mcp",
+  "old": 200,
+  "new": 231,
+  "added": 31,
+  "unchanged": 200,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@einui": {
+  "source": "shadcn-mcp",
+  "old": 42,
+  "new": 44,
+  "unchanged": 41,
+  "added": 2,
+  "descChanged": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@eldoraui": {
+  "source": "shadcn-mcp",
+  "old": 114,
+  "new": 115,
+  "added": 1,
+  "unchanged": 114,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@elements": {
+  "source": "shadcn-mcp",
+  "old": 359,
+  "new": 360,
+  "unchanged": 359,
+  "added": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@elevenlabs-ui": {
+  "source": "registry-index-direct",
+  "old": 48,
+  "new": 50,
+  "added": 2,
+  "unchanged": 48,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@elsecase": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 3,
+  "added": 3,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@emailcn": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 338,
+  "added": 338,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@emstein-ui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 1,
+  "added": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@ericts": {
+  "source": "shadcn-mcp",
+  "old": 28,
+  "new": 56,
+  "unchanged": 19,
+  "added": 36,
+  "descChanged": 1,
+  "removed": 8,
+  "removedNames": [
+   "check-animation",
+   "jitter-animation",
+   "squeeze-animation",
+   "heartbeat-animation",
+   "projected-shadow-animation",
+   "expanding-segmented-tabs",
+   "expanding-button",
+   "expandable-modal"
+  ],
+  "isNewRegistry": false
+ },
+ "@evex": {
+  "source": "shadcn-mcp",
+  "old": 11,
+  "new": 23,
+  "unchanged": 10,
+  "descChanged": 1,
+  "added": 12,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@evilbuttons": {
+  "source": "registry-index-direct",
+  "old": 29,
+  "new": 28,
+  "descChanged": 14,
+  "unchanged": 11,
+  "added": 3,
+  "removed": 4,
+  "removedNames": [
+   "grid-button",
+   "captcha-button",
+   "pill-button",
+   "hold-confirm-button"
+  ],
+  "isNewRegistry": false
+ },
+ "@evilcharts": {
+  "source": "shadcn-mcp",
+  "old": 129,
+  "new": 279,
+  "added": 166,
+  "unchanged": 113,
+  "removed": 16,
+  "removedNames": [
+   "chart",
+   "tooltip",
+   "legend",
+   "dot",
+   "evil-brush",
+   "background",
+   "area-chart",
+   "line-chart",
+   "bar-chart",
+   "composed-chart",
+   "pie-chart",
+   "radial-chart",
+   "radar-chart",
+   "sankey-chart",
+   "ex-glowing-radial-chart",
+   "ex-glowing-sankey-chart"
+  ],
+  "isNewRegistry": false
+ },
+ "@exabase": {
+  "source": "shadcn-mcp",
+  "old": 61,
+  "new": 61,
+  "unchanged": 61,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@extend": {
+  "source": "shadcn-mcp",
+  "old": 55,
+  "new": 67,
+  "unchanged": 54,
+  "descChanged": 1,
+  "added": 12,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@fab-ui": {
+  "source": "shadcn-mcp",
+  "old": 44,
+  "new": 44,
+  "unchanged": 44,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@fibo": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 11,
+  "added": 11,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@flagcn": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 321,
+  "added": 321,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@flightcn": {
+  "source": "shadcn-mcp",
+  "old": 2,
+  "new": 13,
+  "descChanged": 1,
+  "unchanged": 1,
+  "added": 11,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@flowkit-ui": {
+  "source": "shadcn-mcp",
+  "old": 1,
+  "new": 1,
+  "unchanged": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@flowui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 10,
+  "added": 10,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@fluent2-react-kit": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 37,
+  "added": 37,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@fluid": {
+  "source": "shadcn-mcp",
+  "old": 52,
+  "new": 71,
+  "unchanged": 32,
+  "added": 20,
+  "descChanged": 19,
+  "removed": 1,
+  "removedNames": [
+   "use-proximity-hover"
+  ],
+  "isNewRegistry": false
+ },
+ "@flx": {
+  "source": "shadcn-mcp",
+  "old": 441,
+  "new": 450,
+  "unchanged": 440,
+  "added": 10,
+  "removed": 1,
+  "removedNames": [
+   "content-01"
+  ],
+  "isNewRegistry": false
+ },
+ "@forgeui": {
+  "source": "shadcn-mcp",
+  "old": 28,
+  "new": 24,
+  "unchanged": 17,
+  "descChanged": 6,
+  "added": 1,
+  "removed": 5,
+  "removedNames": [
+   "expandable-card",
+   "notification-panel",
+   "onboard-card",
+   "social-card",
+   "nebulore"
+  ],
+  "isNewRegistry": false
+ },
+ "@formcn": {
+  "source": "shadcn-mcp",
+  "old": 9,
+  "new": 9,
+  "unchanged": 9,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@formscn": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 30,
+  "added": 30,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@framecn": {
+  "source": "shadcn-mcp",
+  "old": 101,
+  "new": 101,
+  "unchanged": 101,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@gaia": {
+  "source": "shadcn-mcp",
+  "old": 26,
+  "new": 29,
+  "unchanged": 26,
+  "added": 3,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@gamekitui": {
+  "source": "shadcn-mcp",
+  "old": 12,
+  "new": 12,
+  "unchanged": 12,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@gamifykit": {
+  "source": "shadcn-mcp",
+  "old": 3,
+  "new": 3,
+  "unchanged": 3,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@gammaui": {
+  "source": "shadcn-mcp",
+  "old": 60,
+  "new": 63,
+  "added": 3,
+  "unchanged": 60,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@gc-solid": {
+  "source": "shadcn-mcp",
+  "old": 59,
+  "new": 61,
+  "unchanged": 59,
+  "added": 2,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@glass-ui": {
+  "source": "shadcn-mcp",
+  "old": 49,
+  "new": 49,
+  "unchanged": 49,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@glasscn": {
+  "source": "shadcn-mcp",
+  "old": 64,
+  "new": 65,
+  "unchanged": 64,
+  "added": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@gooseui": {
+  "source": "shadcn-mcp",
+  "old": 19,
+  "new": 19,
+  "unchanged": 19,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@gpt-vis": {
+  "source": "shadcn-mcp",
+  "old": 27,
+  "new": 27,
+  "unchanged": 27,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@grainly-icons": {
+  "source": "registry-index-direct",
+  "old": 23,
+  "new": 23,
+  "unchanged": 23,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@gridcn": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 60,
+  "added": 60,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@grootstudio": {
+  "source": "shadcn-mcp",
+  "old": 24,
+  "new": 26,
+  "unchanged": 24,
+  "added": 2,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@gymnopedies": {
+  "source": "shadcn-mcp",
+  "old": 47,
+  "new": 49,
+  "unchanged": 47,
+  "added": 2,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@ha-components": {
+  "source": "shadcn-mcp",
+  "old": 12,
+  "new": 12,
+  "unchanged": 12,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@headcodecms": {
+  "source": "registry-index-direct",
+  "old": 1,
+  "new": 1,
+  "unchanged": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@heatmap": {
+  "source": "registry-index-direct",
+  "old": 4,
+  "new": 4,
+  "unchanged": 4,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@herocn": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 555,
+  "added": 555,
+  "duplicate": 4,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@heroicons-animated": {
+  "source": "shadcn-mcp",
+  "old": 316,
+  "new": 316,
+  "unchanged": 316,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@hexui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 34,
+  "added": 34,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@hirael": {
+  "source": "shadcn-mcp",
+  "old": 147,
+  "new": 278,
+  "descChanged": 71,
+  "unchanged": 75,
+  "added": 132,
+  "removed": 1,
+  "removedNames": [
+   "calendar-utils"
+  ],
+  "isNewRegistry": false
+ },
+ "@honestui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 84,
+  "added": 84,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@hugeicons-animated": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 165,
+  "added": 165,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@hugeicons-animated-vue": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 6122,
+  "added": 6122,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@iandefined": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 56,
+  "added": 56,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@iconiq": {
+  "source": "shadcn-mcp",
+  "old": 116,
+  "new": 120,
+  "unchanged": 116,
+  "added": 4,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@ilinxa": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 184,
+  "added": 184,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@indiacn": {
+  "source": "shadcn-mcp",
+  "old": 26,
+  "new": 48,
+  "unchanged": 26,
+  "added": 22,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@inferencesh": {
+  "source": "shadcn-mcp",
+  "old": 14,
+  "new": 14,
+  "unchanged": 14,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@initium": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 252,
+  "added": 252,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@intentui": {
+  "source": "shadcn-mcp",
+  "old": 557,
+  "new": 592,
+  "added": 35,
+  "unchanged": 557,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@interior": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 54,
+  "added": 54,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@jolyui": {
+  "source": "shadcn-mcp",
+  "old": 198,
+  "new": 199,
+  "added": 1,
+  "unchanged": 198,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@joyco": {
+  "source": "shadcn-mcp",
+  "old": 47,
+  "new": 48,
+  "unchanged": 47,
+  "added": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@kanpeki": {
+  "source": "shadcn-mcp",
+  "old": 260,
+  "new": 259,
+  "unchanged": 259,
+  "duplicate": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@kapwa": {
+  "source": "shadcn-mcp",
+  "old": 11,
+  "new": 11,
+  "unchanged": 11,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@kaui": {
+  "source": "shadcn-mcp",
+  "old": 10,
+  "new": 10,
+  "unchanged": 10,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@keyline": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 9736,
+  "added": 9736,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@kibo-ui": {
+  "source": "shadcn-mcp",
+  "old": 40,
+  "new": 41,
+  "unchanged": 40,
+  "added": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@kinetic": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 1,
+  "added": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@knock-codes": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 19,
+  "added": 19,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@knot-ui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 15,
+  "added": 15,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@kobra": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 78,
+  "added": 78,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@kokonutui": {
+  "source": "shadcn-mcp",
+  "old": 40,
+  "new": 51,
+  "descChanged": 40,
+  "added": 11,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@launchui": {
+  "source": "registry-index-direct",
+  "old": 24,
+  "new": 24,
+  "unchanged": 24,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@layish": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 2,
+  "added": 2,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@lema-ds": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 378,
+  "added": 378,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@lens-blocks": {
+  "source": "shadcn-mcp",
+  "old": 24,
+  "new": 24,
+  "unchanged": 24,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@limeplay": {
+  "source": "shadcn-mcp",
+  "old": 50,
+  "new": 52,
+  "added": 2,
+  "unchanged": 50,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@liquefy-ui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 39,
+  "added": 39,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@livedocs": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 41,
+  "added": 41,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@lmscn": {
+  "source": "shadcn-mcp",
+  "old": 10,
+  "new": 10,
+  "unchanged": 10,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@loading-ui": {
+  "source": "shadcn-mcp",
+  "old": 48,
+  "new": 50,
+  "added": 2,
+  "unchanged": 48,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@localmode": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 147,
+  "added": 147,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@lucide-animated": {
+  "source": "shadcn-mcp",
+  "old": 440,
+  "new": 467,
+  "unchanged": 439,
+  "added": 28,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@lumiui": {
+  "source": "shadcn-mcp",
+  "old": 67,
+  "new": 67,
+  "unchanged": 67,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@lytenyte": {
+  "source": "shadcn-mcp",
+  "old": 2,
+  "new": 2,
+  "unchanged": 2,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@magicui": {
+  "source": "shadcn-mcp",
+  "old": 246,
+  "new": 250,
+  "added": 4,
+  "unchanged": 246,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@manifest": {
+  "source": "shadcn-mcp",
+  "old": 32,
+  "new": 32,
+  "unchanged": 32,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@mapcn": {
+  "source": "shadcn-mcp",
+  "old": 8,
+  "new": 9,
+  "unchanged": 8,
+  "added": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@materialcn": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 66,
+  "added": 66,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@mediadrop": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 4,
+  "added": 4,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@mewo": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 10,
+  "added": 10,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@microkit": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 49,
+  "added": 49,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@mischief": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 234,
+  "added": 234,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@mksingh": {
+  "source": "shadcn-mcp",
+  "old": 36,
+  "new": 36,
+  "unchanged": 36,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@moduix-react": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 96,
+  "added": 96,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@morphiq": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 20,
+  "added": 20,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@motion-lexicon": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 150,
+  "added": 150,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@motion-primitives": {
+  "source": "shadcn-mcp",
+  "old": 33,
+  "new": 33,
+  "unchanged": 33,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@motiq": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 100,
+  "added": 100,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@motokoui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 18,
+  "added": 18,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@moumenlab": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 14,
+  "added": 14,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@mozaika": {
+  "source": "shadcn-mcp",
+  "old": 548,
+  "new": 548,
+  "descChanged": 518,
+  "unchanged": 30,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@mui-treasury": {
+  "source": "shadcn-mcp",
+  "old": 192,
+  "new": 192,
+  "unchanged": 192,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@navui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 62,
+  "added": 62,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@ncdai": {
+  "source": "shadcn-mcp",
+  "old": 52,
+  "new": 69,
+  "unchanged": 52,
+  "added": 17,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@nekode": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 23,
+  "added": 23,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@neon-ui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 77,
+  "added": 77,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@nexus-labs": {
+  "source": "registry-index-direct",
+  "old": 86,
+  "new": 86,
+  "unchanged": 86,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@nexus-ui": {
+  "source": "shadcn-mcp",
+  "old": 15,
+  "new": 15,
+  "unchanged": 15,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@niko-table": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 34,
+  "added": 34,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@nostalgia-ui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 91,
+  "added": 91,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@ns-ui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 542,
+  "added": 542,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@nteract": {
+  "source": "shadcn-mcp",
+  "old": 35,
+  "new": 35,
+  "unchanged": 35,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@nuqs": {
+  "source": "shadcn-mcp",
+  "old": 5,
+  "new": 6,
+  "unchanged": 5,
+  "added": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@nusaiba": {
+  "source": "shadcn-mcp",
+  "old": 119,
+  "new": 119,
+  "unchanged": 119,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@odysseyui": {
+  "source": "shadcn-mcp",
+  "old": 287,
+  "new": 288,
+  "added": 1,
+  "unchanged": 287,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@ogimagecn": {
+  "source": "shadcn-mcp",
+  "old": 22,
+  "new": 22,
+  "unchanged": 22,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@oidc": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 78,
+  "added": 78,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@onchain-ui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 18,
+  "added": 18,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@opaline": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 40,
+  "added": 40,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@openmirai": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 1,
+  "added": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@openstatus": {
+  "source": "shadcn-mcp",
+  "old": 26,
+  "new": 26,
+  "unchanged": 26,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@optics": {
+  "source": "shadcn-mcp",
+  "old": 79,
+  "new": 79,
+  "unchanged": 79,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@oui": {
+  "source": "shadcn-mcp",
+  "old": 137,
+  "new": 137,
+  "unchanged": 137,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@pacekit": {
+  "source": "shadcn-mcp",
+  "old": 22,
+  "new": 23,
+  "added": 1,
+  "unchanged": 22,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@paceui": {
+  "source": "shadcn-mcp",
+  "old": 22,
+  "new": 23,
+  "added": 1,
+  "unchanged": 22,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@paceui-gsap": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 29,
+  "added": 29,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@paddle": {
+  "source": "shadcn-mcp",
+  "old": 14,
+  "new": 14,
+  "unchanged": 14,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@paletteui": {
+  "source": "shadcn-mcp",
+  "old": 65,
+  "new": 65,
+  "unchanged": 65,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@pane": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 15,
+  "added": 15,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@pantoken": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 80,
+  "added": 80,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@pastecn": {
+  "source": "shadcn-mcp",
+  "old": 1,
+  "new": 1,
+  "unchanged": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@paykit-sdk": {
+  "source": "shadcn-mcp",
+  "old": 21,
+  "new": 21,
+  "unchanged": 21,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@payload-components": {
+  "source": "shadcn-mcp",
+  "old": 58,
+  "new": 82,
+  "unchanged": 58,
+  "added": 24,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@persianlabsui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 105,
+  "added": 105,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@pipecat": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 21,
+  "added": 21,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@pixelact-ui": {
+  "source": "shadcn-mcp",
+  "old": 28,
+  "new": 28,
+  "unchanged": 28,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@plate": {
+  "source": "shadcn-mcp",
+  "old": 321,
+  "new": 324,
+  "unchanged": 321,
+  "added": 3,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@plotcn": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 49,
+  "added": 49,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@preskok": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 260,
+  "added": 260,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@prompt-kit": {
+  "source": "shadcn-mcp",
+  "old": 23,
+  "new": 23,
+  "unchanged": 23,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@prosekit": {
+  "source": "shadcn-mcp",
+  "old": 548,
+  "new": 549,
+  "unchanged": 548,
+  "added": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@pulld": {
+  "source": "shadcn-mcp",
+  "old": 31,
+  "new": 99,
+  "descChanged": 31,
+  "added": 68,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@quill": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 59,
+  "added": 59,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@quiz-ui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 15,
+  "added": 15,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@ramonclaudio-coderabbit": {
+  "source": "shadcn-mcp",
+  "old": 19,
+  "new": 19,
+  "unchanged": 19,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@ratneshc": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 6,
+  "added": 6,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@rawkitui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 39,
+  "added": 39,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@react-aria": {
+  "source": "shadcn-mcp",
+  "old": 109,
+  "new": 158,
+  "added": 49,
+  "unchanged": 109,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@react-bits": {
+  "source": "shadcn-mcp",
+  "old": 556,
+  "new": 844,
+  "unchanged": 556,
+  "added": 288,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@react-easy-modals": {
+  "source": "registry-index-direct",
+  "old": 2,
+  "new": 2,
+  "unchanged": 2,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@react-slot": {
+  "source": "shadcn-mcp",
+  "old": 1,
+  "new": 1,
+  "unchanged": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@reactframe": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 230,
+  "added": 230,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@remocn": {
+  "source": "shadcn-mcp",
+  "old": 236,
+  "new": 332,
+  "unchanged": 234,
+  "added": 98,
+  "removed": 2,
+  "removedNames": [
+   "progress-steps",
+   "data-flow-pipes"
+  ],
+  "isNewRegistry": false
+ },
+ "@remotionui": {
+  "source": "registry-index-direct",
+  "old": 0,
+  "new": 235,
+  "added": 235,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@rescript-shadcn": {
+  "source": "shadcn-mcp",
+  "old": 460,
+  "new": 535,
+  "added": 75,
+  "unchanged": 460,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@retab": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 130,
+  "added": 130,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@retroui": {
+  "source": "shadcn-mcp",
+  "old": 54,
+  "new": 54,
+  "unchanged": 54,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@reui": {
+  "source": "shadcn-mcp",
+  "old": 1534,
+  "new": 1805,
+  "added": 271,
+  "unchanged": 1525,
+  "descChanged": 9,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@roiui": {
+  "source": "shadcn-mcp",
+  "old": 124,
+  "new": 121,
+  "unchanged": 120,
+  "descChanged": 1,
+  "duplicate": 1,
+  "removed": 2,
+  "removedNames": [
+   "kanban-board",
+   "kanban-board-tailwind"
+  ],
+  "isNewRegistry": false
+ },
+ "@saaskit": {
+  "source": "registry-index-direct",
+  "old": 10,
+  "new": 10,
+  "unchanged": 10,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@saastro": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 53,
+  "added": 53,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@sans": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 1,
+  "added": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@satoriui": {
+  "source": "shadcn-mcp",
+  "old": 15,
+  "new": 15,
+  "unchanged": 15,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@sc1m": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 43,
+  "added": 43,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@scrimui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 68,
+  "added": 68,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@scrollxui": {
+  "source": "shadcn-mcp",
+  "old": 180,
+  "new": 180,
+  "unchanged": 179,
+  "descChanged": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@seamui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 305,
+  "added": 305,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@sekei": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 11,
+  "added": 11,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@sevenui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 67,
+  "added": 67,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@sf-fleet-hud": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 47,
+  "added": 47,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@shadcn-dashboard": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 508,
+  "added": 508,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@shadcn-editor": {
+  "source": "shadcn-mcp",
+  "old": 1,
+  "new": 1,
+  "descChanged": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@shadcn-map": {
+  "source": "shadcn-mcp",
+  "old": 32,
+  "new": 32,
+  "unchanged": 32,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@shadcn-space": {
+  "source": "shadcn-mcp",
+  "old": 736,
+  "new": 941,
+  "unchanged": 732,
+  "added": 206,
+  "descChanged": 3,
+  "removed": 1,
+  "removedNames": [
+   "bentogrid-01"
+  ],
+  "isNewRegistry": false
+ },
+ "@shadcn-studio": {
+  "source": "shadcn-mcp",
+  "old": 687,
+  "new": 694,
+  "unchanged": 687,
+  "added": 7,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@shadcn-ui-blocks": {
+  "source": "shadcn-mcp",
+  "old": 3962,
+  "new": 4007,
+  "unchanged": 3962,
+  "added": 45,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@shadcnblocks": {
+  "source": "shadcn-mcp",
+  "old": 3730,
+  "new": 4171,
+  "descChanged": 528,
+  "unchanged": 3202,
+  "added": 441,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@shadcncraft": {
+  "source": "shadcn-mcp",
+  "old": 22,
+  "new": 300,
+  "added": 278,
+  "unchanged": 22,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@shadcndesign": {
+  "source": "shadcn-mcp",
+  "old": 44,
+  "new": 44,
+  "unchanged": 44,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@shadcnhooks": {
+  "source": "shadcn-mcp",
+  "old": 58,
+  "new": 58,
+  "unchanged": 58,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@shadcnloaders": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 1,
+  "added": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@shadcnmaps": {
+  "source": "shadcn-mcp",
+  "old": 361,
+  "new": 361,
+  "unchanged": 361,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@shadcnstore": {
+  "source": "shadcn-mcp",
+  "old": 182,
+  "new": 274,
+  "added": 92,
+  "descChanged": 100,
+  "unchanged": 82,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@shadcnui-blocks": {
+  "source": "shadcn-mcp",
+  "old": 542,
+  "new": 542,
+  "unchanged": 535,
+  "descChanged": 6,
+  "added": 1,
+  "removed": 1,
+  "removedNames": [
+   "timeline-07"
+  ],
+  "isNewRegistry": false
+ },
+ "@shadcnuikit": {
+  "source": "shadcn-mcp",
+  "old": 759,
+  "new": 958,
+  "unchanged": 518,
+  "added": 203,
+  "descChanged": 237,
+  "duplicate": 4,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@shivraj-roy": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 1,
+  "added": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@simple-ai": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 6,
+  "added": 6,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@skecher-ui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 26,
+  "added": 26,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@skiper-ui": {
+  "source": "shadcn-mcp",
+  "old": 37,
+  "new": 37,
+  "unchanged": 37,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@slide-cn": {
+  "source": "shadcn-mcp",
+  "old": 20,
+  "new": 20,
+  "unchanged": 20,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@slidecn": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 26,
+  "added": 26,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@smoothui": {
+  "source": "shadcn-mcp",
+  "old": 158,
+  "new": 246,
+  "added": 88,
+  "unchanged": 157,
+  "descChanged": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@snapcn": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 47,
+  "added": 47,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@solaceui": {
+  "source": "shadcn-mcp",
+  "old": 39,
+  "new": 39,
+  "unchanged": 39,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@sona-ui": {
+  "source": "shadcn-mcp",
+  "old": 16,
+  "new": 46,
+  "added": 31,
+  "unchanged": 7,
+  "descChanged": 8,
+  "removed": 1,
+  "removedNames": [
+   "vertical-tab"
+  ],
+  "isNewRegistry": false
+ },
+ "@soralabs": {
+  "source": "shadcn-mcp",
+  "old": 74,
+  "new": 68,
+  "added": 39,
+  "unchanged": 29,
+  "removed": 45,
+  "removedNames": [
+   "demo-accordion",
+   "demo-expandable-tabs",
+   "demo-inline-testimonials",
+   "demo-border-trail",
+   "demo-border-trail-loading",
+   "demo-border-trail-textarea",
+   "demo-cursor-bubble",
+   "demo-cursor-trail-reveal",
+   "demo-custom-cursor",
+   "demo-dock-nav",
+   "demo-highlight",
+   "demo-highlight-click",
+   "demo-infinite-scrolling-images",
+   "demo-logo-carousel-swapper",
+   "demo-magnetic-cards",
+   "demo-pixel-background",
+   "demo-progressive-blur",
+   "demo-scroll-gallery",
+   "demo-skeleton",
+   "demo-sticky-scroll-cards",
+   "demo-tilt-card",
+   "demo-tilt-card-glare",
+   "demo-tilt-card-image",
+   "demo-bottom-sheet",
+   "demo-dia-text-reveal",
+   "demo-draw-underline-link",
+   "demo-number-flow",
+   "demo-text-effect",
+   "demo-text-loop",
+   "demo-text-morph",
+   "demo-text-morph-input",
+   "demo-text-reveal-box",
+   "demo-text-reveal-mask",
+   "demo-text-roll",
+   "lib-ease",
+   "lib-get-strict-context",
+   "char-stagger-button",
+   "section-cta",
+   "border-trail",
+   "custom-cursor",
+   "dock-nav",
+   "pixel-background",
+   "pixelated-image-reveal",
+   "bottom-sheet",
+   "text-underline"
+  ],
+  "isNewRegistry": false
+ },
+ "@soundcn": {
+  "source": "shadcn-mcp",
+  "old": 816,
+  "new": 816,
+  "unchanged": 816,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@spaceui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 1100,
+  "added": 1100,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@spark-ui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 18,
+  "added": 18,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@spectrumui": {
+  "source": "shadcn-mcp",
+  "old": 116,
+  "new": 315,
+  "added": 200,
+  "unchanged": 115,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@spell": {
+  "source": "shadcn-mcp",
+  "old": 33,
+  "new": 33,
+  "unchanged": 33,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@ssych": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 80,
+  "added": 80,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@starck": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 16,
+  "added": 16,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@starseam": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 56,
+  "added": 56,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@stepper": {
+  "source": "shadcn-mcp",
+  "old": 3,
+  "new": 3,
+  "unchanged": 3,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@styleui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 4,
+  "added": 4,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@stylexui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 18,
+  "added": 18,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@supabase": {
+  "source": "shadcn-mcp",
+  "old": 60,
+  "new": 67,
+  "added": 7,
+  "unchanged": 60,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@svelte-bits": {
+  "source": "shadcn-mcp",
+  "old": 128,
+  "new": 164,
+  "unchanged": 128,
+  "added": 36,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@svgl": {
+  "source": "shadcn-mcp",
+  "old": 665,
+  "new": 662,
+  "added": 5,
+  "unchanged": 657,
+  "duplicate": 8,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@systaliko-ui": {
+  "source": "shadcn-mcp",
+  "old": 154,
+  "new": 172,
+  "added": 20,
+  "unchanged": 151,
+  "descChanged": 1,
+  "duplicate": 2,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@tablecn": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 2,
+  "added": 2,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@tailark": {
+  "source": "shadcn-mcp",
+  "old": 210,
+  "new": 476,
+  "added": 403,
+  "descChanged": 73,
+  "removed": 136,
+  "removedNames": [
+   "login-1",
+   "login-2",
+   "login-3",
+   "integrations-3",
+   "integrations-4",
+   "integrations-8",
+   "mist-call-to-action-1",
+   "mist-call-to-action-2",
+   "mist-call-to-action-3",
+   "mist-comparator-1",
+   "mist-contact-1",
+   "mist-content-1",
+   "mist-content-2",
+   "mist-content-3",
+   "mist-content-4",
+   "mist-faqs-1",
+   "mist-faqs-2",
+   "mist-faqs-3",
+   "mist-features-1",
+   "mist-features-2",
+   "mist-features-3",
+   "mist-features-4",
+   "mist-features-5",
+   "mist-features-6",
+   "mist-features-7",
+   "mist-features-8",
+   "mist-features-9",
+   "mist-features-10",
+   "mist-features-11",
+   "mist-footer-1",
+   "mist-footer-2",
+   "mist-footer-3",
+   "mist-footer-4",
+   "mist-forgot-password-1",
+   "mist-hero-section-1",
+   "mist-hero-section-2",
+   "mist-hero-section-3",
+   "mist-hero-section-4",
+   "mist-hero-section-5",
+   "mist-hero-section-6",
+   "mist-integrations-1",
+   "mist-integrations-2",
+   "mist-integrations-3",
+   "mist-login-1",
+   "mist-logo-cloud-1",
+   "mist-logo-cloud-2",
+   "mist-pricing-1",
+   "mist-pricing-2",
+   "mist-sign-up-1",
+   "mist-stats-1",
+   "mist-stats-2",
+   "mist-stats-3",
+   "mist-stats-4",
+   "mist-team-1",
+   "mist-team-2",
+   "mist-testimonials-1",
+   "mist-testimonials-2",
+   "mist-testimonials-3",
+   "mist-testimonials-4",
+   "mist-testimonials-5",
+   "veil-beacon",
+   "veil-bolt",
+   "veil-cisco",
+   "veil-claude",
+   "veil-clerk",
+   "veil-figma",
+   "veil-firebase",
+   "veil-hulu",
+   "veil-linear",
+   "veil-slack",
+   "veil-spotify",
+   "veil-supabase",
+   "veil-twilio",
+   "veil-vercel",
+   "veil-logo",
+   "veil-button",
+   "veil-card",
+   "veil-input",
+   "veil-textarea",
+   "veil-call-to-action-1",
+   "veil-call-to-action-2",
+   "veil-call-to-action-3",
+   "veil-call-to-action-4",
+   "veil-comparator-1",
+   "veil-comparator-2",
+   "veil-comparator-3",
+   "veil-contact-1",
+   "veil-contact-2",
+   "veil-content-1",
+   "veil-content-2",
+   "veil-content-3",
+   "veil-faqs-1",
+   "veil-faqs-2",
+   "veil-faqs-3",
+   "veil-faqs-4",
+   "veil-faqs-5",
+   "veil-features-1",
+   "veil-features-2",
+   "veil-features-3",
+   "veil-footer-1",
+   "veil-footer-2",
+   "veil-footer-3",
+   "veil-footer-4",
+   "veil-footer-5",
+   "veil-footer-6",
+   "veil-forgot-password-1",
+   "veil-forgot-password-2",
+   "veil-forgot-password-3",
+   "veil-hero-section-1",
+   "veil-hero-section-2",
+   "veil-hero-section-3",
+   "veil-hero-section-4",
+   "veil-hero-section-5",
+   "veil-integrations-1",
+   "veil-integrations-2",
+   "veil-login-1",
+   "veil-login-2",
+   "veil-login-3",
+   "veil-logo-cloud-1",
+   "veil-logo-cloud-2",
+   "veil-pricing-1",
+   "veil-pricing-2",
+   "veil-pricing-3",
+   "veil-sign-up-1",
+   "veil-sign-up-2",
+   "veil-sign-up-3",
+   "veil-stats-1",
+   "veil-stats-2",
+   "veil-stats-3",
+   "veil-stats-4",
+   "veil-team-1",
+   "veil-team-2",
+   "veil-testimonials-1",
+   "veil-testimonials-2",
+   "veil-testimonials-3",
+   "veil-testimonials-4"
+  ],
+  "isNewRegistry": false
+ },
+ "@tailgrids": {
+  "source": "shadcn-mcp",
+  "old": 61,
+  "new": 61,
+  "unchanged": 61,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@tailwind-admin": {
+  "source": "shadcn-mcp",
+  "old": 102,
+  "new": 102,
+  "unchanged": 102,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@tailwind-builder": {
+  "source": "registry-index-direct",
+  "old": 4,
+  "new": 4,
+  "unchanged": 4,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@taki": {
+  "source": "shadcn-mcp",
+  "old": 538,
+  "new": 540,
+  "added": 2,
+  "unchanged": 538,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@termcn": {
+  "source": "shadcn-mcp",
+  "old": 329,
+  "new": 344,
+  "unchanged": 329,
+  "added": 15,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@terrae": {
+  "source": "shadcn-mcp",
+  "old": 40,
+  "new": 40,
+  "unchanged": 40,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@tetra-ui": {
+  "source": "shadcn-mcp",
+  "old": 36,
+  "new": 45,
+  "unchanged": 35,
+  "added": 10,
+  "removed": 1,
+  "removedNames": [
+   "native-sheet"
+  ],
+  "isNewRegistry": false
+ },
+ "@text-ui": {
+  "source": "shadcn-mcp",
+  "old": 1,
+  "new": 1,
+  "unchanged": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@thegridcn": {
+  "source": "shadcn-mcp",
+  "old": 140,
+  "new": 144,
+  "unchanged": 139,
+  "added": 5,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@threecn": {
+  "source": "shadcn-mcp",
+  "old": 27,
+  "new": 28,
+  "unchanged": 27,
+  "added": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@tile-ui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 71,
+  "added": 71,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@toc-cn": {
+  "source": "shadcn-mcp",
+  "old": 1,
+  "new": 1,
+  "unchanged": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@toggles": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 14,
+  "added": 14,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@tokenui": {
+  "source": "shadcn-mcp",
+  "old": 17,
+  "new": 17,
+  "unchanged": 17,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@tool-ui": {
+  "source": "shadcn-mcp",
+  "old": 27,
+  "new": 27,
+  "unchanged": 27,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@tour": {
+  "source": "shadcn-mcp",
+  "old": 1,
+  "new": 1,
+  "unchanged": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@trophy-ui": {
+  "source": "shadcn-mcp",
+  "old": 17,
+  "new": 18,
+  "added": 1,
+  "unchanged": 17,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@tuiparts": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 56,
+  "added": 56,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@turbopills-ui": {
+  "source": "shadcn-mcp",
+  "old": 10,
+  "new": 10,
+  "unchanged": 10,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@tween-ui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 82,
+  "added": 82,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@tweenly": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 61,
+  "added": 61,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@typedora-ui": {
+  "source": "shadcn-mcp",
+  "old": 4,
+  "new": 4,
+  "unchanged": 4,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@ui-layouts": {
+  "source": "shadcn-mcp",
+  "old": 327,
+  "new": 327,
+  "unchanged": 327,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@ui-shrushank": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 8,
+  "added": 8,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@uiable": {
+  "source": "shadcn-mcp",
+  "old": 550,
+  "new": 986,
+  "added": 451,
+  "descChanged": 535,
+  "renamed": 535,
+  "removed": 15,
+  "removedNames": [
+   "uiable-spinner-border-danger",
+   "uiable-spinner-border-dark",
+   "uiable-spinner-border-info",
+   "uiable-spinner-border-primary",
+   "uiable-spinner-border-secondary",
+   "uiable-spinner-border-success",
+   "uiable-spinner-border-warning",
+   "uiable-spinner-growing-danger",
+   "uiable-spinner-growing-dark",
+   "uiable-spinner-growing-info",
+   "uiable-spinner-growing-primary",
+   "uiable-spinner-growing-secondary",
+   "uiable-spinner-growing-success",
+   "uiable-spinner-growing-warning",
+   "uiable-checkbox-sizes"
+  ],
+  "isNewRegistry": false
+ },
+ "@uicapsule": {
+  "source": "shadcn-mcp",
+  "old": 29,
+  "new": 52,
+  "added": 25,
+  "descChanged": 27,
+  "removed": 2,
+  "removedNames": [
+   "expanding-header-menu",
+   "feed"
+  ],
+  "isNewRegistry": false
+ },
+ "@uiception": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 124,
+  "added": 124,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@uitripled": {
+  "source": "registry-index-direct",
+  "old": 282,
+  "new": 282,
+  "unchanged": 282,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@uniquel": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 52,
+  "added": 52,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@unlumen-ui": {
+  "source": "shadcn-mcp",
+  "old": 224,
+  "new": 235,
+  "added": 11,
+  "unchanged": 222,
+  "descChanged": 2,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@uselayouts": {
+  "source": "shadcn-mcp",
+  "old": 26,
+  "new": 64,
+  "unchanged": 24,
+  "added": 40,
+  "removed": 2,
+  "removedNames": [
+   "list-item",
+   "status-button"
+  ],
+  "isNewRegistry": false
+ },
+ "@usva": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 83,
+  "added": 83,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@utilcn": {
+  "source": "shadcn-mcp",
+  "old": 17,
+  "new": 17,
+  "unchanged": 17,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@uui": {
+  "source": "registry-index-direct",
+  "old": 6,
+  "new": 6,
+  "unchanged": 6,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@vectorstudio-ir": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 66,
+  "added": 66,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@velobits": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 48,
+  "added": 48,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@vernostudio": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 5,
+  "added": 5,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@vllnt-ui": {
+  "source": "shadcn-mcp",
+  "old": 313,
+  "new": 313,
+  "unchanged": 313,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@voraui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 4,
+  "added": 4,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@vue-bits": {
+  "source": "shadcn-mcp",
+  "old": 132,
+  "new": 197,
+  "added": 70,
+  "unchanged": 127,
+  "removed": 5,
+  "removedNames": [
+   "PixelSnow",
+   "Silk",
+   "SoftAurora",
+   "Threads",
+   "Waves"
+  ],
+  "isNewRegistry": false
+ },
+ "@wa-ui": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 29,
+  "added": 29,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@washiveil": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 58,
+  "added": 58,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@waves-cn": {
+  "source": "shadcn-mcp",
+  "old": 7,
+  "new": 12,
+  "unchanged": 7,
+  "added": 5,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@wds": {
+  "source": "shadcn-mcp",
+  "old": 10,
+  "new": 10,
+  "unchanged": 10,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@wensity": {
+  "source": "registry-index-direct",
+  "old": 70,
+  "new": 91,
+  "unchanged": 3,
+  "descChanged": 67,
+  "added": 21,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@whiskeyjack": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 62,
+  "added": 62,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@wigggle-ui": {
+  "source": "shadcn-mcp",
+  "old": 119,
+  "new": 119,
+  "unchanged": 119,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@wxcn": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 4,
+  "added": 4,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@xcn": {
+  "source": "registry-index-direct",
+  "old": 6,
+  "new": 6,
+  "unchanged": 6,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ },
+ "@yukihi": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 113,
+  "added": 113,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@zenoadmin": {
+  "source": "shadcn-mcp",
+  "old": 0,
+  "new": 1,
+  "added": 1,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": true
+ },
+ "@zippystarter": {
+  "source": "shadcn-mcp",
+  "old": 45,
+  "new": 77,
+  "added": 32,
+  "unchanged": 45,
+  "removed": 0,
+  "removedNames": [],
+  "isNewRegistry": false
+ }
+}

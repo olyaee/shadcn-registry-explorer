@@ -1,0 +1,8 @@
+{
+ "handle": "@auth0",
+ "ok": true,
+ "error": null,
+ "total": 6,
+ "rawText": "Found 6 items in registries @auth0:\n\nShowing items 1-6 of 6:\n\n- my-account/user-mfa-management (registry:block) - A block for managing Multi-Factor Authentication (MFA) factors, including enrollment and deletion. [@auth0] \n  Add command: `[object Promise]`\n\n- my-organization/organization-details-edit (registry:block) - A block for managing organization details, including editing organization settings and branding, with delete functionality. [@auth0] \n  Add command: `[object Promise]`\n\n- my-organization/domain-table (registry:block) - A block for managing organization domains, including creating, verifying, configuring identity providers, and deleting domains. [@auth0] \n  Add command: `[object Promise]`\n\n- my-organization/sso-provider-table (registry:block) - A block for managing SSO identity providers in a table format, including create, edit, delete, enable/disable, and remove from organization capabilities. [@auth0] \n  Add command: `[object Promise]`\n\n- my-organization/sso-provider-create (registry:block) - A multi-step wizard for creating SSO identity providers with support for multiple strategies including SAMLP, OIDC, ADFS, Okta, Google Workspace, Azure AD, and PingFederate. [@auth0] \n  Add command: `[object Promise]`\n\n- my-organization/sso-provider-edit (registry:block) - A comprehensive block for editing SSO identity providers with tabs for provider configuration, SCIM provisioning settings, and domain management. Includes token management, field mappings, and domain verification capabilities. [@auth0] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:00:52.794Z"
+}

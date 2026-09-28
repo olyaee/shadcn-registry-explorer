@@ -1,0 +1,8 @@
+{
+ "handle": "@baraile-loader",
+ "ok": true,
+ "error": null,
+ "total": 1,
+ "rawText": "Found 1 items in registries @baraile-loader:\n\nShowing items 1-1 of 1:\n\n- braille-loader (registry:ui) - Accessible braille-inspired loading indicator with 25 animation variants. [@baraile-loader] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:00:52.907Z"
+}

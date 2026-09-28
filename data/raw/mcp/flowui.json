@@ -1,0 +1,8 @@
+{
+ "handle": "@flowui",
+ "ok": true,
+ "error": null,
+ "total": 10,
+ "rawText": "Found 10 items in registries @flowui:\n\nShowing items 1-10 of 10:\n\n- changing-text (registry:component) - A component that changes text with fade and slide transitions. [@flowui] \n  Add command: `[object Promise]`\n\n- debounced-input (registry:component) - An input component with optional debouncing support. [@flowui] \n  Add command: `[object Promise]`\n\n- auth-buttons (registry:component) - A set of authentication buttons (Google, Github) based on shadcn Button. [@flowui] \n  Add command: `[object Promise]`\n\n- copy-button (registry:component) - A copy button component with two types: normal and animated. [@flowui] \n  Add command: `[object Promise]`\n\n- file-select (registry:component) - A customized file selection component. [@flowui] \n  Add command: `[object Promise]`\n\n- lift-button (registry:component) - A scroll-to-top button with custom triggers and target containers. [@flowui] \n  Add command: `[object Promise]`\n\n- password-input (registry:component) - An input component for passwords with a visibility toggle. [@flowui] \n  Add command: `[object Promise]`\n\n- slider-captcha (registry:component) - A slider-based puzzle captcha verification component. [@flowui] \n  Add command: `[object Promise]`\n\n- speaker (registry:component) - A text-to-speech speaker button component. [@flowui] \n  Add command: `[object Promise]`\n\n- text-divider (registry:component) - A divider line with text in the middle. [@flowui] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:00:58.142Z"
+}

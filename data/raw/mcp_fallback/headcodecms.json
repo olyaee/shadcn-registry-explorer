@@ -1,0 +1,13 @@
+{
+ "handle": "@headcodecms",
+ "ok": true,
+ "indexUrl": "https://raw.githubusercontent.com/headcodecms/headcodecms/main/registry.json",
+ "items": [
+  {
+   "name": "headcode",
+   "type": "registry:component",
+   "title": "Headcode CMS",
+   "description": "An agent-ready CMS for Next.js with Convex, admin editing, Markdown output, and MCP tools"
+  }
+ ]
+}

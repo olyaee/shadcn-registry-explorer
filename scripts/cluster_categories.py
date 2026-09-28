@@ -11,7 +11,8 @@ import numpy as np
 from collections import Counter
 
 def load():
-    V = np.load("data/embeddings/unique_vectors.npy")
+    V = np.load("data/embeddings/unique_vectors.npy").astype(np.float32)   # stored float16
+    V /= np.linalg.norm(V, axis=1, keepdims=True) + 1e-12
     texts = json.load(open("data/embeddings/unique_texts.json"))
     items = json.load(open("data/embeddings/items.json"))
     return V, texts, items
@@ -43,7 +44,7 @@ def main():
     V, texts, items = load()
     print(f"unique vectors: {V.shape}")
 
-    cache = f"data/clusters/umap_{args.umap_dims}d_{args.neighbors}n.npy"
+    cache = f"data/clusters/umap_{args.umap_dims}d_{args.neighbors}n_{V.shape[0]}.npy"   # keyed by corpus size
     if os.path.exists(cache):
         print(f"loading cached UMAP {cache}")
         X = np.load(cache)

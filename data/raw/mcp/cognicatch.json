@@ -1,0 +1,8 @@
+{
+ "handle": "@cognicatch",
+ "ok": true,
+ "error": null,
+ "total": 4,
+ "rawText": "Found 4 items in registries @cognicatch:\n\nShowing items 1-4 of 4:\n\n- adaptive-banner (registry:component) - A graceful fallback UI banner for error handling and alerts. [@cognicatch] \n  Add command: `[object Promise]`\n\n- adaptive-fatal-error (registry:component) - A full-screen, accessible modal for unrecoverable crashes. [@cognicatch] \n  Add command: `[object Promise]`\n\n- adaptive-toast (registry:component) - A pre-styled, recovery-ready wrapper around Sonner for error notifications. [@cognicatch] \n  Add command: `[object Promise]`\n\n- adaptive-error-boundary (registry:component) - A ready-to-use Error Boundary that degrades UI gracefully using toasts, banners, or modals. [@cognicatch] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:00:54.469Z"
+}

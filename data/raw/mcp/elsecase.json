@@ -1,0 +1,8 @@
+{
+ "handle": "@elsecase",
+ "ok": true,
+ "error": null,
+ "total": 3,
+ "rawText": "Found 3 items in registries @elsecase:\n\nShowing items 1-3 of 3:\n\n- async-state (registry:component) - A declarative boundary for loading, refreshing, empty, error, offline, forbidden, and successful content. [@elsecase] \n  Add command: `[object Promise]`\n\n- data-explorer (registry:component) - A responsive data-management workflow with search, filters, sorting, pagination, selection, URL state, desktop tables, and mobile cards. [@elsecase] \n  Add command: `[object Promise]`\n\n- form-workflow (registry:component) - A validated, recoverable form workflow with server errors, autosave, unsaved-change warnings, and multi-step flows. [@elsecase] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:00:57.287Z"
+}

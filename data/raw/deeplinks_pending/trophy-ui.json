@@ -1,0 +1,1 @@
+{"handle": "@trophy-ui", "pending": 1, "poolSize": 32, "linked": 1, "methodCounts": {"template": 1}, "templates": {"https://ui.trophy.so/docs/{name}": [1, 0]}, "links": {"index": {"url": "https://ui.trophy.so/docs/index", "method": "template"}}}

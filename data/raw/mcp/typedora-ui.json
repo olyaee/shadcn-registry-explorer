@@ -1,0 +1,8 @@
+{
+ "handle": "@typedora-ui",
+ "ok": true,
+ "error": null,
+ "total": 4,
+ "rawText": "Found 4 items in registries @typedora-ui:\n\nShowing items 1-4 of 4:\n\n- typed-utils (registry:lib) - Shared utility types for typed components. [@typedora-ui] \n  Add command: `[object Promise]`\n\n- typed-select (registry:component) - A headless, type-safe select component with full TypeScript inference and customizable rendering. [@typedora-ui] \n  Add command: `[object Promise]`\n\n- typed-radio-group (registry:component) - A headless, type-safe radio group component with full TypeScript inference and customizable rendering. [@typedora-ui] \n  Add command: `[object Promise]`\n\n- typed-combobox (registry:component) - A headless, type-safe combobox component with search functionality, full TypeScript inference, and customizable rendering. [@typedora-ui] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:01:15.161Z"
+}

@@ -1,0 +1,1 @@
+{"handle": "@layish", "pending": 2, "poolSize": 1, "linked": 2, "methodCounts": {"template": 2}, "templates": {"https://layish.vercel.app/docs/components/{name}": [2, 0]}, "links": {"ask": {"url": "https://ui.layishsieger.com/docs/components/ask", "method": "template"}, "composer": {"url": "https://ui.layishsieger.com/docs/components/composer", "method": "template"}}}

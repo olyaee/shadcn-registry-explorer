@@ -1,0 +1,8 @@
+{
+ "handle": "@better-upload",
+ "ok": true,
+ "error": null,
+ "total": 4,
+ "rawText": "Found 4 items in registries @better-upload:\n\nShowing items 1-4 of 4:\n\n- upload-button (registry:ui) [@better-upload] \n  Add command: `[object Promise]`\n\n- upload-dropzone (registry:ui) [@better-upload] \n  Add command: `[object Promise]`\n\n- upload-progress (registry:ui) [@better-upload] \n  Add command: `[object Promise]`\n\n- paste-upload-area (registry:ui) [@better-upload] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:00:53.053Z"
+}

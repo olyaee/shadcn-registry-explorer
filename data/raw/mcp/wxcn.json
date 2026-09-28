@@ -1,0 +1,8 @@
+{
+ "handle": "@wxcn",
+ "ok": true,
+ "error": null,
+ "total": 4,
+ "rawText": "Found 4 items in registries @wxcn:\n\nShowing items 1-4 of 4:\n\n- weather-forecast (registry:component) - Weather forecast with optional atmospheric backgrounds. [@wxcn] \n  Add command: `[object Promise]`\n\n- moon-forecast (registry:component) - Lunar phase card with local cycle estimates. [@wxcn] \n  Add command: `[object Promise]`\n\n- tide-forecast (registry:component) - Coastal tide predictions with a theme-aware chart. [@wxcn] \n  Add command: `[object Promise]`\n\n- forecast-dashboard (registry:block) - Weather and moon for Austin, with a separate coastal tide card. [@wxcn] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:01:16.727Z"
+}

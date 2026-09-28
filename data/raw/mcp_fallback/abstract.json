@@ -1,0 +1,85 @@
+{
+ "handle": "@abstract",
+ "ok": true,
+ "indexUrl": "https://build.abs.xyz/registry.json",
+ "items": [
+  {
+   "name": "connect-wallet-button",
+   "type": "registry:component",
+   "title": "Connect Wallet Button",
+   "description": "A connect wallet button using Abstract Global Wallet with dropdown menu when connected"
+  },
+  {
+   "name": "abstract-profile",
+   "type": "registry:component",
+   "title": "Abstract Profile",
+   "description": "A profile component that displays user profile pictures from Abstract Portal with tier-based styling and loading states"
+  },
+  {
+   "name": "agw-provider",
+   "type": "registry:component",
+   "title": "AGW Provider",
+   "description": "Provider component that wraps your application with Abstract Global Wallet and React Query"
+  },
+  {
+   "name": "siwe-button",
+   "type": "registry:component",
+   "title": "SIWE Button",
+   "description": "A streamlined SIWE authentication button that handles wallet connection, message signing, and authentication state"
+  },
+  {
+   "name": "session-keys",
+   "type": "registry:component",
+   "title": "Session Key Button",
+   "description": "A comprehensive session key management button that handles creation, validation, and revocation of Abstract Global Wallet session keys"
+  },
+  {
+   "name": "onboarding-dialog",
+   "type": "registry:component",
+   "title": "Onboarding Dialog",
+   "description": "A configurable multi-step onboarding dialog that guides users through AGW authentication (wallet connection, SIWE, session keys) with progress indication"
+  },
+  {
+   "name": "portfolio-chart",
+   "type": "registry:component",
+   "title": "Portfolio Chart",
+   "description": "An interactive area chart that displays Abstract Global Wallet portfolio value over time with multiple time period selections"
+  },
+  {
+   "name": "use-optimistic-write-contract",
+   "type": "registry:hook",
+   "title": "Optimistic Transactions",
+   "description": "An experimental hook for optimistic transaction execution using Abstract's unstable_sendRawTransactionWithDetailedOutput endpoint to get instant transaction feedback"
+  },
+  {
+   "name": "abstract-contracts",
+   "type": "registry:lib",
+   "title": "Abstract Contracts",
+   "description": "Configuration for common Abstract network contract addresses and ABIs for tokens and DEX infrastructure"
+  },
+  {
+   "name": "abstract-app-voting",
+   "type": "registry:component",
+   "title": "Abstract App Voting",
+   "description": "A voting button for Abstract apps that checks vote status and submits votes via Abstract Global Wallet"
+  },
+  {
+   "name": "nft-card",
+   "type": "registry:component",
+   "title": "NFT Card",
+   "description": "A single NFT card component that displays an NFT with image, name, collection, and balance"
+  },
+  {
+   "name": "cursor-ai-config",
+   "type": "registry:lib",
+   "title": "Cursor AI Configuration",
+   "description": "Cursor project rules and MCP configuration optimized for Abstract ecosystem development with AGW, wagmi, and Next.js"
+  },
+  {
+   "name": "claude-config",
+   "type": "registry:lib",
+   "title": "Claude Code Configuration",
+   "description": "Claude Code project instructions and MCP server configuration optimized for Abstract ecosystem development with AGW, wagmi, and Next.js"
+  }
+ ]
+}

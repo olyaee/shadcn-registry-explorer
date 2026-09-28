@@ -1,0 +1,1 @@
+{"handle": "@taki", "pending": 2, "poolSize": 148, "linked": 1, "methodCounts": {"template": 1, "no-page": 1}, "templates": {"https://taki-ui.com/docs/components/{name}": [1, 1]}, "links": {"index": {"url": "https://taki-ui.com/docs/components/index/", "method": "template"}, "style": {"url": null, "method": "no-page"}}}

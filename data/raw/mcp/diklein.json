@@ -1,0 +1,8 @@
+{
+ "handle": "@diklein",
+ "ok": true,
+ "error": null,
+ "total": 3,
+ "rawText": "Found 3 items in registries @diklein:\n\nShowing items 1-3 of 3:\n\n- dk-product-card (registry:component) - A product card for MDX blogs. Title, description, image, status strip, and note-style bodies. Pairs with the @diklein/dkproductcard remark plugin, which turns bare Amazon URLs into cards automatically. [@diklein] \n  Add command: `[object Promise]`\n\n- dk-media-viewer (registry:component) - A minimalist, performant, and elegant photo and video viewer for React. Masonry grid, fly-in lightbox, a crossfading carousel, captions and camera EXIF data, light and dark modes, reduced-motion support, keyboard navigation, and one easter egg. [@diklein] \n  Add command: `[object Promise]`\n\n- dk-bezeler (registry:component) - Display components for DKBezeler's baked device frames: a framed still as a plain image, and the light and dark video versions swapped with CSS. Bake the assets with npx @diklein/dkbezeler. [@diklein] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:00:56.432Z"
+}

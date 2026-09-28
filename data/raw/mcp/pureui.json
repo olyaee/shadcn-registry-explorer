@@ -1,0 +1,8 @@
+{
+ "handle": "@pureui",
+ "ok": false,
+ "error": "Error: Request to https://pure.kam-ui.com/r/registry.json?limit=0 failed, reason: Connect Timeout Error (attempted address: pure.kam-ui.com:443, timeout: 10000ms)",
+ "total": null,
+ "rawText": "Error: Request to https://pure.kam-ui.com/r/registry.json?limit=0 failed, reason: Connect Timeout Error (attempted address: pure.kam-ui.com:443, timeout: 10000ms)",
+ "fetchedAt": "2026-09-28T14:01:49.005Z"
+}

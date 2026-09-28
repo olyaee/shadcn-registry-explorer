@@ -1,0 +1,8 @@
+{
+ "handle": "@ratneshc",
+ "ok": true,
+ "error": null,
+ "total": 6,
+ "rawText": "Found 6 items in registries @ratneshc:\n\nShowing items 1-6 of 6:\n\n- utils (registry:lib) [@ratneshc] \n  Add command: `[object Promise]`\n\n- use-copy-to-clipboard (registry:hook) [@ratneshc] \n  Add command: `[object Promise]`\n\n- stars-travel (registry:component) - A motion-driven SVG background with an animated 'infinite travel' effect. [@ratneshc] \n  Add command: `[object Promise]`\n\n- perspective-tilt (registry:component) - A 3D card with perspective tilt and blur transitions. [@ratneshc] \n  Add command: `[object Promise]`\n\n- copy-button (registry:component) - A copy button with direction-aware icon transitions. [@ratneshc] \n  Add command: `[object Promise]`\n\n- blur-shimmer-text (registry:component) - A text component that loops phrases with a horizontal blur shimmer. [@ratneshc] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:01:08.417Z"
+}

@@ -1,0 +1,8 @@
+{
+ "handle": "@vernostudio",
+ "ok": true,
+ "error": null,
+ "total": 5,
+ "rawText": "Found 5 items in registries @vernostudio:\n\nShowing items 1-5 of 5:\n\n- theme (registry:theme) - The color scale plus the variables shadcn components read, so a component from either registry agrees with the other on what --background means. [@vernostudio] \n  Add command: `[object Promise]`\n\n- badge (registry:ui) - A label for the metadata a reader scans rather than reads. Eight hues with a low-contrast pair each, plus inverted and the house gradient, in three sizes with room for an icon. [@vernostudio] \n  Add command: `[object Promise]`\n\n- file-tree (registry:ui) - A directory listing with collapsible folders, built from nested disclosures rather than a tree role. [@vernostudio] \n  Add command: `[object Promise]`\n\n- json-view (registry:ui) - A collapsible tree for inspecting a JSON payload, with syntax roles, search highlighting and the full ARIA tree keyboard model. [@vernostudio] \n  Add command: `[object Promise]`\n\n- spinner (registry:ui) - A wireframe atom that assembles itself and then turns in space: three orbits arrive one per beat, then the whole thing turns as one. Three sizes, in the current text color. [@vernostudio] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:01:18.620Z"
+}

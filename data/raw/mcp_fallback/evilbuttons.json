@@ -1,0 +1,175 @@
+{
+ "handle": "@evilbuttons",
+ "ok": true,
+ "indexUrl": "https://www.evilbuttons.com/r/index.json",
+ "items": [
+  {
+   "name": "click-powerup",
+   "type": "registry:ui",
+   "title": "ClickPowerUp",
+   "description": "A bracketed button that arms on hover and powers up with an accent flash and bracket burst on every click."
+  },
+  {
+   "name": "sticky",
+   "type": "registry:ui",
+   "title": "StickyButton",
+   "description": "A magnetic button whose body and label are pulled toward the cursor from a wide field, with parallax depth and tilt."
+  },
+  {
+   "name": "shiny-button",
+   "type": "registry:ui",
+   "title": "ShinyButton",
+   "description": "A glossy, gradient-styled button with a layered inner glow and a glint that sweeps across on every click."
+  },
+  {
+   "name": "movie-pass",
+   "type": "registry:ui",
+   "title": "MoviePassButton",
+   "description": "A cinema ticket button that tears along its perforation on click, hinging open or snapping apart."
+  },
+  {
+   "name": "minimal",
+   "type": "registry:ui",
+   "title": "MinimalButton",
+   "description": "A quiet dark button with a hairline ring, inner highlight, soft drop shadow, and a chevron that nudges on hover."
+  },
+  {
+   "name": "dither-button",
+   "type": "registry:ui",
+   "title": "DitherButton",
+   "description": "A button with an animated 4x4 ordered-dither wave background and a knockout label."
+  },
+  {
+   "name": "evil-eye-button",
+   "type": "registry:ui",
+   "title": "EvilEyeButton",
+   "description": "An obsidian pill with a burning evil eye behind its label that tracks the cursor across the page, focuses on hover, and blinks."
+  },
+  {
+   "name": "troll-button",
+   "type": "registry:ui",
+   "title": "TrollButton",
+   "description": "A button that dodges the cursor until it runs out of stamina, then gives up and lets you click it."
+  },
+  {
+   "name": "chrome-button",
+   "type": "registry:ui",
+   "title": "ChromeButton",
+   "description": "A metallic pill whose border is a ring of flowing liquid chrome around a solid face that follows the light or dark theme, with pill, compact, and icon sizes."
+  },
+  {
+   "name": "brutal-button",
+   "type": "registry:ui",
+   "title": "BrutalButton",
+   "description": "A NeoBrutalism style button with sharp shadows and stark borders."
+  },
+  {
+   "name": "aqua-button",
+   "type": "registry:ui",
+   "title": "AquaButton",
+   "description": "A glossy pill button inspired by Apple's Aqua interface, with layered highlights and a soft inner glow."
+  },
+  {
+   "name": "3d-button",
+   "type": "registry:ui",
+   "title": "ThreeDButton",
+   "description": "A minimal 3D button with a clean deck-style press and sliding click sheen."
+  },
+  {
+   "name": "frame-button",
+   "type": "registry:ui",
+   "title": "FrameButton",
+   "description": "A futuristic button with springy corner markers that spread on hover and lock on when pressed, plus a scan sweep."
+  },
+  {
+   "name": "highlight-button",
+   "type": "registry:ui",
+   "title": "HighlightButton",
+   "description": "A button with a cursor spotlight, a border that lights up near the pointer, and a ripple from wherever you click."
+  },
+  {
+   "name": "glitch-button",
+   "type": "registry:ui",
+   "title": "GlitchButton",
+   "description": "A button with randomized RGB-split glitch bursts, a scanline overlay, and a flickering label."
+  },
+  {
+   "name": "command-button",
+   "type": "registry:ui",
+   "title": "CommandButton",
+   "description": "A button with a global keyboard shortcut, shown as keycaps that sink as you hold each key."
+  },
+  {
+   "name": "copy-button",
+   "type": "registry:ui",
+   "title": "CopyButton",
+   "description": "A copy button that briefly shows the copied text above itself, so you see exactly what landed on the clipboard."
+  },
+  {
+   "name": "reveal-button",
+   "type": "registry:ui",
+   "title": "RevealButton",
+   "description": "A button that reveals a hidden secret value on hold or toggle, with a blur-in animation and an eye icon indicator."
+  },
+  {
+   "name": "demonic-button",
+   "type": "registry:ui",
+   "title": "DemonicButton",
+   "description": "A hold-to-summon button: keep pressing to raise ridged devil horns from behind it while a canvas fire builds into a roar."
+  },
+  {
+   "name": "hold-button",
+   "type": "registry:ui",
+   "title": "HoldButton",
+   "description": "A hold-to-confirm button whose inner fill grows from 0 to 100%; release early to shake and abort, hold to the end to fire the action."
+  },
+  {
+   "name": "doubt-button",
+   "type": "registry:ui",
+   "title": "DoubtButton",
+   "description": "An escalating-confirmation button that makes you click through increasingly absurd, guilt-tripping prompts before the real action finally fires."
+  },
+  {
+   "name": "slide-to-detonate",
+   "type": "registry:ui",
+   "title": "SlideToDetonate",
+   "description": "A slide-to-confirm safety gate that makes you drag a handle across a fuse before the real action detonates."
+  },
+  {
+   "name": "morph-status-button",
+   "type": "registry:ui",
+   "title": "MorphStatusButton",
+   "description": "A single button that morphs through idle, loading, success, and error states in place, with no layout shift."
+  },
+  {
+   "name": "cooldown-button",
+   "type": "registry:ui",
+   "title": "CooldownButton",
+   "description": "A button that locks itself behind a draining radial timer after each click to stop spam and double-submits, taunting you while you wait."
+  },
+  {
+   "name": "realistic-switch",
+   "type": "registry:ui",
+   "title": "RealisticSwitch",
+   "description": "A latching push switch, a raised box that sinks into its socket when pressed, stays down and glows while on, and springs back up on the next press."
+  },
+  {
+   "name": "confetti-button",
+   "type": "registry:ui",
+   "title": "ConfettiButton",
+   "description": "A ringed dark button with a sparkle icon that fires a restrained confetti burst on click."
+  },
+  {
+   "name": "ash-burst-button",
+   "type": "registry:ui",
+   "title": "AshBurstButton",
+   "description": "A ringed dark button that glows like an ember on click and erupts ash that collides with it via Matter.js physics, piling onto its surface."
+  },
+  {
+   "name": "minecraft-button",
+   "type": "registry:ui",
+   "title": "MinecraftButton",
+   "description": "A pixel stone menu button that cracks every few taps, shatters into chips, and drops itself as a bobbing item you pick up to respawn it."
+  }
+ ]
+}

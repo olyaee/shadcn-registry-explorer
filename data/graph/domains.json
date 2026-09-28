@@ -1,100 +1,128 @@
 [
  {
-  "id": "D2",
-  "label": "Marketing & Landing Sections",
-  "description": "Hero, features, pricing, CTA, testimonials, blog, team sections and brand logos.",
-  "itemCount": 8101,
-  "nCategories": 78
- },
- {
-  "id": "D0",
-  "label": "Data, Dashboards & AI",
-  "description": "Charts, stats, tables, code blocks, chat/AI tools, timelines and activity feeds.",
-  "itemCount": 4517,
-  "nCategories": 60
- },
- {
-  "id": "D5",
-  "label": "Media, Utilities & Misc",
-  "description": "Avatars, badges, media players, typography, hooks, editor plugins and utilities.",
-  "itemCount": 4438,
-  "nCategories": 52
- },
- {
   "id": "D1",
-  "label": "Animations & Visual Effects",
-  "description": "Sliders, carousels, backgrounds, shaders, animated text and reveal effects.",
-  "itemCount": 3970,
-  "nCategories": 62
- },
- {
-  "id": "D8",
-  "label": "Fonts & Themes",
-  "description": "Google fonts, typefaces, color themes and mobile app UI kits.",
-  "itemCount": 3091,
-  "nCategories": 9
- },
- {
-  "id": "D9",
-  "label": "Navigation & Layout",
-  "description": "Navbars, footers, sidebars, tabs, accordions, pagination and app shells.",
-  "itemCount": 2914,
-  "nCategories": 36
- },
- {
-  "id": "D6",
-  "label": "Form Inputs",
-  "description": "Inputs, textareas, checkboxes, radio groups, OTP and labels.",
-  "itemCount": 2214,
-  "nCategories": 33
- },
- {
-  "id": "D3",
-  "label": "Buttons & Toggles",
-  "description": "Buttons, toggles, switches, toolbars and theme toggles.",
-  "itemCount": 1747,
-  "nCategories": 29
- },
- {
-  "id": "D10",
-  "label": "E-commerce",
-  "description": "Product cards, carts, checkout, billing, order tracking and reviews.",
-  "itemCount": 1484,
-  "nCategories": 20
- },
- {
-  "id": "D4",
-  "label": "Cards & Popovers",
-  "description": "Cards (hover, tilt, stacked), tooltips, popovers and link previews.",
-  "itemCount": 1244,
-  "nCategories": 19
- },
- {
-  "id": "D13",
-  "label": "Selects & Date Pickers",
-  "description": "Selects, comboboxes, calendars and date/time pickers.",
-  "itemCount": 1236,
-  "nCategories": 19
- },
- {
-  "id": "D11",
-  "label": "Icons",
-  "description": "Icon sets — arrows, actions, files, weather, currency and more.",
-  "itemCount": 1176,
-  "nCategories": 13
- },
- {
-  "id": "D12",
-  "label": "Dialogs & Notifications",
-  "description": "Dialogs, modals, alerts, alert-dialogs and toasts.",
-  "itemCount": 869,
-  "nCategories": 13
+  "label": "Core UI Primitives & Hooks",
+  "description": "Dialogs, tabs, tooltips, avatars, rich text editors, chat interfaces, and utilities.",
+  "itemCount": 11203,
+  "nCategories": 101
  },
  {
   "id": "D7",
-  "label": "Game Audio & Sound",
-  "description": "Sound effects, voiceovers and game audio assets.",
-  "itemCount": 836,
-  "nCategories": 16
+  "label": "Interface & Symbol Icons",
+  "description": "Arrows, chevrons, checkmarks, layout symbols, status marks, and interface icons.",
+  "itemCount": 10533,
+  "nCategories": 143
+ },
+ {
+  "id": "D6",
+  "label": "Marketing & Landing Sections",
+  "description": "Hero sections, feature grids, calls to action, blogs, portfolios, FAQs, and brand logos.",
+  "itemCount": 8516,
+  "nCategories": 55
+ },
+ {
+  "id": "D11",
+  "label": "Thematic & Object Icons",
+  "description": "Icons for technology, business, transport, food, weather, payments, and everyday objects.",
+  "itemCount": 6899,
+  "nCategories": 83
+ },
+ {
+  "id": "D2",
+  "label": "Data Visualization & Cards",
+  "description": "Charts, maps, dashboards, metrics, status badges, and content cards.",
+  "itemCount": 5182,
+  "nCategories": 39
+ },
+ {
+  "id": "D8",
+  "label": "Animation & Visual Effects",
+  "description": "Animated text, backgrounds, cursors, transitions, particle effects, and scroll reveals.",
+  "itemCount": 4562,
+  "nCategories": 56
+ },
+ {
+  "id": "D0",
+  "label": "Application Panels & Workflows",
+  "description": "Settings panels, app shells, data tables, grids, timelines, boards, and workflow interfaces.",
+  "itemCount": 4369,
+  "nCategories": 43
+ },
+ {
+  "id": "D3",
+  "label": "Forms & Text Inputs",
+  "description": "Login and verification forms, text fields, textareas, OTP inputs, and form layouts.",
+  "itemCount": 3552,
+  "nCategories": 35
+ },
+ {
+  "id": "D4",
+  "label": "Selection & Toggle Controls",
+  "description": "Checkboxes, radio buttons, switches, selects, comboboxes, toggles, and input groups.",
+  "itemCount": 3438,
+  "nCategories": 33
+ },
+ {
+  "id": "D5",
+  "label": "Navigation & Menus",
+  "description": "Navbars, sidebars, footers, breadcrumbs, dropdown menus, command palettes, and toolbars.",
+  "itemCount": 3380,
+  "nCategories": 33
+ },
+ {
+  "id": "D9",
+  "label": "Typography & Design Themes",
+  "description": "Font pairings, display fonts, UI themes, color themes, and design tokens.",
+  "itemCount": 3310,
+  "nCategories": 10
+ },
+ {
+  "id": "D17",
+  "label": "Carousels, Sliders & Progress",
+  "description": "Carousels, sliders, galleries, pagination, scroll areas, steppers, and progress indicators.",
+  "itemCount": 2789,
+  "nCategories": 28
+ },
+ {
+  "id": "D16",
+  "label": "Commerce, Pricing & Social Proof",
+  "description": "Pricing, testimonials, product listings, reviews, shopping carts, checkout, and comparisons.",
+  "itemCount": 2763,
+  "nCategories": 19
+ },
+ {
+  "id": "D14",
+  "label": "Buttons & Links",
+  "description": "Action buttons, button variants, animated buttons, login buttons, and links.",
+  "itemCount": 1587,
+  "nCategories": 18
+ },
+ {
+  "id": "D12",
+  "label": "Loaders & Spinners",
+  "description": "Orbital, spiral, dot, bar, wave, and geometric loading indicators.",
+  "itemCount": 1331,
+  "nCategories": 13
+ },
+ {
+  "id": "D10",
+  "label": "Alerts & Notifications",
+  "description": "Alerts, toast notifications, confirmation dialogs, and status messages.",
+  "itemCount": 1020,
+  "nCategories": 10
+ },
+ {
+  "id": "D15",
+  "label": "Calendars & Date Pickers",
+  "description": "Event calendars, date and time pickers, date ranges, and booking forms.",
+  "itemCount": 890,
+  "nCategories": 10
+ },
+ {
+  "id": "D13",
+  "label": "Sound Effects & Audio",
+  "description": "Interface sounds, impacts, jingles, voice lines, footsteps, and ambient audio.",
+  "itemCount": 838,
+  "nCategories": 13
  }
 ]

@@ -1,0 +1,1 @@
+{"handle": "@nuqs", "pending": 1, "poolSize": 56, "linked": 1, "methodCounts": {"crawl": 1}, "templates": {}, "links": {"parser-uuid": {"url": "https://nuqs.dev/registry/parser-uuid", "method": "crawl"}}}

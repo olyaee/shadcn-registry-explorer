@@ -1,0 +1,8 @@
+{
+ "handle": "@stepper",
+ "ok": true,
+ "error": null,
+ "total": 3,
+ "rawText": "Found 3 items in registries @stepper:\n\nShowing items 1-3 of 3:\n\n- stepper (registry:ui) - A lightweight, composable stepper primitive for shadcn/ui-style multi-step flows. [@stepper] \n  Add command: `[object Promise]`\n\n- stepper-demo (registry:block) - A styled Stepper demo with a default export and the Stepper source primitive. [@stepper] \n  Add command: `[object Promise]`\n\n- stepper-intent-onboarding (registry:block) - An intent-driven onboarding block with hidden Stepper state, intent routing, profile validation, interests, async setup, and a signed-in completion state. [@stepper] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:01:13.504Z"
+}

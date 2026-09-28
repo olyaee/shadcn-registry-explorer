@@ -1,0 +1,1 @@
+{"handle": "@mediadrop", "pending": 4, "poolSize": 49, "linked": 0, "methodCounts": {"no-page": 4}, "templates": {}, "links": {"dropzone": {"url": null, "method": "no-page"}, "avatar-uploader": {"url": null, "method": "no-page"}, "multi-file-upload-form": {"url": null, "method": "no-page"}, "s3-direct-upload": {"url": null, "method": "no-page"}}}

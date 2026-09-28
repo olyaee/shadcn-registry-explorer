@@ -1,0 +1,8 @@
+{
+ "handle": "@launchui",
+ "ok": false,
+ "error": "Error (PARSE_ERROR): Failed to parse registry catalog: @launchui/registry\n- items.0.files.3.target: Required\n- items.0.files.4.target: Required\n- items.0.files.5.target: Required\n- items.0.files.6.target: Required\n- items.0.files.7.target: Required\n- items.0.files.8.target: Required\n- items.0.files.9.target: Required\n\n💡 The registry catalog may be corrupted or have an invalid format. Please make sure it returns a valid registry.json object. See https://ui.shadcn.com/schema/registry.json.\n\nConte",
+ "total": null,
+ "rawText": "Error (PARSE_ERROR): Failed to parse registry catalog: @launchui/registry\n- items.0.files.3.target: Required\n- items.0.files.4.target: Required\n- items.0.files.5.target: Required\n- items.0.files.6.target: Required\n- items.0.files.7.target: Required\n- items.0.files.8.target: Required\n- items.0.files.9.target: Required\n\n💡 The registry catalog may be corrupted or have an invalid format. Please make sure it returns a valid registry.json object. See https://ui.shadcn.com/schema/registry.json.\n\nContext: {\n\"item\": \"@launchui/registry\"\n}",
+ "fetchedAt": "2026-09-28T14:01:46.339Z"
+}

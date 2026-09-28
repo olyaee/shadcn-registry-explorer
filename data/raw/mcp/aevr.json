@@ -1,0 +1,8 @@
+{
+ "handle": "@aevr",
+ "ok": true,
+ "error": null,
+ "total": 6,
+ "rawText": "Found 6 items in registries @aevr:\n\nShowing items 1-6 of 6:\n\n- button (registry:component) - A simple button component [@aevr] \n  Add command: `[object Promise]`\n\n- info-box (registry:component) - A simple info box component for displaying information, warnings, errors, loading states, and status messages. [@aevr] \n  Add command: `[object Promise]`\n\n- loader (registry:component) - A simple loader component for displaying loading states. [@aevr] \n  Add command: `[object Promise]`\n\n- summary-card (registry:component) - A simple summary card component for displaying summary information. [@aevr] \n  Add command: `[object Promise]`\n\n- card (registry:component) - A versatile card component with multiple variants, sizes, and interactive features [@aevr] \n  Add command: `[object Promise]`\n\n- number-formatter (registry:lib) - A utility function for formatting numbers and currencies. [@aevr] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:00:51.447Z"
+}

@@ -1,0 +1,43 @@
+{
+ "handle": "@uui",
+ "ok": true,
+ "indexUrl": "https://uui.app/r/registry.json",
+ "items": [
+  {
+   "name": "cards-shader-effect",
+   "type": "registry:block",
+   "title": "Cards Shader Effect",
+   "description": ""
+  },
+  {
+   "name": "dropbox-upload",
+   "type": "registry:block",
+   "title": "Dropbox Upload",
+   "description": ""
+  },
+  {
+   "name": "family-signin-drawer",
+   "type": "registry:block",
+   "title": "Family Sign In Drawer",
+   "description": ""
+  },
+  {
+   "name": "snapchat-loader",
+   "type": "registry:component",
+   "title": "Snapchat Loader",
+   "description": ""
+  },
+  {
+   "name": "sora-theme-picker",
+   "type": "registry:block",
+   "title": "Sora Theme Picker",
+   "description": ""
+  },
+  {
+   "name": "text-shimmer-animation-on-hover",
+   "type": "registry:block",
+   "title": "Text Shimmer Animation",
+   "description": ""
+  }
+ ]
+}

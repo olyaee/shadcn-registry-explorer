@@ -1,0 +1,8 @@
+{
+ "handle": "@simple-ai",
+ "ok": true,
+ "error": null,
+ "total": 6,
+ "rawText": "Found 6 items in registries @simple-ai:\n\nShowing items 1-6 of 6:\n\n- chat-input (registry:ui) - Chat input with mentions and streaming status. [@simple-ai] \n  Add command: `[object Promise]`\n\n- chat-page (registry:block) - Full-screen chat with tools, files, and mentions. [@simple-ai] \n  Add command: `[object Promise]`\n\n- reasoning (registry:ui) - Quiet thinking row with markdown. [@simple-ai] \n  Add command: `[object Promise]`\n\n- shell (registry:ui) - Sidebar, header, and main content. [@simple-ai] \n  Add command: `[object Promise]`\n\n- tool (registry:ui) - Quiet collapsible tool call with input and output. [@simple-ai] \n  Add command: `[object Promise]`\n\n- worked (registry:ui) - Fold the agent's work. Keep the answer. [@simple-ai] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:01:11.924Z"
+}

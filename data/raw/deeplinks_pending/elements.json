@@ -1,0 +1,1 @@
+{"handle": "@elements", "pending": 1, "poolSize": 288, "linked": 1, "methodCounts": {"template": 1}, "templates": {"https://tryelements.dev/docs/logos/{name}": [1, 0]}, "links": {"herdr-logo": {"url": "https://www.tryelements.dev/docs/logos/herdr-logo", "method": "template"}}}

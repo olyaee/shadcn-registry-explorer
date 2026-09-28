@@ -1,0 +1,8 @@
+{
+ "handle": "@algolia",
+ "ok": true,
+ "error": null,
+ "total": 5,
+ "rawText": "Found 5 items in registries @algolia:\n\nShowing items 1-5 of 5:\n\n- dropdown-search (registry:block) - Inline autocomplete dropdown search experience, powered by Algolia's InstantSearch [@algolia] \n  Add command: `[object Promise]`\n\n- search (registry:block) - Opinionated site search experience, powered by Algolia's InstantSearch [@algolia] \n  Add command: `[object Promise]`\n\n- search-ai (registry:block) - Opinionated search experience with Ask AI, powered by Algolia's InstantSearch and Ask AI [@algolia] \n  Add command: `[object Promise]`\n\n- highlight-to-askai (registry:block) - 🚧 [Experimental] Highlight any text and ask Algolia Ask AI with an inline tooltip [@algolia] \n  Add command: `[object Promise]`\n\n- sidepanel-askai (registry:block) - Sidepanel chat experience with Ask AI, powered by Algolia's Ask AI [@algolia] \n  Add command: `[object Promise]`",
+ "fetchedAt": "2026-09-28T14:00:51.930Z"
+}

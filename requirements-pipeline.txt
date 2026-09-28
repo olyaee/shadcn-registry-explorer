@@ -1,0 +1,6 @@
+# Maintainers: rebuilding the catalogue, clusters and optional Neo4j export
+-r requirements.txt
+umap-learn==0.5.12
+hdbscan==0.8.44
+scikit-learn==1.9.0
+neo4j==6.2.0   # only for scripts/load_neo4j.py

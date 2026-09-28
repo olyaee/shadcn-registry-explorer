@@ -1,0 +1,8 @@
+{
+ "handle": "@n3wth",
+ "ok": false,
+ "error": "Error: Unexpected token '<', \"<!doctype \"... is not valid JSON",
+ "total": null,
+ "rawText": "Error: Unexpected token '<', \"<!doctype \"... is not valid JSON",
+ "fetchedAt": "2026-09-28T14:01:46.557Z"
+}

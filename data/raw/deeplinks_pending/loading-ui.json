@@ -1,0 +1,1 @@
+{"handle": "@loading-ui", "pending": 2, "poolSize": 99, "linked": 1, "methodCounts": {"template": 1, "no-page": 1}, "templates": {"https://loading-ui.com/{name}": [1, 1]}, "links": {"index": {"url": "https://www.loading-ui.com/", "method": "template"}, "style": {"url": null, "method": "no-page"}}}

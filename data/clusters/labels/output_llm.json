@@ -1,0 +1,3712 @@
+[
+ {
+  "cluster": 353,
+  "label": "Magnifier Effect",
+  "description": "Cursor-following lenses and refractive renderers that magnify or distort visual content."
+ },
+ {
+  "cluster": 608,
+  "label": "3D Gallery",
+  "description": "Animated galleries and showcase pages featuring 3D scenes and editorial imagery."
+ },
+ {
+  "cluster": 400,
+  "label": "Company Page",
+  "description": "Full pages presenting company information, stories, careers, or content."
+ },
+ {
+  "cluster": 613,
+  "label": "About Section",
+  "description": "Page sections introducing a studio or company through stories, imagery, and key facts."
+ },
+ {
+  "cluster": 612,
+  "label": "Company Values Section",
+  "description": "Marketing sections presenting a company's mission, culture, investors, or values."
+ },
+ {
+  "cluster": 563,
+  "label": "Portfolio About Section",
+  "description": "Personal portfolio sections presenting a biography, skills, principles, or availability."
+ },
+ {
+  "cluster": 62,
+  "label": "Accordion",
+  "description": "Expandable panels that show or hide content when selected."
+ },
+ {
+  "cluster": 320,
+  "label": "FAQ Accordion",
+  "description": "Expandable question-and-answer lists for FAQ sections and pages."
+ },
+ {
+  "cluster": 421,
+  "label": "Achievement Display",
+  "description": "Badges, cards, and progress views for milestones and unlocked achievements."
+ },
+ {
+  "cluster": 509,
+  "label": "Activity Feed",
+  "description": "Chronological lists of events, actions, and audit records."
+ },
+ {
+  "cluster": 607,
+  "label": "AI Agent",
+  "description": "Agent workflows and templates that use AI to perform specialized tasks."
+ },
+ {
+  "cluster": 696,
+  "label": "AI Chat Interface",
+  "description": "Chat components and pages for conversations with AI assistants."
+ },
+ {
+  "cluster": 656,
+  "label": "AI Content Generator",
+  "description": "Tools that generate or transform text, images, audio, and other content."
+ },
+ {
+  "cluster": 585,
+  "label": "Alert",
+  "description": "Inline messages that communicate status, warnings, or contextual information."
+ },
+ {
+  "cluster": 584,
+  "label": "Status Alert",
+  "description": "Styled alert cards with prominent colors and icons for status messages."
+ },
+ {
+  "cluster": 525,
+  "label": "Action Alert",
+  "description": "Alerts that present a message with optional icons and action buttons."
+ },
+ {
+  "cluster": 524,
+  "label": "Styled Alert",
+  "description": "Alerts with accent borders, patterned outlines, and other visual treatments."
+ },
+ {
+  "cluster": 357,
+  "label": "Status Alert",
+  "description": "Alerts that report outcomes, operational updates, or actions needing attention."
+ },
+ {
+  "cluster": 535,
+  "label": "Alert Dialog",
+  "description": "Modal dialogs that present important information and require a response."
+ },
+ {
+  "cluster": 536,
+  "label": "Confirmation Dialog",
+  "description": "Dialogs that ask users to confirm an action, often before a destructive change."
+ },
+ {
+  "cluster": 680,
+  "label": "Particle Background",
+  "description": "Decorative animated backgrounds with particles, falling elements, and ambient effects."
+ },
+ {
+  "cluster": 681,
+  "label": "Shader Background",
+  "description": "Animated shader and gradient backgrounds with grain, waves, and lighting effects."
+ },
+ {
+  "cluster": 650,
+  "label": "Grid Background",
+  "description": "Decorative dot and grid patterns, including animated and interactive variants."
+ },
+ {
+  "cluster": 598,
+  "label": "Plasma Background",
+  "description": "Animated abstract backgrounds with plasma, electrical, and other procedural effects."
+ },
+ {
+  "cluster": 520,
+  "label": "Scanline Effect",
+  "description": "Animated radar, scanline, and screen-distortion effects."
+ },
+ {
+  "cluster": 658,
+  "label": "Animated 3D Scene",
+  "description": "Procedural 3D objects and scenes with motion, lighting, and particle effects."
+ },
+ {
+  "cluster": 643,
+  "label": "Line Background",
+  "description": "Animated backgrounds of flowing lines, fibers, and luminous threads."
+ },
+ {
+  "cluster": 515,
+  "label": "Light Ray Background",
+  "description": "Animated backgrounds with radiating beams, streaks, and volumetric light."
+ },
+ {
+  "cluster": 679,
+  "label": "Aurora Background",
+  "description": "Animated backgrounds with flowing, aurora-like color gradients."
+ },
+ {
+  "cluster": 578,
+  "label": "Animated Beam",
+  "description": "Moving light beams used on borders, backgrounds, paths, and canvas elements."
+ },
+ {
+  "cluster": 729,
+  "label": "Technical Icons",
+  "description": "Animated icons for developer tools, servers, tags, and other technical concepts."
+ },
+ {
+  "cluster": 667,
+  "label": "Arrow Icons",
+  "description": "Animated directional arrows and icons showing movement between states."
+ },
+ {
+  "cluster": 530,
+  "label": "Connectivity Icons",
+  "description": "Animated icons for Wi-Fi, Bluetooth, signals, and network connections."
+ },
+ {
+  "cluster": 720,
+  "label": "Weather Icons",
+  "description": "Animated icons depicting sunlight, clouds, rain, snow, and nighttime weather."
+ },
+ {
+  "cluster": 737,
+  "label": "Interface Symbol Icons",
+  "description": "Animated symbols for interface controls, layouts, help, and editing."
+ },
+ {
+  "cluster": 135,
+  "label": "Chart Icons",
+  "description": "Animated icons depicting charts, analytics, and data flows."
+ },
+ {
+  "cluster": 735,
+  "label": "Media Control Icons",
+  "description": "Animated icons for playback, radio, and other media controls."
+ },
+ {
+  "cluster": 483,
+  "label": "Payment Icons",
+  "description": "Animated icons for currencies, cards, receipts, and payments."
+ },
+ {
+  "cluster": 731,
+  "label": "Message Icons",
+  "description": "Animated chat bubbles and icons for messages, notifications, and feedback."
+ },
+ {
+  "cluster": 707,
+  "label": "Action Icons",
+  "description": "Animated icons for undoing, canceling, deleting, and removing items."
+ },
+ {
+  "cluster": 716,
+  "label": "Building Icons",
+  "description": "Animated icons depicting homes, offices, storefronts, and other buildings."
+ },
+ {
+  "cluster": 711,
+  "label": "Business Icons",
+  "description": "Animated icons for work, legal matters, documents, and status concepts."
+ },
+ {
+  "cluster": 736,
+  "label": "Geometry Icons",
+  "description": "Animated icons of geometric shapes, axes, angles, and mathematical symbols."
+ },
+ {
+  "cluster": 718,
+  "label": "Travel And Furniture Icons",
+  "description": "Animated icons depicting aircraft, luggage, seating, and other physical objects."
+ },
+ {
+  "cluster": 739,
+  "label": "File Icons",
+  "description": "Animated icons for files, folders, archives, and file formats."
+ },
+ {
+  "cluster": 652,
+  "label": "Directional Icons",
+  "description": "Animated icons for left, right, and other directions."
+ },
+ {
+  "cluster": 678,
+  "label": "AI Icons",
+  "description": "Animated icons depicting artificial intelligence and related features."
+ },
+ {
+  "cluster": 222,
+  "label": "Time Icons",
+  "description": "Animated icons for clocks, alarms, timers, and hourglasses."
+ },
+ {
+  "cluster": 709,
+  "label": "Transport Icons",
+  "description": "Animated icons for vehicles, routes, and travel."
+ },
+ {
+  "cluster": 712,
+  "label": "Email Icons",
+  "description": "Animated icons for mail, inboxes, and email states."
+ },
+ {
+  "cluster": 726,
+  "label": "Medical Icons",
+  "description": "Animated icons for healthcare, medicine, and patients."
+ },
+ {
+  "cluster": 714,
+  "label": "Tool Icons",
+  "description": "Animated icons for hand tools and creative tools."
+ },
+ {
+  "cluster": 725,
+  "label": "Security Icons",
+  "description": "Animated icons for locks, keys, passwords, and shields."
+ },
+ {
+  "cluster": 683,
+  "label": "Checkmark Icons",
+  "description": "Animated checkmark icons for confirmation and success states."
+ },
+ {
+  "cluster": 704,
+  "label": "Clothing Icons",
+  "description": "Animated icons for clothing, accessories, and wardrobes."
+ },
+ {
+  "cluster": 740,
+  "label": "Food Icons",
+  "description": "Animated icons for foods, ingredients, and cooking."
+ },
+ {
+  "cluster": 702,
+  "label": "Add Remove Icons",
+  "description": "Animated plus and minus icons for adding or removing items."
+ },
+ {
+  "cluster": 703,
+  "label": "Location Icons",
+  "description": "Animated icons for maps, compasses, and location markers."
+ },
+ {
+  "cluster": 719,
+  "label": "Sports And Games Icons",
+  "description": "Animated icons for sports equipment, activities, and chess pieces."
+ },
+ {
+  "cluster": 684,
+  "label": "Accessibility Icons",
+  "description": "Animated icons for accessibility, visibility, and access states."
+ },
+ {
+  "cluster": 722,
+  "label": "Energy Icons",
+  "description": "Animated icons for power, light bulbs, and renewable energy."
+ },
+ {
+  "cluster": 741,
+  "label": "Food Icons",
+  "description": "Animated icons for food, snacks, and drinks."
+ },
+ {
+  "cluster": 496,
+  "label": "Cursor Icons",
+  "description": "Animated icons for pointers, clicks, and text selection."
+ },
+ {
+  "cluster": 646,
+  "label": "View Control Icons",
+  "description": "Animated icons for expanding, minimizing, and adjusting a view."
+ },
+ {
+  "cluster": 694,
+  "label": "Reward Icons",
+  "description": "Animated icons for stars, crowns, trophies, and gifts."
+ },
+ {
+  "cluster": 397,
+  "label": "Package Icons",
+  "description": "Animated icons for boxes, gifts, sending, and delivery."
+ },
+ {
+  "cluster": 626,
+  "label": "Shopping Icons",
+  "description": "Animated icons for carts, bags, and shopping actions."
+ },
+ {
+  "cluster": 218,
+  "label": "Settings Icons",
+  "description": "Animated gear icons for settings and configuration."
+ },
+ {
+  "cluster": 633,
+  "label": "Clipboard Icons",
+  "description": "Animated icons for copying, pasting, printing, and attachments."
+ },
+ {
+  "cluster": 733,
+  "label": "Audio Icons",
+  "description": "Animated icons for microphones, speakers, headphones, and volume controls."
+ },
+ {
+  "cluster": 738,
+  "label": "Folder Icons",
+  "description": "Animated icons for folders and file organization."
+ },
+ {
+  "cluster": 185,
+  "label": "Phone Icons",
+  "description": "Animated icons for phones and call states."
+ },
+ {
+  "cluster": 271,
+  "label": "Chevron Icons",
+  "description": "Animated directional chevrons for navigation and controls."
+ },
+ {
+  "cluster": 732,
+  "label": "Transfer Icons",
+  "description": "Animated icons for uploading and downloading files or data."
+ },
+ {
+  "cluster": 223,
+  "label": "Calendar Icons",
+  "description": "Animated calendar icons for dates and appointments."
+ },
+ {
+  "cluster": 705,
+  "label": "User Icons",
+  "description": "Animated icons depicting individual users, groups, and profile outlines."
+ },
+ {
+  "cluster": 482,
+  "label": "Finance Icons",
+  "description": "Animated icons depicting money, banking, payment cards, and transactions."
+ },
+ {
+  "cluster": 669,
+  "label": "Square Arrow Icons",
+  "description": "Animated icons showing arrows inside or exiting squares."
+ },
+ {
+  "cluster": 727,
+  "label": "Household Icons",
+  "description": "Animated icons depicting bathing, cleaning, laundry, and other household items."
+ },
+ {
+  "cluster": 435,
+  "label": "Bitcoin Icons",
+  "description": "Animated icons combining the Bitcoin symbol with objects and actions."
+ },
+ {
+  "cluster": 595,
+  "label": "Expression Icons",
+  "description": "Animated icons depicting facial expressions and eyes."
+ },
+ {
+  "cluster": 728,
+  "label": "Text Formatting Icons",
+  "description": "Animated icons for typography, text styling, lists, and indentation."
+ },
+ {
+  "cluster": 674,
+  "label": "Backward And Forward Icons",
+  "description": "Animated icons for moving through media or changing layer order."
+ },
+ {
+  "cluster": 651,
+  "label": "Rotation Icons",
+  "description": "Animated icons for rotating or flipping images and objects."
+ },
+ {
+  "cluster": 666,
+  "label": "Identification Icons",
+  "description": "Animated icons for fingerprints, face scans, identification, and scannable codes."
+ },
+ {
+  "cluster": 316,
+  "label": "Hand Gesture Icons",
+  "description": "Animated icons depicting hands, gestures, and hand-held symbols."
+ },
+ {
+  "cluster": 599,
+  "label": "Alignment Icons",
+  "description": "Animated icons for positioning and aligning elements in a layout."
+ },
+ {
+  "cluster": 668,
+  "label": "Circle Arrow Icons",
+  "description": "Animated icons showing directional arrows inside circles."
+ },
+ {
+  "cluster": 717,
+  "label": "Space Icons",
+  "description": "Animated icons depicting globes, rockets, telescopes, and orbital objects."
+ },
+ {
+  "cluster": 699,
+  "label": "Alert Icons",
+  "description": "Animated icons for warnings, alerts, and notification states."
+ },
+ {
+  "cluster": 405,
+  "label": "Heartbeat Icon",
+  "description": "Animated heart, pulse, and heartbeat icons for health and like interactions."
+ },
+ {
+  "cluster": 713,
+  "label": "Fitness Icon",
+  "description": "Animated icons depicting muscles, bones, exercise, and gym equipment."
+ },
+ {
+  "cluster": 734,
+  "label": "Image File Icon",
+  "description": "Animated icons for images, galleries, image files, and missing-image states."
+ },
+ {
+  "cluster": 590,
+  "label": "Panel Layout Icon",
+  "description": "Animated icons for side panels, menus, dashboards, and layout controls."
+ },
+ {
+  "cluster": 665,
+  "label": "Religious Icon",
+  "description": "Animated icons depicting religious symbols, prayer, and places of worship."
+ },
+ {
+  "cluster": 721,
+  "label": "Fire Icon",
+  "description": "Animated icons depicting flames, heat, smoke, and related objects."
+ },
+ {
+  "cluster": 689,
+  "label": "Mouse Icon",
+  "description": "Animated icons depicting computer mice and mouse clicks."
+ },
+ {
+  "cluster": 9,
+  "label": "Swipe Gesture Icon",
+  "description": "Animated icons showing directional swipe gestures and swipe actions."
+ },
+ {
+  "cluster": 562,
+  "label": "Sort Icon",
+  "description": "Animated icons for alphabetical, numerical, and size-based sorting."
+ },
+ {
+  "cluster": 682,
+  "label": "Bookmark Icon",
+  "description": "Animated bookmark icons with add, remove, check, and other states."
+ },
+ {
+  "cluster": 269,
+  "label": "Battery Icon",
+  "description": "Animated icons showing battery charge levels, charging, and warnings."
+ },
+ {
+  "cluster": 639,
+  "label": "Refresh Icon",
+  "description": "Animated refresh and redo icons, with related pull-to-refresh controls."
+ },
+ {
+  "cluster": 640,
+  "label": "Book Icon",
+  "description": "Animated icons depicting books, notebooks, and reading."
+ },
+ {
+  "cluster": 91,
+  "label": "Touch Gesture Icon",
+  "description": "Animated icons showing taps, touch input, and disabled touch."
+ },
+ {
+  "cluster": 723,
+  "label": "Camera Icon",
+  "description": "Animated icons for cameras, photography, video, and viewfinders."
+ },
+ {
+  "cluster": 175,
+  "label": "Map Pin Icon",
+  "description": "Animated icons for map locations and pin actions."
+ },
+ {
+  "cluster": 706,
+  "label": "Search Icon",
+  "description": "Animated magnifying glass icons for search and filtering."
+ },
+ {
+  "cluster": 715,
+  "label": "Science And Technology Icons",
+  "description": "Animated icons depicting atoms, chips, and circuit boards."
+ },
+ {
+  "cluster": 730,
+  "label": "Message Icon",
+  "description": "Animated icons depicting message bubbles and chat actions."
+ },
+ {
+  "cluster": 132,
+  "label": "Bell Icon",
+  "description": "Animated bell icons for notifications and alerts."
+ },
+ {
+  "cluster": 469,
+  "label": "Link Icon",
+  "description": "Animated icons for links and external navigation."
+ },
+ {
+  "cluster": 724,
+  "label": "Lock Icon",
+  "description": "Animated lock icons with status and action symbols."
+ },
+ {
+  "cluster": 140,
+  "label": "Border Icon",
+  "description": "Animated icons for border and stroke settings."
+ },
+ {
+  "cluster": 600,
+  "label": "Alignment Icon",
+  "description": "Animated icons for aligning and distributing objects."
+ },
+ {
+  "cluster": 130,
+  "label": "Math Symbol Icon",
+  "description": "Animated icons for equality, comparison, and related math symbols."
+ },
+ {
+  "cluster": 431,
+  "label": "Wallet Icon",
+  "description": "Animated icons for wallets, payment cards, and missing money."
+ },
+ {
+  "cluster": 708,
+  "label": "Transport Vehicle Icon",
+  "description": "Animated icons depicting delivery trucks and cargo vehicles."
+ },
+ {
+  "cluster": 710,
+  "label": "Login And Logout Icons",
+  "description": "Animated icons for signing in and signing out."
+ },
+ {
+  "cluster": 128,
+  "label": "Share Icon",
+  "description": "Animated icons for sharing content, locations, and screens."
+ },
+ {
+  "cluster": 31,
+  "label": "Dice Icon",
+  "description": "Animated icons depicting dice and numbered die faces."
+ },
+ {
+  "cluster": 573,
+  "label": "Animated List",
+  "description": "Lists whose items animate as they appear, move, or load."
+ },
+ {
+  "cluster": 162,
+  "label": "Animated Number",
+  "description": "Numeric displays that animate changing values with counting, sliding, or rolling digits."
+ },
+ {
+  "cluster": 697,
+  "label": "Text Effects",
+  "description": "Text components with interactive or decorative motion effects."
+ },
+ {
+  "cluster": 653,
+  "label": "Rotating Text",
+  "description": "Text that cycles through words or characters with rolling, flipping, or spinning motion."
+ },
+ {
+  "cluster": 698,
+  "label": "Text Reveal",
+  "description": "Text that appears progressively through scroll-driven or timed animations."
+ },
+ {
+  "cluster": 687,
+  "label": "Entrance Animation",
+  "description": "Effects that bring content into view with fades, slides, blur, or scale."
+ },
+ {
+  "cluster": 387,
+  "label": "Shimmer Text",
+  "description": "Text with a moving sheen used for emphasis or loading states."
+ },
+ {
+  "cluster": 685,
+  "label": "Blur Reveal",
+  "description": "Content that comes into focus as blur is removed during an animation."
+ },
+ {
+  "cluster": 459,
+  "label": "Typewriter Text",
+  "description": "Text that appears and disappears character by character like typed input."
+ },
+ {
+  "cluster": 611,
+  "label": "Scramble Text",
+  "description": "Text that transitions by randomizing characters before resolving into readable words."
+ },
+ {
+  "cluster": 641,
+  "label": "Morphing Text",
+  "description": "Text that smoothly transforms between words or phrases."
+ },
+ {
+  "cluster": 638,
+  "label": "Text Highlight",
+  "description": "Text emphasized with animated marker strokes, underlines, or similar effects."
+ },
+ {
+  "cluster": 605,
+  "label": "Staggered Animation",
+  "description": "Elements that animate in sequence rather than all at once."
+ },
+ {
+  "cluster": 671,
+  "label": "Gradient Text",
+  "description": "Text styled with static or animated color gradients."
+ },
+ {
+  "cluster": 604,
+  "label": "Split Text",
+  "description": "Text split into characters or sections for individual animation."
+ },
+ {
+  "cluster": 670,
+  "label": "Variable Font Text",
+  "description": "Interactive text changes individual letter styles in response to cursor proximity or hover."
+ },
+ {
+  "cluster": 238,
+  "label": "App Shell",
+  "description": "Application layouts organize navigation, workspace controls, and main content."
+ },
+ {
+  "cluster": 550,
+  "label": "Approval Card",
+  "description": "Cards present proposed actions or changes for review and approval."
+ },
+ {
+  "cluster": 227,
+  "label": "ASCII Art",
+  "description": "Visual effects render images, backgrounds, or interface elements with ASCII characters."
+ },
+ {
+  "cluster": 23,
+  "label": "Aspect Ratio",
+  "description": "Containers preserve a fixed width-to-height ratio for their content."
+ },
+ {
+  "cluster": 268,
+  "label": "File Attachment",
+  "description": "Components display attached files with previews and related controls."
+ },
+ {
+  "cluster": 438,
+  "label": "Audio Visualizer",
+  "description": "Components display audio activity as waveforms, bars, grids, or other animations."
+ },
+ {
+  "cluster": 491,
+  "label": "Authentication Email",
+  "description": "Email templates deliver sign-in links, verification requests, and account security notices."
+ },
+ {
+  "cluster": 518,
+  "label": "Login Form",
+  "description": "Forms and pages let users sign in, register, or select a workspace."
+ },
+ {
+  "cluster": 519,
+  "label": "Verification Form",
+  "description": "Forms and screens verify email addresses or two-factor authentication codes."
+ },
+ {
+  "cluster": 492,
+  "label": "Password Reset Form",
+  "description": "Forms guide users through requesting or completing a password reset."
+ },
+ {
+  "cluster": 360,
+  "label": "Authentication Integration",
+  "description": "Providers, routes, and consent screens connect apps to authentication services."
+ },
+ {
+  "cluster": 194,
+  "label": "Autocomplete Input",
+  "description": "Text inputs suggest matching values as users type."
+ },
+ {
+  "cluster": 193,
+  "label": "Autocomplete Select",
+  "description": "Selection controls filter suggested options and support labeled or clearable inputs."
+ },
+ {
+  "cluster": 69,
+  "label": "Avatar",
+  "description": "Images or fallbacks represent users or entities, individually or in groups."
+ },
+ {
+  "cluster": 567,
+  "label": "Press Section",
+  "description": "Sections displaying press coverage, awards, certifications, and other recognition."
+ },
+ {
+  "cluster": 410,
+  "label": "Background Pattern",
+  "description": "Decorative grid, dot, gradient, and circuit patterns for page backgrounds."
+ },
+ {
+  "cluster": 373,
+  "label": "Status Badge",
+  "description": "Compact labels that communicate status or categorize content."
+ },
+ {
+  "cluster": 337,
+  "label": "Badge",
+  "description": "Small labels with solid, outlined, icon, and other visual styles."
+ },
+ {
+  "cluster": 372,
+  "label": "Animated Badge",
+  "description": "Badges with motion effects for status, ratings, or verification."
+ },
+ {
+  "cluster": 543,
+  "label": "Announcement Banner",
+  "description": "Prominent horizontal messages for announcements, promotions, and actions."
+ },
+ {
+  "cluster": 341,
+  "label": "Charts",
+  "description": "Components for visualizing data as bar, line, area, pie, radar, and other charts."
+ },
+ {
+  "cluster": 171,
+  "label": "Battery Icon",
+  "description": "Battery icons in multiple fill, stroke, corner, and color styles."
+ },
+ {
+  "cluster": 149,
+  "label": "Bento Grid",
+  "description": "Sections that arrange features or other content in varied-size tiles."
+ },
+ {
+  "cluster": 105,
+  "label": "Animated Bento Tile",
+  "description": "Individual feature tiles with scroll-triggered entrances for bento grids."
+ },
+ {
+  "cluster": 106,
+  "label": "AI Feature Tile",
+  "description": "Bento tiles presenting AI capabilities with scroll-triggered motion."
+ },
+ {
+  "cluster": 20,
+  "label": "Analytics Bento Tile",
+  "description": "Bento tiles showing charts, metrics, and dashboard features."
+ },
+ {
+  "cluster": 39,
+  "label": "Product Bento Tile",
+  "description": "Compact bento tiles featuring product screenshots and editorial content."
+ },
+ {
+  "cluster": 488,
+  "label": "Billing Panel",
+  "description": "Interfaces for plans, usage, invoices, payments, and subscription settings."
+ },
+ {
+  "cluster": 55,
+  "label": "Editor Drag Handle",
+  "description": "Hover handles for dragging and reordering blocks in a rich-text editor."
+ },
+ {
+  "cluster": 635,
+  "label": "Article Page",
+  "description": "Layouts for reading long-form articles with author details, rich text, and related content."
+ },
+ {
+  "cluster": 636,
+  "label": "Blog Listing",
+  "description": "Sections and pages that display lists or grids of blog posts."
+ },
+ {
+  "cluster": 244,
+  "label": "Booking Form",
+  "description": "Forms and flows for scheduling, reserving, reviewing, or canceling bookings."
+ },
+ {
+  "cluster": 577,
+  "label": "Animated Border",
+  "description": "Decorative borders with moving gradients, trails, glows, or shine effects."
+ },
+ {
+  "cluster": 659,
+  "label": "Bot Icon",
+  "description": "Bot and bot-off icons in different visual styles."
+ },
+ {
+  "cluster": 36,
+  "label": "Brand Logo",
+  "description": "Logos and icons representing companies, products, and services."
+ },
+ {
+  "cluster": 35,
+  "label": "AWS Service Logo",
+  "description": "Logos for AWS services and collections of related services."
+ },
+ {
+  "cluster": 166,
+  "label": "Breadcrumb Navigation",
+  "description": "Navigation trails that show a page's location within a hierarchy."
+ },
+ {
+  "cluster": 174,
+  "label": "Collapsible Breadcrumb",
+  "description": "Breadcrumb trails with overflow menus, collapsed paths, or custom separators."
+ },
+ {
+  "cluster": 173,
+  "label": "Breadcrumb Block",
+  "description": "Breadcrumb layouts for page headers, cards, and multistep navigation."
+ },
+ {
+  "cluster": 587,
+  "label": "Product Upsell",
+  "description": "Product bundles and recommendations that offer related items or add-ons."
+ },
+ {
+  "cluster": 648,
+  "label": "Action Button",
+  "description": "Buttons for triggering actions, including icon and split-button variants."
+ },
+ {
+  "cluster": 645,
+  "label": "Animated Button",
+  "description": "Buttons with interactive hover, press, particle, or motion effects."
+ },
+ {
+  "cluster": 617,
+  "label": "Button Examples",
+  "description": "Button blocks demonstrating icon placement, outlines, links, and states."
+ },
+ {
+  "cluster": 647,
+  "label": "Button Variant",
+  "description": "Styled button variants for primary, secondary, destructive, and icon actions."
+ },
+ {
+  "cluster": 632,
+  "label": "Shimmer Button",
+  "description": "Buttons with animated shine, shimmer, or gradient borders."
+ },
+ {
+  "cluster": 528,
+  "label": "Async Button",
+  "description": "Buttons that show loading, success, or error feedback during actions."
+ },
+ {
+  "cluster": 134,
+  "label": "Design System Components",
+  "description": "Coordinated interface components and tokens for a design system."
+ },
+ {
+  "cluster": 606,
+  "label": "Styled Button",
+  "description": "Buttons with distinctive shapes, outlines, and shadow treatments."
+ },
+ {
+  "cluster": 644,
+  "label": "Hover Button",
+  "description": "Buttons whose icons, labels, or arrows transition on hover."
+ },
+ {
+  "cluster": 408,
+  "label": "Social Login Button",
+  "description": "Provider-branded buttons for signing in with social accounts."
+ },
+ {
+  "cluster": 125,
+  "label": "Copy Button",
+  "description": "Buttons that copy content to the clipboard and show feedback."
+ },
+ {
+  "cluster": 624,
+  "label": "Button Variants",
+  "description": "Buttons demonstrating different sizes, appearances, and press states."
+ },
+ {
+  "cluster": 623,
+  "label": "Glow Button",
+  "description": "Buttons with glow effects that appear or intensify on hover."
+ },
+ {
+  "cluster": 176,
+  "label": "RTL Controls",
+  "description": "Form controls and buttons arranged for right-to-left layouts."
+ },
+ {
+  "cluster": 588,
+  "label": "Metallic Button",
+  "description": "Buttons with liquid-metal, glass, or polished finishes."
+ },
+ {
+  "cluster": 634,
+  "label": "Sliding Button",
+  "description": "Buttons with sliding labels, arrows, or slide-to-confirm interactions."
+ },
+ {
+  "cluster": 377,
+  "label": "Hold To Confirm Button",
+  "description": "Buttons that require a sustained press to confirm an action."
+ },
+ {
+  "cluster": 407,
+  "label": "Login Button",
+  "description": "Buttons for signing in, signing up, or connecting an account."
+ },
+ {
+  "cluster": 416,
+  "label": "Ripple Button",
+  "description": "Buttons that display ripple or similar feedback when pressed."
+ },
+ {
+  "cluster": 261,
+  "label": "Magnetic Button",
+  "description": "Buttons that move toward or react to the pointer on hover."
+ },
+ {
+  "cluster": 288,
+  "label": "Button Group",
+  "description": "Groups of related buttons with options for orientation, sizing, and separators."
+ },
+ {
+  "cluster": 287,
+  "label": "Action Button Group",
+  "description": "Connected buttons for actions, view controls, and overflow menus."
+ },
+ {
+  "cluster": 428,
+  "label": "Date Selection Calendar",
+  "description": "Calendars for viewing dates and selecting a day or date range."
+ },
+ {
+  "cluster": 429,
+  "label": "Date Picker Calendar",
+  "description": "Calendar variants for choosing dates or ranges, including dropdown and dialog layouts."
+ },
+ {
+  "cluster": 248,
+  "label": "Calendar Block",
+  "description": "Calendar blocks with custom navigation, year views, and date presets."
+ },
+ {
+  "cluster": 340,
+  "label": "Event Calendar",
+  "description": "Calendar components and controls for displaying dates and navigating event views."
+ },
+ {
+  "cluster": 263,
+  "label": "Alarm Clock Icon",
+  "description": "Alarm clock and calendar icons in multiple styles, some with check marks."
+ },
+ {
+  "cluster": 79,
+  "label": "Calendar Arrow Icon",
+  "description": "Calendar icons with directional arrows in multiple styles."
+ },
+ {
+  "cluster": 228,
+  "label": "Canvas Renderer",
+  "description": "Canvas and WebGL components for drawing, rendering content, and visual effects."
+ },
+ {
+  "cluster": 630,
+  "label": "Content Card",
+  "description": "Cards that group images, text, data, and related actions."
+ },
+ {
+  "cluster": 574,
+  "label": "Animated Card",
+  "description": "Cards with flip, glow, reveal, and other interactive effects."
+ },
+ {
+  "cluster": 560,
+  "label": "Content Preview Card",
+  "description": "Cards that preview events, posts, repositories, plans, and other content."
+ },
+ {
+  "cluster": 575,
+  "label": "Styled Card",
+  "description": "Cards with distinctive borders, cutouts, gradients, and image treatments."
+ },
+ {
+  "cluster": 481,
+  "label": "Tilt Card",
+  "description": "Cards that tilt in 3D in response to pointer movement."
+ },
+ {
+  "cluster": 631,
+  "label": "Card",
+  "description": "Content containers with optional headers, body areas, and footers."
+ },
+ {
+  "cluster": 480,
+  "label": "Spotlight Card",
+  "description": "Cards with cursor-following light or focus effects."
+ },
+ {
+  "cluster": 601,
+  "label": "Content Card",
+  "description": "Cards for grouping related content."
+ },
+ {
+  "cluster": 572,
+  "label": "Glass Card",
+  "description": "Cards with translucent, frosted-glass or refractive styling."
+ },
+ {
+  "cluster": 375,
+  "label": "Card Stack",
+  "description": "Layered cards or images that can fan out, drag, or cycle."
+ },
+ {
+  "cluster": 401,
+  "label": "Careers Section",
+  "description": "Sections presenting job openings, benefits, workplace culture, or hiring details."
+ },
+ {
+  "cluster": 425,
+  "label": "Carousel",
+  "description": "Controls for browsing a sequence of slides, images, or items."
+ },
+ {
+  "cluster": 424,
+  "label": "Feature Carousel",
+  "description": "Sections that present features or other content in browsable slides."
+ },
+ {
+  "cluster": 245,
+  "label": "Animated Effects",
+  "description": "Interactive visual effects for carousels, cards, text, and icons."
+ },
+ {
+  "cluster": 11,
+  "label": "Cascader",
+  "description": "Pickers for selecting an option through hierarchical levels."
+ },
+ {
+  "cluster": 592,
+  "label": "Customer Case Study",
+  "description": "Sections presenting customer stories, quotes, and measured results."
+ },
+ {
+  "cluster": 591,
+  "label": "Portfolio Case Study",
+  "description": "Sections presenting project narratives, visuals, and outcomes."
+ },
+ {
+  "cluster": 532,
+  "label": "Category Grid",
+  "description": "Layouts of browsable product or destination categories."
+ },
+ {
+  "cluster": 110,
+  "label": "Changelog",
+  "description": "Lists of dated product releases, version numbers, and update notes."
+ },
+ {
+  "cluster": 138,
+  "label": "Chart Icon",
+  "description": "Icons depicting bar, line, pie, and other charts."
+ },
+ {
+  "cluster": 97,
+  "label": "Chart Icons",
+  "description": "Two-tone and duotone icons depicting charts, gauges, and progress visuals."
+ },
+ {
+  "cluster": 89,
+  "label": "Two-Tone Bar Chart Icons",
+  "description": "Two-tone and duotone icons depicting horizontal bar charts."
+ },
+ {
+  "cluster": 98,
+  "label": "Horizontal Bar Chart Icons",
+  "description": "Outlined and filled icons depicting horizontal bar charts."
+ },
+ {
+  "cluster": 690,
+  "label": "Chat Conversation",
+  "description": "Containers and transcripts for displaying conversation histories and message threads."
+ },
+ {
+  "cluster": 686,
+  "label": "Chat Bubble",
+  "description": "Message bubbles with sender alignment, avatars, timestamps, and actions."
+ },
+ {
+  "cluster": 691,
+  "label": "Chat Message",
+  "description": "Individual conversation messages with content, avatars, and optional actions."
+ },
+ {
+  "cluster": 458,
+  "label": "Checkbox",
+  "description": "Checkbox controls for toggling selections, including indeterminate states."
+ },
+ {
+  "cluster": 457,
+  "label": "Checkbox Field",
+  "description": "Form fields and selectable options built around checkboxes."
+ },
+ {
+  "cluster": 343,
+  "label": "Animated Checkbox",
+  "description": "Checkbox controls with animated checkmarks and state transitions."
+ },
+ {
+  "cluster": 374,
+  "label": "Checkbox Group",
+  "description": "Groups of checkboxes for selecting multiple options with shared state."
+ },
+ {
+  "cluster": 569,
+  "label": "Checkout Form",
+  "description": "Checkout flows with customer, shipping, payment, and order summary details."
+ },
+ {
+  "cluster": 323,
+  "label": "Chip",
+  "description": "Compact inline elements for statuses, filters, suggestions, and actions."
+ },
+ {
+  "cluster": 389,
+  "label": "Circular Progress",
+  "description": "Circular indicators that display task progress or an indeterminate loading state."
+ },
+ {
+  "cluster": 342,
+  "label": "Source Citation",
+  "description": "References and source previews for cited content in AI responses."
+ },
+ {
+  "cluster": 426,
+  "label": "Class Name Utility",
+  "description": "Helpers for combining class names and resolving conflicting CSS classes."
+ },
+ {
+  "cluster": 165,
+  "label": "Sparkle Effect",
+  "description": "Animated sparkles, bursts, and confetti effects for text and interface content."
+ },
+ {
+  "cluster": 159,
+  "label": "Timer",
+  "description": "Clocks, countdowns, and time displays for tracking or showing time."
+ },
+ {
+  "cluster": 283,
+  "label": "Clock Icon",
+  "description": "Clock and alarm clock icons in assorted styles."
+ },
+ {
+  "cluster": 442,
+  "label": "Code Block",
+  "description": "Displays code snippets with options such as filenames, line states, and copy buttons."
+ },
+ {
+  "cluster": 61,
+  "label": "Collapsible Section",
+  "description": "Sections that expand and collapse to show or hide content."
+ },
+ {
+  "cluster": 151,
+  "label": "Color Picker",
+  "description": "Controls for selecting colors with fields, swatches, sliders, and palettes."
+ },
+ {
+  "cluster": 384,
+  "label": "Color Theme",
+  "description": "Sets of design tokens defining interface colors and accents."
+ },
+ {
+  "cluster": 366,
+  "label": "Combobox",
+  "description": "Searchable fields for choosing options from a dropdown list."
+ },
+ {
+  "cluster": 276,
+  "label": "Combobox Variants",
+  "description": "Comboboxes with clearing, automatic highlighting, and other selection behaviors."
+ },
+ {
+  "cluster": 367,
+  "label": "Multi-Select Combobox",
+  "description": "Searchable comboboxes that allow multiple options to be selected."
+ },
+ {
+  "cluster": 299,
+  "label": "Coming Soon Page",
+  "description": "Pre-launch pages and sections with announcements, event details, or signup forms."
+ },
+ {
+  "cluster": 346,
+  "label": "Command Menu",
+  "description": "Searchable menus for finding and running actions."
+ },
+ {
+  "cluster": 345,
+  "label": "Command Palette",
+  "description": "Keyboard-friendly search interfaces for navigating destinations and running actions."
+ },
+ {
+  "cluster": 436,
+  "label": "Comparison Section",
+  "description": "Sections comparing products, approaches, costs, or benefits side by side."
+ },
+ {
+  "cluster": 637,
+  "label": "Product Comparison Table",
+  "description": "Tables comparing product specifications, prices, and features across models."
+ },
+ {
+  "cluster": 295,
+  "label": "Comparison Widget",
+  "description": "Dashboard widgets comparing metrics, spending, or market data."
+ },
+ {
+  "cluster": 396,
+  "label": "Contact Section",
+  "description": "Contact layouts with message forms, contact details, or office locations."
+ },
+ {
+  "cluster": 538,
+  "label": "Content Section",
+  "description": "Editorial content layouts combining text, images, quotes, and links."
+ },
+ {
+  "cluster": 466,
+  "label": "Context Menu",
+  "description": "Right-click or long-press menus offering actions for an item."
+ },
+ {
+  "cluster": 467,
+  "label": "Selectable Context Menu",
+  "description": "Context menus with checkbox or radio options for choosing settings."
+ },
+ {
+  "cluster": 232,
+  "label": "Contribution Graph",
+  "description": "Calendar heatmaps showing daily GitHub contributions over time."
+ },
+ {
+  "cluster": 178,
+  "label": "Control Group",
+  "description": "Grouped buttons, inputs, and labels presented as a single control."
+ },
+ {
+  "cluster": 234,
+  "label": "Cookie Consent Banner",
+  "description": "Banners and cards for accepting, rejecting, or configuring cookies."
+ },
+ {
+  "cluster": 523,
+  "label": "Call To Action Section",
+  "description": "Sections with prominent messaging and buttons prompting a user action."
+ },
+ {
+  "cluster": 522,
+  "label": "Portfolio Call To Action",
+  "description": "Personal and project-focused sections inviting inquiries, bookings, or applications."
+ },
+ {
+  "cluster": 580,
+  "label": "Cursor Effect",
+  "description": "Interactive pointer effects with particles, glow, liquid motion, or text."
+ },
+ {
+  "cluster": 576,
+  "label": "Cursor Trail",
+  "description": "Images, ribbons, or pixels that follow pointer movement."
+ },
+ {
+  "cluster": 267,
+  "label": "Dither Effect",
+  "description": "Canvas effects that render pixelated, dithered, or retro-style visuals."
+ },
+ {
+  "cluster": 579,
+  "label": "Custom Cursor",
+  "description": "Replacement pointers and animated cursor overlays for interactive interfaces."
+ },
+ {
+  "cluster": 621,
+  "label": "Customer Reviews Section",
+  "description": "Commerce sections displaying customer reviews, ratings, and review details."
+ },
+ {
+  "cluster": 330,
+  "label": "Dashboard",
+  "description": "Dashboard layouts and widgets for displaying metrics, navigation, charts, and records."
+ },
+ {
+  "cluster": 627,
+  "label": "Editable Data Grid",
+  "description": "Data grids with features such as cell editing, virtual scrolling, and remote data loading."
+ },
+ {
+  "cluster": 654,
+  "label": "Table",
+  "description": "Tables for displaying data in rows and columns."
+ },
+ {
+  "cluster": 657,
+  "label": "Data Table",
+  "description": "Record tables with sorting, filtering, sticky headers, and row details."
+ },
+ {
+  "cluster": 655,
+  "label": "Interactive Data Table",
+  "description": "Data tables and controls for pagination, column settings, sorting, and row reordering."
+ },
+ {
+  "cluster": 662,
+  "label": "Record Tables",
+  "description": "Tables showing business records such as orders, invoices, projects, and team members."
+ },
+ {
+  "cluster": 663,
+  "label": "Table Variants",
+  "description": "Tables with variations in spacing, alignment, footers, and status indicators."
+ },
+ {
+  "cluster": 610,
+  "label": "Advanced Data Grid",
+  "description": "Data grids with configurable filters, bulk actions, expandable rows, and infinite scrolling."
+ },
+ {
+  "cluster": 19,
+  "label": "Data Grid Examples",
+  "description": "Data grids demonstrating expandable rows, pinned columns, header cues, and summary metrics."
+ },
+ {
+  "cluster": 628,
+  "label": "Data Grid",
+  "description": "Data grids with sorting, pagination, pinned columns, and column virtualization."
+ },
+ {
+  "cluster": 183,
+  "label": "Database Icon",
+  "description": "Database icons in different styles, including variants with directional arrows."
+ },
+ {
+  "cluster": 306,
+  "label": "Date Field",
+  "description": "Fields for typing and editing dates, times, and durations."
+ },
+ {
+  "cluster": 355,
+  "label": "Date Picker",
+  "description": "Controls for selecting dates or date ranges from calendars and other picker interfaces."
+ },
+ {
+  "cluster": 270,
+  "label": "Date Picker Variants",
+  "description": "Date pickers with options such as disabled days, availability slots, and range presets."
+ },
+ {
+  "cluster": 307,
+  "label": "Date Range Picker",
+  "description": "Calendars and pickers for selecting date ranges, including validation and disabled-date options."
+ },
+ {
+  "cluster": 1,
+  "label": "Star Shapes",
+  "description": "Customizable SVG star shapes for decorative use."
+ },
+ {
+  "cluster": 460,
+  "label": "Description List",
+  "description": "Lists and inputs that display labeled values or key-value pairs."
+ },
+ {
+  "cluster": 104,
+  "label": "Device Mockup",
+  "description": "Frames and illustrations that present content inside phones, laptops, or browser windows."
+ },
+ {
+  "cluster": 521,
+  "label": "Dialog Component",
+  "description": "Modal dialogs for content, forms, settings, and confirmations."
+ },
+ {
+  "cluster": 513,
+  "label": "Dialog Layout",
+  "description": "Dialog layouts with varied headers, footers, scrolling, and controls."
+ },
+ {
+  "cluster": 475,
+  "label": "Team Invitation",
+  "description": "Interfaces for inviting teammates or accepting workspace invitations."
+ },
+ {
+  "cluster": 347,
+  "label": "Share Button",
+  "description": "Buttons and controls for sharing content or copying its link."
+ },
+ {
+  "cluster": 2,
+  "label": "Dice Icons",
+  "description": "Die-face icons in multiple styles and pip counts."
+ },
+ {
+  "cluster": 415,
+  "label": "Code Diff Viewer",
+  "description": "Views for comparing file changes and reviewing individual edits."
+ },
+ {
+  "cluster": 359,
+  "label": "Direction Provider",
+  "description": "Context providers that set left-to-right or right-to-left layout direction."
+ },
+ {
+  "cluster": 51,
+  "label": "Disclosure",
+  "description": "Expandable panels that show or hide content."
+ },
+ {
+  "cluster": 266,
+  "label": "Dither Effect",
+  "description": "Dithered rendering effects for images, graphics, backgrounds, and charts."
+ },
+ {
+  "cluster": 56,
+  "label": "Navigation Dock",
+  "description": "Dock-style navigation and action bars with animated item interactions."
+ },
+ {
+  "cluster": 404,
+  "label": "Document Viewer",
+  "description": "Interfaces for viewing, navigating, and annotating documents and spreadsheets."
+ },
+ {
+  "cluster": 512,
+  "label": "Editor Documentation",
+  "description": "Guides, examples, and utilities for configuring a rich text editor."
+ },
+ {
+  "cluster": 255,
+  "label": "Download Section",
+  "description": "Sections with app store links, installer buttons, or downloadable resources."
+ },
+ {
+  "cluster": 230,
+  "label": "Drawer",
+  "description": "Panels that slide in from a screen edge to display content or actions."
+ },
+ {
+  "cluster": 229,
+  "label": "Navigation Drawer",
+  "description": "Drawer panels for navigation, supplementary content, or multistep flows."
+ },
+ {
+  "cluster": 477,
+  "label": "Dropdown Menu",
+  "description": "Trigger-based menus for selecting options or performing actions."
+ },
+ {
+  "cluster": 476,
+  "label": "Action Dropdown",
+  "description": "Dropdown blocks with shortcuts, controls, and lists of actions."
+ },
+ {
+  "cluster": 394,
+  "label": "Account Menu",
+  "description": "Avatar-triggered menus for profile details, settings, and account actions."
+ },
+ {
+  "cluster": 540,
+  "label": "Editor Plugin Kit",
+  "description": "Feature kits that add editing and rendering capabilities to rich-text editors."
+ },
+ {
+  "cluster": 93,
+  "label": "Email Section",
+  "description": "Reusable content sections and layouts for email messages."
+ },
+ {
+  "cluster": 15,
+  "label": "Email Theme",
+  "description": "Design tokens for styling email templates."
+ },
+ {
+  "cluster": 335,
+  "label": "Emoji Reactions",
+  "description": "Emoji pickers, displays, and controls for reacting to content."
+ },
+ {
+  "cluster": 168,
+  "label": "Empty State Block",
+  "description": "Illustrated placeholders for empty content areas with messages and actions."
+ },
+ {
+  "cluster": 167,
+  "label": "Empty State",
+  "description": "Placeholders for unavailable content, empty lists, or search results."
+ },
+ {
+  "cluster": 103,
+  "label": "Error Page",
+  "description": "Pages and sections for 404 errors, maintenance, and other unavailable states."
+ },
+ {
+  "cluster": 247,
+  "label": "Event Calendar",
+  "description": "Calendars and scheduling controls for viewing, booking, and managing events."
+ },
+ {
+  "cluster": 514,
+  "label": "Events Section",
+  "description": "Sections listing events, webinars, talks, and session recordings."
+ },
+ {
+  "cluster": 376,
+  "label": "Expandable Card",
+  "description": "Cards that expand on hover, click, or scroll to reveal more content."
+ },
+ {
+  "cluster": 583,
+  "label": "Work Experience Section",
+  "description": "Resume sections showing roles, career history, and related achievements."
+ },
+ {
+  "cluster": 673,
+  "label": "Ecommerce Information Section",
+  "description": "Shopping-related sections explaining policies, buying choices, and product details."
+ },
+ {
+  "cluster": 398,
+  "label": "Accordion FAQ",
+  "description": "FAQ sections with expandable questions and answers, often grouped by category."
+ },
+ {
+  "cluster": 399,
+  "label": "FAQ Card Grid",
+  "description": "FAQ sections presenting questions and answers in cards or columns."
+ },
+ {
+  "cluster": 364,
+  "label": "FAQ Section",
+  "description": "Sections presenting common questions and answers."
+ },
+ {
+  "cluster": 49,
+  "label": "Feature Icon",
+  "description": "SVG icons depicting features, characters, and status states."
+ },
+ {
+  "cluster": 701,
+  "label": "Feature Grid",
+  "description": "Sections highlighting features with cards, tiles, or lists."
+ },
+ {
+  "cluster": 700,
+  "label": "Image Feature Section",
+  "description": "Sections pairing feature descriptions with images in columns or alternating rows."
+ },
+ {
+  "cluster": 660,
+  "label": "Product Features Section",
+  "description": "Sections presenting product or service capabilities and benefits."
+ },
+ {
+  "cluster": 692,
+  "label": "Tabbed Feature Section",
+  "description": "Feature sections that switch images and descriptions through tabs or accordions."
+ },
+ {
+  "cluster": 325,
+  "label": "Website Blocks",
+  "description": "Site sections and forms, including features, calls to action, footers, and authentication."
+ },
+ {
+  "cluster": 511,
+  "label": "Feedback Survey",
+  "description": "Forms and dialogs that collect ratings, comments, and survey responses."
+ },
+ {
+  "cluster": 239,
+  "label": "Feedback Widget",
+  "description": "Compact widgets for collecting feedback or displaying comments and poll responses."
+ },
+ {
+  "cluster": 265,
+  "label": "Fieldset",
+  "description": "Groups of related form controls with an optional label."
+ },
+ {
+  "cluster": 423,
+  "label": "File Manager",
+  "description": "Interfaces for browsing, selecting, and managing files."
+ },
+ {
+  "cluster": 597,
+  "label": "File Icons",
+  "description": "Icons depicting files, archives, downloads, and related actions."
+ },
+ {
+  "cluster": 507,
+  "label": "File Tree",
+  "description": "Expandable trees for navigating folders and files."
+ },
+ {
+  "cluster": 219,
+  "label": "File Input",
+  "description": "Controls for selecting files and tracking uploads."
+ },
+ {
+  "cluster": 220,
+  "label": "File Dropzone",
+  "description": "Drag-and-drop areas for uploading files."
+ },
+ {
+  "cluster": 216,
+  "label": "File Upload Form",
+  "description": "Upload interfaces with file previews, validation, and progress."
+ },
+ {
+  "cluster": 479,
+  "label": "Filter Panel",
+  "description": "Controls for refining lists or results by category and other conditions."
+ },
+ {
+  "cluster": 552,
+  "label": "Fire Effect",
+  "description": "Animated flames, sparks, and heat effects for borders or backgrounds."
+ },
+ {
+  "cluster": 3,
+  "label": "Country Flags",
+  "description": "Flag components for countries and regions in SVG and raster formats."
+ },
+ {
+  "cluster": 258,
+  "label": "Floating Action Menu",
+  "description": "Floating buttons that expand to reveal additional actions."
+ },
+ {
+  "cluster": 502,
+  "label": "Folder Card",
+  "description": "Interactive folder-shaped cards that open or animate to reveal content."
+ },
+ {
+  "cluster": 16,
+  "label": "Script Fonts",
+  "description": "Typefaces supporting specific writing systems and languages."
+ },
+ {
+  "cluster": 17,
+  "label": "Font Pairings",
+  "description": "Fonts and typography combinations for headings, body text, and code."
+ },
+ {
+  "cluster": 12,
+  "label": "Handwriting Fonts",
+  "description": "Educational handwriting typefaces and matching typography pairings."
+ },
+ {
+  "cluster": 14,
+  "label": "Display Fonts",
+  "description": "Expressive display typefaces and pairings built around them."
+ },
+ {
+  "cluster": 241,
+  "label": "Site Footer",
+  "description": "Page footers with navigation, contact details, social links, and legal information."
+ },
+ {
+  "cluster": 240,
+  "label": "Store Footer",
+  "description": "Storefront footers with shopping links, payment details, locations, and social links."
+ },
+ {
+  "cluster": 547,
+  "label": "Validated Form",
+  "description": "Forms and fields demonstrating input validation, error handling, and submission."
+ },
+ {
+  "cluster": 548,
+  "label": "Form Component",
+  "description": "Reusable form components and controls for collecting and submitting user input."
+ },
+ {
+  "cluster": 443,
+  "label": "Form Layout",
+  "description": "Arrangements of form fields in responsive rows, stacks, and compact groups."
+ },
+ {
+  "cluster": 529,
+  "label": "Form Field",
+  "description": "Field wrappers that pair inputs with labels, help text, and errors."
+ },
+ {
+  "cluster": 163,
+  "label": "Content Frame",
+  "description": "Frames that contain content or media with spacing, borders, or decorative treatments."
+ },
+ {
+  "cluster": 169,
+  "label": "Funnel Chart",
+  "description": "Charts and displays showing values across sequential funnel stages."
+ },
+ {
+  "cluster": 395,
+  "label": "Gantt Chart",
+  "description": "Timelines that position tasks and milestones along a date scale."
+ },
+ {
+  "cluster": 211,
+  "label": "Gauge Chart",
+  "description": "Gauges that show a value or progress within a range."
+ },
+ {
+  "cluster": 231,
+  "label": "GitHub Star Button",
+  "description": "Buttons and counters that link to a GitHub repository and show its star count."
+ },
+ {
+  "cluster": 338,
+  "label": "Glass Surface",
+  "description": "Translucent interface surfaces with blur, refraction, or frosted-glass effects."
+ },
+ {
+  "cluster": 212,
+  "label": "Glitch Effect",
+  "description": "Animated text, backgrounds, and controls with digital distortion effects."
+ },
+ {
+  "cluster": 356,
+  "label": "3D Globe",
+  "description": "Rotating or interactive globes that can display locations and connections."
+ },
+ {
+  "cluster": 321,
+  "label": "Grid Layout",
+  "description": "Responsive grids and containers for arranging and constraining page content."
+ },
+ {
+  "cluster": 13,
+  "label": "Handwriting Font",
+  "description": "Regional handwriting fonts for typography."
+ },
+ {
+  "cluster": 289,
+  "label": "Heatmap",
+  "description": "Grid, calendar, and geographic heatmaps that show values through color intensity."
+ },
+ {
+  "cluster": 310,
+  "label": "Hero Section",
+  "description": "Prominent introductory sections with headlines, imagery, and calls to action."
+ },
+ {
+  "cluster": 561,
+  "label": "Portfolio Page",
+  "description": "Portfolio layouts that introduce a creator and showcase their work."
+ },
+ {
+  "cluster": 470,
+  "label": "Storefront Hero",
+  "description": "Storefront introductions featuring products, promotions, and shopping tools."
+ },
+ {
+  "cluster": 309,
+  "label": "Form Hero Section",
+  "description": "Hero sections with embedded signup, booking, contact, or survey forms."
+ },
+ {
+  "cluster": 541,
+  "label": "Hover Card",
+  "description": "Cards that reveal profile details or other content when hovered."
+ },
+ {
+  "cluster": 444,
+  "label": "Process Steps Section",
+  "description": "Sections that explain a process through ordered steps."
+ },
+ {
+  "cluster": 677,
+  "label": "Symbol Icons",
+  "description": "General-purpose symbols in outline, filled, two-tone, and duotone styles."
+ },
+ {
+  "cluster": 206,
+  "label": "Plus Icons",
+  "description": "Object and action icons marked with a plus sign."
+ },
+ {
+  "cluster": 497,
+  "label": "Sparkle Icons",
+  "description": "Object and action icons accented with sparkles."
+ },
+ {
+  "cluster": 64,
+  "label": "Minus Icons",
+  "description": "Object and action icons marked with a minus sign."
+ },
+ {
+  "cluster": 208,
+  "label": "Arrow Icons",
+  "description": "Directional arrows and arrow-marked objects in outline or filled styles."
+ },
+ {
+  "cluster": 207,
+  "label": "Two-Tone Arrow Icons",
+  "description": "Directional arrows and arrow-marked objects in two-tone or duotone styles."
+ },
+ {
+  "cluster": 59,
+  "label": "Layout Icons",
+  "description": "Icons depicting dashboard layouts and panel arrangements."
+ },
+ {
+  "cluster": 170,
+  "label": "X Mark Icons",
+  "description": "Icons showing X marks alone or combined with badges, circles, and other symbols."
+ },
+ {
+  "cluster": 381,
+  "label": "Audio And Media Icons",
+  "description": "Icons for audio, music, microphones, playback, and media casting."
+ },
+ {
+  "cluster": 264,
+  "label": "Check Mark Icons",
+  "description": "Icons showing check marks alone or combined with apps, badges, and other symbols."
+ },
+ {
+  "cluster": 50,
+  "label": "Chart Icons",
+  "description": "Icons depicting scatter plots, sparklines, area charts, and other data charts."
+ },
+ {
+  "cluster": 28,
+  "label": "Alignment Icons",
+  "description": "Icons for aligning elements to the center, edges, or guides."
+ },
+ {
+  "cluster": 676,
+  "label": "Accessibility And Navigation Icons",
+  "description": "Icons depicting accessibility, navigation, flags, languages, and menu controls."
+ },
+ {
+  "cluster": 200,
+  "label": "Finance Icons",
+  "description": "Icons for Bitcoin, coins, cards, wallets, and receipts."
+ },
+ {
+  "cluster": 581,
+  "label": "Keyboard And Security Icons",
+  "description": "Icons depicting command keys, keyboards, locks, keys, and fingerprints."
+ },
+ {
+  "cluster": 327,
+  "label": "Weather Icons",
+  "description": "Icons depicting clouds, rain, sun, umbrellas, and other weather conditions."
+ },
+ {
+  "cluster": 53,
+  "label": "Git Icons",
+  "description": "Icons for Git branches, forks, graphs, and related version-control actions."
+ },
+ {
+  "cluster": 257,
+  "label": "Message Icons",
+  "description": "Icons for message bubbles, replies, and messaging states."
+ },
+ {
+  "cluster": 99,
+  "label": "Grid Icons",
+  "description": "Icons depicting arrangements of squares or circles in grids."
+ },
+ {
+  "cluster": 246,
+  "label": "Lightning Bolt Icons",
+  "description": "Icons showing lightning bolts alone or combined with files, calendars, and other objects."
+ },
+ {
+  "cluster": 57,
+  "label": "Chevron Icons",
+  "description": "Stroke and filled chevron icons pointing in different directions, sometimes inside shapes."
+ },
+ {
+  "cluster": 58,
+  "label": "Two-Tone Chevron Icons",
+  "description": "Two-tone chevron icons pointing in different directions, sometimes inside shapes."
+ },
+ {
+  "cluster": 362,
+  "label": "Alert Icons",
+  "description": "Icons depicting warnings, alerts, flags, sirens, and related status symbols."
+ },
+ {
+  "cluster": 145,
+  "label": "Audio Device Icons",
+  "description": "Icons depicting earbuds, headphones, ears, and listening devices."
+ },
+ {
+  "cluster": 566,
+  "label": "Dashed Shape Icons",
+  "description": "Icons depicting circles and squares with dashed or partial outlines."
+ },
+ {
+  "cluster": 34,
+  "label": "Truck Icons",
+  "description": "Icons depicting trucks with directional arrows, symbols, and other variations."
+ },
+ {
+  "cluster": 433,
+  "label": "Cursor Icons",
+  "description": "Icons depicting mouse pointers, clicks, and cursors within app windows."
+ },
+ {
+  "cluster": 150,
+  "label": "Scanning Icons",
+  "description": "Icons depicting QR codes and scanning actions for text, faces, and other targets."
+ },
+ {
+  "cluster": 664,
+  "label": "Tool Icons",
+  "description": "Icons depicting paintbrushes, brooms, toolboxes, and other utility tools."
+ },
+ {
+  "cluster": 187,
+  "label": "Currency Icons",
+  "description": "Icons depicting euro, yen, pound, and other currency symbols."
+ },
+ {
+  "cluster": 201,
+  "label": "Notification Bell Icons",
+  "description": "Icons depicting notification bells with status marks and decorative effects."
+ },
+ {
+  "cluster": 153,
+  "label": "Temperature Icons",
+  "description": "Icons depicting thermometers, snowflakes, and temperature gauges."
+ },
+ {
+  "cluster": 565,
+  "label": "Progress Icons",
+  "description": "Icons depicting partially completed circular and square progress indicators."
+ },
+ {
+  "cluster": 184,
+  "label": "Map Pin Icons",
+  "description": "Icons depicting maps and location pins with search or status marks."
+ },
+ {
+  "cluster": 432,
+  "label": "Computer Interface Icons",
+  "description": "Icons depicting cursors, app windows, terminals, and other computer interface elements."
+ },
+ {
+  "cluster": 76,
+  "label": "Trend Icons",
+  "description": "Icons depicting upward and downward trends with arrows and chart lines."
+ },
+ {
+  "cluster": 199,
+  "label": "Banknote Icons",
+  "description": "Icons depicting banknotes with check marks, crosses, and other status symbols."
+ },
+ {
+  "cluster": 139,
+  "label": "Declining Chart Icon",
+  "description": "Icons showing downward-trending charts in different shapes and styles."
+ },
+ {
+  "cluster": 142,
+  "label": "Progress Control Icon",
+  "description": "Icons showing pause and stop controls within progress indicators."
+ },
+ {
+  "cluster": 213,
+  "label": "Phone Action Icon",
+  "description": "Icons for phone calls, contacts, call forwarding, and disabled calls."
+ },
+ {
+  "cluster": 60,
+  "label": "Dashed Panel Arrow Icon",
+  "description": "Directional arrow icons paired with dashed panels."
+ },
+ {
+  "cluster": 66,
+  "label": "Heading Level Icon",
+  "description": "Icons representing headings and their hierarchy levels."
+ },
+ {
+  "cluster": 413,
+  "label": "Terminal Window Icon",
+  "description": "Icons depicting application windows, terminals, and related files."
+ },
+ {
+  "cluster": 447,
+  "label": "Device Icon",
+  "description": "Icons depicting laptops, smartphones, and connected devices."
+ },
+ {
+  "cluster": 4,
+  "label": "Pull Request Icon",
+  "description": "Icons showing Git pull requests in open, closed, draft, and creation states."
+ },
+ {
+  "cluster": 108,
+  "label": "Table Icon",
+  "description": "Icons depicting tables, rows, cells, and cell operations."
+ },
+ {
+  "cluster": 157,
+  "label": "Sports Equipment Icon",
+  "description": "Icons depicting sports balls, bats, sticks, and other equipment."
+ },
+ {
+  "cluster": 42,
+  "label": "Phone Transfer Icon",
+  "description": "Icons showing smartphones with directional arrows."
+ },
+ {
+  "cluster": 141,
+  "label": "Play Control Icon",
+  "description": "Icons depicting play controls, playback devices, and game controllers."
+ },
+ {
+  "cluster": 136,
+  "label": "Playback Control Icon",
+  "description": "Icons for repeating, replaying, fast-forwarding, and rewinding media."
+ },
+ {
+  "cluster": 52,
+  "label": "Git History Icon",
+  "description": "Icons and graphics depicting Git commits, branches, forks, and comparisons."
+ },
+ {
+  "cluster": 370,
+  "label": "Icon Utility",
+  "description": "Components and utilities for displaying, providing, and resolving icons."
+ },
+ {
+  "cluster": 328,
+  "label": "Vehicle Icons",
+  "description": "Icons depicting bicycles, cars, routes, and other transportation symbols."
+ },
+ {
+  "cluster": 65,
+  "label": "Refresh Icons",
+  "description": "Icons showing clockwise and counterclockwise refresh or rotation arrows."
+ },
+ {
+  "cluster": 74,
+  "label": "Face Icons",
+  "description": "Icons showing smiling, neutral, angry, and frowning faces."
+ },
+ {
+  "cluster": 111,
+  "label": "Discount Icons",
+  "description": "Icons showing percent signs on badges, coupons, tags, and other shapes."
+ },
+ {
+  "cluster": 126,
+  "label": "Wi-Fi Icons",
+  "description": "Icons showing Wi-Fi signals and connection states."
+ },
+ {
+  "cluster": 164,
+  "label": "Gallery Icons",
+  "description": "Icons representing horizontal and vertical galleries and their start or end positions."
+ },
+ {
+  "cluster": 252,
+  "label": "Inbox Icons",
+  "description": "Icons depicting inboxes and message notifications."
+ },
+ {
+  "cluster": 45,
+  "label": "Ellipsis Icons",
+  "description": "Icons showing horizontal or vertical three-dot menus."
+ },
+ {
+  "cluster": 133,
+  "label": "Text Formatting Icons",
+  "description": "Icons for bold, underline, strikethrough, and related text controls."
+ },
+ {
+  "cluster": 48,
+  "label": "Caption Icons",
+  "description": "Icons representing captions, subtitles, and their disabled states."
+ },
+ {
+  "cluster": 116,
+  "label": "Sticky Note Icons",
+  "description": "Icons depicting sticky notes and their disabled states."
+ },
+ {
+  "cluster": 243,
+  "label": "File Search Icons",
+  "description": "Icons representing searches within files, folders, or lists."
+ },
+ {
+  "cluster": 385,
+  "label": "Video File Icons",
+  "description": "Icons representing video files, film, and video viewing."
+ },
+ {
+  "cluster": 596,
+  "label": "Archive Icons",
+  "description": "Icons depicting ZIP files, archive folders, and related storage items."
+ },
+ {
+  "cluster": 256,
+  "label": "Email Icons",
+  "description": "Icons depicting email addresses, envelopes, and checked messages."
+ },
+ {
+  "cluster": 202,
+  "label": "Device Status Icon",
+  "description": "Icons depicting phones, tablets, and other devices with status symbols."
+ },
+ {
+  "cluster": 556,
+  "label": "Writing Tool Icon",
+  "description": "Icons depicting pens, pencils, and drawing tools."
+ },
+ {
+  "cluster": 30,
+  "label": "Caret Icon",
+  "description": "Outlined and filled caret icons pointing in different directions."
+ },
+ {
+  "cluster": 386,
+  "label": "List Icon",
+  "description": "Icons for lists, sorting, and collapsing list content."
+ },
+ {
+  "cluster": 215,
+  "label": "Brain Icon",
+  "description": "Icons depicting brains and related computing symbols."
+ },
+ {
+  "cluster": 8,
+  "label": "U-Turn Arrow Icon",
+  "description": "Icons showing arrows making left or right U-turns."
+ },
+ {
+  "cluster": 29,
+  "label": "Two-Tone Caret Icon",
+  "description": "Two-tone and duotone caret icons pointing in different directions."
+ },
+ {
+  "cluster": 44,
+  "label": "Baby Icon",
+  "description": "Icons depicting babies and young children."
+ },
+ {
+  "cluster": 63,
+  "label": "Fullscreen Icon",
+  "description": "Icons for entering, exiting, or toggling fullscreen mode."
+ },
+ {
+  "cluster": 71,
+  "label": "Laboratory Flask Icon",
+  "description": "Icons depicting laboratory flasks, bottles, and test tubes."
+ },
+ {
+  "cluster": 82,
+  "label": "Adjustment Sliders Icon",
+  "description": "Icons depicting horizontal or vertical adjustment sliders."
+ },
+ {
+  "cluster": 121,
+  "label": "Send Icon",
+  "description": "Icons representing sending, scheduled sending, and related actions."
+ },
+ {
+  "cluster": 131,
+  "label": "Math Symbol Icon",
+  "description": "Icons depicting equals and approximate-equals symbols."
+ },
+ {
+  "cluster": 275,
+  "label": "Electrical Icon",
+  "description": "Icons depicting cables, power controls, and other electrical items."
+ },
+ {
+  "cluster": 285,
+  "label": "Shirt Icon",
+  "description": "Icons depicting shirts and related apparel symbols."
+ },
+ {
+  "cluster": 382,
+  "label": "Volume Icons",
+  "description": "Speaker icons for audio volume levels and mute states."
+ },
+ {
+  "cluster": 86,
+  "label": "Quotation Mark Icons",
+  "description": "Quotation mark icons in opening, closing, and paired forms."
+ },
+ {
+  "cluster": 205,
+  "label": "Bag Icons",
+  "description": "Icons depicting briefcases, handbags, and shopping bags."
+ },
+ {
+  "cluster": 70,
+  "label": "Hand Gesture Icons",
+  "description": "Icons showing open, closed, and pointing hands."
+ },
+ {
+  "cluster": 312,
+  "label": "Sun Icons",
+  "description": "Sun icons showing different brightness levels and sunset."
+ },
+ {
+  "cluster": 143,
+  "label": "Symbol Icons",
+  "description": "Icons depicting slashes, hash marks, and prohibition symbols."
+ },
+ {
+  "cluster": 297,
+  "label": "Asterisk Icons",
+  "description": "Asterisk icons, including circled and terminal variants."
+ },
+ {
+  "cluster": 204,
+  "label": "Shopping Basket Icons",
+  "description": "Shopping basket and cart icons, including add-item variants."
+ },
+ {
+  "cluster": 152,
+  "label": "Camera Icons",
+  "description": "Camera and CCTV icons, including off states."
+ },
+ {
+  "cluster": 282,
+  "label": "Clock Icons",
+  "description": "Clock, alarm, and timer icons for time-related actions."
+ },
+ {
+  "cluster": 291,
+  "label": "Hand Heart Icons",
+  "description": "Icons of a hand holding a heart and related heart symbols."
+ },
+ {
+  "cluster": 300,
+  "label": "Question Mark Icons",
+  "description": "Question mark icons in badges, circles, and squares."
+ },
+ {
+  "cluster": 84,
+  "label": "Duotone Panel Arrows",
+  "description": "Duotone arrows pointing toward dashed panels in various directions."
+ },
+ {
+  "cluster": 85,
+  "label": "Two-Tone Panel Arrows",
+  "description": "Two-tone arrows pointing toward dashed panels in various directions."
+ },
+ {
+  "cluster": 101,
+  "label": "Table Row Icons",
+  "description": "Icons for inserting, adding, and removing table rows."
+ },
+ {
+  "cluster": 196,
+  "label": "User Icons",
+  "description": "Icons depicting individual users and groups of people."
+ },
+ {
+  "cluster": 5,
+  "label": "Dashed Expand Icon",
+  "description": "Outline and filled icons showing expansion in different directions with dashed elements."
+ },
+ {
+  "cluster": 6,
+  "label": "Two-Tone Expand Icon",
+  "description": "Two-tone and duotone icons showing expansion in different directions with dashed elements."
+ },
+ {
+  "cluster": 54,
+  "label": "Podium Icon",
+  "description": "Icons depicting first-, second-, and third-place podiums."
+ },
+ {
+  "cluster": 80,
+  "label": "Clock Arrow Icon",
+  "description": "Icons combining a clock with an arrow pointing in different directions."
+ },
+ {
+  "cluster": 90,
+  "label": "Tablet Arrow Icon",
+  "description": "Icons combining a tablet with an arrow pointing in different directions."
+ },
+ {
+  "cluster": 95,
+  "label": "Diagram Relationship Icon",
+  "description": "Icons depicting predecessor, successor, and related diagram nodes."
+ },
+ {
+  "cluster": 100,
+  "label": "Table Column Edit Icon",
+  "description": "Icons for adding or removing table columns before or after another column."
+ },
+ {
+  "cluster": 102,
+  "label": "Bed Icon",
+  "description": "Icons depicting single and double beds."
+ },
+ {
+  "cluster": 107,
+  "label": "Table Cell Merge Icon",
+  "description": "Icons for merging adjacent table columns or rows."
+ },
+ {
+  "cluster": 186,
+  "label": "Dollar Sign Icon",
+  "description": "Icons depicting dollar signs, including badge and circular variants."
+ },
+ {
+  "cluster": 198,
+  "label": "Sort Order Icon",
+  "description": "Icons showing a downward arrow beside bars ordered from narrow to wide or wide to narrow."
+ },
+ {
+  "cluster": 250,
+  "label": "Hourglass Icon",
+  "description": "Icons depicting hourglasses at different stages of elapsed time."
+ },
+ {
+  "cluster": 649,
+  "label": "Anchor Icon",
+  "description": "Icons depicting a nautical anchor."
+ },
+ {
+  "cluster": 81,
+  "label": "Thumbs Up Down Icon",
+  "description": "Static and animated icons for positive and negative feedback."
+ },
+ {
+  "cluster": 119,
+  "label": "Toggle Icon",
+  "description": "Icons depicting toggles and switches in on or off states."
+ },
+ {
+  "cluster": 129,
+  "label": "Scissors Icon",
+  "description": "Icons depicting scissors, cutting, and paper shredders."
+ },
+ {
+  "cluster": 115,
+  "label": "Division Icon",
+  "description": "Icons depicting division symbols, including circled and squared variants."
+ },
+ {
+  "cluster": 137,
+  "label": "Airplane Icon",
+  "description": "Icons depicting airplanes, takeoffs, and landings."
+ },
+ {
+  "cluster": 571,
+  "label": "Brick Wall Icon",
+  "description": "Icons depicting brick walls and buildings."
+ },
+ {
+  "cluster": 326,
+  "label": "Weather Icon",
+  "description": "Icons depicting humidity, wind, and other weather conditions."
+ },
+ {
+  "cluster": 361,
+  "label": "Flow Diagram",
+  "description": "Components for displaying and editing connected nodes, edges, and workflows."
+ },
+ {
+  "cluster": 430,
+  "label": "Comment Thread",
+  "description": "Components for writing and displaying comments, notes, and threaded replies."
+ },
+ {
+  "cluster": 94,
+  "label": "Illustration",
+  "description": "Illustrated visuals for interface content and website sections."
+ },
+ {
+  "cluster": 494,
+  "label": "Image Viewer",
+  "description": "Components for displaying, previewing, and zooming images."
+ },
+ {
+  "cluster": 160,
+  "label": "Image Comparison Slider",
+  "description": "Draggable sliders for comparing before and after images or views."
+ },
+ {
+  "cluster": 96,
+  "label": "Image Cropper",
+  "description": "Components for selecting and adjusting a crop region within an image."
+ },
+ {
+  "cluster": 504,
+  "label": "Image Gallery",
+  "description": "Galleries for browsing collections of images in grids, carousels, or filmstrips."
+ },
+ {
+  "cluster": 363,
+  "label": "Animated Gallery",
+  "description": "Image galleries with masonry layouts, continuous scrolling, or orbital motion."
+ },
+ {
+  "cluster": 451,
+  "label": "Terminal UI",
+  "description": "Components for rendering panels, lists, trees, and charts in terminal interfaces."
+ },
+ {
+  "cluster": 557,
+  "label": "Text Input",
+  "description": "Single-line text fields with styling, validation, and interaction variants."
+ },
+ {
+  "cluster": 558,
+  "label": "Form Input",
+  "description": "Form fields for text, email, URL, currency, and other values."
+ },
+ {
+  "cluster": 531,
+  "label": "Input Field",
+  "description": "Labeled input fields with badges, tooltips, and visual variants."
+ },
+ {
+  "cluster": 517,
+  "label": "Input Group Variants",
+  "description": "Input groups with inline labels, badges, buttons, prefixes, and suffixes."
+ },
+ {
+  "cluster": 516,
+  "label": "Input Group",
+  "description": "Grouped controls that combine inputs with buttons, icons, or text."
+ },
+ {
+  "cluster": 317,
+  "label": "Textarea Input Group",
+  "description": "Textarea groups with action controls, code editing, or character counters."
+ },
+ {
+  "cluster": 489,
+  "label": "Integrations Section",
+  "description": "Sections and panels for presenting or managing third-party integrations."
+ },
+ {
+  "cluster": 0,
+  "label": "Audio Jingles",
+  "description": "Short musical cues for confirmations, selections, and progress feedback."
+ },
+ {
+  "cluster": 412,
+  "label": "JSON Viewer",
+  "description": "Tools for displaying and editing structured JSON data and schemas."
+ },
+ {
+  "cluster": 391,
+  "label": "Kanban Board",
+  "description": "Task boards with status columns and draggable cards."
+ },
+ {
+  "cluster": 192,
+  "label": "Keyboard Key",
+  "description": "Key indicators for displaying shortcuts and key combinations."
+ },
+ {
+  "cluster": 191,
+  "label": "Keyboard Visualization",
+  "description": "Visual keyboard layouts and interactive key displays."
+ },
+ {
+  "cluster": 155,
+  "label": "Keyboard Shortcuts",
+  "description": "Displays and menus that show available keyboard shortcuts."
+ },
+ {
+  "cluster": 388,
+  "label": "KPI Card",
+  "description": "Cards and grids showing key metrics, trends, and summary statistics."
+ },
+ {
+  "cluster": 179,
+  "label": "Form Label",
+  "description": "Accessible labels identifying form controls and fields."
+ },
+ {
+  "cluster": 296,
+  "label": "Landing Page",
+  "description": "Marketing pages with sections such as a hero, features, pricing, testimonials, and calls to action."
+ },
+ {
+  "cluster": 365,
+  "label": "Leaderboard",
+  "description": "Ranked lists or tables showing participants, scores, and standings."
+ },
+ {
+  "cluster": 233,
+  "label": "Legal Section",
+  "description": "Sections and pages presenting privacy policies, legal terms, and compliance information."
+ },
+ {
+  "cluster": 422,
+  "label": "Link",
+  "description": "Navigation links with text, button, and social variants."
+ },
+ {
+  "cluster": 625,
+  "label": "Link Icon",
+  "description": "Icons depicting connected or disconnected links in several visual styles."
+ },
+ {
+  "cluster": 177,
+  "label": "Listbox",
+  "description": "Controls for selecting one or more options from a list."
+ },
+ {
+  "cluster": 471,
+  "label": "List Item",
+  "description": "Individual content items with optional icons, images, avatars, and actions."
+ },
+ {
+  "cluster": 472,
+  "label": "List Panel",
+  "description": "Grouped lists of content rows, often with dividers and item actions."
+ },
+ {
+  "cluster": 614,
+  "label": "Orbital Loaders",
+  "description": "Animated loading indicators built around rings, arcs, and orbiting shapes."
+ },
+ {
+  "cluster": 620,
+  "label": "Spiral Loaders",
+  "description": "Animated loading indicators featuring spirals, vortices, and spatial motion."
+ },
+ {
+  "cluster": 217,
+  "label": "Dot Matrix Loaders",
+  "description": "Loading indicators that animate dots or cells across a grid."
+ },
+ {
+  "cluster": 593,
+  "label": "Dot Loaders",
+  "description": "Loading indicators made from pulsing, bouncing, or fading dots."
+ },
+ {
+  "cluster": 554,
+  "label": "Loading Indicators",
+  "description": "General-purpose loaders, loading icons, and overlays for pending operations."
+ },
+ {
+  "cluster": 537,
+  "label": "Square Loaders",
+  "description": "Loading indicators that animate squares, grids, cubes, or diamonds."
+ },
+ {
+  "cluster": 619,
+  "label": "Sweep Loaders",
+  "description": "Loading indicators with light, radar, or scan effects moving across a shape or grid."
+ },
+ {
+  "cluster": 286,
+  "label": "Triangle Loaders",
+  "description": "Animated triangular loading indicators with pulsing, orbiting, and chasing effects."
+ },
+ {
+  "cluster": 498,
+  "label": "Wave Loaders",
+  "description": "Loading indicators animated with wave and waveform patterns."
+ },
+ {
+  "cluster": 158,
+  "label": "Hexagon Loaders",
+  "description": "Hexagonal loading indicators with pulsing, orbiting, and particle effects."
+ },
+ {
+  "cluster": 468,
+  "label": "Bar Loaders",
+  "description": "Loading indicators made of animated vertical bars."
+ },
+ {
+  "cluster": 172,
+  "label": "Animated Orb",
+  "description": "Animated orbs that show loading, status, or voice activity."
+ },
+ {
+  "cluster": 510,
+  "label": "Developer Tools Panel",
+  "description": "Panels for inspecting logs, APIs, stack traces, and other developer data."
+ },
+ {
+  "cluster": 210,
+  "label": "Logo Cloud",
+  "description": "Sections displaying customer or partner logos in strips and grids."
+ },
+ {
+  "cluster": 209,
+  "label": "Animated Logo Cloud",
+  "description": "Logo displays with scrolling, hover, and transition effects."
+ },
+ {
+  "cluster": 180,
+  "label": "Logo Carousel",
+  "description": "Animated logo displays that cycle or scroll through brand marks."
+ },
+ {
+  "cluster": 147,
+  "label": "Scrolling Logo Section",
+  "description": "Page sections featuring continuously scrolling rows of client or brand logos."
+ },
+ {
+  "cluster": 146,
+  "label": "Logo Grid",
+  "description": "Page sections displaying brand logos in static rows or grids."
+ },
+ {
+  "cluster": 260,
+  "label": "Magnetic Cursor Effect",
+  "description": "Interactive elements that shift toward or respond to the pointer."
+ },
+ {
+  "cluster": 122,
+  "label": "Region Picker",
+  "description": "Interactive SVG maps for selecting geographic regions."
+ },
+ {
+  "cluster": 254,
+  "label": "Interactive Map",
+  "description": "Maps with geographic markers, routes, overlays, and controls."
+ },
+ {
+  "cluster": 123,
+  "label": "Map Data",
+  "description": "SVG path datasets defining countries and their regions for maps."
+ },
+ {
+  "cluster": 403,
+  "label": "Markdown Renderer",
+  "description": "Components for displaying Markdown or MDX content."
+ },
+ {
+  "cluster": 249,
+  "label": "Markers",
+  "description": "Indicators for locations, statuses, chart points, and other positions."
+ },
+ {
+  "cluster": 181,
+  "label": "Marquee",
+  "description": "Continuously scrolling displays for text, logos, or other content."
+ },
+ {
+  "cluster": 301,
+  "label": "Masked Input",
+  "description": "Text inputs that format or constrain values such as phone numbers and card details."
+ },
+ {
+  "cluster": 455,
+  "label": "Menu Bar",
+  "description": "Horizontal bars that organize application commands into menus."
+ },
+ {
+  "cluster": 242,
+  "label": "Chat Message Scroller",
+  "description": "Scrollable chat message lists with conversation-aware scrolling controls."
+ },
+ {
+  "cluster": 154,
+  "label": "Meter",
+  "description": "Visual indicators that show a value or usage level within a range."
+ },
+ {
+  "cluster": 348,
+  "label": "Metric Card",
+  "description": "Compact displays of key values, trends, and related statistics."
+ },
+ {
+  "cluster": 594,
+  "label": "AI Model Selector",
+  "description": "Controls for browsing and choosing AI models."
+ },
+ {
+  "cluster": 329,
+  "label": "Multi-Select",
+  "description": "Inputs for choosing and removing multiple options."
+ },
+ {
+  "cluster": 303,
+  "label": "Website Navbar",
+  "description": "Navigation bar blocks with site links, dropdowns, and mobile menus."
+ },
+ {
+  "cluster": 259,
+  "label": "Animated Navigation Bar",
+  "description": "Navigation bars with interactive indicators, expandable menus, or floating layouts."
+ },
+ {
+  "cluster": 274,
+  "label": "Site Header",
+  "description": "Website headers combining branding, navigation, and account actions."
+ },
+ {
+  "cluster": 302,
+  "label": "Store Navigation Bar",
+  "description": "Storefront navigation with product categories, search, and shopping actions."
+ },
+ {
+  "cluster": 351,
+  "label": "Navigation Menu",
+  "description": "Menus of links for navigating between pages or site sections."
+ },
+ {
+  "cluster": 273,
+  "label": "Navigation Menu",
+  "description": "Menus that organize navigation links, often in grids or nested groups."
+ },
+ {
+  "cluster": 332,
+  "label": "Floating Menu",
+  "description": "Expandable overlay menus with animated, radial, or nested navigation items."
+ },
+ {
+  "cluster": 555,
+  "label": "News Section",
+  "description": "Layouts for featured stories, news feeds, and editorial carousels."
+ },
+ {
+  "cluster": 339,
+  "label": "Newsletter Signup",
+  "description": "Email subscription forms presented as sections, cards, or callouts."
+ },
+ {
+  "cluster": 446,
+  "label": "Notification Center",
+  "description": "Panels displaying recent alerts with unread states and notification actions."
+ },
+ {
+  "cluster": 92,
+  "label": "Email Template",
+  "description": "Templates for notification, receipt, invitation, welcome, and newsletter emails."
+ },
+ {
+  "cluster": 445,
+  "label": "Inbox",
+  "description": "Interfaces for browsing email, notifications, or tasks in organized lists."
+ },
+ {
+  "cluster": 333,
+  "label": "Number Field",
+  "description": "Form fields for entering numbers with optional spin buttons and validation."
+ },
+ {
+  "cluster": 224,
+  "label": "Numeric Form Field",
+  "description": "Numeric fields and formatted values designed for use in forms."
+ },
+ {
+  "cluster": 334,
+  "label": "Number Input",
+  "description": "Numeric and currency inputs with formatting or increment and decrement controls."
+ },
+ {
+  "cluster": 392,
+  "label": "Scrubber",
+  "description": "Drag controls for adjusting numeric values or seeking through media."
+ },
+ {
+  "cluster": 161,
+  "label": "Number Ticker",
+  "description": "Animated numeric displays that transition between values."
+ },
+ {
+  "cluster": 40,
+  "label": "Open Graph Image",
+  "description": "Images and previews designed for social sharing metadata."
+ },
+ {
+  "cluster": 18,
+  "label": "OIDC Policy Form",
+  "description": "Forms for configuring identity provider policies and OIDC settings."
+ },
+ {
+  "cluster": 465,
+  "label": "Onboarding Flow",
+  "description": "Screens, forms, and checklists that guide users through initial setup."
+ },
+ {
+  "cluster": 672,
+  "label": "Delivery Tracker",
+  "description": "Order and delivery interfaces for tracking shipments, viewing routes, and managing delivery details."
+ },
+ {
+  "cluster": 26,
+  "label": "OTP Field",
+  "description": "Form fields for entering and validating one-time passcodes."
+ },
+ {
+  "cluster": 27,
+  "label": "OTP Input",
+  "description": "Segmented inputs and authentication interfaces for entering one-time codes."
+ },
+ {
+  "cluster": 73,
+  "label": "Package Icon",
+  "description": "Package icons in different shapes, fills, and color styles."
+ },
+ {
+  "cluster": 225,
+  "label": "Page Header",
+  "description": "Headers with page titles, context, navigation, and actions."
+ },
+ {
+  "cluster": 642,
+  "label": "Page Transition",
+  "description": "Animated transitions between pages, routes, or views."
+ },
+ {
+  "cluster": 46,
+  "label": "Pagination",
+  "description": "Controls for navigating between pages of content."
+ },
+ {
+  "cluster": 47,
+  "label": "Numbered Pagination",
+  "description": "Pagination controls with page numbers, ranges, and navigation actions."
+ },
+ {
+  "cluster": 534,
+  "label": "Parallax Effect",
+  "description": "Scroll-driven effects that move content or layers at different speeds."
+ },
+ {
+  "cluster": 290,
+  "label": "Password Input",
+  "description": "Masked password fields with optional visibility and strength controls."
+ },
+ {
+  "cluster": 487,
+  "label": "Payment Method Form",
+  "description": "Interfaces for entering, selecting, and managing payment methods."
+ },
+ {
+  "cluster": 380,
+  "label": "Team Members",
+  "description": "Team member lists and panels with roles, permissions, and management actions."
+ },
+ {
+  "cluster": 434,
+  "label": "Phone Input",
+  "description": "Phone number fields with country selection, formatting, or validation."
+ },
+ {
+  "cluster": 214,
+  "label": "Pill Badge",
+  "description": "Pill-shaped labels and indicators for statuses, values, and actions."
+ },
+ {
+  "cluster": 120,
+  "label": "Popover",
+  "description": "Floating panels anchored to a trigger for contextual content or controls."
+ },
+ {
+  "cluster": 586,
+  "label": "Portfolio Section",
+  "description": "Sections showcasing projects, work samples, galleries, or social links."
+ },
+ {
+  "cluster": 379,
+  "label": "Presentation Slide",
+  "description": "Slides and slide decks for titles, reports, talks, quotes, and closing messages."
+ },
+ {
+  "cluster": 542,
+  "label": "Hover Preview Card",
+  "description": "Cards that reveal a preview of linked content on hover."
+ },
+ {
+  "cluster": 437,
+  "label": "Pricing Section",
+  "description": "Sections presenting plans, prices, billing options, and feature comparisons."
+ },
+ {
+  "cluster": 453,
+  "label": "Process Checklist",
+  "description": "Sections pairing process explanations with checklists, requirements, or setup guidance."
+ },
+ {
+  "cluster": 454,
+  "label": "Process Steps",
+  "description": "Sections explaining a workflow through numbered steps, cards, or phases."
+ },
+ {
+  "cluster": 190,
+  "label": "Product Card",
+  "description": "Cards displaying products or listings with images, details, and prices."
+ },
+ {
+  "cluster": 602,
+  "label": "Product Detail Section",
+  "description": "Sections showing a product's images, specifications, options, and purchase controls."
+ },
+ {
+  "cluster": 616,
+  "label": "Product Grid",
+  "description": "Grids of products or categories with details and shopping actions."
+ },
+ {
+  "cluster": 615,
+  "label": "Product Listing",
+  "description": "Product collections with cards, filters, prices, and shopping controls."
+ },
+ {
+  "cluster": 603,
+  "label": "Product Overview Page",
+  "description": "Product pages showing images, variants, availability, delivery, and purchase options."
+ },
+ {
+  "cluster": 463,
+  "label": "Profile Card",
+  "description": "Cards and compact displays presenting a person's identity, details, or status."
+ },
+ {
+  "cluster": 485,
+  "label": "Progress Indicator",
+  "description": "Indicators showing task completion or the current state of work."
+ },
+ {
+  "cluster": 308,
+  "label": "Progress Tracker",
+  "description": "Displays tracking progress and status for downloads, uploads, or other tasks."
+ },
+ {
+  "cluster": 484,
+  "label": "Progress Bar",
+  "description": "Horizontal bars showing completion with fills, labels, and visual effects."
+ },
+ {
+  "cluster": 549,
+  "label": "Project Showcase",
+  "description": "Sections and galleries that present projects with images, descriptions, and details."
+ },
+ {
+  "cluster": 544,
+  "label": "Promotion Section",
+  "description": "Banners, popups, and sections for displaying offers and limited-time promotions."
+ },
+ {
+  "cluster": 695,
+  "label": "AI Prompt Input",
+  "description": "Inputs for composing AI prompts with options such as attachments, modes, and model selection."
+ },
+ {
+  "cluster": 109,
+  "label": "QR Code",
+  "description": "Components that generate or display QR codes in different styles and sizes."
+ },
+ {
+  "cluster": 189,
+  "label": "Questionnaire",
+  "description": "Interactive question flows and quizzes with answer choices and validation."
+ },
+ {
+  "cluster": 545,
+  "label": "Task Plan",
+  "description": "Checklists and progress displays for plans, queued tasks, and agent steps."
+ },
+ {
+  "cluster": 294,
+  "label": "Radio Button",
+  "description": "Radio controls for selecting one option from a group."
+ },
+ {
+  "cluster": 319,
+  "label": "Radio Group",
+  "description": "Groups of radio options, including card-style choices."
+ },
+ {
+  "cluster": 318,
+  "label": "Radio Field",
+  "description": "Form-field layouts for radio choices with cards, descriptions, or segmented options."
+ },
+ {
+  "cluster": 148,
+  "label": "Rating Input",
+  "description": "Controls for displaying or selecting a score, often with stars."
+ },
+ {
+  "cluster": 409,
+  "label": "AI Reasoning Display",
+  "description": "Panels that show an AI model's reasoning text or ordered steps."
+ },
+ {
+  "cluster": 144,
+  "label": "Resizable Panels",
+  "description": "Panel layouts with draggable handles for adjusting section sizes."
+ },
+ {
+  "cluster": 559,
+  "label": "Review Section",
+  "description": "Customer review cards and listings with ratings, feedback, and summaries."
+ },
+ {
+  "cluster": 78,
+  "label": "Rich Text Editor Demo",
+  "description": "Examples of rich text editing features, document content, and editor controls."
+ },
+ {
+  "cluster": 539,
+  "label": "Rich Text Editor",
+  "description": "Editors for entering and formatting rich text content."
+ },
+ {
+  "cluster": 77,
+  "label": "Editor Drop Cursor",
+  "description": "Indicators show where dragged content will land in a rich-text editor."
+ },
+ {
+  "cluster": 349,
+  "label": "Ripple Effect",
+  "description": "Interactive visual effects create ripples or fluid distortion in page content."
+ },
+ {
+  "cluster": 461,
+  "label": "Roadmap Section",
+  "description": "Sections and boards present planned work, release stages, or learning milestones."
+ },
+ {
+  "cluster": 226,
+  "label": "Sankey Chart",
+  "description": "Charts visualize flows between connected nodes, often with styled links and loading states."
+ },
+ {
+  "cluster": 570,
+  "label": "Scene Transition",
+  "description": "Visual transitions reveal images, cards, pages, or scenes with animated effects."
+ },
+ {
+  "cluster": 568,
+  "label": "Scroll Animation",
+  "description": "Components animate text, images, or sections in response to scrolling."
+ },
+ {
+  "cluster": 113,
+  "label": "Scroll Area",
+  "description": "Containers provide controlled scrolling for content that exceeds their visible bounds."
+ },
+ {
+  "cluster": 112,
+  "label": "Vertical Scroll Area",
+  "description": "Scrollable content blocks handle overflow in lists, feeds, sidebars, and other layouts."
+ },
+ {
+  "cluster": 331,
+  "label": "Interactive Visual Effect",
+  "description": "Cursor- and scroll-responsive effects transform page content with particles and distortion."
+ },
+ {
+  "cluster": 629,
+  "label": "Scroll Progress Indicator",
+  "description": "Indicators and navigation controls track position within a page or scrollable content."
+ },
+ {
+  "cluster": 693,
+  "label": "Scroll Reveal",
+  "description": "Content fades, slides, or otherwise appears as it enters the viewport."
+ },
+ {
+  "cluster": 448,
+  "label": "Search Field",
+  "description": "Input fields let users enter search queries, sometimes with voice, clear, or shortcut controls."
+ },
+ {
+  "cluster": 478,
+  "label": "Search Results Panel",
+  "description": "Panels display search matches, filters, recent queries, and saved searches."
+ },
+ {
+  "cluster": 182,
+  "label": "Segmented Control",
+  "description": "A grouped control lets users switch between mutually exclusive options."
+ },
+ {
+  "cluster": 526,
+  "label": "Select",
+  "description": "A form control lets users choose a value from a list of options."
+ },
+ {
+  "cluster": 527,
+  "label": "Select Dropdown",
+  "description": "Dropdown controls for choosing an option from a list."
+ },
+ {
+  "cluster": 402,
+  "label": "Select Field",
+  "description": "Form select fields with grouped, descriptive, or multiple options."
+ },
+ {
+  "cluster": 284,
+  "label": "Native Select",
+  "description": "Native select controls with grouped options and disabled or invalid states."
+ },
+ {
+  "cluster": 156,
+  "label": "Combobox",
+  "description": "Searchable selection controls with autocomplete and multi-select options."
+ },
+ {
+  "cluster": 418,
+  "label": "Select Examples",
+  "description": "Select controls demonstrating search, avatars, labels, and form integration."
+ },
+ {
+  "cluster": 344,
+  "label": "Animated Select",
+  "description": "Styled select controls with animated menus, highlights, and option filtering."
+ },
+ {
+  "cluster": 253,
+  "label": "JSON Form Controls",
+  "description": "Schema-driven form controls and layouts for JSONForms."
+ },
+ {
+  "cluster": 43,
+  "label": "Separator",
+  "description": "Horizontal and vertical dividers between content regions."
+ },
+ {
+  "cluster": 553,
+  "label": "Portfolio Services Section",
+  "description": "Portfolio sections presenting services, work processes, availability, and clients."
+ },
+ {
+  "cluster": 495,
+  "label": "Services Section",
+  "description": "Page sections presenting business offerings with cards, imagery, and descriptions."
+ },
+ {
+  "cluster": 490,
+  "label": "Settings Panel",
+  "description": "Account and profile settings interfaces with preference controls and forms."
+ },
+ {
+  "cluster": 675,
+  "label": "Shader Background",
+  "description": "Interactive animated backgrounds rendered with shader effects."
+ },
+ {
+  "cluster": 237,
+  "label": "Sliding Sheet",
+  "description": "Panels that slide in from screen edges to show controls or supplementary content."
+ },
+ {
+  "cluster": 236,
+  "label": "Detail Sheet",
+  "description": "Sheets showing settings, forms, navigation, or detailed item information."
+ },
+ {
+  "cluster": 564,
+  "label": "Shopping Cart",
+  "description": "Cart interfaces showing selected products, totals, discounts, and checkout actions."
+ },
+ {
+  "cluster": 503,
+  "label": "Product Showcase",
+  "description": "Sections that demonstrate product features through previews, mockups, video, or interactive hotspots."
+ },
+ {
+  "cluster": 304,
+  "label": "Sidebar Components",
+  "description": "Reusable sidebar navigation elements, menus, panels, and styling utilities."
+ },
+ {
+  "cluster": 368,
+  "label": "Navigation Sidebar",
+  "description": "Sidebar layouts with navigation links, workspace controls, and account menus."
+ },
+ {
+  "cluster": 369,
+  "label": "Sidebar Layout",
+  "description": "Page layouts and blocks that pair sidebars with headers, dialogs, calendars, or widgets."
+ },
+ {
+  "cluster": 127,
+  "label": "Signal Icon",
+  "description": "Icons representing signal strength and related gauge levels in different styles."
+ },
+ {
+  "cluster": 533,
+  "label": "Size Guide",
+  "description": "Product sizing charts, measurement instructions, and fit recommendations."
+ },
+ {
+  "cluster": 33,
+  "label": "Skeleton Loader",
+  "description": "Placeholder components that indicate content is loading."
+ },
+ {
+  "cluster": 32,
+  "label": "Skeleton Layout",
+  "description": "Loading placeholders shaped like cards, forms, galleries, and page layouts."
+ },
+ {
+  "cluster": 582,
+  "label": "Skills Section",
+  "description": "Portfolio and resume sections displaying skills, tools, education, and learning progress."
+ },
+ {
+  "cluster": 314,
+  "label": "Slider",
+  "description": "Slider controls for selecting single values or ranges."
+ },
+ {
+  "cluster": 313,
+  "label": "Labeled Slider",
+  "description": "Sliders with value labels, tick marks, or contextual controls for settings and forms."
+ },
+ {
+  "cluster": 114,
+  "label": "Elastic Interaction",
+  "description": "Interactive controls and visuals that stretch and spring back during input."
+ },
+ {
+  "cluster": 486,
+  "label": "Social Post",
+  "description": "Social media post cards, feeds, and linked profile displays."
+ },
+ {
+  "cluster": 315,
+  "label": "Sortable List",
+  "description": "Draggable lists and grids whose items can be reordered."
+ },
+ {
+  "cluster": 88,
+  "label": "Sound Effects",
+  "description": "Short audio cues for games, notifications, and interface events."
+ },
+ {
+  "cluster": 117,
+  "label": "Impact Sounds",
+  "description": "Sound effects for heavy and light impacts on materials such as metal, glass, and wood."
+ },
+ {
+  "cluster": 83,
+  "label": "Object Handling Sounds",
+  "description": "Sound effects for handling cards, chips, coins, clothing, and equipment."
+ },
+ {
+  "cluster": 72,
+  "label": "Open And Close Sounds",
+  "description": "Sound effects for opening and closing books, doors, panels, and game interfaces."
+ },
+ {
+  "cluster": 87,
+  "label": "Interface Sounds",
+  "description": "A collection of clicks, toggles, whooshes, and other interaction sounds."
+ },
+ {
+  "cluster": 10,
+  "label": "Jingle Sounds",
+  "description": "Short melodic sound effects for confirmations, rewards, and victories."
+ },
+ {
+  "cluster": 118,
+  "label": "Action Sounds",
+  "description": "Sound effects for physical actions such as creaking, dropping, punching, and breaking."
+ },
+ {
+  "cluster": 21,
+  "label": "Sci-Fi Weapon Sounds",
+  "description": "Laser and force-field sound effects for futuristic actions and interactions."
+ },
+ {
+  "cluster": 37,
+  "label": "Engine Ambience",
+  "description": "Continuous mechanical and spacecraft engine sounds for background ambience."
+ },
+ {
+  "cluster": 7,
+  "label": "Footstep Sounds",
+  "description": "Footstep sound effects for surfaces including wood, carpet, grass, and concrete."
+ },
+ {
+  "cluster": 324,
+  "label": "Layout Primitives",
+  "description": "Cross-platform layout elements for spacing, arranging, and grouping content."
+ },
+ {
+  "cluster": 305,
+  "label": "Loading Spinners",
+  "description": "Animated indicators that show when content or an operation is loading."
+ },
+ {
+  "cluster": 235,
+  "label": "Spinner Examples",
+  "description": "Loading spinner variations shown in buttons, inputs, forms, and content overlays."
+ },
+ {
+  "cluster": 439,
+  "label": "Stat Displays",
+  "description": "Components and cards that present numerical statistics and key metrics."
+ },
+ {
+  "cluster": 440,
+  "label": "Chart Stat Cards",
+  "description": "Metric cards that pair values and trends with charts, sparklines, or progress tracks."
+ },
+ {
+  "cluster": 473,
+  "label": "Stats Sections",
+  "description": "Dashboard blocks that group KPI cards and summarize performance metrics."
+ },
+ {
+  "cluster": 474,
+  "label": "Statistics Section",
+  "description": "Sections that highlight key figures, ratings, or comparisons with supporting context."
+ },
+ {
+  "cluster": 506,
+  "label": "Impact Metrics Section",
+  "description": "Sections that present outcome metrics alongside portfolio, community, or business context."
+ },
+ {
+  "cluster": 618,
+  "label": "AI Agent Status",
+  "description": "Components that show an AI agent's activity, progress, and session state."
+ },
+ {
+  "cluster": 336,
+  "label": "Status Indicator",
+  "description": "Components that display a state or condition with visual cues."
+ },
+ {
+  "cluster": 393,
+  "label": "Service Status Page",
+  "description": "Pages and sections for showing uptime, incidents, and service availability."
+ },
+ {
+  "cluster": 292,
+  "label": "Stepper",
+  "description": "Controls that display or manage progress through a sequence of steps."
+ },
+ {
+  "cluster": 293,
+  "label": "Progress Steps",
+  "description": "Step indicators that show completed, current, and upcoming stages."
+ },
+ {
+  "cluster": 406,
+  "label": "Story Viewer",
+  "description": "Interfaces for viewing story-style content with playback and progress controls."
+ },
+ {
+  "cluster": 622,
+  "label": "Streaming Response",
+  "description": "Components that display AI-generated text as it arrives."
+ },
+ {
+  "cluster": 371,
+  "label": "Surface Container",
+  "description": "Containers and utilities that provide background surfaces for content."
+ },
+ {
+  "cluster": 378,
+  "label": "Content Swap",
+  "description": "Components that animate transitions between content, actions, or card positions."
+ },
+ {
+  "cluster": 420,
+  "label": "Switch",
+  "description": "Controls for toggling a setting on or off."
+ },
+ {
+  "cluster": 419,
+  "label": "Animated Switch",
+  "description": "Toggle switches with animated thumbs and state transitions."
+ },
+ {
+  "cluster": 414,
+  "label": "Switch Settings Block",
+  "description": "Settings blocks and form fields that use switches to control options."
+ },
+ {
+  "cluster": 500,
+  "label": "Tabs",
+  "description": "Interfaces for switching between content panels."
+ },
+ {
+  "cluster": 358,
+  "label": "Animated Tabs",
+  "description": "Tab interfaces with animated indicators, transitions, and navigation."
+ },
+ {
+  "cluster": 501,
+  "label": "Tabs",
+  "description": "Tab interfaces for switching between content panels in varied layouts."
+ },
+ {
+  "cluster": 188,
+  "label": "Tag Input",
+  "description": "Editable fields for entering and managing tags or other inline content."
+ },
+ {
+  "cluster": 197,
+  "label": "Team Section",
+  "description": "Sections introducing team members with portraits, names, roles, and bios."
+ },
+ {
+  "cluster": 75,
+  "label": "Terminal Display",
+  "description": "Terminal-style interfaces for showing commands, output, and logs."
+ },
+ {
+  "cluster": 203,
+  "label": "Terminal Theme",
+  "description": "Color themes and presets for terminal interfaces."
+ },
+ {
+  "cluster": 195,
+  "label": "Testimonial Section",
+  "description": "Sections displaying customer quotes, reviews, and attributions."
+ },
+ {
+  "cluster": 688,
+  "label": "Text Animation",
+  "description": "Effects that animate letters, words, or lines of text."
+ },
+ {
+  "cluster": 464,
+  "label": "Text Field",
+  "description": "Single-line text inputs with labels, descriptions, and optional adornments."
+ },
+ {
+  "cluster": 272,
+  "label": "Textarea",
+  "description": "Multiline text inputs with styling, validation, and editing variants."
+ },
+ {
+  "cluster": 262,
+  "label": "UI Theme",
+  "description": "Interface themes defining colors, typography, and corner radii."
+ },
+ {
+  "cluster": 383,
+  "label": "Design Tokens",
+  "description": "Theme configurations defining colors, fonts, motion, and component styles."
+ },
+ {
+  "cluster": 38,
+  "label": "Base Styles",
+  "description": "Stylesheets and registry entries that establish foundational component styling."
+ },
+ {
+  "cluster": 279,
+  "label": "Neobrutalist Theme",
+  "description": "Neobrutalist color themes with Tailwind interface tokens."
+ },
+ {
+  "cluster": 251,
+  "label": "Theme Toggle",
+  "description": "Controls for switching between light, dark, or other interface themes."
+ },
+ {
+  "cluster": 22,
+  "label": "Theme Toggle",
+  "description": "Controls for switching between light and dark themes."
+ },
+ {
+  "cluster": 354,
+  "label": "Time Picker",
+  "description": "Controls for selecting times, durations, or dates with times."
+ },
+ {
+  "cluster": 441,
+  "label": "Event Timeline",
+  "description": "Components that display events or milestones along a chronological axis."
+ },
+ {
+  "cluster": 462,
+  "label": "Timeline Layout",
+  "description": "Layouts for presenting steps, schedules, or activity in sequence."
+ },
+ {
+  "cluster": 417,
+  "label": "Milestone Section",
+  "description": "Page sections that present company, community, or product milestones over time."
+ },
+ {
+  "cluster": 41,
+  "label": "Toast Notification",
+  "description": "Temporary messages for feedback, status updates, and actions."
+ },
+ {
+  "cluster": 68,
+  "label": "Sonner Toast",
+  "description": "Toast notification examples with different statuses and visual styles."
+ },
+ {
+  "cluster": 67,
+  "label": "Toast Variants",
+  "description": "Toast examples with configurable placement, duration, styling, and actions."
+ },
+ {
+  "cluster": 546,
+  "label": "Task List",
+  "description": "Interfaces for creating, displaying, and managing tasks."
+ },
+ {
+  "cluster": 449,
+  "label": "Toggle Button",
+  "description": "Two-state buttons that switch between selected and unselected states."
+ },
+ {
+  "cluster": 280,
+  "label": "Toggle Examples",
+  "description": "Toggle controls used for settings, filters, bookmarks, and other actions."
+ },
+ {
+  "cluster": 450,
+  "label": "Toggle Group",
+  "description": "Groups of toggle buttons for selecting one or more options."
+ },
+ {
+  "cluster": 350,
+  "label": "Control State Examples",
+  "description": "Examples of disabled and controlled states for toggles and related inputs."
+ },
+ {
+  "cluster": 281,
+  "label": "Toggle Group Examples",
+  "description": "Grouped toggle controls for selecting options in toolbars and settings."
+ },
+ {
+  "cluster": 551,
+  "label": "Tool Call Display",
+  "description": "Chat components that show AI tool invocations, progress, results, and errors."
+ },
+ {
+  "cluster": 277,
+  "label": "Action Toolbar",
+  "description": "Toolbars that group controls for actions on content, selections, or views."
+ },
+ {
+  "cluster": 278,
+  "label": "Expandable Toolbar",
+  "description": "Compact toolbars that expand controls or labels on hover, focus, or selection."
+ },
+ {
+  "cluster": 456,
+  "label": "Editor Toolbar",
+  "description": "Toolbar controls for formatting and editing rich text and documents."
+ },
+ {
+  "cluster": 124,
+  "label": "Tooltip",
+  "description": "Popups that show contextual information on hover or focus."
+ },
+ {
+  "cluster": 508,
+  "label": "Tree View",
+  "description": "Expandable views for navigating or displaying hierarchical data."
+ },
+ {
+  "cluster": 322,
+  "label": "Typography",
+  "description": "Styled headings, text, and prose for readable content."
+ },
+ {
+  "cluster": 661,
+  "label": "Commerce Account Section",
+  "description": "Account and shopping sections for subscriptions, gift cards, and related purchases."
+ },
+ {
+  "cluster": 505,
+  "label": "AI Usage Meter",
+  "description": "Displays for token usage, context capacity, costs, and quotas."
+ },
+ {
+  "cluster": 452,
+  "label": "Use Case Section",
+  "description": "Sections that present audiences, industries, or use cases with linked content."
+ },
+ {
+  "cluster": 311,
+  "label": "React Hooks",
+  "description": "Reusable hooks and providers for interface state, behavior, and accessibility."
+ },
+ {
+  "cluster": 427,
+  "label": "UI Utilities",
+  "description": "Shared helpers, types, styles, and component bundles for interface development."
+ },
+ {
+  "cluster": 609,
+  "label": "Animated Captions",
+  "description": "Captions and text overlays that animate during video playback."
+ },
+ {
+  "cluster": 493,
+  "label": "Media Player",
+  "description": "Audio and video players, embeds, and playback controls."
+ },
+ {
+  "cluster": 352,
+  "label": "Interactive Visual Effect",
+  "description": "Cursor-responsive 3D, fluid, and overlay effects for web pages."
+ },
+ {
+  "cluster": 589,
+  "label": "Voice Input",
+  "description": "Controls and interfaces for microphone input, speech, and voice conversations."
+ },
+ {
+  "cluster": 25,
+  "label": "NPC Voice Lines",
+  "description": "Character voice clips for game actions, commands, and responses."
+ },
+ {
+  "cluster": 24,
+  "label": "Game Announcer Clips",
+  "description": "Spoken prompts, combat callouts, and announcements for games."
+ },
+ {
+  "cluster": 298,
+  "label": "Waitlist Signup",
+  "description": "Forms and pages for joining a waitlist and checking queue status."
+ },
+ {
+  "cluster": 221,
+  "label": "Weather Widget",
+  "description": "Compact displays for current weather, forecasts, and related conditions."
+ },
+ {
+  "cluster": 411,
+  "label": "Component Preview",
+  "description": "Sandboxes and framed previews for inspecting rendered components and code."
+ },
+ {
+  "cluster": 499,
+  "label": "Shopping Interface",
+  "description": "Product search, wishlists, price alerts, recommendations, and store locators."
+ },
+ {
+  "cluster": 390,
+  "label": "Workflow Interface",
+  "description": "Sections and tools for building, displaying, and tracking workflows."
+ }
+]

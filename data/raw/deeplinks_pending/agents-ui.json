@@ -1,0 +1,1 @@
+{"handle": "@agents-ui", "pending": 1, "poolSize": 171, "linked": 1, "methodCounts": {"template": 1}, "templates": {"https://docs.livekit.io/reference/components/agents-ui/block/{name}": [1, 0]}, "links": {"agent-popup-01": {"url": "https://docs.livekit.io/reference/components/agents-ui/block/agent-popup-01/", "method": "template"}}}

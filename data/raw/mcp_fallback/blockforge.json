@@ -1,0 +1,793 @@
+{
+ "handle": "@blockforge",
+ "ok": true,
+ "indexUrl": "https://blockforge.terravidhal.me/r/registry.json",
+ "items": [
+  {
+   "name": "hero-centered",
+   "type": "registry:block",
+   "title": "Hero Centered",
+   "description": "Badge, headline and dual CTAs over a blueprint grid."
+  },
+  {
+   "name": "hero-split",
+   "type": "registry:block",
+   "title": "Hero Split",
+   "description": "Copy and highlights beside a live deploy-log panel."
+  },
+  {
+   "name": "hero-simple",
+   "type": "registry:block",
+   "title": "Hero Simple",
+   "description": "Quiet left-aligned opener with a single CTA."
+  },
+  {
+   "name": "pricing-spec-sheet",
+   "type": "registry:block",
+   "title": "Pricing Spec Sheet",
+   "description": "One-price offer laid out like a technical spec card."
+  },
+  {
+   "name": "pricing-tiers",
+   "type": "registry:block",
+   "title": "Pricing Tiers",
+   "description": "Three plans with an inverted featured tier."
+  },
+  {
+   "name": "pricing-simple",
+   "type": "registry:block",
+   "title": "Pricing Simple",
+   "description": "A single price, centered, nothing to compare."
+  },
+  {
+   "name": "cta-banner",
+   "type": "registry:block",
+   "title": "CTA Banner",
+   "description": "Full-width inverted band with one decisive action."
+  },
+  {
+   "name": "cta-boxed",
+   "type": "registry:block",
+   "title": "CTA Boxed",
+   "description": "Bordered call-to-action card over a fading grid."
+  },
+  {
+   "name": "cta-minimal",
+   "type": "registry:block",
+   "title": "CTA Minimal",
+   "description": "A headline and a single link. Confidence as design."
+  },
+  {
+   "name": "testimonials-grid",
+   "type": "registry:block",
+   "title": "Testimonials Grid",
+   "description": "Six quotes in a balanced three-column grid."
+  },
+  {
+   "name": "testimonial-featured",
+   "type": "registry:block",
+   "title": "Testimonial Featured",
+   "description": "One oversized quote given the room it deserves."
+  },
+  {
+   "name": "footer-columns",
+   "type": "registry:block",
+   "title": "Footer Columns",
+   "description": "Brand column plus three link groups."
+  },
+  {
+   "name": "footer-minimal",
+   "type": "registry:block",
+   "title": "Footer Minimal",
+   "description": "Copyright and links in a single quiet row."
+  },
+  {
+   "name": "hero-terminal",
+   "type": "registry:block",
+   "title": "Hero Terminal",
+   "description": "Dev-tool opener with a live terminal card and copyable install command."
+  },
+  {
+   "name": "bento-product-grid",
+   "type": "registry:block",
+   "title": "Bento Product Grid",
+   "description": "Asymmetric feature grid anchored by a live analytics panel and deploy log."
+  },
+  {
+   "name": "bento-feature-cells",
+   "type": "registry:block",
+   "title": "Bento Feature Cells",
+   "description": "Four principles in a balanced two-row bento."
+  },
+  {
+   "name": "faq-accordion",
+   "type": "registry:block",
+   "title": "FAQ Accordion",
+   "description": "Expandable answers with a human escape hatch at the end."
+  },
+  {
+   "name": "faq-columns",
+   "type": "registry:block",
+   "title": "FAQ Columns",
+   "description": "Scannable two-column Q&A grouped by topic."
+  },
+  {
+   "name": "contact-split",
+   "type": "registry:block",
+   "title": "Contact Split",
+   "description": "Accessible form beside a direct-contact panel on a fading grid."
+  },
+  {
+   "name": "contact-minimal",
+   "type": "registry:block",
+   "title": "Contact Minimal",
+   "description": "One email address, one promise, one median response time."
+  },
+  {
+   "name": "blog-featured-grid",
+   "type": "registry:block",
+   "title": "Blog Featured Grid",
+   "description": "One lead story with three compact posts beside it."
+  },
+  {
+   "name": "blog-list",
+   "type": "registry:block",
+   "title": "Blog List",
+   "description": "Editorial index with a monospaced date column."
+  },
+  {
+   "name": "header-simple",
+   "type": "registry:block",
+   "title": "Header Simple",
+   "description": "Sticky-ready navbar: logo, links and two actions."
+  },
+  {
+   "name": "header-status",
+   "type": "registry:block",
+   "title": "Header Status",
+   "description": "Navbar with announcement bar and a pulsing live-status indicator."
+  },
+  {
+   "name": "stats-hairline",
+   "type": "registry:block",
+   "title": "Stats Hairline",
+   "description": "Four key numbers separated by construction hairlines."
+  },
+  {
+   "name": "stats-panel",
+   "type": "registry:block",
+   "title": "Stats Panel",
+   "description": "Inverted metrics band with miniature bar charts."
+  },
+  {
+   "name": "logos-marquee",
+   "type": "registry:block",
+   "title": "Logos Marquee",
+   "description": "Edge-faded wordmark marquee that gracefully freezes under reduced motion."
+  },
+  {
+   "name": "testimonial-spotlight",
+   "type": "registry:block",
+   "title": "Testimonial Spotlight",
+   "description": "One customer story paired with the outcomes it produced."
+  },
+  {
+   "name": "about-story",
+   "type": "registry:block",
+   "title": "About Story",
+   "description": "Origin story beside the milestones that prove it."
+  },
+  {
+   "name": "about-values",
+   "type": "registry:block",
+   "title": "About Values",
+   "description": "Four commitments in a hairline-divided grid."
+  },
+  {
+   "name": "team-grid",
+   "type": "registry:block",
+   "title": "Team Grid",
+   "description": "The whole team, monogram avatars, no stock photos."
+  },
+  {
+   "name": "team-hiring",
+   "type": "registry:block",
+   "title": "Team Hiring",
+   "description": "Open roles as a clean list with a human fallback line."
+  },
+  {
+   "name": "how-steps",
+   "type": "registry:block",
+   "title": "How Steps",
+   "description": "Three numbered steps on a vertical connector rail."
+  },
+  {
+   "name": "how-timeline",
+   "type": "registry:block",
+   "title": "How Timeline",
+   "description": "A four-phase horizontal timeline with node markers."
+  },
+  {
+   "name": "banner-announcement",
+   "type": "registry:block",
+   "title": "Banner Announcement",
+   "description": "Inverted announcement bar with dismiss affordance."
+  },
+  {
+   "name": "banner-countdown",
+   "type": "registry:block",
+   "title": "Banner Countdown",
+   "description": "Deadline banner with segmented countdown on hatching."
+  },
+  {
+   "name": "login-card",
+   "type": "registry:block",
+   "title": "Login Card",
+   "description": "Centered sign-in: email, password, one social fallback."
+  },
+  {
+   "name": "login-split",
+   "type": "registry:block",
+   "title": "Login Split",
+   "description": "Sign-up form beside an inverted proof panel."
+  },
+  {
+   "name": "features-list",
+   "type": "registry:block",
+   "title": "Features List",
+   "description": "Six capabilities in a calm three-column rhythm."
+  },
+  {
+   "name": "features-comparison",
+   "type": "registry:block",
+   "title": "Features Comparison",
+   "description": "With-us versus do-it-yourself, row by honest row."
+  },
+  {
+   "name": "app-showcase",
+   "type": "registry:block",
+   "title": "App Showcase",
+   "description": "A detailed phone mockup beside offline-first feature copy."
+  },
+  {
+   "name": "coverage-map",
+   "type": "registry:block",
+   "title": "Coverage Map",
+   "description": "An abstract region network with live beacons and a stat strip."
+  },
+  {
+   "name": "gallery-showcase",
+   "type": "registry:block",
+   "title": "Gallery Showcase",
+   "description": "Product surfaces as CSS-drawn browser frames — no images needed."
+  },
+  {
+   "name": "gallery-grid",
+   "type": "registry:block",
+   "title": "Gallery Grid",
+   "description": "Captioned tile gallery — swap the pattern tiles for real shots."
+  },
+  {
+   "name": "integrations-grid",
+   "type": "registry:block",
+   "title": "Integrations Grid",
+   "description": "Connectable services with installed states and monogram marks."
+  },
+  {
+   "name": "integrations-hub",
+   "type": "registry:block",
+   "title": "Integrations Hub",
+   "description": "Sources and destinations wired through one pulsing hub node."
+  },
+  {
+   "name": "cta-newsletter",
+   "type": "registry:block",
+   "title": "CTA Newsletter",
+   "description": "Newsletter capture with an accessible form and honest numbers."
+  },
+  {
+   "name": "contact-offices",
+   "type": "registry:block",
+   "title": "Contact Offices",
+   "description": "Offices with mono coordinates, addresses and local hours."
+  },
+  {
+   "name": "timeline-roadmap",
+   "type": "registry:block",
+   "title": "Timeline Roadmap",
+   "description": "Quarterly roadmap with shipped/building/planned statuses."
+  },
+  {
+   "name": "timeline-milestones",
+   "type": "registry:block",
+   "title": "Timeline Milestones",
+   "description": "Company history on a vertical rail of year markers."
+  },
+  {
+   "name": "newsletter-split",
+   "type": "registry:block",
+   "title": "Newsletter Split",
+   "description": "Signup beside a CSS-drawn preview of the actual email."
+  },
+  {
+   "name": "newsletter-inline",
+   "type": "registry:block",
+   "title": "Newsletter Inline",
+   "description": "A slim capture band that slots between any two sections."
+  },
+  {
+   "name": "hero-metrics",
+   "type": "registry:block",
+   "title": "Hero Metrics",
+   "description": "Claim up top, the proof rail of production numbers below."
+  },
+  {
+   "name": "hero-waitlist",
+   "type": "registry:block",
+   "title": "Hero Waitlist",
+   "description": "Pre-launch capture with a queue count and avatar stack."
+  },
+  {
+   "name": "pricing-comparison",
+   "type": "registry:block",
+   "title": "Pricing Comparison",
+   "description": "Full plan-by-plan table with grouped feature rows."
+  },
+  {
+   "name": "bento-showcase",
+   "type": "registry:block",
+   "title": "Bento Showcase",
+   "description": "Kanban, calendar, command palette and threads — all CSS."
+  },
+  {
+   "name": "testimonials-marquee",
+   "type": "registry:block",
+   "title": "Testimonials Marquee",
+   "description": "Two counter-scrolling rows, paused on hover, frozen on reduced motion."
+  },
+  {
+   "name": "cta-download",
+   "type": "registry:block",
+   "title": "CTA Download",
+   "description": "Inverted app-download panel with store buttons and QR."
+  },
+  {
+   "name": "footer-newsletter",
+   "type": "registry:block",
+   "title": "Footer Newsletter",
+   "description": "Link columns plus a capture form and a status line."
+  },
+  {
+   "name": "logos-grid",
+   "type": "registry:block",
+   "title": "Logos Grid",
+   "description": "Wordmark cells in a hairline grid, muted until hovered."
+  },
+  {
+   "name": "hero-video",
+   "type": "registry:block",
+   "title": "Hero Video",
+   "description": "Demo-first opener with a CSS video player frame."
+  },
+  {
+   "name": "hero-editorial",
+   "type": "registry:block",
+   "title": "Hero Editorial",
+   "description": "Manifesto-sized type with ruled meta lines, zero imagery."
+  },
+  {
+   "name": "hero-app",
+   "type": "registry:block",
+   "title": "Hero App",
+   "description": "Store buttons beside a CSS phone running the actual app."
+  },
+  {
+   "name": "pricing-usage",
+   "type": "registry:block",
+   "title": "Pricing Usage",
+   "description": "A screenshot-able rate card with a worked monthly example."
+  },
+  {
+   "name": "pricing-enterprise",
+   "type": "registry:block",
+   "title": "Pricing Enterprise",
+   "description": "The security checklist plus a three-step path to a pilot."
+  },
+  {
+   "name": "bento-stats",
+   "type": "registry:block",
+   "title": "Bento Stats",
+   "description": "KPIs as tiles: big number, sparkline, uptime dots, regions."
+  },
+  {
+   "name": "bento-mobile",
+   "type": "registry:block",
+   "title": "Bento Mobile",
+   "description": "Mobile-first story: smart alerts, offline mode, biometrics."
+  },
+  {
+   "name": "integrations-orbit",
+   "type": "registry:block",
+   "title": "Integrations Orbit",
+   "description": "Satellites orbiting the hub — pure CSS, still under reduced motion."
+  },
+  {
+   "name": "video-chapters",
+   "type": "registry:block",
+   "title": "Video Chapters",
+   "description": "A chaptered walkthrough player with jump-to timestamps."
+  },
+  {
+   "name": "video-testimonial",
+   "type": "registry:block",
+   "title": "Video Testimonial",
+   "description": "A pull quote beside its 90-second video proof."
+  },
+  {
+   "name": "blog-magazine",
+   "type": "registry:block",
+   "title": "Blog Magazine",
+   "description": "Journal front page: one featured story, ruled sections."
+  },
+  {
+   "name": "blog-author",
+   "type": "registry:block",
+   "title": "Blog Author",
+   "description": "An author's bio and stats beside their essay archive."
+  },
+  {
+   "name": "contact-booking",
+   "type": "registry:block",
+   "title": "Contact Booking",
+   "description": "A working-session pitch beside a week of pickable slots."
+  },
+  {
+   "name": "faq-cards",
+   "type": "registry:block",
+   "title": "FAQ Cards",
+   "description": "Tagged question cards you can scan in any order."
+  },
+  {
+   "name": "features-beam",
+   "type": "registry:block",
+   "title": "Features Beam",
+   "description": "A light pulse rides the live card's border — pure CSS."
+  },
+  {
+   "name": "hero-rotating",
+   "type": "registry:block",
+   "title": "Hero Rotating",
+   "description": "A headline whose key word takes turns — pure CSS cycle."
+  },
+  {
+   "name": "app-shell",
+   "type": "registry:block",
+   "title": "App Shell",
+   "description": "Sidebar, topbar and a live overview — the whole app frame."
+  },
+  {
+   "name": "app-command",
+   "type": "registry:block",
+   "title": "App Command",
+   "description": "A working command palette over a dimmed app — typing filters."
+  },
+  {
+   "name": "app-settings",
+   "type": "registry:block",
+   "title": "App Settings",
+   "description": "Settings sections with real labels, switches and save state."
+  },
+  {
+   "name": "changelog-list",
+   "type": "registry:block",
+   "title": "Changelog List",
+   "description": "Releases on a timeline rail — versions, dates, no fluff."
+  },
+  {
+   "name": "error-404",
+   "type": "registry:block",
+   "title": "Error 404",
+   "description": "A blueprint 404 with search and escape routes."
+  },
+  {
+   "name": "empty-state",
+   "type": "registry:block",
+   "title": "Empty State",
+   "description": "First-run dashboard state: ghost rows, two clear actions."
+  },
+  {
+   "name": "header-mega",
+   "type": "registry:block",
+   "title": "Header Mega",
+   "description": "Navbar with its mega-menu open: link groups + feature card."
+  },
+  {
+   "name": "footer-big",
+   "type": "registry:block",
+   "title": "Footer Big",
+   "description": "Newsletter band, four columns, status line and locale."
+  },
+  {
+   "name": "stats-cards",
+   "type": "registry:block",
+   "title": "Stats Cards",
+   "description": "Six live metrics with directional deltas."
+  },
+  {
+   "name": "faq-split",
+   "type": "registry:block",
+   "title": "FAQ Split",
+   "description": "Sticky pitch on the left, accordion answers on the right."
+  },
+  {
+   "name": "login-otp",
+   "type": "registry:block",
+   "title": "Login OTP",
+   "description": "The 2FA screen — six cells, one blinking caret."
+  },
+  {
+   "name": "banner-cookie",
+   "type": "registry:block",
+   "title": "Banner Cookie",
+   "description": "A cookie notice with two honest choices, zero dark patterns."
+  },
+  {
+   "name": "hero-flux",
+   "type": "registry:block",
+   "title": "Hero Flux",
+   "description": "The Blockforge signature: energy pulses riding a blueprint grid."
+  },
+  {
+   "name": "careers-listings",
+   "type": "registry:block",
+   "title": "Careers Listings",
+   "description": "Open roles by department — locations and types in mono."
+  },
+  {
+   "name": "careers-perks",
+   "type": "registry:block",
+   "title": "Careers Perks",
+   "description": "The deal in writing: six policies, hairline grid."
+  },
+  {
+   "name": "team-spotlight",
+   "type": "registry:block",
+   "title": "Team Spotlight",
+   "description": "One teammate, their story, and the numbers of their tenure."
+  },
+  {
+   "name": "video-grid",
+   "type": "registry:block",
+   "title": "Video Grid",
+   "description": "A wall of walkthroughs with durations and view counts."
+  },
+  {
+   "name": "gallery-masonry",
+   "type": "registry:block",
+   "title": "Gallery Masonry",
+   "description": "Uneven columns, numbered captions — swap tiles for shots."
+  },
+  {
+   "name": "pricing-toggle",
+   "type": "registry:block",
+   "title": "Pricing Toggle",
+   "description": "Monthly/annual switch rendered on annual, struck-through savings."
+  },
+  {
+   "name": "app-onboarding",
+   "type": "registry:block",
+   "title": "App Onboarding",
+   "description": "Three detailed CSS phones walking the first-run flow."
+  },
+  {
+   "name": "dev-contributions",
+   "type": "registry:block",
+   "title": "Dev Contributions",
+   "description": "Activity heatmap with clickable project milestones and map-pin bubbles."
+  },
+  {
+   "name": "dev-achievements",
+   "type": "registry:block",
+   "title": "Dev Achievements",
+   "description": "A wall of mascot badges in dark showcase tiles — bring your own art."
+  },
+  {
+   "name": "dev-profile",
+   "type": "registry:block",
+   "title": "Dev Profile",
+   "description": "Identity card, language bars and pinned repos for a dev portfolio."
+  },
+  {
+   "name": "dev-stack",
+   "type": "registry:block",
+   "title": "Dev Stack",
+   "description": "The tools you reach for, grouped by family."
+  },
+  {
+   "name": "dev-activity",
+   "type": "registry:block",
+   "title": "Dev Activity",
+   "description": "A reverse-chronological feed of commits, merges and releases."
+  },
+  {
+   "name": "dev-now",
+   "type": "registry:block",
+   "title": "Dev Now",
+   "description": "A “right now” panel: what you're building, reading and hearing."
+  },
+  {
+   "name": "dev-badges",
+   "type": "registry:block",
+   "title": "Dev Badges",
+   "description": "Hexagon-gem achievement frames with a four-tier rarity system."
+  },
+  {
+   "name": "dev-snake",
+   "type": "registry:block",
+   "title": "Dev Snake",
+   "description": "A decorative snake grazing a contribution grid — reduced-motion safe."
+  },
+  {
+   "name": "page-saas-landing",
+   "type": "registry:page",
+   "title": "SaaS Landing — full page",
+   "description": "The full-funnel landing: proof, features, pricing, FAQ. (9 blocks, ready-made page)"
+  },
+  {
+   "name": "page-dev-tool",
+   "type": "registry:page",
+   "title": "Dev Tool — full page",
+   "description": "Terminal-first hero, hard numbers, spec-sheet pricing. (8 blocks, ready-made page)"
+  },
+  {
+   "name": "page-startup-launch",
+   "type": "registry:page",
+   "title": "Startup Launch — full page",
+   "description": "Announce, prove momentum, capture the first believers. (6 blocks, ready-made page)"
+  },
+  {
+   "name": "page-pricing-page",
+   "type": "registry:page",
+   "title": "Pricing Page — full page",
+   "description": "A standalone pricing route that answers every objection. (6 blocks, ready-made page)"
+  },
+  {
+   "name": "page-portfolio",
+   "type": "registry:page",
+   "title": "Personal Site — full page",
+   "description": "Quiet opener, writing index, one strong testimonial. (6 blocks, ready-made page)"
+  },
+  {
+   "name": "page-agency",
+   "type": "registry:page",
+   "title": "Agency & Studio — full page",
+   "description": "Credentials up front, work stories, a real contact path. (7 blocks, ready-made page)"
+  },
+  {
+   "name": "page-blog-home",
+   "type": "registry:page",
+   "title": "Blog Home — full page",
+   "description": "A content-first home: featured story plus the archive. (6 blocks, ready-made page)"
+  },
+  {
+   "name": "page-waitlist",
+   "type": "registry:page",
+   "title": "Waitlist — full page",
+   "description": "One promise, one field's worth of attention, no leaks. (4 blocks, ready-made page)"
+  },
+  {
+   "name": "page-about-page",
+   "type": "registry:page",
+   "title": "About Page — full page",
+   "description": "Story, values, faces — the page investors actually read. (7 blocks, ready-made page)"
+  },
+  {
+   "name": "page-careers",
+   "type": "registry:page",
+   "title": "Careers — full page",
+   "description": "Culture first, open roles second, humans throughout. (6 blocks, ready-made page)"
+  },
+  {
+   "name": "page-product-tour",
+   "type": "registry:page",
+   "title": "Product Tour — full page",
+   "description": "How it works, proven step by step, ending on a push. (8 blocks, ready-made page)"
+  },
+  {
+   "name": "page-campaign-launch",
+   "type": "registry:page",
+   "title": "Campaign Launch — full page",
+   "description": "A deadline, a promise, and every reason to act now. (6 blocks, ready-made page)"
+  },
+  {
+   "name": "page-corporate",
+   "type": "registry:page",
+   "title": "Corporate Site — full page",
+   "description": "Credibility in order: story, numbers, team, contact. (7 blocks, ready-made page)"
+  },
+  {
+   "name": "page-auth-pages",
+   "type": "registry:page",
+   "title": "Auth Pages — full page",
+   "description": "Sign-up and sign-in screens that feel like the product. (3 blocks, ready-made page)"
+  },
+  {
+   "name": "page-ecommerce-drop",
+   "type": "registry:page",
+   "title": "Product Drop — full page",
+   "description": "Scarcity, proof and a single product to want. (8 blocks, ready-made page)"
+  },
+  {
+   "name": "page-changelog",
+   "type": "registry:page",
+   "title": "Changelog — full page",
+   "description": "Every release on a rail, with a subscribe hook at the end. (4 blocks, ready-made page)"
+  },
+  {
+   "name": "page-content-hub",
+   "type": "registry:page",
+   "title": "Content Hub — full page",
+   "description": "A journal, a walkthrough and a reason to subscribe. (6 blocks, ready-made page)"
+  },
+  {
+   "name": "page-mobile-app",
+   "type": "registry:page",
+   "title": "Mobile App — full page",
+   "description": "Store-ready: phone in hand, proof below, download everywhere. (7 blocks, ready-made page)"
+  },
+  {
+   "name": "page-roadmap",
+   "type": "registry:page",
+   "title": "Roadmap Page — full page",
+   "description": "Build in the open: statuses, history and a subscribe hook. (6 blocks, ready-made page)"
+  },
+  {
+   "name": "page-launch-week",
+   "type": "registry:page",
+   "title": "Launch Week — full page",
+   "description": "Five days of announcements deserve a page this loud. (7 blocks, ready-made page)"
+  },
+  {
+   "name": "page-platform-overview",
+   "type": "registry:page",
+   "title": "Platform Overview — full page",
+   "description": "Features, integrations and proof — the full product story. (10 blocks, ready-made page)"
+  },
+  {
+   "name": "page-community-event",
+   "type": "registry:page",
+   "title": "Community Event — full page",
+   "description": "Announce the date, show the plan, gather the crowd. (8 blocks, ready-made page)"
+  },
+  {
+   "name": "page-developer-portfolio",
+   "type": "registry:page",
+   "title": "Developer Portfolio — full page",
+   "description": "A dev's home: profile, contributions, badges and writing. (10 blocks, ready-made page)"
+  },
+  {
+   "name": "template-meridian",
+   "type": "registry:page",
+   "title": "Meridian — full template",
+   "description": "Product-analytics marketing site: home, pricing, about, changelog and contact — one cohesive brand across every route. (6 routes, complete multi-page template)"
+  },
+  {
+   "name": "template-folio",
+   "type": "registry:page",
+   "title": "Folio — full template",
+   "description": "A monochrome, square-card portfolio: hero, selected work, experience, trophies and writing — editorial, understated, entirely yours. (5 routes, complete multi-page template)"
+  },
+  {
+   "name": "template-ledger",
+   "type": "registry:page",
+   "title": "Ledger — full template",
+   "description": "A billing dashboard app: sidebar shell, revenue charts, customers, invoices, payments and settings — indigo, dense, product-grade. (9 routes, complete multi-page template)"
+  },
+  {
+   "name": "template-foundry",
+   "type": "registry:page",
+   "title": "Foundry — full template",
+   "description": "A documentation site: collapsible nav, scroll-spy contents, ⌘K search, API reference, guides and a filterable changelog — warm amber, interactive. (9 routes, complete multi-page template)"
+  }
+ ]
+}

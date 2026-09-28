@@ -1,0 +1,1 @@
+{"handle": "@limeplay", "pending": 2, "poolSize": 52, "linked": 2, "methodCounts": {"template": 1, "sitemap": 1}, "templates": {"https://limeplay.winoffrg.dev/{name}": [1, 0]}, "links": {"index": {"url": "https://limeplay.winoffrg.dev/index", "method": "template"}, "use-media-session": {"url": "https://limeplay.winoffrg.dev/docs/hooks/use-media-session", "method": "sitemap"}}}

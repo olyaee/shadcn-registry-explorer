@@ -12,12 +12,18 @@ venv/
 # OS
 .DS_Store
 
-# Large regenerable artifacts (vectors are ~600MB; regenerate via scripts)
+# Large artifacts: fetched with `python scripts/fetch_data.py` (manifest: data/artifacts.json)
+# or rebuilt with scripts/embed_items.py
 *.npy
+*.npz
 data/embeddings/
+*.part
+# Neo4j export (scripts/build_graph.py --neo4j) — regenerable
+data/graph/items.jsonl
 
 # Logs
 *.log
 
 # Claude Code tooling / worktrees
 .claude/
+node_modules/

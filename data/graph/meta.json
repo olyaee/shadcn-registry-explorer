@@ -1,10 +1,17 @@
 {
   "nodes": {
-    "domains": 14,
-    "categories": 459,
-    "registries": 238,
-    "items": 37837
+    "domains": 18,
+    "categories": 711,
+    "registries": 394,
+    "items": 76162
   },
-  "embeddingDim": 3072,
-  "relationships_est": 76147
+  "builtFrom": {
+    "catalogue": "2026-09-28",
+    "clusters": {
+      "min_cluster_size": 25,
+      "min_samples": 5,
+      "umap_dims": 15,
+      "neighbors": 15
+    }
+  }
 }
