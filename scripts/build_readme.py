@@ -37,6 +37,7 @@ L.append("Give your coding agent this repo's path and the feature you're buildin
 L.append("```bash\n./find \"grouped bar chart comparing a metric across groups\"\n./find graph category \"Kanban Board\"\n```\n")
 L.append("Data: `data/registries.enriched.json` (downloaded by `./find` / `scripts/fetch_data.py`) · "
          "last refresh: [`MCP_REFRESH_REPORT.md`](MCP_REFRESH_REPORT.md).\n")
+L.append("Code: [MIT](LICENSE). Components and their metadata belong to each registry's authors.\n")
 L.append("---\n")
 L.append(f"## Registries with components ({len(found)})\n")
 L.append("| # | Registry | Browse components / blocks | Type | Components | Exact links |")

@@ -13,6 +13,8 @@ Give your coding agent this repo's path and the feature you're building — or s
 
 Data: `data/registries.enriched.json` (downloaded by `./find` / `scripts/fetch_data.py`) · last refresh: [`MCP_REFRESH_REPORT.md`](MCP_REFRESH_REPORT.md).
 
+Code: [MIT](LICENSE). Components and their metadata belong to each registry's authors.
+
 ---
 
 ## Registries with components (380)
