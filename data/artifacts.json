@@ -1,0 +1,31 @@
+{
+  "files": [
+    {
+      "path": "data/embeddings/search_vectors_1024.npy",
+      "sources": [
+        {
+          "type": "github-release",
+          "repo": "olyaee/shadcn-registry-explorer",
+          "tag": "data-2026-09-28",
+          "asset": "search_vectors_1024.npy"
+        }
+      ],
+      "sha256": "409fe90c8af794609610682d8dbe9d7d522e83b68c3e36efc893cb554a44f038",
+      "bytes": 155807872
+    },
+    {
+      "path": "data/embeddings/items.json",
+      "sources": [
+        {
+          "type": "github-release",
+          "repo": "olyaee/shadcn-registry-explorer",
+          "tag": "data-2026-09-28",
+          "asset": "items.json"
+        }
+      ],
+      "sha256": "f55e7fc8308fcc5b038f3f1467cd493c55ffe2d4ce098f6bdd7e270e1a172a32",
+      "bytes": 38774255
+    }
+  ],
+  "version": "2026-09-28"
+}
