@@ -39,13 +39,7 @@ R = [
     "([`AGENTS.md`](AGENTS.md)). Or search yourself: `./find \"grouped bar chart\"`, "
     "`./find graph category \"Kanban Board\"`.\n",
     "## How it works\n",
-    "```mermaid\nflowchart LR\n"
-    "  A[394 registries] -->|shadcn MCP| B[76k items]\n"
-    "  B -->|LLM descriptions| C[embeddings]\n"
-    "  C --> D[search: meaning + keywords]\n"
-    "  C -->|clustering| E[graph: 711 categories]\n"
-    "  D --> F[shortlist + install commands]\n"
-    "  E --> F\n```\n",
+    "![How it works](docs/architecture.png)\n",
     "- **Search** ranks items by meaning and keywords. The OpenAI key is optional: it embeds your query "
     "(fraction of a cent) so \"billing toggle\" also finds a \"monthly/annual switch\"; without it, "
     "search matches keywords only.\n"
