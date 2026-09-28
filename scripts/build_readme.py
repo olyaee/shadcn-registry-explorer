@@ -38,14 +38,18 @@ L.append("```bash\n./find \"grouped bar chart comparing a metric across groups\"
 L.append("## How it works\n")
 L.append("Every registry in the shadcn directory is harvested through the shadcn MCP, each item gets an "
          "LLM-written description and tags, and everything is embedded into a search index. Your agent splits "
-         "the feature into UI pieces and `./find` ranks the catalogue for each piece by meaning *and* keywords.\n")
+         "the feature into UI pieces and `./find` ranks the catalogue for each piece by meaning *and* keywords. "
+         "The embeddings are also clustered into a graph (18 domains → 711 categories of equivalent components), "
+         "so `./find graph category \"Kanban Board\"` lists every library's version of a component.\n")
 L.append("```mermaid\nflowchart LR\n"
          "  A[shadcn directory<br/>394 registries] -->|shadcn MCP| B[76k items]\n"
          "  B -->|LLM: descriptions, tags| C[catalogue]\n"
          "  C -->|embeddings| D[search index]\n"
+         "  D -->|clustering| H[graph: domains → categories]\n"
          "  E[your agent + feature brief] -->|./find| F[hybrid search<br/>meaning + keywords]\n"
          "  D --> F\n"
-         "  F --> G[shortlist: install command + doc link]\n```\n")
+         "  F --> G[shortlist: install command + doc link]\n"
+         "  H -->|find graph| G\n```\n")
 L.append("**Why an OpenAI key:** your search text is embedded (`text-embedding-3-large`, a fraction of a cent "
          "per search) so it can be matched by meaning — \"billing toggle\" finds a \"monthly/annual switch\". "
          "Put `OPENAI_API_KEY=...` in `.env`; without it, search falls back to keyword matching.\n")
