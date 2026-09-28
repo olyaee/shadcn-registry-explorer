@@ -1,6 +1,19 @@
 {
   "files": [
     {
+      "path": "data/registries.enriched.json",
+      "sources": [
+        {
+          "type": "github-release",
+          "repo": "olyaee/shadcn-registry-explorer",
+          "tag": "data-2026-09-28",
+          "asset": "registries.enriched.json"
+        }
+      ],
+      "sha256": "9fd1dfc1a9d3af10e2f60c281e52ad3bad45259af98e89d8cae0ca8b45e5dc5d",
+      "bytes": 64937172
+    },
+    {
       "path": "data/embeddings/search_vectors_1024.npy",
       "sources": [
         {

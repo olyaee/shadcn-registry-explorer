@@ -35,7 +35,7 @@ L.append(f"{e['totalComponents']:,} components from {e['componentsFound']} of th
          f"[shadcn directory](https://ui.shadcn.com/docs/directory) (captured {e['capturedAt']}).\n")
 L.append("Give your coding agent this repo's path and the feature you're building — or search yourself:\n")
 L.append("```bash\n./find \"grouped bar chart comparing a metric across groups\"\n./find graph category \"Kanban Board\"\n```\n")
-L.append("Data: [`data/registries.enriched.json`](data/registries.enriched.json) · "
+L.append("Data: `data/registries.enriched.json` (downloaded by `./find` / `scripts/fetch_data.py`) · "
          "last refresh: [`MCP_REFRESH_REPORT.md`](MCP_REFRESH_REPORT.md).\n")
 L.append("---\n")
 L.append(f"## Registries with components ({len(found)})\n")

@@ -11,7 +11,7 @@ Give your coding agent this repo's path and the feature you're building — or s
 ./find graph category "Kanban Board"
 ```
 
-Data: [`data/registries.enriched.json`](data/registries.enriched.json) · last refresh: [`MCP_REFRESH_REPORT.md`](MCP_REFRESH_REPORT.md).
+Data: `data/registries.enriched.json` (downloaded by `./find` / `scripts/fetch_data.py`) · last refresh: [`MCP_REFRESH_REPORT.md`](MCP_REFRESH_REPORT.md).
 
 ---
 

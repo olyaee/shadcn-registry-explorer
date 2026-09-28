@@ -17,6 +17,7 @@ venv/
 *.npy
 *.npz
 data/embeddings/
+data/registries.enriched.json
 *.part
 # Neo4j export (scripts/build_graph.py --neo4j) — regenerable
 data/graph/items.jsonl

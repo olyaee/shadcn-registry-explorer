@@ -4,7 +4,7 @@
 #   find --brief brief.json | --brief -                           {"piece": "query", ...} from a file / stdin
 #   find graph <domains|categories|category|similar|registry> ...  browse the taxonomy (find graph --help)
 #   find update                                                    git pull + refresh the search index
-# First run sets up .venv and downloads the search index (data/artifacts.json).
+# First run sets up .venv and downloads the catalogue + search index (data/artifacts.json).
 set -euo pipefail
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PY="$ROOT/.venv/bin/python"
@@ -16,7 +16,8 @@ if [ ! -x "$PY" ] || ! "$PY" -c "import numpy, openai, dotenv" 2>/dev/null; then
   python3 -m venv "$ROOT/.venv" >&2
   "$PY" -m pip install -q -r "$ROOT/requirements.txt" >&2
 fi
-if [ ! -f "$ROOT/data/embeddings/search_vectors_1024.npy" ] && [ "${1:-}" != "update" ]; then
+if { [ ! -f "$ROOT/data/registries.enriched.json" ] || [ ! -f "$ROOT/data/embeddings/search_vectors_1024.npy" ]; } \
+   && [ "${1:-}" != "update" ]; then
   "$PY" "$ROOT/scripts/fetch_data.py" >&2 || echo "(search index unavailable: keyword-only results)" >&2
 fi
 

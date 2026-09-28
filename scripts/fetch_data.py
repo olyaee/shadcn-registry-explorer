@@ -5,7 +5,7 @@ Download (or publish) the large, git-ignored data files listed in data/artifacts
 Teammates, after cloning:
     python scripts/fetch_data.py            # downloads anything missing / out of date, verifies sha256
 
-Maintainers, after rebuilding the search index (scripts/embed_items.py):
+Maintainers, after refreshing the catalogue or rebuilding the search index:
     python scripts/fetch_data.py publish --github OWNER/REPO     # new GitHub Release + manifest update
     python scripts/fetch_data.py publish --gdrive data/embeddings/search_vectors_1024.npy=<FILE_ID> ...
         (upload the files to Google Drive yourself, share as "Anyone with the link", paste the IDs)
@@ -21,7 +21,8 @@ import argparse, hashlib, json, os, shutil, subprocess, sys, tempfile, time, url
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MANIFEST = os.path.join(ROOT, "data", "artifacts.json")
-DEFAULT_FILES = ["data/embeddings/search_vectors_1024.npy", "data/embeddings/items.json"]
+DEFAULT_FILES = ["data/registries.enriched.json", "data/embeddings/search_vectors_1024.npy",
+                 "data/embeddings/items.json"]
 
 
 def sha256(path):
@@ -126,7 +127,7 @@ def publish(github, gdrive, files):
         r = subprocess.run(["gh", "release", "view", tag, "-R", github], capture_output=True)
         cmd = (["gh", "release", "upload", tag, *assets, "-R", github, "--clobber"] if r.returncode == 0 else
                ["gh", "release", "create", tag, *assets, "-R", github, "--title", f"Data {version}",
-                "--notes", "Search index for the shadcn registry catalogue. Fetch with `python scripts/fetch_data.py`."])
+                "--notes", "Catalogue + search index. Fetch with `python scripts/fetch_data.py`."])
         subprocess.run(cmd, check=True)
         for p in paths:
             by_path[p]["sources"] = [s for s in by_path[p]["sources"] if s["type"] != "github-release"]
