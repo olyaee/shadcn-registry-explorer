@@ -36,8 +36,8 @@ R = [
     "**As an MCP server** (Claude Code, Cursor, Codex, …; needs [uv](https://docs.astral.sh/uv/)):\n",
     "```bash\nclaude mcp add shadcn-explorer -s user -e OPENAI_API_KEY=sk-... -- \\\n"
     "  uvx --from git+https://github.com/olyaee/shadcn-registry-explorer shadcn-explorer-mcp\n```\n",
-    "Other clients: command `uvx`, args `--from git+https://github.com/olyaee/shadcn-registry-explorer "
-    "shadcn-explorer-mcp`, env `OPENAI_API_KEY` (optional). Then ask: *\"find components to build a fairness "
+    "No OpenAI key? Drop `-e …`. Other clients: command `uvx`, args "
+    "`--from git+https://github.com/olyaee/shadcn-registry-explorer shadcn-explorer-mcp`. Then ask: *\"find components to build a fairness "
     "dashboard\"*. Data (~260 MB) downloads in the background on first start.\n",
     "**Or clone** and point any agent at the folder ([`AGENTS.md`](AGENTS.md)), or search yourself: "
     "`./find \"grouped bar chart\"`, `./find graph category \"Kanban Board\"`.\n",
@@ -46,7 +46,8 @@ R = [
     "- **Search** ranks items by meaning and keywords. The OpenAI key is optional: it embeds your query "
     "(fraction of a cent) so \"billing toggle\" also finds a \"monthly/annual switch\"; without it, "
     "search matches keywords only.\n"
-    "- **Graph** groups equivalent components across libraries, so `find graph` lists every version of one.\n",
+    "- **Graph** groups equivalent components across libraries, so `browse_category` (MCP) or "
+    "`./find graph category` lists every version of one.\n",
     "[All registries](REGISTRIES.md) · [MIT](LICENSE) — components belong to their authors.\n",
 ]
 open("README.md", "w").write("\n".join(R) + "\n")

@@ -87,9 +87,9 @@
   <rect class="box" filter="url(#sh)" x="276" y="420" width="420" height="84" rx="10"/>
   <text class="t" x="296" y="449">GitHub · public</text>
   <text class="m" x="296" y="476">repo</text>
-  <text class="d" x="296" y="493">graph, AGENTS.md, ./find</text>
+  <text class="d" x="296" y="493">package, AGENTS.md, ./find</text>
   <text class="m" x="490" y="476">release</text>
-  <text class="d" x="490" y="493">catalogue, search vectors</text>
+  <text class="d" x="490" y="493">catalogue, graph, vectors</text>
 
   <!-- first run (crosses the line) -->
   <path class="arrow accent" marker-end="url(#b)" d="M696,462 L782,462"/>
@@ -98,7 +98,7 @@
   <!-- local data -->
   <rect class="box" filter="url(#sh)" x="784" y="420" width="246" height="84" rx="10"/>
   <text class="t" x="804" y="449">Local data</text>
-  <text class="m" x="804" y="476">catalogue · vectors</text>
+  <text class="m" x="804" y="476">~/.cache or the clone</text>
   <text class="d" x="804" y="493">downloaded once, then offline</text>
 
   <path class="arrow" marker-end="url(#a)" d="M907,420 L907,292"/>
@@ -106,8 +106,8 @@
 
   <!-- find -->
   <rect class="box" filter="url(#sh)" x="784" y="100" width="246" height="190" rx="10"/>
-  <text class="t" x="804" y="130">./find</text>
-  <text class="m" x="804" y="150">Python · local</text>
+  <text class="t" x="804" y="130">Search</text>
+  <text class="m" x="804" y="150">MCP server · ./find</text>
   <line x1="804" y1="166" x2="1010" y2="166" stroke="#e4e4e7"/>
   <text class="s" x="804" y="192">Hybrid search</text>
   <text class="d" x="804" y="210">meaning + keywords, fused</text>
@@ -130,7 +130,7 @@
   <path class="arrow dash" marker-end="url(#a)" d="M1110,258 L1032,258"/>
 </svg>
 <p class="caption">Everything left of the blue line runs once per refresh and is published to GitHub; everything right of it
-runs on your machine. <code>./find</code> downloads the data on first run, then searches locally — only your query
+runs on your machine. The MCP server (or <code>./find</code>) downloads the data on first run, then searches locally — only your query
 text leaves the machine, and only if you add an OpenAI key.</p>
 </div>
 </body>
