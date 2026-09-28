@@ -35,6 +35,20 @@ L.append(f"{e['totalComponents']:,} components from {e['componentsFound']} of th
          f"[shadcn directory](https://ui.shadcn.com/docs/directory) (captured {e['capturedAt']}).\n")
 L.append("Give your coding agent this repo's path and the feature you're building — or search yourself:\n")
 L.append("```bash\n./find \"grouped bar chart comparing a metric across groups\"\n./find graph category \"Kanban Board\"\n```\n")
+L.append("## How it works\n")
+L.append("Every registry in the shadcn directory is harvested through the shadcn MCP, each item gets an "
+         "LLM-written description and tags, and everything is embedded into a search index. Your agent splits "
+         "the feature into UI pieces and `./find` ranks the catalogue for each piece by meaning *and* keywords.\n")
+L.append("```mermaid\nflowchart LR\n"
+         "  A[shadcn directory<br/>394 registries] -->|shadcn MCP| B[76k items]\n"
+         "  B -->|LLM: descriptions, tags| C[catalogue]\n"
+         "  C -->|embeddings| D[search index]\n"
+         "  E[your agent + feature brief] -->|./find| F[hybrid search<br/>meaning + keywords]\n"
+         "  D --> F\n"
+         "  F --> G[shortlist: install command + doc link]\n```\n")
+L.append("**Why an OpenAI key:** your search text is embedded (`text-embedding-3-large`, a fraction of a cent "
+         "per search) so it can be matched by meaning — \"billing toggle\" finds a \"monthly/annual switch\". "
+         "Put `OPENAI_API_KEY=...` in `.env`; without it, search falls back to keyword matching.\n")
 L.append("Data: `data/registries.enriched.json` (downloaded by `./find` / `scripts/fetch_data.py`) · "
          "last refresh: [`MCP_REFRESH_REPORT.md`](MCP_REFRESH_REPORT.md).\n")
 L.append("Code: [MIT](LICENSE). Components and their metadata belong to each registry's authors.\n")
