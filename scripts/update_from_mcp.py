@@ -56,6 +56,16 @@ REAL_TYPES = {"registry:ui", "registry:component", "registry:block", "registry:p
               "registry:icon", "registry:theme"}
 DEMO = re.compile(r"-(demos?|examples?|preview)(-\d+)?$", re.I)
 
+NON_REACT = [("vue", r"\bvue\b|nuxt"), ("svelte", r"svelte"), ("react-native", r"react[- ]native|\bexpo\b|nativewind"),
+             ("angular", r"angular"), ("solid", r"solidjs|solid-js|\bsolid port\b"), ("astro", r"\.astro\b|for astro")]
+
+def framework(name, desc):
+    """'react' unless the registry names another framework and never plain React."""
+    t = f"{name} {desc}".lower()
+    hits = [f for f, rx in NON_REACT if re.search(rx, t)]
+    react = re.search(r"\breact\b", t.replace("react-native", "").replace("react native", ""))
+    return hits[0] if hits and not react else "react"
+
 def link_stats(items, template):
     real = [i for i in items if i.get("type") in REAL_TYPES and not DEMO.search(i["name"])]
     real_linked = sum(1 for i in real if i.get("url"))
@@ -125,6 +135,7 @@ def main():
                "install": f"npx shadcn add {handle}",
                "description": (ix["description"] if ix and ix.get("description") else (o or {}).get("description", "")),
                "listed": bool(ix)}
+        reg["framework"] = framework(name, reg["description"])
         if ix and ix.get("health"):
             h = ix["health"]
             reg["health"] = {"status": h.get("status"), "score": h.get("score"),

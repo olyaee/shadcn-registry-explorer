@@ -2,7 +2,7 @@
 # Search the shadcn registry catalogue from anywhere:  /path/to/repo/find ...   (see AGENTS.md)
 #   find "query" ["query" ...] [--kind component,block] [--k 8]   hybrid search, one shortlist per query
 #   find --brief brief.json | --brief -                           {"piece": "query", ...} from a file / stdin
-#   find graph <domains|categories|category|similar|registry> ...  browse the taxonomy
+#   find graph <domains|categories|category|similar|registry> ...  browse the taxonomy (find graph --help)
 #   find update                                                    git pull + refresh the search index
 # First run sets up .venv and downloads the search index (data/artifacts.json).
 set -euo pipefail

@@ -97,7 +97,7 @@ for r in enr["registries"]:
     health = (r.get("health") or {}).get("status")
     pl = pages.get(r["handle"]) or []
     registries.append({"handle": r["handle"], "name": r["name"], "homepage": r["homepage"],
-                       "description": r.get("description", ""),
+                       "description": r.get("description", ""), "framework": r.get("framework", "react"),
                        "terminology": c.get("terminology"), "componentCount": c["count"],
                        "hasComponents": c["found"], "listed": r.get("listed", True),
                        "health": health, "stale": bool(c.get("stale")),

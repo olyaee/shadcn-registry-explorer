@@ -64,6 +64,7 @@ def load_docs(args):
                 "description": it.get("description") or "",
                 "url": it.get("url"), "linkMethod": it.get("linkMethod"),
                 "health": (r.get("health") or {}).get("status"),
+                "framework": r.get("framework", "react"),
                 "stale": bool(c.get("stale")),
             })
     return docs
@@ -149,9 +150,11 @@ def rank(docs, bm25, sem_row, query, k, per_reg):
         for r, i in enumerate(top):
             i = int(i); cos[i] = float(sem_row[i])
             fused[i] += 1 / (RRF_K + r + 1)
-    for i in fused:                        # sink items from unreachable / stale registries
+    for i in fused:                        # sink unreachable / stale / non-React registries
         if docs[i]["stale"] or docs[i]["health"] == "unavailable":
             fused[i] *= 0.6
+        if docs[i]["framework"] != "react":
+            fused[i] *= 0.5
     out, per = [], Counter()
     for i in sorted(fused, key=fused.get, reverse=True):
         d = docs[i]
@@ -202,7 +205,8 @@ def main():
     for concept, rows in results.items():
         print(f"## {concept}" + (f"  — “{concepts[concept]}”" if concepts[concept] != concept else ""))
         for r in rows:
-            flags = [f for f, on in (("stale", r["stale"]), ("unavailable", r["health"] == "unavailable")) if on]
+            flags = [f for f, on in (("stale", r["stale"]), ("unavailable", r["health"] == "unavailable"),
+                                     (r["framework"], r["framework"] != "react")) if on]
             link = r["url"] if r["url"] else f'(no page: {r["linkMethod"]})'
             print(f'  {r["score"]:>5}  {r["install"]}  [{r["kind"] or r["type"]} · {r["category"]}]'
                   + (f'  cos={r["cosine"]}' if r["cosine"] is not None else "")

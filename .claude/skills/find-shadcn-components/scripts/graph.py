@@ -32,13 +32,16 @@ def items_index():
         for it in r["components"]["items"]:
             idx[f'{r["handle"]}/{it["name"]}'] = {**it, "handle": r["handle"],
                                                   "registryHealth": (r.get("health") or {}).get("status"),
-                                                  "stale": bool(r["components"].get("stale"))}
+                                                  "stale": bool(r["components"].get("stale")),
+                                                  "framework": r.get("framework", "react")}
     return idx
 
 
 def row(iid, it, extra=""):
     link = it.get("url") or f'(no page: {it.get("linkMethod")})'
-    flag = " ⚠ stale" if it.get("stale") else (" ⚠ unavailable" if it.get("registryHealth") == "unavailable" else "")
+    flags = [f for f, on in (("stale", it.get("stale")), ("unavailable", it.get("registryHealth") == "unavailable"),
+                             (it.get("framework"), it.get("framework", "react") != "react")) if on]
+    flag = f' ⚠ {", ".join(flags)}' if flags else ""
     return (f'  npx shadcn add {iid}  [{it.get("kind") or it.get("type")}]{extra}{flag}\n'
             f'      {(it.get("description") or "")[:150]}\n      {link}')
 
@@ -122,7 +125,7 @@ def main():
         cl = {c["id"]: c for c in cats}
         rows = [{"category": cl[cid]["label"], "id": cid, "items": n} for cid, n in cov.most_common()]
         if a.json: return out({"registry": reg, "categories": rows})
-        print(f'{h} — {reg["description"]}\n  {reg["componentCount"]} items · health {reg["health"]} · '
+        print(f'{h} — {reg["description"]}\n  {reg.get("framework", "react")} · {reg["componentCount"]} items · health {reg["health"]} · '
               f'{"active" if reg["active"] else "INACTIVE"} · {reg["browseUrl"]}\n')
         for r_ in rows[:a.top]:
             print(f'  {r_["items"]:>4}  {r_["category"]}  ({r_["id"]})')
