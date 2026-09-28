@@ -113,6 +113,9 @@ def semantic(docs, queries):
         except ImportError:
             pass
         from openai import OpenAI
+        if not os.getenv("OPENAI_API_KEY"):
+            print(f"(no OPENAI_API_KEY in {ROOT}/.env — keyword ranking only)", file=sys.stderr)
+            return None
         resp = OpenAI().embeddings.create(model="text-embedding-3-large", input=queries, dimensions=1024)
     except Exception as e:
         print(f"(semantic ranking unavailable: {type(e).__name__}: {str(e)[:120]} — keyword only)",
