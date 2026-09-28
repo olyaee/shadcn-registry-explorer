@@ -32,12 +32,15 @@ R = [
     "# shadcn Registry Explorer\n",
     f"Find shadcn/ui components for what you're building — {e['totalComponents']:,} items from "
     f"{e['count']} community registries (updated {e['capturedAt']}).\n",
-    "```bash\ngit clone https://github.com/olyaee/shadcn-registry-explorer\n"
-    "echo \"OPENAI_API_KEY=sk-...\" > shadcn-registry-explorer/.env   # optional, recommended\n```\n",
-    "Then tell your coding agent: *\"Look in ./shadcn-registry-explorer for components to build a fairness "
-    "dashboard.\"* It returns install commands and doc links for every UI piece "
-    "([`AGENTS.md`](AGENTS.md)). Or search yourself: `./find \"grouped bar chart\"`, "
-    "`./find graph category \"Kanban Board\"`.\n",
+    "## Install\n",
+    "**As an MCP server** (Claude Code, Cursor, Codex, …; needs [uv](https://docs.astral.sh/uv/)):\n",
+    "```bash\nclaude mcp add shadcn-explorer -s user -e OPENAI_API_KEY=sk-... -- \\\n"
+    "  uvx --from git+https://github.com/olyaee/shadcn-registry-explorer shadcn-explorer-mcp\n```\n",
+    "Other clients: command `uvx`, args `--from git+https://github.com/olyaee/shadcn-registry-explorer "
+    "shadcn-explorer-mcp`, env `OPENAI_API_KEY` (optional). Then ask: *\"find components to build a fairness "
+    "dashboard\"*. Data (~260 MB) downloads in the background on first start.\n",
+    "**Or clone** and point any agent at the folder ([`AGENTS.md`](AGENTS.md)), or search yourself: "
+    "`./find \"grouped bar chart\"`, `./find graph category \"Kanban Board\"`.\n",
     "## How it works\n",
     "![How it works](docs/architecture.png)\n",
     "- **Search** ranks items by meaning and keywords. The OpenAI key is optional: it embeds your query "

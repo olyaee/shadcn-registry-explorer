@@ -14,17 +14,56 @@
       "bytes": 64937172
     },
     {
-      "path": "data/embeddings/search_vectors_1024.npy",
+      "path": "data/graph/domains.json",
       "sources": [
         {
           "type": "github-release",
           "repo": "olyaee/shadcn-registry-explorer",
           "tag": "data-2026-09-28",
-          "asset": "search_vectors_1024.npy"
+          "asset": "domains.json"
         }
       ],
-      "sha256": "409fe90c8af794609610682d8dbe9d7d522e83b68c3e36efc893cb554a44f038",
-      "bytes": 155807872
+      "sha256": "076394a9b632e40e46fdc36c56d7837a36ab953fecbe963207084d1769497c1e",
+      "bytes": 3671
+    },
+    {
+      "path": "data/graph/categories.json",
+      "sources": [
+        {
+          "type": "github-release",
+          "repo": "olyaee/shadcn-registry-explorer",
+          "tag": "data-2026-09-28",
+          "asset": "categories.json"
+        }
+      ],
+      "sha256": "eaf269ff8ae2d4cf6f19dcae1d1c2aeefa4119ca920d1e816ba1bd58f5af79ad",
+      "bytes": 143994
+    },
+    {
+      "path": "data/graph/registries.json",
+      "sources": [
+        {
+          "type": "github-release",
+          "repo": "olyaee/shadcn-registry-explorer",
+          "tag": "data-2026-09-28",
+          "asset": "registries.json"
+        }
+      ],
+      "sha256": "e83f02f72a93c2935314b8ea3c24af395a70267cd94b5189eb3b52cfd45a5731",
+      "bytes": 211034
+    },
+    {
+      "path": "data/graph/item_categories.json",
+      "sources": [
+        {
+          "type": "github-release",
+          "repo": "olyaee/shadcn-registry-explorer",
+          "tag": "data-2026-09-28",
+          "asset": "item_categories.json"
+        }
+      ],
+      "sha256": "7fff720e31045846525057d1b53d25da8b8db1efa936c4da699598f2f7d8e2ad",
+      "bytes": 2976717
     },
     {
       "path": "data/embeddings/items.json",
@@ -38,6 +77,19 @@
       ],
       "sha256": "f55e7fc8308fcc5b038f3f1467cd493c55ffe2d4ce098f6bdd7e270e1a172a32",
       "bytes": 38774255
+    },
+    {
+      "path": "data/embeddings/search_vectors_1024.npy",
+      "sources": [
+        {
+          "type": "github-release",
+          "repo": "olyaee/shadcn-registry-explorer",
+          "tag": "data-2026-09-28",
+          "asset": "search_vectors_1024.npy"
+        }
+      ],
+      "sha256": "409fe90c8af794609610682d8dbe9d7d522e83b68c3e36efc893cb554a44f038",
+      "bytes": 155807872
     }
   ],
   "version": "2026-09-28"

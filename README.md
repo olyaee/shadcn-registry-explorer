@@ -2,12 +2,18 @@
 
 Find shadcn/ui components for what you're building — 76,162 items from 394 community registries (updated 2026-09-28).
 
+## Install
+
+**As an MCP server** (Claude Code, Cursor, Codex, …; needs [uv](https://docs.astral.sh/uv/)):
+
 ```bash
-git clone https://github.com/olyaee/shadcn-registry-explorer
-echo "OPENAI_API_KEY=sk-..." > shadcn-registry-explorer/.env   # optional, recommended
+claude mcp add shadcn-explorer -s user -e OPENAI_API_KEY=sk-... -- \
+  uvx --from git+https://github.com/olyaee/shadcn-registry-explorer shadcn-explorer-mcp
 ```
 
-Then tell your coding agent: *"Look in ./shadcn-registry-explorer for components to build a fairness dashboard."* It returns install commands and doc links for every UI piece ([`AGENTS.md`](AGENTS.md)). Or search yourself: `./find "grouped bar chart"`, `./find graph category "Kanban Board"`.
+Other clients: command `uvx`, args `--from git+https://github.com/olyaee/shadcn-registry-explorer shadcn-explorer-mcp`, env `OPENAI_API_KEY` (optional). Then ask: *"find components to build a fairness dashboard"*. Data (~260 MB) downloads in the background on first start.
+
+**Or clone** and point any agent at the folder ([`AGENTS.md`](AGENTS.md)), or search yourself: `./find "grouped bar chart"`, `./find graph category "Kanban Board"`.
 
 ## How it works
 
