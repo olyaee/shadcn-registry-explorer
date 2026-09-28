@@ -63,7 +63,6 @@
   <text class="t" x="135" y="138" text-anchor="middle">shadcn directory</text>
   <text class="d" x="135" y="159" text-anchor="middle">394 community registries</text>
   <path class="arrow" marker-end="url(#a)" d="M230,144 L273,144"/>
-  <text class="e" x="251" y="134" text-anchor="middle">MCP</text>
 
   <!-- pipeline -->
   <rect class="box" filter="url(#sh)" x="276" y="100" width="274" height="282" rx="10"/>
@@ -91,6 +90,10 @@
   <text class="m" x="490" y="476">release</text>
   <text class="d" x="490" y="493">catalogue, graph, vectors</text>
 
+  <!-- install (crosses the line) -->
+  <path class="arrow accent" marker-end="url(#b)" d="M620,420 L620,212 Q620,200 632,200 L782,200"/>
+  <text class="e accent" x="630" y="318">uvx install</text>
+
   <!-- first run (crosses the line) -->
   <path class="arrow accent" marker-end="url(#b)" d="M696,462 L782,462"/>
   <text class="e accent" x="721" y="452" text-anchor="middle">first run</text>
@@ -106,8 +109,8 @@
 
   <!-- find -->
   <rect class="box" filter="url(#sh)" x="784" y="100" width="246" height="190" rx="10"/>
-  <text class="t" x="804" y="130">Search</text>
-  <text class="m" x="804" y="150">MCP server · ./find</text>
+  <text class="t" x="804" y="130">MCP server</text>
+  <text class="m" x="804" y="150">or the ./find CLI</text>
   <line x1="804" y1="166" x2="1010" y2="166" stroke="#e4e4e7"/>
   <text class="s" x="804" y="192">Hybrid search</text>
   <text class="d" x="804" y="210">meaning + keywords, fused</text>
@@ -119,7 +122,7 @@
   <text class="t" x="1194" y="138" text-anchor="middle">Your agent</text>
   <text class="d" x="1194" y="159" text-anchor="middle">Claude Code · Cursor · Codex</text>
   <path class="arrow" marker-end="url(#a)" d="M1110,130 L1032,130"/>
-  <text class="e" x="1080" y="121" text-anchor="middle">brief</text>
+  <text class="e" x="1080" y="121" text-anchor="middle">tool calls</text>
   <path class="arrow" marker-end="url(#a)" d="M1030,160 L1108,160"/>
   <text class="e" x="1080" y="178" text-anchor="middle">shortlist</text>
 
@@ -129,9 +132,9 @@
   <text class="d" x="1194" y="273" text-anchor="middle">optional · embeds the query</text>
   <path class="arrow dash" marker-end="url(#a)" d="M1110,258 L1032,258"/>
 </svg>
-<p class="caption">Everything left of the blue line runs once per refresh and is published to GitHub; everything right of it
-runs on your machine. The MCP server (or <code>./find</code>) downloads the data on first run, then searches locally — only your query
-text leaves the machine, and only if you add an OpenAI key.</p>
+<p class="caption">Left of the blue line runs once per refresh and is published to GitHub; right of it runs on your
+machine. One <code>uvx</code> command installs the MCP server, which downloads the data on first run and then searches
+locally — only your query text leaves the machine, and only if you add an OpenAI key.</p>
 </div>
 </body>
 </html>
