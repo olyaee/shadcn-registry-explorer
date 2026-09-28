@@ -11,6 +11,22 @@ Give your coding agent this repo's path and the feature you're building — or s
 ./find graph category "Kanban Board"
 ```
 
+## How it works
+
+Every registry in the shadcn directory is harvested through the shadcn MCP, each item gets an LLM-written description and tags, and everything is embedded into a search index. Your agent splits the feature into UI pieces and `./find` ranks the catalogue for each piece by meaning *and* keywords.
+
+```mermaid
+flowchart LR
+  A[shadcn directory<br/>394 registries] -->|shadcn MCP| B[76k items]
+  B -->|LLM: descriptions, tags| C[catalogue]
+  C -->|embeddings| D[search index]
+  E[your agent + feature brief] -->|./find| F[hybrid search<br/>meaning + keywords]
+  D --> F
+  F --> G[shortlist: install command + doc link]
+```
+
+**Why an OpenAI key:** your search text is embedded (`text-embedding-3-large`, a fraction of a cent per search) so it can be matched by meaning — "billing toggle" finds a "monthly/annual switch". Put `OPENAI_API_KEY=...` in `.env`; without it, search falls back to keyword matching.
+
 Data: `data/registries.enriched.json` (downloaded by `./find` / `scripts/fetch_data.py`) · last refresh: [`MCP_REFRESH_REPORT.md`](MCP_REFRESH_REPORT.md).
 
 Code: [MIT](LICENSE). Components and their metadata belong to each registry's authors.
